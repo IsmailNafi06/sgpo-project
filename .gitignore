@@ -1,0 +1,28 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java / Maven
+backend/target/
+*.class
+*.jar
+!backend/src/**
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environnement & secrets
+.env
+.env.local
+*.env
+
+# Fichiers temporaires
+temp_*.csv
+temp_*.json
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

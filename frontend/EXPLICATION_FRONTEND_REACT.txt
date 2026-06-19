@@ -1,0 +1,262 @@
+EXPLICATION DU FRONTEND REACT - E-TAWJIHI.MA
+
+1. Idee generale
+
+Le frontend est l'interface visible par l'utilisateur. Il ne calcule pas tout seul les parcours principaux: il appelle le backend Spring Boot via axios, puis il nettoie, trie et affiche les resultats pour l'eleve.
+
+Le backend tourne sur http://localhost:8081.
+Le frontend tourne generalement sur http://localhost:5173.
+
+2. Structure importante du projet
+
+frontend/
+- package.json: liste les dependances React, Vite, axios, react-router-dom, Tailwind.
+- vite.config.js: configuration Vite, avec proxy vers le backend.
+- src/main.jsx: point d'entree React. Il monte l'application dans la page HTML.
+- src/App.jsx: definit les routes principales.
+- src/pages/: contient les pages.
+- src/components/: contient les blocs reutilisables.
+- src/services/api.js: contient tous les appels axios vers le backend.
+- src/utils/pathUtils.js: contient les regles de nettoyage, tri et coherence des parcours.
+- src/data/: contient des donnees locales de secours, notamment les metiers pour l'autocompletion.
+- src/index.css: styles globaux Tailwind et classes communes.
+
+3. Les routes de l'application
+
+Le routage est gere par react-router-dom.
+
+Routes principales:
+- / : page d'accueil.
+- /eleve : formulaire de recherche et resultats.
+- /admin : espace administration.
+- /shared/:token : affichage d'un parcours partage.
+
+Dans React, une route veut dire: quand l'URL change, on affiche un composant different sans recharger toute la page.
+
+4. Page eleve
+
+Le fichier principal est src/pages/StudentPage.jsx.
+
+Cette page gere:
+- le niveau: 3AC, TC, 1BAC, 2BAC;
+- la serie du bac quand elle est utile;
+- le metier souhaite avec suggestions;
+- la moyenne;
+- la mobilite: libre, region, ville;
+- les filtres avances;
+- les resultats sous forme de cartes;
+- la comparaison de parcours;
+- l'ouverture de la modale de detail.
+
+Quand l'utilisateur clique sur "Trouver mes parcours":
+1. Le frontend verifie que le metier est bien choisi.
+2. Il construit un payload de recherche.
+3. Il appelle POST /api/parcours/generate.
+4. Il attend jusqu'a 120 secondes.
+5. Il nettoie les resultats.
+6. Il affiche seulement les parcours coherents.
+
+5. Autocompletion des metiers
+
+Le frontend charge les metiers depuis l'API:
+GET /api/admin/nodes
+
+Si l'API ne repond pas, il utilise une liste locale dans src/data/backendMetiers.js.
+
+L'objectif est qu'un eleve puisse taper "data", "medecin", "comptable", etc. sans connaitre les codes internes du backend.
+
+6. Nettoyage des parcours
+
+Le fichier le plus important pour la qualite des resultats est:
+src/utils/pathUtils.js
+
+Il contient des fonctions qui:
+- lisent les etapes d'un parcours;
+- corrigent les libelles trop techniques;
+- filtrent les chemins incoherents;
+- evitent les doublons;
+- verifient que le metier final correspond au metier demande;
+- verifient la ville quand l'utilisateur choisit une ville precise;
+- trient les resultats par score.
+
+Exemples de regles ajoutees:
+- un master ne doit pas venir directement apres le bac;
+- une licence ne doit pas mener directement a un metier d'ingenieur;
+- BTS, DUT et DEUST durent 2 ans;
+- une licence dure 3 ans;
+- un cycle ingenieur dure 5 ans apres le bac;
+- medecine dure 7 ans;
+- pharmacie et medecine dentaire durent 6 ans;
+- les chemins sans etablissement sont masques quand ils sont trop incomplets;
+- les parcours hors ville demandee sont filtres quand la mobilite est "Ville".
+
+7. Cartes de parcours
+
+Les resultats sont affiches par src/components/PathCard.jsx.
+
+Chaque carte montre:
+- le score;
+- les etapes du parcours;
+- les formations;
+- l'etablissement;
+- le metier vise;
+- la duree totale;
+- le cout estime;
+- le nombre d'etapes;
+- un bouton "Voir le detail";
+- une case pour comparer.
+
+Les cartes ne doivent pas montrer des codes de developpeur comme SCRAPE_..., UUID, ou identifiants backend. Ces valeurs sont nettoyees avant affichage.
+
+8. Detail du parcours
+
+La modale est dans src/components/PathDetailModal.jsx.
+
+Elle affiche:
+- les etapes detaillees;
+- la duree;
+- la ville;
+- le type d'acces;
+- la moyenne minimale si elle existe;
+- le taux de reussite si disponible;
+- l'interpretation IA;
+- les boutons exporter, partager, fermer.
+
+9. Partage et export PDF
+
+Partager appelle:
+POST /api/parcours/share
+
+Exporter appelle:
+POST /api/parcours/export
+
+Si le backend ne cree pas de lien de partage, le frontend peut generer un lien local temporaire pour le navigateur. Mais pour une vraie version livrable, le backend doit enregistrer le partage en base et GET /api/parcours/shared/{token} doit retrouver ce parcours.
+
+10. Page admin
+
+La page admin est dans src/pages/AdminPage.jsx.
+
+Elle gere:
+- connexion admin;
+- stockage du token JWT dans localStorage;
+- envoi du token dans le header Authorization;
+- dashboard;
+- gestion des noeuds;
+- gestion des transitions;
+- CSV.
+
+Les tableaux sont dans src/components/AdminTable.jsx.
+
+11. API axios
+
+Le fichier src/services/api.js centralise les appels HTTP.
+
+Le token admin est ajoute automatiquement:
+Authorization: Bearer <token>
+
+Le timeout de recherche est de 120 secondes pour eviter que le frontend abandonne trop vite pendant les grands calculs de parcours.
+
+12. Tailwind CSS
+
+Tailwind permet d'ecrire des classes CSS directement dans le JSX.
+
+Exemple:
+className="primary-btn"
+
+Les classes communes comme primary-btn, secondary-btn, field, card sont definies dans src/index.css.
+
+13. Ce qui a ete fait
+
+J'ai mis en place:
+- une page d'accueil moderne inspiree des couleurs E-Tawjihi;
+- une page eleve responsive;
+- l'autocompletion metier;
+- l'appel au backend avec axios;
+- les cartes de parcours;
+- la comparaison;
+- la modale de detail;
+- le partage;
+- l'export PDF;
+- l'espace admin;
+- les tableaux CRUD;
+- les filtres de coherence cote frontend;
+- le tri par score;
+- la gestion ville/mobilite;
+- un timeout de 120 secondes pour les recherches longues;
+- le nettoyage des libelles techniques;
+- la correction de "Sciences Experimentales" en libelles plus precis PC / SVT;
+- des donnees enrichies et des scripts d'audit dans tools/.
+
+14. Point tres important: JSON backend et MySQL
+
+Les fichiers JSON dans backend/src/main/resources/data sont les donnees source.
+
+Mais si le backend utilise MySQL, modifier les JSON ne change pas automatiquement la base deja importee.
+
+Apres une correction des JSON, il faut relancer l'import backend pour que MySQL prenne les nouvelles donnees.
+
+Si le frontend affiche encore une ancienne incoherence apres correction, les causes les plus probables sont:
+- le backend tourne avec une ancienne base MySQL;
+- l'import initial n'a pas ete relance;
+- le navigateur garde une ancienne page;
+- le backend n'a pas redemarre;
+- une recherche tres lourde prend encore du temps.
+
+15. Commandes utiles
+
+Lancer le frontend:
+npm run dev
+
+Lancer avec un port precis:
+npm run dev -- --host 127.0.0.1 --port 5173
+
+Arreter le frontend:
+Ctrl + C dans le terminal qui l'a lance.
+
+Verifier le frontend:
+npm run lint
+npm run build
+
+16. Ce qu'il faut comprendre pour modifier React
+
+React fonctionne avec des composants.
+
+Un composant est une fonction JavaScript qui retourne du JSX.
+Le JSX ressemble a du HTML, mais c'est du JavaScript.
+
+Un etat React se declare avec useState.
+Quand l'etat change, React reaffiche automatiquement la partie concernee.
+
+Un effet se declare avec useEffect.
+Il sert souvent a charger des donnees au demarrage d'une page.
+
+Un formulaire React lit les valeurs depuis l'etat.
+Quand l'utilisateur tape, on met a jour l'etat.
+Quand il clique sur le bouton, on appelle une fonction.
+
+17. Ce qu'il faut surveiller dans ce projet
+
+Si tu ajoutes des donnees:
+- eviter les codes visibles dans le front;
+- eviter les doublons;
+- verifier les durees;
+- verifier les villes;
+- verifier qu'une formation est offerte par le bon etablissement;
+- verifier qu'un metier correspond vraiment a la formation;
+- reimporter MySQL apres changement JSON.
+
+Si tu changes le design:
+- commencer par src/index.css;
+- regarder les composants dans src/components;
+- garder les boutons, cartes et champs coherents.
+
+Si tu changes les appels API:
+- modifier src/services/api.js;
+- verifier le backend README;
+- verifier le proxy Vite si necessaire.
+
+18. Limite importante
+
+Les seuils de moyenne minimale changent selon les annees, les concours, les regions et les decisions officielles. Dans l'application, les seuils ajoutes sont des seuils indicatifs pour aider l'orientation, pas des garanties d'admission.
+
+Pour une version officielle, il faut importer les seuils exacts de l'annee courante depuis les sources officielles ou les fichiers concours publies.

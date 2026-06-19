@@ -1,0 +1,44 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#FBFDFD"/>
+  <circle cx="1230" cy="120" r="260" fill="#EAF8F1"/>
+  <circle cx="112" cy="758" r="220" fill="#EEF3FF"/>
+  <circle cx="1220" cy="120" r="138" stroke="#34D399" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1220" cy="120" r="88" stroke="#3246B5" stroke-opacity="0.12" stroke-width="2"/>
+  <circle cx="172" cy="720" r="118" stroke="#3246B5" stroke-opacity="0.1" stroke-width="2"/>
+  <path d="M770 140C880 68 1004 70 1105 150C1192 218 1271 226 1360 172" stroke="#3246B5" stroke-opacity="0.12" stroke-width="5" stroke-linecap="round" stroke-dasharray="14 20"/>
+  <path d="M60 618C178 558 312 570 420 650C524 727 654 742 780 665" stroke="#34D399" stroke-opacity="0.16" stroke-width="5" stroke-linecap="round" stroke-dasharray="12 18"/>
+  <path d="M1010 735C1110 668 1220 662 1328 720" stroke="#3246B5" stroke-opacity="0.1" stroke-width="4" stroke-linecap="round"/>
+  <g opacity="0.13" stroke="#3246B5" stroke-width="3" stroke-linecap="round">
+    <path d="M1158 252h54"/>
+    <path d="M1185 225v54"/>
+    <path d="M1168 235l34 34"/>
+    <path d="M1202 235l-34 34"/>
+  </g>
+  <g opacity="0.16" stroke="#34D399" stroke-width="3" stroke-linecap="round">
+    <path d="M250 160h46"/>
+    <path d="M273 137v46"/>
+    <path d="M258 145l30 30"/>
+    <path d="M288 145l-30 30"/>
+  </g>
+  <g opacity="0.12" fill="#3246B5">
+    <circle cx="935" cy="278" r="7"/>
+    <circle cx="972" cy="302" r="5"/>
+    <circle cx="1010" cy="326" r="6"/>
+    <circle cx="1048" cy="350" r="5"/>
+    <circle cx="1086" cy="374" r="7"/>
+  </g>
+  <g opacity="0.16" fill="#34D399">
+    <circle cx="278" cy="704" r="7"/>
+    <circle cx="316" cy="730" r="5"/>
+    <circle cx="354" cy="756" r="6"/>
+    <circle cx="392" cy="782" r="5"/>
+  </g>
+  <g opacity="0.12" stroke="#3246B5" stroke-width="2">
+    <rect x="1040" y="492" width="82" height="82" rx="22"/>
+    <rect x="1118" y="530" width="54" height="54" rx="16"/>
+    <rect x="210" y="328" width="78" height="78" rx="22"/>
+    <rect x="135" y="388" width="46" height="46" rx="14"/>
+  </g>
+  <path d="M116 246C190 202 264 210 326 258C392 310 472 320 546 282" stroke="#34D399" stroke-opacity="0.13" stroke-width="4" stroke-linecap="round"/>
+  <path d="M840 548C908 512 982 518 1042 562C1098 603 1168 612 1232 580" stroke="#3246B5" stroke-opacity="0.1" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,2421 @@
+{
+  "summary": {
+    "checked": 300,
+    "exact": 300,
+    "near": 0,
+    "missing": 0,
+    "withRecruitment": 300,
+    "withJourney": 300
+  },
+  "missing": [],
+  "near": [],
+  "noJourney": [],
+  "lowCoverage": [
+    {
+      "requested": "Psychologue",
+      "aliases": [
+        "Psychologue clinicien"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PSYCHOLOGUE",
+        "nom_fr": "Psychologue",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Veterinaire",
+      "aliases": [
+        "Docteur veterinaire"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "VETERINAIRE",
+        "nom_fr": "Veterinaire",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Aide soignant",
+      "aliases": [
+        "Auxiliaire de soins"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AIDE_SOIGNANT",
+        "nom_fr": "Aide soignant",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Ambulancier",
+      "aliases": [
+        "Conducteur ambulancier"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AMBULANCIER",
+        "nom_fr": "Ambulancier",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Preparateur en pharmacie",
+      "aliases": [
+        "Assistant pharmacie"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PREPARATEUR_EN_PHARMACIE",
+        "nom_fr": "Preparateur en pharmacie",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Orthophoniste",
+      "aliases": [
+        "Logopediste"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ORTHOPHONISTE",
+        "nom_fr": "Orthophoniste",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Psychomotricien",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PSYCHOMOTRICIEN",
+        "nom_fr": "Psychomotricien",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Nutritionniste",
+      "aliases": [
+        "Dieteticien"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "NUTRITIONNISTE",
+        "nom_fr": "Nutritionniste",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Opticien lunetier",
+      "aliases": [
+        "Opticien"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "OPTICIEN_LUNETIER",
+        "nom_fr": "Opticien lunetier",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Prothesiste dentaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PROTHESISTE_DENTAIRE",
+        "nom_fr": "Prothesiste dentaire",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Assistant dentaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ASSISTANT_DENTAIRE",
+        "nom_fr": "Assistant dentaire",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Architecte logiciel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ARCHITECTE_LOGICIEL",
+        "nom_fr": "Architecte Logiciel",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Architecte cloud",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ARCHITECTE_CLOUD",
+        "nom_fr": "Architecte Cloud",
+        "secteur": "Metiers de l'informatique et systeme d'information"
+      }
+    },
+    {
+      "requested": "Analyste SOC",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ANALYSTE_SOC",
+        "nom_fr": "Analyste SOC",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Developpeur jeux video",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DEVELOPPEUR_JEUX_VIDEO",
+        "nom_fr": "Developpeur jeux video",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Product owner",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PRODUCT_OWNER",
+        "nom_fr": "Product owner",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Scrum master",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "SCRUM_MASTER",
+        "nom_fr": "Scrum master",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Fiscaliste",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "FISCALISTE",
+        "nom_fr": "Fiscaliste",
+        "secteur": "Metiers de droit et de la justice"
+      }
+    },
+    {
+      "requested": "Tresorier",
+      "aliases": [
+        "Gestionnaire tresorerie"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TRESORIER",
+        "nom_fr": "Tresorier",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Credit manager",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CREDIT_MANAGER",
+        "nom_fr": "Credit manager",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Agent d assurance",
+      "aliases": [
+        "Conseiller assurance"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_D_ASSURANCE",
+        "nom_fr": "Agent d assurance",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Courtier en assurance",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "COURTIER_EN_ASSURANCE",
+        "nom_fr": "Courtier en assurance",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Guichetier bancaire",
+      "aliases": [
+        "Agent bancaire"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GUICHETIER_BANCAIRE",
+        "nom_fr": "Guichetier bancaire",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Huissier de justice",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "HUISSIER_DE_JUSTICE",
+        "nom_fr": "Huissier de justice",
+        "secteur": "Droit et administration"
+      }
+    },
+    {
+      "requested": "Magistrat",
+      "aliases": [
+        "Juge"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MAGISTRAT",
+        "nom_fr": "Magistrat",
+        "secteur": "Droit et administration"
+      }
+    },
+    {
+      "requested": "Greffier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GREFFIER",
+        "nom_fr": "Greffier",
+        "secteur": "Droit et administration"
+      }
+    },
+    {
+      "requested": "Conseiller juridique",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSEILLER_JURIDIQUE",
+        "nom_fr": "Conseiller juridique",
+        "secteur": "Droit et administration"
+      }
+    },
+    {
+      "requested": "Fiscaliste juridique",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "FISCALISTE_JURIDIQUE",
+        "nom_fr": "Fiscaliste juridique",
+        "secteur": "Droit et administration"
+      }
+    },
+    {
+      "requested": "Vendeur",
+      "aliases": [
+        "Conseiller de vente"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "VENDEUR",
+        "nom_fr": "Vendeur",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Chef de rayon",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHEF_DE_RAYON",
+        "nom_fr": "Chef de rayon",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Responsable magasin",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_MAGASIN",
+        "nom_fr": "Responsable magasin",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Teleconseiller",
+      "aliases": [
+        "Conseiller client"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TELECONSEILLER",
+        "nom_fr": "Teleconseiller",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Charge de clientele",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHARGE_DE_CLIENTELE",
+        "nom_fr": "Charge de clientele",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Assistant de direction",
+      "aliases": [
+        "Secretaire de direction"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ASSISTANT_DE_DIRECTION",
+        "nom_fr": "Assistant de direction",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Secretaire bureautique",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "SECRETAIRE_BUREAUTIQUE",
+        "nom_fr": "Secretaire bureautique",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Office manager",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "OFFICE_MANAGER",
+        "nom_fr": "Office manager",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Agent immobilier",
+      "aliases": [
+        "Conseiller immobilier"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_IMMOBILIER",
+        "nom_fr": "Agent immobilier",
+        "secteur": "Commerce"
+      }
+    },
+    {
+      "requested": "Gestionnaire de copropriete",
+      "aliases": [
+        "Syndic"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GESTIONNAIRE_DE_COPROPRIETE",
+        "nom_fr": "Gestionnaire de copropriete",
+        "secteur": "Immobilier"
+      }
+    },
+    {
+      "requested": "Architecte d interieur",
+      "aliases": [
+        "Decorateur interieur"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ARCHITECTE_INTERIEUR",
+        "nom_fr": "Architecte d interieur",
+        "secteur": "Architecture et design"
+      }
+    },
+    {
+      "requested": "Ingenieur automobile",
+      "aliases": [
+        "Genie automobile"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_AUTOMOBILE",
+        "nom_fr": "Ingenieur automobile",
+        "secteur": "Industrie automobile"
+      }
+    },
+    {
+      "requested": "Ingenieur aeronautique",
+      "aliases": [
+        "Genie aeronautique"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_AERONAUTIQUE",
+        "nom_fr": "Ingenieur aeronautique",
+        "secteur": "Aeronautique"
+      }
+    },
+    {
+      "requested": "Ingenieur energies renouvelables",
+      "aliases": [
+        "Ingenieur energie solaire"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_ENERGIES_RENOUVELABLES",
+        "nom_fr": "Ingenieur energies renouvelables",
+        "secteur": "Ingenierie"
+      }
+    },
+    {
+      "requested": "Ingenieur agronome",
+      "aliases": [
+        "Agronome"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_AGRONOME",
+        "nom_fr": "Ingenieur agronome",
+        "secteur": "Agronomie"
+      }
+    },
+    {
+      "requested": "Technicien genie civil",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_GENIE_CIVIL",
+        "nom_fr": "Technicien genie civil",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Technicien topographe",
+      "aliases": [
+        "Geometre topographe"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_TOPOGRAPHE",
+        "nom_fr": "Technicien topographe",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Metreur",
+      "aliases": [
+        "Economiste de la construction"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "METREUR",
+        "nom_fr": "Metreur",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Dessinateur projeteur",
+      "aliases": [
+        "Dessin batiment"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DESSINATEUR_PROJETEUR",
+        "nom_fr": "Dessinateur projeteur",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Conducteur d engins BTP",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONDUCTEUR_D_ENGINS_BTP",
+        "nom_fr": "Conducteur d engins BTP",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Chef de chantier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHEF_DE_CHANTIER",
+        "nom_fr": "Chef de chantier",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Plombier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PLOMBIER",
+        "nom_fr": "Plombier",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Menuisier aluminium",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MENUISIER_ALUMINIUM",
+        "nom_fr": "Menuisier aluminium",
+        "secteur": "BTP"
+      }
+    },
+    {
+      "requested": "Chaudronnier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHAUDRONNIER",
+        "nom_fr": "Chaudronnier",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Tourneur fraiseur",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TOURNEUR_FRAISEUR",
+        "nom_fr": "Tourneur fraiseur",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Technicien methodes",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_METHODES",
+        "nom_fr": "Technicien methodes",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Technicien production",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_PRODUCTION",
+        "nom_fr": "Technicien production",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Automaticien",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AUTOMATICIEN",
+        "nom_fr": "Automaticien",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Electromecanicien",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ELECTROMECANICIEN",
+        "nom_fr": "Electromecanicien",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Mecatronicien",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MECATRONICIEN",
+        "nom_fr": "Mecatronicien",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Technicien textile",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_TEXTILE",
+        "nom_fr": "Technicien textile",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Operateur machine",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "OPERATEUR_MACHINE",
+        "nom_fr": "Operateur machine",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Ingenieur process",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_PROCESS",
+        "nom_fr": "Ingenieur process",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Ingenieur qualite",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_QUALITE",
+        "nom_fr": "Ingenieur qualite",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Ingenieur HSE",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_HSE",
+        "nom_fr": "Ingenieur HSE",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Ingenieur environnement",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_ENVIRONNEMENT",
+        "nom_fr": "Ingenieur environnement",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Technicien environnement",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_ENVIRONNEMENT",
+        "nom_fr": "Technicien environnement",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Technicien traitement des eaux",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_TRAITEMENT_DES_EAUX",
+        "nom_fr": "Technicien traitement des eaux",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Technicien energie solaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_ENERGIE_SOLAIRE",
+        "nom_fr": "Technicien energie solaire",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Installateur panneaux solaires",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INSTALLATEUR_PANNEAUX_SOLAIRES",
+        "nom_fr": "Installateur panneaux solaires",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Professeur universitaire",
+      "aliases": [
+        "Enseignant chercheur"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PROFESSEUR_UNIVERSITAIRE",
+        "nom_fr": "Professeur universitaire",
+        "secteur": "Education superieure"
+      }
+    },
+    {
+      "requested": "Educateur specialise",
+      "aliases": [
+        "Educatrice specialisee"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "EDUCATEUR_SPECIALISE",
+        "nom_fr": "Educateur specialise",
+        "secteur": "Social"
+      }
+    },
+    {
+      "requested": "Traducteur interprete",
+      "aliases": [
+        "Traducteur"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TRADUCTEUR_INTERPRETE",
+        "nom_fr": "Traducteur interprete",
+        "secteur": "Langues"
+      }
+    },
+    {
+      "requested": "Producteur audiovisuel",
+      "aliases": [
+        "Audiovisuel"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PRODUCTEUR_AUDIOVISUEL",
+        "nom_fr": "Producteur audiovisuel",
+        "secteur": "Audiovisuel"
+      }
+    },
+    {
+      "requested": "Guide touristique",
+      "aliases": [
+        "Guide de tourisme"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GUIDE_TOURISTIQUE",
+        "nom_fr": "Guide touristique",
+        "secteur": "Tourisme"
+      }
+    },
+    {
+      "requested": "Hotesse de l air steward",
+      "aliases": [
+        "Personnel navigant commercial"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PERSONNEL_NAVIGANT_COMMERCIAL",
+        "nom_fr": "Hotesse de l air steward",
+        "secteur": "Aeronautique"
+      }
+    },
+    {
+      "requested": "Policier",
+      "aliases": [
+        "Police"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "POLICIER",
+        "nom_fr": "Policier",
+        "secteur": "Securite publique"
+      }
+    },
+    {
+      "requested": "Gendarme",
+      "aliases": [
+        "Gendarmerie"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GENDARME",
+        "nom_fr": "Gendarme",
+        "secteur": "Securite publique"
+      }
+    },
+    {
+      "requested": "Officier militaire",
+      "aliases": [
+        "Militaire"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "OFFICIER_MILITAIRE",
+        "nom_fr": "Officier militaire",
+        "secteur": "Defense"
+      }
+    },
+    {
+      "requested": "Douanier",
+      "aliases": [
+        "Inspecteur des douanes"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DOUANIER",
+        "nom_fr": "Douanier",
+        "secteur": "Administration publique"
+      }
+    },
+    {
+      "requested": "Pompier",
+      "aliases": [
+        "Protection civile"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "POMPIER",
+        "nom_fr": "Pompier",
+        "secteur": "Protection civile"
+      }
+    },
+    {
+      "requested": "Assistant social",
+      "aliases": [
+        "Travailleur social"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ASSISTANT_SOCIAL",
+        "nom_fr": "Assistant social",
+        "secteur": "Social"
+      }
+    },
+    {
+      "requested": "Educateur sportif",
+      "aliases": [
+        "Coach sportif"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "EDUCATEUR_SPORTIF",
+        "nom_fr": "Educateur sportif",
+        "secteur": "Sport"
+      }
+    },
+    {
+      "requested": "Professeur de langues",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PROFESSEUR_DE_LANGUES",
+        "nom_fr": "Professeur de langues",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Conseiller d orientation",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSEILLER_D_ORIENTATION",
+        "nom_fr": "Conseiller d orientation",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Formateur professionnel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "FORMATEUR_PROFESSIONNEL",
+        "nom_fr": "Formateur professionnel",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Bibliothecaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "BIBLIOTHECAIRE",
+        "nom_fr": "Bibliothecaire",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Archiviste",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ARCHIVISTE",
+        "nom_fr": "Archiviste",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Documentaliste",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DOCUMENTALISTE",
+        "nom_fr": "Documentaliste",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Animateur socioculturel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ANIMATEUR_SOCIOCULTUREL",
+        "nom_fr": "Animateur socioculturel",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Moniteur auto ecole",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MONITEUR_AUTO_ECOLE",
+        "nom_fr": "Moniteur auto ecole",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Assistant pedagogique",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ASSISTANT_PEDAGOGIQUE",
+        "nom_fr": "Assistant pedagogique",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Coach scolaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "COACH_SCOLAIRE",
+        "nom_fr": "Coach scolaire",
+        "secteur": "Education et culture"
+      }
+    },
+    {
+      "requested": "Technicien audiovisuel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_AUDIOVISUEL",
+        "nom_fr": "Technicien audiovisuel",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Regisseur son",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "REGISSEUR_SON",
+        "nom_fr": "Regisseur son",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Regisseur lumiere",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "REGISSEUR_LUMIERE",
+        "nom_fr": "Regisseur lumiere",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Designer produit",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DESIGNER_PRODUIT",
+        "nom_fr": "Designer produit",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Coiffeur",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "COIFFEUR",
+        "nom_fr": "Coiffeur",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Estheticienne",
+      "aliases": [
+        "Estheticien"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ESTHETICIENNE",
+        "nom_fr": "Estheticienne",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Maquilleur professionnel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MAQUILLEUR_PROFESSIONNEL",
+        "nom_fr": "Maquilleur professionnel",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Patissier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PATISSIER",
+        "nom_fr": "Patissier",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Boulanger",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "BOULANGER",
+        "nom_fr": "Boulanger",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Boucher",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "BOUCHER",
+        "nom_fr": "Boucher",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Serveur restaurant",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "SERVEUR_RESTAURANT",
+        "nom_fr": "Serveur restaurant",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Barman",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "BARMAN",
+        "nom_fr": "Barman",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Agent de voyage",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_DE_VOYAGE",
+        "nom_fr": "Agent de voyage",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Agent d escale",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_D_ESCALE",
+        "nom_fr": "Agent d escale",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Agent de reservation",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_DE_RESERVATION",
+        "nom_fr": "Agent de reservation",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Steward maritime",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "STEWARD_MARITIME",
+        "nom_fr": "Steward maritime",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Responsable restauration",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_RESTAURATION",
+        "nom_fr": "Responsable restauration",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Gouvernante hotel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GOUVERNANTE_HOTEL",
+        "nom_fr": "Gouvernante hotel",
+        "secteur": "Hotellerie tourisme et restauration"
+      }
+    },
+    {
+      "requested": "Agent securite",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_SECURITE",
+        "nom_fr": "Agent securite",
+        "secteur": "Services"
+      }
+    },
+    {
+      "requested": "Agent de nettoyage",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_DE_NETTOYAGE",
+        "nom_fr": "Agent de nettoyage",
+        "secteur": "Services"
+      }
+    },
+    {
+      "requested": "Agent de maintenance batiment",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_DE_MAINTENANCE_BATIMENT",
+        "nom_fr": "Agent de maintenance batiment",
+        "secteur": "Services"
+      }
+    },
+    {
+      "requested": "Agriculteur",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGRICULTEUR",
+        "nom_fr": "Agriculteur",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Technicien agricole",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_AGRICOLE",
+        "nom_fr": "Technicien agricole",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Eleveur",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ELEVEUR",
+        "nom_fr": "Eleveur",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Technicien irrigation",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_IRRIGATION",
+        "nom_fr": "Technicien irrigation",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Technicien horticulture",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_HORTICULTURE",
+        "nom_fr": "Technicien horticulture",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Technicien peche maritime",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_PECHE_MARITIME",
+        "nom_fr": "Technicien peche maritime",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Technicien aquaculture",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_AQUACULTURE",
+        "nom_fr": "Technicien aquaculture",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Responsable exploitation agricole",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_EXPLOITATION_AGRICOLE",
+        "nom_fr": "Responsable exploitation agricole",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Veterinaire rural",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "VETERINAIRE_RURAL",
+        "nom_fr": "Veterinaire rural",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Technicien forestier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_FORESTIER",
+        "nom_fr": "Technicien forestier",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Commercial agricole",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "COMMERCIAL_AGRICOLE",
+        "nom_fr": "Commercial agricole",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Responsable laboratoire agroalimentaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_LABORATOIRE_AGROALIMENTAIRE",
+        "nom_fr": "Responsable laboratoire agroalimentaire",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Technicien controle qualite alimentaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_CONTROLE_QUALITE_ALIMENTAIRE",
+        "nom_fr": "Technicien controle qualite alimentaire",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Responsable achats agricoles",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_ACHATS_AGRICOLES",
+        "nom_fr": "Responsable achats agricoles",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Consultant agricole",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSULTANT_AGRICOLE",
+        "nom_fr": "Consultant agricole",
+        "secteur": "Agriculture agroalimentaire et peche"
+      }
+    },
+    {
+      "requested": "Ingenieur hydraulique",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_HYDRAULIQUE",
+        "nom_fr": "Ingenieur hydraulique",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Ingenieur mines",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_MINES",
+        "nom_fr": "Ingenieur mines",
+        "secteur": "Mines et geologie"
+      }
+    },
+    {
+      "requested": "Technicien mines",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_MINES",
+        "nom_fr": "Technicien mines",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Technicien geologie",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_GEOLOGIE",
+        "nom_fr": "Technicien geologie",
+        "secteur": "Environnement et energies"
+      }
+    },
+    {
+      "requested": "Gestionnaire transport",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GESTIONNAIRE_TRANSPORT",
+        "nom_fr": "Gestionnaire transport",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Chauffeur livreur",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHAUFFEUR_LIVREUR",
+        "nom_fr": "Chauffeur livreur",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Chauffeur poids lourd",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHAUFFEUR_POIDS_LOURD",
+        "nom_fr": "Chauffeur poids lourd",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Conducteur bus",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONDUCTEUR_BUS",
+        "nom_fr": "Conducteur bus",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Declarant en douane",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DECLARANT_EN_DOUANE",
+        "nom_fr": "Declarant en douane",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Transitaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TRANSITAIRE",
+        "nom_fr": "Transitaire",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Agent maritime",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AGENT_MARITIME",
+        "nom_fr": "Agent maritime",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Gestionnaire entrepot",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GESTIONNAIRE_ENTREPOT",
+        "nom_fr": "Gestionnaire entrepot",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Assistant achats",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ASSISTANT_ACHATS",
+        "nom_fr": "Assistant achats",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Merchandiser",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MERCHANDISER",
+        "nom_fr": "Merchandiser",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "E merchandiser",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "E_MERCHANDISER",
+        "nom_fr": "E merchandiser",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Responsable e commerce",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_E_COMMERCE",
+        "nom_fr": "Responsable e commerce",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Traffic manager",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TRAFFIC_MANAGER",
+        "nom_fr": "Traffic manager",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Charge communication",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHARGE_COMMUNICATION",
+        "nom_fr": "Charge communication",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Responsable communication",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_COMMUNICATION",
+        "nom_fr": "Responsable communication",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Attaché de presse",
+      "aliases": [
+        "Attache de presse"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ATTACHE_DE_PRESSE",
+        "nom_fr": "Attache de presse",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Charge evenementiel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHARGE_EVENEMENTIEL",
+        "nom_fr": "Charge evenementiel",
+        "secteur": "Arts communication et services"
+      }
+    },
+    {
+      "requested": "Commercial export",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "COMMERCIAL_EXPORT",
+        "nom_fr": "Commercial export",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Key account manager",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "KEY_ACCOUNT_MANAGER",
+        "nom_fr": "Key account manager",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Customer success manager",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CUSTOMER_SUCCESS_MANAGER",
+        "nom_fr": "Customer success manager",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Responsable relation client",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_RELATION_CLIENT",
+        "nom_fr": "Responsable relation client",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Animateur commercial",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ANIMATEUR_COMMERCIAL",
+        "nom_fr": "Animateur commercial",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Merchandiser visuel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MERCHANDISER_VISUEL",
+        "nom_fr": "Merchandiser visuel",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Courtier immobilier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "COURTIER_IMMOBILIER",
+        "nom_fr": "Courtier immobilier",
+        "secteur": "Immobilier"
+      }
+    },
+    {
+      "requested": "Promoteur immobilier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "PROMOTEUR_IMMOBILIER",
+        "nom_fr": "Promoteur immobilier",
+        "secteur": "Immobilier"
+      }
+    },
+    {
+      "requested": "Gestionnaire locatif",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GESTIONNAIRE_LOCATIF",
+        "nom_fr": "Gestionnaire locatif",
+        "secteur": "Immobilier"
+      }
+    },
+    {
+      "requested": "Administrateur des ventes",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ADMINISTRATEUR_DES_VENTES",
+        "nom_fr": "Administrateur des ventes",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Assistant import export",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ASSISTANT_IMPORT_EXPORT",
+        "nom_fr": "Assistant import export",
+        "secteur": "Logistique et transport"
+      }
+    },
+    {
+      "requested": "Gestionnaire de projet",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GESTIONNAIRE_DE_PROJET",
+        "nom_fr": "Gestionnaire de projet",
+        "secteur": "Commerce et administration"
+      }
+    },
+    {
+      "requested": "Consultant ERP",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSULTANT_ERP",
+        "nom_fr": "Consultant ERP",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Consultant fonctionnel",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSULTANT_FONCTIONNEL",
+        "nom_fr": "Consultant fonctionnel",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Consultant SAP",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSULTANT_SAP",
+        "nom_fr": "Consultant SAP",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Consultant CRM",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSULTANT_CRM",
+        "nom_fr": "Consultant CRM",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Responsable SI",
+      "aliases": [
+        "Directeur systemes information"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_SI",
+        "nom_fr": "Responsable SI",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Chef de projet SI",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CHEF_DE_PROJET_SI",
+        "nom_fr": "Chef de projet SI",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Ingenieur biomedical",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_BIOMEDICAL",
+        "nom_fr": "Ingenieur biomedical",
+        "secteur": "Sante et technologies medicales"
+      }
+    },
+    {
+      "requested": "Technicien biomedical",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_BIOMEDICAL",
+        "nom_fr": "Technicien biomedical",
+        "secteur": "Sante"
+      }
+    },
+    {
+      "requested": "Ingenieur materiaux",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_MATERIAUX",
+        "nom_fr": "Ingenieur materiaux",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Ingenieur chimie industrielle",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_CHIMIE_INDUSTRIELLE",
+        "nom_fr": "Ingenieur chimie industrielle",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Ingenieur petrochimie",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_PETROCHIMIE",
+        "nom_fr": "Ingenieur petrochimie",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Ingenieur plasturgie",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "INGENIEUR_PLASTURGIE",
+        "nom_fr": "Ingenieur plasturgie",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Technicien plasturgie",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_PLASTURGIE",
+        "nom_fr": "Technicien plasturgie",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Technicien laboratoire chimie",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_LABORATOIRE_CHIMIE",
+        "nom_fr": "Technicien laboratoire chimie",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Technicien R&D",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_R_D",
+        "nom_fr": "Technicien R&D",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Technicien metrologie",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TECHNICIEN_METROLOGIE",
+        "nom_fr": "Technicien metrologie",
+        "secteur": "Industrie"
+      }
+    },
+    {
+      "requested": "Responsable securite informatique",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_SECURITE_INFORMATIQUE",
+        "nom_fr": "Responsable securite informatique",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Consultant cybersécurité",
+      "aliases": [
+        "Consultant cybersecurite"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSULTANT_CYBERSECURITE",
+        "nom_fr": "Consultant cybersecurite",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Forensic analyst",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "FORENSIC_ANALYST",
+        "nom_fr": "Forensic analyst",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Data privacy officer",
+      "aliases": [
+        "DPO"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DATA_PRIVACY_OFFICER",
+        "nom_fr": "Data privacy officer",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Risk manager",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RISK_MANAGER",
+        "nom_fr": "Risk manager",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Auditeur SI",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "AUDITEUR_SI",
+        "nom_fr": "Auditeur SI",
+        "secteur": "Informatique"
+      }
+    },
+    {
+      "requested": "Gestionnaire patrimoine",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "GESTIONNAIRE_PATRIMOINE",
+        "nom_fr": "Gestionnaire patrimoine",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Conseiller financier",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSEILLER_FINANCIER",
+        "nom_fr": "Conseiller financier",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Trader",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "TRADER",
+        "nom_fr": "Trader",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Courtier bourse",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "COURTIER_BOURSE",
+        "nom_fr": "Courtier bourse",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Responsable recouvrement",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "RESPONSABLE_RECOUVREMENT",
+        "nom_fr": "Responsable recouvrement",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Conseiller fiscal",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONSEILLER_FISCAL",
+        "nom_fr": "Conseiller fiscal",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Directeur administratif et financier",
+      "aliases": [
+        "DAF"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "DIRECTEUR_ADMINISTRATIF_ET_FINANCIER",
+        "nom_fr": "Directeur administratif et financier",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Controleur interne",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CONTROLEUR_INTERNE",
+        "nom_fr": "Controleur interne",
+        "secteur": "Finance"
+      }
+    },
+    {
+      "requested": "Assistant juridique",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "ASSISTANT_JURIDIQUE",
+        "nom_fr": "Assistant juridique",
+        "secteur": "Droit et administration"
+      }
+    },
+    {
+      "requested": "Clerc de notaire",
+      "aliases": [],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "CLERC_DE_NOTAIRE",
+        "nom_fr": "Clerc de notaire",
+        "secteur": "Droit et administration"
+      }
+    },
+    {
+      "requested": "Médiateur",
+      "aliases": [
+        "Mediateur"
+      ],
+      "status": "exact",
+      "recruitmentPrograms": 1,
+      "hasJourney": true,
+      "match": {
+        "code": "MEDIATEUR",
+        "nom_fr": "Mediateur",
+        "secteur": "Droit et administration"
+      }
+    }
+  ]
+}

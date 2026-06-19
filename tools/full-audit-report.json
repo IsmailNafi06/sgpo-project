@@ -1,0 +1,322 @@
+{
+  "metiersStatus": [
+    {
+      "code": "EXPERT_COMPTABLE",
+      "status": "OK",
+      "recrutement": 2,
+      "total": 2
+    },
+    {
+      "code": "AVOCAT",
+      "status": "OK",
+      "recrutement": 122,
+      "total": 122
+    },
+    {
+      "code": "MEDECIN_GENERALISTE",
+      "status": "OK",
+      "recrutement": 17,
+      "total": 17
+    },
+    {
+      "code": "PHARMACIEN",
+      "status": "OK",
+      "recrutement": 17,
+      "total": 17
+    },
+    {
+      "code": "CHIRURGIEN_DENTISTE",
+      "status": "OK",
+      "recrutement": 5,
+      "total": 5
+    },
+    {
+      "code": "INGENIEUR_GENIE_INFORMATIQUE",
+      "status": "OK",
+      "recrutement": 34,
+      "total": 34
+    },
+    {
+      "code": "DATA_SCIENTIST",
+      "status": "OK",
+      "recrutement": 7,
+      "total": 7
+    },
+    {
+      "code": "DEVELOPPEUR_FULL_STACK",
+      "status": "OK",
+      "recrutement": 264,
+      "total": 264
+    },
+    {
+      "code": "ARCHITECTE",
+      "status": "OK",
+      "recrutement": 15,
+      "total": 15
+    },
+    {
+      "code": "ENSEIGNANT",
+      "status": "OK",
+      "recrutement": 1,
+      "total": 1
+    },
+    {
+      "code": "PILOTE_DE_LIGNE",
+      "status": "OK",
+      "recrutement": 2,
+      "total": 2
+    },
+    {
+      "code": "CONTROLEUR_DE_GESTION",
+      "status": "OK",
+      "recrutement": 21,
+      "total": 21
+    },
+    {
+      "code": "AUDITEUR_FINANCIER",
+      "status": "OK",
+      "recrutement": 84,
+      "total": 84
+    },
+    {
+      "code": "JOURNALISTE",
+      "status": "OK",
+      "recrutement": 32,
+      "total": 32
+    },
+    {
+      "code": "INGENIEUR_CYBERSECURITE",
+      "status": "OK",
+      "recrutement": 27,
+      "total": 27
+    },
+    {
+      "code": "INGENIEUR_AGRONOME",
+      "status": "OK",
+      "recrutement": 1,
+      "total": 1
+    },
+    {
+      "code": "INFIRMIER_POLYVALENT",
+      "status": "OK",
+      "recrutement": 17,
+      "total": 17
+    },
+    {
+      "code": "COMPTABLE",
+      "status": "OK",
+      "recrutement": 80,
+      "total": 80
+    },
+    {
+      "code": "DATA_ENGINEER",
+      "status": "OK",
+      "recrutement": 9,
+      "total": 9
+    },
+    {
+      "code": "ARCHITECTE_CLOUD",
+      "status": "OK",
+      "recrutement": 1,
+      "total": 1
+    },
+    {
+      "code": "ANALYSTE_SOC",
+      "status": "OK",
+      "recrutement": 1,
+      "total": 1
+    },
+    {
+      "code": "DESIGNER",
+      "status": "OK",
+      "recrutement": 6,
+      "total": 6
+    },
+    {
+      "code": "NOTAIRE",
+      "status": "OK",
+      "recrutement": 9,
+      "total": 9
+    },
+    {
+      "code": "MAGISTRAT",
+      "status": "OK",
+      "recrutement": 1,
+      "total": 1
+    },
+    {
+      "code": "VETERINAIRE",
+      "status": "OK",
+      "recrutement": 1,
+      "total": 1
+    },
+    {
+      "code": "KINESITHERAPEUTE",
+      "status": "OK",
+      "recrutement": 9,
+      "total": 9
+    },
+    {
+      "code": "SAGE_FEMME",
+      "status": "OK",
+      "recrutement": 9,
+      "total": 9
+    },
+    {
+      "code": "RESPONSABLE_MARKETING_DIGITAL",
+      "status": "OK",
+      "recrutement": 91,
+      "total": 91
+    },
+    {
+      "code": "DEEP_LEARNING_ENGINEER",
+      "status": "OK",
+      "recrutement": 6,
+      "total": 6
+    },
+    {
+      "code": "ANALYSTE_FINANCIER",
+      "status": "OK",
+      "recrutement": 76,
+      "total": 76
+    },
+    {
+      "code": "PHARMACIEN_INDUSTRIEL",
+      "status": "OK",
+      "recrutement": 14,
+      "total": 14
+    }
+  ],
+  "metiersNoRecruitmentCount": 62,
+  "metiersNoRecruitmentList": [
+    "ANALYSTE_EN_CYBERSANTE",
+    "ANALYSTE_FINANCIER_POUR_LES_PROJETS_DINFRASTRUCTUR",
+    "AQUACULTEUR",
+    "ARCHITECTE_DE_SYSTEMES_DE_PRODUCTION_DHYDROGENE_VE",
+    "ARCHITECTE_EN_CONCEPTION_BIOCLIMATIQUE",
+    "ARCHITECTE_EN_ENERGIES_RENOUVELABLES",
+    "CEREALIER",
+    "CHARGE_DAFFAIRES_DANS_LA_SANTE",
+    "CHEF_DE_PROJET_SUPPLY_CHAIN",
+    "DEVELOPPEUR_DENSEIGNE",
+    "INGENIEUR_BIOMECANIQUE",
+    "INGENIEUR_CVC",
+    "INGENIEUR_DU_SON",
+    "INGENIEUR_E_AERONAUTIQUE",
+    "INGENIEUR_E_CIVIL_E_DE_LA_DEFENSE",
+    "INGENIEUR_E_EN_ANALYSE_DE_LAIR",
+    "INGENIEUR_E_OCEAONOGRAPHE",
+    "INGENIEUR_EN_BIOTECHNOLOGIES_AGRICOLES",
+    "INGENIEUR_EN_PAIEMENT_SECURISE_EN_LIGNE",
+    "INGENIEUR_EN_REALITE_AUGMENTEE",
+    "INGENIEUR_EN_SYSTEMES_DE_STOCKAGE_DENERGIE",
+    "INGENIEUR_PACKAGING",
+    "INGENIEUR_PREVENTIONNISTE_ASSURANCE",
+    "INGENIEUR_STRUCTURE_BOIS",
+    "INGENIEUR_SUPPORT_DES_VENTES",
+    "INGENIEUR_SUPPORT_TELECOM",
+    "MIXEUR",
+    "RESPONSABLE_DE_SUIVI_BIOLOGIQUE",
+    "SCENARISTE",
+    "SCRAPE_9RAYTI_METIER_ACHETEUR_INTERNATIONAL",
+    "SCRAPE_9RAYTI_METIER_ADMINISTRATEUR_FINANCIER",
+    "SCRAPE_9RAYTI_METIER_AUDITEUR",
+    "SCRAPE_9RAYTI_METIER_CHARGE_D_ETUDES_MEDIAS_MEDIA_PLANNER",
+    "SCRAPE_9RAYTI_METIER_CHEF_DE_CHANTIER_GROS_UVRES",
+    "SCRAPE_9RAYTI_METIER_CHEF_DE_PUBLICITE",
+    "SCRAPE_9RAYTI_METIER_COMMERCIAL",
+    "SCRAPE_9RAYTI_METIER_COMMISSAIRE_DE_POLICE",
+    "SCRAPE_9RAYTI_METIER_CONCEPTEUR_REDACTEUR",
+    "SCRAPE_9RAYTI_METIER_CONCIERGE",
+    "SCRAPE_9RAYTI_METIER_DELEGUE_MEDICAL",
+    "SCRAPE_9RAYTI_METIER_DIRECTEUR_ARTISTIQUE",
+    "SCRAPE_9RAYTI_METIER_GARDIEN_DE_LA_PAIX",
+    "SCRAPE_9RAYTI_METIER_GESTIONNAIRE",
+    "SCRAPE_9RAYTI_METIER_GESTIONNAIRE_DES_RESSOURCES_HUMAINES",
+    "SCRAPE_9RAYTI_METIER_GRAPHISTE",
+    "SCRAPE_9RAYTI_METIER_INFOGRAPHISTE",
+    "SCRAPE_9RAYTI_METIER_INFOGRAPHISTE_2D_3D",
+    "SCRAPE_9RAYTI_METIER_INSPECTEUR_DE_POLICE",
+    "SCRAPE_9RAYTI_METIER_MACHINISTE",
+    "SCRAPE_9RAYTI_METIER_MAQUETTISTE",
+    "SCRAPE_9RAYTI_METIER_METIERS_DIPLOMES_DEMANDES_MAROC",
+    "SCRAPE_9RAYTI_METIER_OFFICIER_DE_POLICE",
+    "SCRAPE_9RAYTI_METIER_OFFSETTISTE",
+    "SCRAPE_9RAYTI_METIER_PHOTOGRAVEUR",
+    "SCRAPE_9RAYTI_METIER_REDACTEUR_EN_CHEF",
+    "SCRAPE_9RAYTI_METIER_SECRETAIRE_DE_REDACTION",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_COMMERCE",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_INFORMATIQUE",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_INGENIERIE",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_SANTE",
+    "TECHNICIEN_ADMINISTRATIF_FINANCIER",
+    "TECHNICIEN_EN_CYBERSECURITE_MEDICALE"
+  ],
+  "metiersOrphanList": [
+    "ANALYSTE_EN_CYBERSANTE",
+    "ANALYSTE_FINANCIER_POUR_LES_PROJETS_DINFRASTRUCTUR",
+    "AQUACULTEUR",
+    "ARCHITECTE_DE_SYSTEMES_DE_PRODUCTION_DHYDROGENE_VE",
+    "ARCHITECTE_EN_CONCEPTION_BIOCLIMATIQUE",
+    "ARCHITECTE_EN_ENERGIES_RENOUVELABLES",
+    "CEREALIER",
+    "CHARGE_DAFFAIRES_DANS_LA_SANTE",
+    "CHEF_DE_PROJET_SUPPLY_CHAIN",
+    "DEVELOPPEUR_DENSEIGNE",
+    "INGENIEUR_BIOMECANIQUE",
+    "INGENIEUR_CVC",
+    "INGENIEUR_DU_SON",
+    "INGENIEUR_E_AERONAUTIQUE",
+    "INGENIEUR_E_CIVIL_E_DE_LA_DEFENSE",
+    "INGENIEUR_E_EN_ANALYSE_DE_LAIR",
+    "INGENIEUR_E_OCEAONOGRAPHE",
+    "INGENIEUR_EN_BIOTECHNOLOGIES_AGRICOLES",
+    "INGENIEUR_EN_PAIEMENT_SECURISE_EN_LIGNE",
+    "INGENIEUR_EN_REALITE_AUGMENTEE",
+    "INGENIEUR_EN_SYSTEMES_DE_STOCKAGE_DENERGIE",
+    "INGENIEUR_PACKAGING",
+    "INGENIEUR_PREVENTIONNISTE_ASSURANCE",
+    "INGENIEUR_STRUCTURE_BOIS",
+    "INGENIEUR_SUPPORT_DES_VENTES",
+    "INGENIEUR_SUPPORT_TELECOM",
+    "MIXEUR",
+    "RESPONSABLE_DE_SUIVI_BIOLOGIQUE",
+    "SCENARISTE",
+    "SCRAPE_9RAYTI_METIER_ACHETEUR_INTERNATIONAL",
+    "SCRAPE_9RAYTI_METIER_ADMINISTRATEUR_FINANCIER",
+    "SCRAPE_9RAYTI_METIER_AUDITEUR",
+    "SCRAPE_9RAYTI_METIER_CHARGE_D_ETUDES_MEDIAS_MEDIA_PLANNER",
+    "SCRAPE_9RAYTI_METIER_CHEF_DE_CHANTIER_GROS_UVRES",
+    "SCRAPE_9RAYTI_METIER_CHEF_DE_PUBLICITE",
+    "SCRAPE_9RAYTI_METIER_COMMERCIAL",
+    "SCRAPE_9RAYTI_METIER_COMMISSAIRE_DE_POLICE",
+    "SCRAPE_9RAYTI_METIER_CONCEPTEUR_REDACTEUR",
+    "SCRAPE_9RAYTI_METIER_CONCIERGE",
+    "SCRAPE_9RAYTI_METIER_DELEGUE_MEDICAL",
+    "SCRAPE_9RAYTI_METIER_DIRECTEUR_ARTISTIQUE",
+    "SCRAPE_9RAYTI_METIER_GARDIEN_DE_LA_PAIX",
+    "SCRAPE_9RAYTI_METIER_GESTIONNAIRE",
+    "SCRAPE_9RAYTI_METIER_GESTIONNAIRE_DES_RESSOURCES_HUMAINES",
+    "SCRAPE_9RAYTI_METIER_GRAPHISTE",
+    "SCRAPE_9RAYTI_METIER_INFOGRAPHISTE",
+    "SCRAPE_9RAYTI_METIER_INFOGRAPHISTE_2D_3D",
+    "SCRAPE_9RAYTI_METIER_INSPECTEUR_DE_POLICE",
+    "SCRAPE_9RAYTI_METIER_MACHINISTE",
+    "SCRAPE_9RAYTI_METIER_MAQUETTISTE",
+    "SCRAPE_9RAYTI_METIER_METIERS_DIPLOMES_DEMANDES_MAROC",
+    "SCRAPE_9RAYTI_METIER_OFFICIER_DE_POLICE",
+    "SCRAPE_9RAYTI_METIER_OFFSETTISTE",
+    "SCRAPE_9RAYTI_METIER_PHOTOGRAVEUR",
+    "SCRAPE_9RAYTI_METIER_REDACTEUR_EN_CHEF",
+    "SCRAPE_9RAYTI_METIER_SECRETAIRE_DE_REDACTION",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_COMMERCE",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_INFORMATIQUE",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_INGENIERIE",
+    "SCRAPE_MAROC_TAWJIH_METIER_METIERS_SANTE",
+    "TECHNICIEN_ADMINISTRATIF_FINANCIER",
+    "TECHNICIEN_EN_CYBERSECURITE_MEDICALE"
+  ],
+  "filieresNoSchool": 767,
+  "filieresOrphan": 347,
+  "orphanEdges": 0
+}

@@ -1,0 +1,16 @@
+{
+  "nodesBefore": 4702,
+  "edgesBefore": 11443,
+  "nodesRemoved": 0,
+  "edgesRemoved": 22,
+  "nodesCleaned": 104,
+  "descriptionsCleaned": 56,
+  "labelsCleaned": 0,
+  "healthDescriptionsCorrected": 56,
+  "citiesCorrected": 1,
+  "privateCostsCorrected": 14,
+  "coherenceEdgesRemoved": 22,
+  "schoolToSchoolEdgesRemoved": 0,
+  "nodesAfter": 4702,
+  "edgesAfter": 11441
+}

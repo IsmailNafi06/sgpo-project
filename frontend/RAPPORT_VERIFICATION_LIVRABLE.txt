@@ -1,0 +1,229 @@
+RAPPORT DE VERIFICATION LIVRABLE - FRONTEND E-TAWJIHI
+Date: 2026-06-03
+
+OBJECTIF
+Verifier que le frontend React est pret pour une version livrable, que les donnees backend arrivent correctement au front, et signaler les incoherences restantes sans modifier le backend.
+
+1. CONNEXION FRONTEND / BACKEND
+
+Etat actuel verifie:
+- Le frontend utilise Axios dans src/services/api.js.
+- Les appels eleve passent par:
+  - GET /api/public/metiers
+  - POST /api/parcours/generate
+- Le proxy Vite est bien configure dans vite.config.js:
+  - /api -> http://localhost:8081
+- Le timeout de recherche est regle a 120 secondes pour eviter que le front coupe trop vite les longues recherches.
+
+Probleme observe dans cette session:
+- Depuis le terminal, le backend n'etait pas joignable sur localhost:8081.
+- curl vers http://localhost:8081/api/public/metiers a retourne HTTP 000.
+- Aucun process n'ecoutait sur le port 8081.
+
+Conclusion:
+- Le lien frontend/backend est correctement configure cote frontend.
+- Pour verifier en live, il faut que Spring Boot ecoute vraiment sur le port 8081, puis tester:
+  http://localhost:8081/api/public/metiers
+- Si cet endpoint ne retourne pas 200, le frontend ne peut pas recevoir les metiers backend.
+
+2. VERIFICATIONS FRONTEND EFFECTUEES
+
+Commandes executees dans frontend/:
+- npm run lint: OK
+- npm run build: OK
+
+Conclusion:
+- Le code frontend compile.
+- Aucune erreur ESLint bloquante.
+- Le build Vite est genere correctement.
+
+3. DONNEES LOCALES ET AUTOCOMPLETION
+
+Le fichier frontend/src/data/backendMetiers.js a ete synchronise avec les donnees backend locales.
+
+Etat:
+- 669 metiers disponibles dans l'autocompletion frontend.
+- Les suggestions metier ne dependent pas uniquement du backend live, ce qui evite une experience vide si l'API metiers est lente.
+
+4. FILTRAGE ET COHERENCE COTE FRONTEND
+
+Le frontend filtre maintenant les parcours incoherents avant affichage.
+
+Regles importantes appliquees:
+- Ne pas afficher un parcours dont le niveau de depart ne correspond pas au niveau choisi.
+- Ne pas afficher un parcours dont la ville ne correspond pas quand l'utilisateur choisit Mobilite = Ville.
+- Ne pas afficher un master directement apres le bac sans formation intermediaire credible.
+- Ne pas afficher une licence simple comme debouche direct vers un metier d'ingenieur.
+- Ne pas afficher des parcours medecine/dentaire/pharmacie si l'etablissement ou la formation ne correspond pas.
+- Ne pas afficher de parcours "Expert comptable" sans vrai cycle d'expertise comptable.
+- Ne pas afficher de parcours "Expert comptable" trop court: minimum 8 ans apres le depart exige cote front.
+- Ne pas afficher les messages techniques du type "parcours peu fiables masques".
+
+Correction ajoutee:
+- Les parcours "ISCAE / expertise comptable" de 3 ans ou trop courts sont bloques cote frontend.
+- Pour Expert comptable, le parcours doit contenir un vrai cycle d'expertise comptable et une duree globale coherente.
+
+5. AUDITS DES DONNEES BACKEND LOCALES
+
+Audit structurel:
+- Noeuds: 4702
+- Aretes: 12630
+- Metiers: 669
+- Codes dupliques: 0
+- IDs dupliques: 0
+- Aretes orphelines: 0
+- Types d'aretes invalides: 0
+- Types d'acces invalides: 0
+
+Audit des 300 metiers courants:
+- 300/300 existent.
+- 300/300 ont au moins un chemin.
+
+Audit des etablissements importants:
+- Medecine / pharmacie / dentaire: couverture OK dans les donnees locales.
+- ENCG: couverture OK.
+- ENSA: couverture OK.
+- FST: couverture OK.
+- EST: couverture OK.
+- Grandes ecoles publiques: couverture OK.
+- Prive reconnu: couverture OK.
+
+6. PROBLEMES BACKEND A CORRIGER
+
+Ces problemes viennent des donnees ou de la logique backend. Je ne les ai pas modifies, car la consigne est de ne pas toucher au backend.
+
+Problemes detectes:
+
+1. Trop d'aretes RECRUTEMENT trop larges vers Expert comptable.
+   Exemples detectes:
+   - Formations de tourisme vers Expert comptable.
+   - Master Sciences Politiques vers Expert comptable.
+   - Formations finance/comptabilite generiques vers Expert comptable sans cycle d'expertise comptable.
+   Action backend recommandee:
+   - Garder Expert comptable uniquement pour:
+     - Cycle d'Expertise Comptable
+     - Filiere des metiers comptables et financiers si elle mene explicitement au cycle expert-comptable
+     - ISCAE / formations officiellement liees a l'expertise comptable
+   - Supprimer les liens directs faibles depuis BTS, DUT, licence simple, tourisme, sciences politiques.
+
+2. Mismatch domaine finance.
+   Audit: plusieurs centaines de liens metiers finance trop larges.
+   Action backend recommandee:
+   - Auditeur financier, expert comptable, analyste financier, controleur de gestion doivent etre relies a des formations finance/comptabilite/audit/gestion coherentes.
+   - Eviter les formations tourisme, politique, communication, marketing pur.
+
+3. Mismatch domaine tech.
+   Audit: plusieurs liens tech trop larges.
+   Action backend recommandee:
+   - Ingenieur informatique, data scientist, architecte cloud, deep learning engineer doivent etre relies a:
+     - cycle ingenieur informatique/data/IA
+     - master data/IA/cloud apres licence ou cycle preparatoire coherent
+     - licence informatique uniquement pour metiers de developpement junior, pas pour ingenieur si elle est seule.
+
+4. Admissions avec mauvais bac.
+   Audit a detecte des admissions du type:
+   - Bac lettres vers sante/tech
+   - Bac non scientifique vers filieres medicales ou ingenieur
+   Action backend recommandee:
+   - Revoir les aretes ADMISSION selon les branches autorisees.
+
+5. Formations sans etablissement.
+   Audit: 567 programmes sans ecole rattachee.
+   Action backend recommandee:
+   - Ajouter une arete OFFERTE_PAR pour chaque formation exploitable.
+   - Sinon ne pas utiliser ces formations dans les parcours eleve.
+
+6. Metiers sans recrutement.
+   Audit: 62 metiers sans lien de recrutement.
+   Action backend recommandee:
+   - Ajouter les aretes RECRUTEMENT manquantes ou masquer ces metiers dans l'autocompletion publique.
+
+7. Seuils / moyennes minimales encore faibles.
+   Les donnees actuelles ne contiennent pas assez de moyennes minimales fiables.
+   Action backend recommandee:
+   - Ajouter les seuils par ecole/filiere/annee quand disponibles.
+   - Pour les grandes ecoles publiques, prioriser:
+     EMI, EHTP, INPT, ENSIAS, ENSA, ENSEM, ENSET, FST, ENCG, ISCAE, IAV, ENA, medecine, pharmacie, dentaire.
+
+7. SCRAPING / ENRICHISSEMENT
+
+Le frontend n'est pas l'endroit ideal pour corriger durablement les donnees.
+Pour enrichir correctement, il faut produire ou mettre a jour les fichiers JSON backend, puis reimporter.
+
+Sources prioritaires recommandees:
+- cursussup.gov.ma
+- enssup.gov.ma
+- tawjeehsup.ma
+- postbac.ma
+- 9rayti.com
+- maroc-tawjih.com
+- sites officiels des ecoles: ENSA, FST, ENCG, ISCAE, EMI, EHTP, ENSIAS, INPT, ENSEM, ENA, IAV, UM6SS
+
+Donnees a enrichir:
+- Etablissements publics et prives reconnus.
+- Filieres exactes par etablissement.
+- Villes exactes.
+- Durees exactes.
+- Conditions d'acces.
+- Moyennes minimales / seuils si disponibles.
+- Cout seulement pour le prive.
+- Debouches reels, pas des debouches trop larges.
+
+8. CONCLUSION LIVRABLE
+
+Cote frontend:
+- Le projet compile.
+- Les appels API sont bien relies.
+- Le timeout est adapte.
+- Les parcours incoherents les plus visibles sont filtres.
+- L'autocompletion contient les metiers backend.
+- Les messages techniques sont retires de l'interface eleve.
+
+Cote backend/donnees:
+- Les donnees sont beaucoup plus riches qu'avant, mais il reste des incoherences de relations metier/formation.
+- Pour une version vraiment livrable, il faut nettoyer les aretes RECRUTEMENT et ADMISSION restantes, surtout finance, tech, sante et expertise comptable.
+- Il faut aussi rattacher les formations sans etablissement ou les exclure du moteur de parcours.
+
+9. TESTS CONSEILLES
+
+Tester avec ces metiers:
+- Ingenieur genie informatique
+- Data Scientist
+- Architecte Cloud
+- Deep Learning Engineer
+- Developpeur full stack
+- Analyste SOC
+- Expert comptable
+- Auditeur financier
+- Controleur de gestion
+- Medecin generaliste
+- Chirurgien dentiste
+- Pharmacien
+- Architecte
+- Avocat
+- Ingenieur agronome
+- Chef de projet digital
+- Responsable marketing digital
+- Infirmier polyvalent
+- Pilote de ligne
+- Enseignant
+
+Tester avec ces niveaux:
+- 3AC
+- TC
+- 1BAC
+- 2BAC Sciences Mathematiques A
+- 2BAC Sciences Mathematiques B
+- 2BAC Sciences Physiques-Chimie
+- 2BAC Sciences de la Vie et de la Terre
+- 2BAC Sciences Economiques
+- 2BAC Gestion Comptable
+
+Tester avec ces mobilites:
+- Libre
+- Ville: Casablanca
+- Ville: Rabat
+- Ville: Tanger
+- Ville: Fes
+- Ville: Marrakech
+

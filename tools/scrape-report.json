@@ -1,0 +1,971 @@
+{
+  "startedAt": "2026-06-03T10:15:25.751Z",
+  "config": {
+    "concurrency": 8,
+    "timeoutMs": 18000,
+    "maxPages": 0,
+    "refresh": false,
+    "limits": {
+      "formation": 0,
+      "metier": 0,
+      "ecole": 0,
+      "article": 0
+    }
+  },
+  "sources": {
+    "9rayti": {
+      "sitemap": "https://www.9rayti.com/sitemap.xml",
+      "discovered": 59571,
+      "selected": 2881,
+      "errors": []
+    },
+    "postbac": {
+      "sitemap": "https://postbac.ma/sitemap.xml",
+      "discovered": 59,
+      "selected": 12,
+      "errors": []
+    },
+    "maroc-tawjih": {
+      "sitemap": "https://maroc-tawjih.com/sitemap.xml",
+      "discovered": 215,
+      "selected": 53,
+      "errors": []
+    },
+    "tawjeehsup": {
+      "sitemap": "https://tawjeehsup.ma/sitemap.xml",
+      "discovered": 141,
+      "selected": 141,
+      "errors": []
+    },
+    "e-tawjihi": {
+      "sitemap": "https://e-tawjihi.ma/sitemap.xml",
+      "discovered": 16,
+      "selected": 17,
+      "errors": []
+    },
+    "enssup": {
+      "sitemap": "https://www.enssup.gov.ma/sitemap.xml",
+      "discovered": 0,
+      "selected": 1,
+      "errors": []
+    },
+    "cursussup": {
+      "sitemap": "https://www.cursussup.gov.ma/sitemap.xml",
+      "discovered": 0,
+      "selected": 1,
+      "errors": []
+    }
+  },
+  "pagesSelected": 3106,
+  "pagesFetchedOrCached": 3106,
+  "nodesBefore": 4617,
+  "edgesBefore": 10533,
+  "nodesAdded": 84,
+  "nodesRemoved": 0,
+  "nodesUpdated": 5224,
+  "edgesAdded": 3946,
+  "edgesRemoved": 527,
+  "duplicateEdgesMerged": 0,
+  "skipped": [
+    {
+      "url": "https://www.cursussup.gov.ma/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://9rayti.com/formation/architecture-et-securite-des-systemes-et-reseaux-informatiques-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/architecture-securite-systemes-reseaux-informatiques-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/architecture-securite-systemes-reseaux-informatiques-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/automatique-industrielle-controle-qualite-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/automatique-industrielle-et-controle-qualite-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/automatique-industrielle-et-controle-qualite-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/bac3-communication-des-organisations-artcom-sup-casablanca",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/bac3-communication-des-organisations-artcom-sup-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/formations-continues-artscom-sup-casablanca",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/formations-continues-artscom-sup-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/ingenierie-logicielle-developpement-web-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/ingenierie-logicielle-developpement-web-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/ingenierie-logicielle-et-developpement-web-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/ingenierie-systemes-informatiques-daide-decision-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-commerce-et-distribution-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-commerce-et-distribution-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-developpement-web-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-commerce-et-distribution-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-comptabilite-et-gestion-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-comptabilite-gestion-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-comptabilite-gestion-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-developpement-web-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-developpement-web-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-gestion-des-ressources-humaines-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-gestion-des-ressources-humaines-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-gestion-des-ressources-humaines-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-miage-de-luniversite-de-lorraine-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-securite-des-reseaux-et-systemes-informatiques",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-en-securite-des-reseaux-et-systemes-informatiques-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-management-touristique-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/licence-securite-systmes-reseaux-informatiques-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-cca-comptabilite-controle-et-audit-universite-bretagne-sud-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-comptabilite-controle-audit-cca-universite-de-bretagne-sud-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-des-metiers-juridiques-et-judiciaires",
+      "reason": "formation-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-administration-des-entreprise-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-administration-des-entreprises-mba-isga",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-administration-des-entreprises-mba-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-comptabilite-controle-et-audit-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-droit-des-affaires-de-luniversite-de-perpignan-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-droit-des-affaires-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-droit-des-affaires-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-genie-electronique-et-informatique-industrielle-geii-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-informatique-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-management-des-ressources-humaines-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-management-des-ressources-humaines-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-marketing-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-marketing-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-marketing-universite-senghor-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-miage-de-luniversite-international-senghor-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-en-miage-de-luniversite-international-senghor-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-miage-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-miage-universite-lorraine-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/master-ssr-services-securite-reseaux-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-dinformation-audit-et-controle-de-gestion-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-dinformation-et-genie-financier-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-dinformation-et-genie-financier-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-dinformation-et-genie-financier-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-dinformation-finance-controle-et-audit-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-dinformation-marketing-commerce-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-dinformation-marketing-et-commerce-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systeme-informatique-daide-decision-isga-rabat",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systemes-informatique-daide-a-la-decision-isga-fes",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systme-d-information-finance-contrle-et-audit-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/formation/systme-d-information-marketing-et-commerce-isga-marrakech",
+      "status": 404,
+      "error": ""
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25a3%25ef%25ba%25a7%25ef%25ba%25bc%25ef%25ba%258e%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%2594-%25ef%25ba%2597%25ef%25ba%25a0%25ef%25bb%25a4%25ef%25af%25bf%25ef%25bb%259e",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25a3%25ef%25ba%25a7%25ef%25ba%25bc%25ef%25ba%258e%25ef%25ba%258b%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25a4%25ef%25bb%25a4%25ef%25af%25bf%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%2590%25ef%25ba%25ac%25d8%25a7%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25a3%25ef%25ba%25b3%25ef%25ba%2598%25ef%25ba%258e%25d8%25b0-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25bb%258c%25ef%25bb%25a0%25ef%25af%25bf%25ef%25bb%25a2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%259c%25ef%25ba%258e%25ef%25bb%25a7%25ef%25bb%25ae%25d9%258a-%25d8%25a7%25ef%25bb%25b9%25ef%25bb%258b%25ef%25ba%25aa%25d8%25a7",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25a3%25ef%25ba%25b3%25ef%25ba%2598%25ef%25ba%258e%25d8%25b0-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25bb%258c%25ef%25bb%25a0%25ef%25af%25bf%25ef%25bb%25a2-%25d8%25a7%25ef%25bb%25bb%25ef%25ba%2591%25ef%25ba%2598%25ef%25ba%25aa%25d8%25a7%25ef%25ba%258b%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25bb%258c%25ef%25bb%25a0",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25a3%25ef%25ba%25b3%25ef%25ba%2598%25ef%25ba%258e%25d8%25b0-%25ef%25ba%259f%25ef%25ba%258e%25ef%25bb%25a3%25ef%25bb%258c%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25b1%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%2594%25ef%25bb%25a8%25ef%25ba%25aa%25d9%2582",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25b1%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%2584%25ef%25ba%2592%25ef%25ba%25a6",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25b1%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%25a8%25ef%25ba%2598%25ef%25bb%25ae%25d8%25ac-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25b4%25ef%25af%25bf%25ef%25ba%258e%25ef%25ba%25a3%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25b1%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%25b2-%25d9%2588%25d8%25b1%25ef%25ba%25b7%25ef%25ba%2594-%25ef%25bb%259f%25ef%25bb%25a0%25ef%25bb%2594%25ef%25ba%25bc%25ef%25ba%258e%25ef%25bb%259f%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25b1%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%25b2-%25d9%2588%25ef%25ba%25a3%25ef%25ba%25aa%25d8%25a9-%25ef%25bb%2583%25ef%25ba%2592%25ef%25ba%25a6",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25b1%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%25b2-%25ef%25bb%2597%25ef%25ba%258e%25ef%25bb%258b%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%2584%25ef%25bb%258c%25ef%25ba%258e%25d9%2585",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d8%25b1%25ef%25ba%259f%25ef%25bb%259e-%25d8%25a7%25ef%25bb%25b7%25ef%25bb%25a3%25ef%25bb%25a6",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25d9%2585%25d8%25af%25d9%258a%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25a5%25d9%258a%25d9%2588%25d8%25a7%25d8%25a1",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2591%25ef%25af%25bf%25ef%25bb%2584%25ef%25ba%25ae%25d9%258a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a3%25ef%25bb%258b%25ef%25bb%25a4%25ef%25ba%258e%25d9%2584-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25ae%25d8%25b1%25d8%25b4",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25ba%25b3%25ef%25ba%2598%25ef%25bb%2590%25ef%25bb%25bc%25d9%2584-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25ae%25ef%25ba%25b3%25ef%25ba%258e%25ef%25ba%258b%25ef%25bb%259e-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%258c%25ef%25bb%25a0%25ef%25bb%25ae",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25ba%25b3%25ef%25ba%2598%25ef%25bb%2590%25ef%25bb%25bc%25d9%2584-%25ef%25ba%25b7%25ef%25ba%2592%25ef%25bb%259c%25ef%25ba%258e%25d8%25aa-%25d8%25a7%25ef%25bb%25bb%25ef%25ba%2597%25ef%25ba%25bc%25ef%25ba%258e%25d9%2584",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2592%25ef%25af%25bf%25ef%25bb%258a-%25d9%2588%25d8%25a7%25ef%25bb%25b9%25d8%25b1%25ef%25ba%25b7%25ef%25ba%258e%25d8%25af",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2592%25ef%25bb%25a8%25ef%25ba%258e%25d8%25a1",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2592%25ef%25bb%25a8%25ef%25ba%258e%25d8%25a1-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25af%25bf%25ef%25bb%259c%25ef%25ba%258e%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259c%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25ae%25ad%25ef%25af%25bf%25ef%25ba%258c%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25a4%25ef%25bb%2580%25ef%25ba%25ae%25ef%25af%25be%25ef%25ba%2594-%25d9%2588%25d8%25a7%25ef%25bb%259f%25ef%25ae%25ad%25ef%25bb%25a8",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25ba%25a0%25ef%25ae%25ad%25ef%25af%25bf%25ef%25ba%25b0-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25a4%25ef%25ba%25ae%25d8%25a7%25d8%25b1%25d9%258a-%25d9%2588%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25bb%25a8%25ef%25ba%258e",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25ba%25a4%25ef%25bb%25a0%25ef%25af%25bf%25ef%25bb%25bc%25d8%25aa-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25ba%25a8%25ef%25ba%2598%25ef%25ba%2592%25ef%25ba%25ae%25ef%25af%25be%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25bb%259c%25ef%25af%25bf%25ef%25af%25bf%25ef%25bb%2592",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25ae%25ef%25ba%25b3%25ef%25bb%25a2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%258c%25ef%25bb%25a4%25ef%25ba%258e%25d8%25b1%25d9%258a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25af%25bf%25ef%25ba%258e%25ef%25bb%25a7%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%258c%25ef%25bb%25a0%25ef%25bb%25ae%25ef%25bb%25a3%25ef%25ba%258e%25ef%25ba%2597%25ef%25af%25bf%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%2590%25ef%25ba%25b0%25d9%2584",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%259c%25ef%25ae%25ad%25ef%25ba%25ae%25ef%25ba%2591%25ef%25ba%258e%25d8%25a1",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25af%25bf%25ef%25bb%259c%25ef%25ba%258e%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259a-%25d8%25a7%25ef%25bb%259f%25ef%25bb%2594%25ef%25bb%25bc%25ef%25ba%25a3%25ef%25af%25bf%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%258c%25ef%25bb%25a0%25ef%25bb%25ae%25ef%25bb%25a3%25ef%25af%25bf%25ef%25ba%258e%25d8%25aa-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25af%25bf%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%25b7%25ef%25ba%25b7%25ef%25bb%2590%25ef%25ba%258e%25d9%2584-%25d8%25a7%25ef%25bb%259f%25ef%25bb%259c%25ef%25ba%2592%25ef%25ba%25ae%25d9%2589",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%25b9%25ef%25bb%259f%25ef%25bb%259c%25ef%25ba%2598%25ef%25ba%25ae%25d9%2588%25ef%25bb%25a3%25ef%25af%25bf%25ef%25bb%259c%25ef%25ba%258e%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%25b9%25ef%25bb%259f%25ef%25bb%259c%25ef%25ba%2598%25ef%25ba%25ae%25d9%2588%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%25b9%25ef%25bb%25a7%25ef%25ba%2598%25ef%25ba%258e%25d8%25ac-%25ef%25bb%2593%25ef%25bb%25b2-%25ef%25ba%25bb%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%25bc%25ef%25ba%2591",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%25bb%25ef%25ba%2597%25ef%25ba%25bc%25ef%25ba%258e%25ef%25bb%25bb%25d8%25aa",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25ba%2597%25ef%25ba%25a0%25ef%25ba%258e%25d8%25b1%25d9%258a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25ba%2597%25ef%25ba%25ae%25ef%25ba%2591%25ef%25af%25bf%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25ba%258e%25ef%25ba%25b7%25ef%25af%25bf%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25ba%2597%25ef%25ba%25ae%25ef%25ba%2591%25ef%25af%25bf%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a8%25ef%25ba%25a4%25ef%25bb%259e",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25ba%25bb%25ef%25af%25bf%25ef%25ba%258e%25ef%25bb%25a7%25ef%25ba%2594-%25d8%25a2%25ef%25bb%25bb%25d8%25aa-%25d8%25a5%25ef%25bb%25a7%25ef%25ba%2598%25ef%25ba%258e%25d8%25ac-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%25bc%25ef%25ba%2591%25ef%25ba%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25ba%25bb%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25ba%2594-%25d8%25a7%25ef%25bb%25b7%25ef%25ba%25b3%25ef%25bb%25a8%25ef%25ba%258e%25d9%2586",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%2583%25ef%25ba%25ae%25d9%2582-%25ef%25ba%25bb%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%25bc%25ef%25ba%2591%25ef%25ba%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25bc%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25af%25bf",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25bc%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a8%25ef%25ba%25b4%25ef%25af%25bf%25ef%25ba%259e",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25bc%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25b1%25ef%25ba%25b3%25ef%25bb%25a2-%25ef%25ba%2597%25ef%25ba%25bc%25ef%25ba%258e%25ef%25bb%25a3%25ef%25af%25bf%25ef%25bb%25a2-%25d8%25a7%25ef%25bb%259f",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25bc%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25ef%25ba%2597%25ef%25ba%25ae%25ef%25ba%2591%25ef%25af%25bf%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25aa%25d9%2588%25d8%25a7%25ef%25ba%259f",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25bc%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25ef%25bb%2583%25ef%25ba%25ae%25d9%2582-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25ba%2594-%25d8%25a7",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25bc%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25ef%25bb%2583%25ef%25ba%25ae%25d9%2582-%25ef%25ba%25bb%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25bc%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25ef%25bb%259b%25ef%25af%25bf%25ef%25bb%25a4%25ef%25af%25bf%25ef%25ba%258e%25d8%25a1-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a8%25ef%25ba%25b4%25ef%25af%25bf",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%25a8%25ef%25ba%2598%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%259c%25ef%25af%25bf%25ef%25bb%25a4%25ef%25af%25bf%25ef%25ba%258e%25d8%25a1-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25bb%25a8",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%25ae%25d8%25a7%25ef%25bb%2597%25ef%25ba%2592%25ef%25ba%2594-%25ef%25ba%259f%25ef%25bb%25ae%25d8%25af%25d8%25a9-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%25bc%25ef%25ba%2591%25ef%25ba%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%2597%25ef%25bb%2598%25ef%25bb%25a8%25ef%25bb%25b2-%25ef%25bb%25a3%25ef%25ba%25b4%25ef%25ba%2598%25ef%25bb%2598%25ef%25ba%2592%25ef%25bb%259e-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%259c%25ef%25ba%258e%25ef%25bb%259f%25ef%25bb%25a4%25ef%25ba%258e%25d8%25aa-%25d8%25a7%25ef%25bb%259f%25ef%25ae%25ad",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%25a3%25ef%25bb%25bc%25d9%2582",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%25a7%25ef%25af%25bf%25d9%2580%25d9%2580%25d9%2580%25d9%2580%25ef%25ba%258e%25d8%25b7",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%25bb%25ef%25af%25bf%25ef%25ba%25aa%25ef%25bb%259f%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%25bb%25ef%25af%25bf%25ef%25ba%25aa%25ef%25bb%259f%25ef%25bb%25b2-%25ef%25ba%25bb%25ef%25bb%25a8%25ef%25ba%258e%25ef%25bb%258b%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%25bb%25ef%25ba%258e%25ef%25bb%25a7%25ef%25bb%258a-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%25bc%25ef%25ba%2591%25ef%25ba%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25a0%25ef%25bb%25a0%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%25bb%25ef%25ba%258e%25ef%25bb%25a7%25ef%25bb%258a-%25ef%25bb%25a7%25ef%25bb%25a4%25ef%25ba%258e%25d8%25b0%25d8%25ac-%25d8%25a7%25ef%25bb%25b7%25ef%25ba%25a3%25ef%25ba%25ac%25ef%25af%25be%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25ba%25bb%25ef%25ba%25a4%25ef%25bb%2594%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%2583%25ef%25ba%2592%25ef%25af%25bf%25ef%25ba%2590-%25d8%25a3%25ef%25ba%25b3%25ef%25bb%25a8%25ef%25ba%258e%25d9%2586",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%2583%25ef%25ba%2592%25ef%25af%25bf%25ef%25ba%2590-%25ef%25bb%258b%25ef%25ba%258e%25d9%2585",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%2583%25ef%25ba%2592%25ef%25af%25bf%25ef%25ba%2590-%25ef%25bb%25a3%25ef%25ba%25a8%25ef%25ba%2598%25ef%25ba%25ba",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%258b%25ef%25bb%25ae%25d9%2586-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%2584%25ef%25ba%2592%25ef%25ba%25a6",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%2597%25ef%25ba%258e%25ef%25ba%25bf%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2592%25ef%25ba%25ae%25ef%25bb%25a3%25ef%25ba%25a0%25ef%25af%25bf%25ef%25ba%258e%25d8%25aa",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25bb%2594%25ef%25bb%2598%25ef%25ba%258e%25d8%25aa-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25a8%25ef%25ba%25aa%25ef%25bb%25a3%25ef%25ba%258e%25d8%25aa",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25d8%25a7%25ef%25bb%25b9%25ef%25bb%259f%25ef%25bb%259c%25ef%25ba%2598%25ef%25ba%25ae%25d9%2588%25ef%25bb%25a3%25ef%25af%25bf%25ef%25bb%259c%25ef%25ba%258e%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25d8%25a7%25ef%25bb%25b9%25ef%25bb%259f%25ef%25bb%259c%25ef%25ba%2598%25ef%25ba%25ae%25d9%2588%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25d8%25a7%25ef%25bb%25bb%25ef%25ba%2597%25ef%25ba%25bc%25ef%25ba%258e%25ef%25bb%25bb%25d8%25aa",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25d8%25b1%25ef%25ba%258b%25ef%25af%25bf%25ef%25ba%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%25a8%25ef%25ba%2598%25ef%25bb%25ae%25d8%25ac",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25ba%2597%25ef%25ba%2592%25ef%25ba%258e%25d8%25af%25d9%2584-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%258c%25ef%25bb%2584%25ef%25af%25bf%25ef%25ba%258e%25d8%25aa-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25ba%25a4%25ef%25bb%25ae",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25ba%2597%25ef%25ba%25a0%25ef%25ba%258e%25d8%25b1%25d9%258a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25ba%2597%25ef%25ba%25b4%25ef%25af%25bf%25ef%25af%25bf%25ef%25ba%25ae-%25ef%25bb%2597%25ef%25bb%25ae%25d8%25a7%25ef%25bb%258b%25ef%25ba%25aa-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%258c%25ef%25bb%2584%25ef%25af%25bf%25ef%25ba%258e%25d8%25aa",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%2583%25ef%25bb%25ae%25ef%25ba%2591%25ef%25bb%25ae%25ef%25bb%258f%25ef%25ba%25ae%25d8%25a7%25ef%25bb%2593%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%258f%25ef%25ba%258e%25ef%25ba%2591%25ef%25bb%25ae%25d9%258a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a8%25ef%25ba%25b4%25ef%25af%25bf%25ef%25ba%259e",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%2593%25ef%25bb%25bc%25ef%25ba%25a3%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%259b%25ef%25ae%25ad%25ef%25ba%25ae%25ef%25ba%2591%25ef%25ba%258e%25ef%25ba%258b%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%259b%25ef%25af%25bf%25ef%25bb%25a4%25ef%25af%25bf%25ef%25ba%258e%25ef%25ba%258b%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%25a3%25ef%25af%25bf%25ef%25bb%259c%25ef%25ba%258e%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259c%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%25a3%25ef%25ba%25a8%25ef%25ba%2598%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%258c%25ef%25bb%25a0%25ef%25bb%25ae%25ef%25bb%25a3%25ef%25af%25bf%25ef%25ba%258e%25d8%25aa-%25d8%25a7%25ef%25bb%259f",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%25a3%25ef%25ba%25b4%25ef%25ba%2586%25d9%2588%25d9%2584-%25ef%25bb%258b%25ef%25bb%25a6-%25d8%25a3%25ef%25bb%25a3%25ef%25bb%25a6-%25d8%25a7%25ef%25bb%25b7%25ef%25bb%25a7%25ef%25bb%2588%25ef%25bb%25a4%25ef%25ba%2594-%25d8%25a7%25ef%25bb%259f",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ae%25ad%25ef%25bb%25a8%25ef%25ba%25aa%25d8%25b3-%25ef%25bb%25a3%25ef%25bb%258c%25ef%25bb%25a4%25ef%25ba%258e%25d8%25b1%25d9%258a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25af%25bf%25ef%25bb%259c%25ef%25ba%258e%25ef%25bb%25a7%25ef%25af%25bf%25ef%25bb%259c%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%2598%25ef%25bb%258c%25ef%25ae%25ad%25ef%25ba%25aa%25d8%25a9-%25d8%25a7%25ef%25bb%259f%25ef%25bb%2590%25ef%25ba%25ae%25d9%2581",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25a4%25ef%25ba%258e%25ef%25bb%25a3%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25a4%25ef%25ba%258e%25ef%25bb%25a3%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25b8%25ef%25ba%25ae%25ef%25bb%259b%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25a4%25ef%25bb%2580%25ef%25ba%25ae-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25bc%25ef%25af%25bf%25ef%25ba%25aa%25ef%25bb%259f%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25a4%25ef%25bb%25a0%25ef%25bb%259e-%25d9%2588%25ef%25bb%25a3%25ef%25ba%2592%25ef%25ba%25ae%25ef%25bb%25a3%25ef%25ba%259e-%25ef%25bb%25a3%25ef%25bb%258c%25ef%25bb%25a0%25ef%25bb%25ae%25ef%25bb%25a3%25ef%25ba%258e%25ef%25ba%2597%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%25ae-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25ba%25bc%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%25ae",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%25ae-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%2584%25ef%25bb%258c%25ef%25bb%25a4%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%25ae-%25d9%2588%25ef%25bb%259b%25ef%25ba%258e%25ef%25bb%259f%25ef%25ba%2594-%25ef%25bb%259f%25ef%25bb%25b8%25ef%25ba%25b3%25ef%25bb%2594%25ef%25ba%258e%25d8%25b1",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%25ae-%25ef%25bb%25a3%25ef%25ba%2586%25ef%25ba%25b3%25ef%25ba%25b4%25ef%25ba%2594-%25ef%25ba%2597%25ef%25bb%258c%25ef%25bb%25a0%25ef%25af%25bf%25ef%25bb%25a4%25ef%25af%25bf%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%25ae-%25ef%25bb%25a3%25ef%25ba%25bc%25ef%25bb%25a8%25ef%25bb%258a-%25ef%25bb%259f%25ef%25bb%25a0%25ef%25bb%25a8%25ef%25ba%25b4%25ef%25af%25bf%25ef%25ba%259e",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25aa%25ef%25ba%2591%25ef%25ba%25ae%25d8%25a9-%25ef%25ba%25a7%25ef%25ba%25aa%25ef%25bb%25a3%25ef%25ba%258e%25d8%25aa-%25d8%25a7%25ef%25bb%259f%25ef%25bb%2590%25ef%25ba%25ae%25d9%2581",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25ae%25d8%25a7%25ef%25bb%2597%25ef%25ba%2590-%25d8%25a7%25ef%25bb%259f%25ef%25ba%25a0%25ef%25bb%25ae%25d8%25af%25d8%25a9",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25ae%25d9%2588%25d8%25b6-%25ef%25bb%2583%25ef%25ba%2592%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25ae%25ef%25ba%25b7%25ef%25ba%25aa-%25ef%25ba%25b3%25ef%25af%25bf%25ef%25ba%258e%25ef%25ba%25a3%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25ae%25ef%25ba%25b7%25ef%25ba%25aa-%25ef%25ba%25b3%25ef%25af%25bf%25ef%25ba%258e%25ef%25ba%25a3%25ef%25bb%25b2-%25ef%25ba%259f%25ef%25ba%2592%25ef%25bb%25a0%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25b4%25ef%25ba%2586%25d9%2588%25d9%2584-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a0%25ef%25bb%25ae%25ef%25ba%259f%25ef%25ba%25b4%25ef%25ba%2598%25ef%25af%25bf%25ef%25bb%259a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25b4%25ef%25ba%2586%25d9%2588%25d9%2584-%25ef%25bb%25a3%25ef%25ba%25b8%25ef%25ba%2598%25ef%25ba%25ae%25ef%25af%25be%25ef%25ba%258e%25d8%25aa",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25bc%25ef%25bb%25a4%25ef%25bb%25a2-%25d8%25a7%25ef%25bb%25b7%25d8%25b2%25ef%25af%25be%25ef%25ba%258e%25d8%25a1",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25bc%25ef%25bb%25a4%25ef%25bb%25a2-%25d8%25a7%25ef%25bb%25b7%25ef%25ba%25a3%25ef%25ba%25ac%25ef%25af%25be%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25bc%25ef%25bb%25a4%25ef%25bb%25a2-%25ef%25bb%25a7%25ef%25bb%25a4%25ef%25ba%258e%25d8%25b0%25d8%25ac-%25d8%25a7%25ef%25bb%25b7%25d8%25b2%25ef%25af%25be%25ef%25ba%258e%25d8%25a1",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25ba%25bc%25ef%25bb%25ae%25d8%25b1-%25ef%25ba%25bb%25ef%25ba%25a4%25ef%25bb%2594%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%2594%25ef%25ba%258e%25d9%2588%25d8%25b6",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25a4%25ef%25ba%25ae%25d8%25b6-%25ef%25bb%25a3%25ef%25ba%2586%25ef%25bb%2583%25ef%25ba%25ae",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25a4%25ef%25ba%25ae%25d8%25b6-%25ef%25bb%25a3%25ef%25ba%25a8%25ef%25ba%2598%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%259f%25ef%25ba%2598%25ef%25ba%25a8%25ef%25ba%25aa%25ef%25af%25be%25ef%25ba%25ae",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25a4%25ef%25ba%25ae%25d8%25b6-%25ef%25bb%25a3%25ef%25ba%25a8%25ef%25ba%2598%25ef%25ba%25ba-%25ef%25bb%2593%25ef%25bb%25b2-%25d8%25a7%25ef%25bb%25b7%25ef%25ba%25b7%25ef%25bb%258c%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25a4%25ef%25ba%25ae%25d8%25b6-%25ef%25bb%25a3%25ef%25bb%25a4%25ef%25ba%25ae%25ef%25ba%25bf%25ef%25ba%2594",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25a4%25ef%25ba%25ae%25d8%25b6-%25ef%25bb%25a7%25ef%25bb%2594%25ef%25ba%25b4%25ef%25ba%258e%25ef%25bb%25a7%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25a8%25ef%25ba%25b8%25ef%25bb%2582-%25ef%25ba%2597%25ef%25ba%25a0%25ef%25ba%258e%25d8%25b1%25d9%258a",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25a8%25ef%25ba%25b8%25ef%25bb%2582-%25ef%25ba%25b3%25ef%25af%25bf%25ef%25ba%258e%25ef%25ba%25a3%25ef%25bb%25b2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25ae%25ef%25ba%259b%25ef%25bb%2596",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25ae%25ef%25bb%2587%25ef%25bb%2592-%25d8%25a7%25ef%25bb%25bb%25ef%25ba%25b3%25ef%25ba%2598%25ef%25bb%2598%25ef%25ba%2592%25ef%25ba%258e%25d9%2584",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25ae%25ef%25bb%2587%25ef%25bb%2592-%25d9%2588%25ef%25bb%259b%25ef%25ba%258e%25ef%25bb%259f%25ef%25ba%2594-%25d8%25a7%25ef%25bb%25b7%25ef%25ba%25b3%25ef%25bb%2594%25ef%25ba%258e%25d8%25b1",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a3%25ef%25bb%25ae%25ef%25bb%259f%25ef%25ba%25aa%25d8%25a9",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://9rayti.com/metier/%25ef%25bb%25a7%25ef%25ba%258e%25d8%25af%25d9%2584-%25d8%25a7%25ef%25bb%259f%25ef%25bb%25a4%25ef%25bb%2584%25ef%25bb%258c%25ef%25bb%25a2",
+      "reason": "metier-title-empty"
+    },
+    {
+      "url": "https://postbac.ma/metiers/formations/",
+      "status": 0,
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://postbac.ma/metiers/forums/",
+      "status": 0,
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://postbac.ma/metiers/forums/inscription/",
+      "status": 0,
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/about",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/boutique",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/contact",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?country=Australia",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?country=Canada",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?country=France",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?country=Germany",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?country=United%20Kingdom",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?country=United%20States",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?subject=Business",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?subject=Computer%20Science",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?subject=Engineering",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/establishments?subject=Medicine",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://e-tawjihi-global.com/programs",
+      "status": 0,
+      "error": "fetch failed"
+    },
+    {
+      "url": "https://tawjeehsup.ma/ar/%d9%85%d8%a7-%d9%87%d9%8a-%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d9%88%d9%83%d9%8a%d9%81-%d8%aa%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%87%d8%a7-%d9%84%d8%aa%d8%b3/",
+      "status": 0,
+      "error": "This operation was aborted"
+    },
+    {
+      "url": "https://tawjeehsup.ma/contact/",
+      "status": 403,
+      "error": ""
+    }
+  ],
+  "nodesAfter": 4701,
+  "edgesAfter": 13952,
+  "finishedAt": "2026-06-03T10:15:27.634Z"
+}
