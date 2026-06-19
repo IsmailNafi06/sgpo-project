@@ -1,0 +1,92 @@
+METIER: Aide soignante
+CODE: AIDE_SOIGNANTE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Aide soignante Le métier d'aide-soignant(e) est essentiel dans le domaine de la santé, où ces professionnels fournissent des soins de base et un soutien vital aux patients. Les aides-soignants sont des membres précieux de l'équipe de soins de santé. Ils travaillent sous la supervision d'infirmières et d'autres professionnels de la santé pour fournir des soins directs aux patients. Leurs principales missions comprennent l'assistance aux patients dans les activités quotidiennes, telles que se laver, s'habiller et manger. Ils prennent également en charge les soins d'hygiène, la mesure des signes vitaux, la mobilisation des patients, et la préparation des chambres. En plus des tâches pratiques, les aides-soignants jouent un rôle crucial dans le bien-être émotionnel des patients en leur apportant du soutien et en établissant des liens de confiance. Pour devenir aide-soignant(e), il est généralement nécessaire de suivre une formation spécifique dans un étab
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Aide soignante. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+- Ingénieur biomécanique (score_chemin_commun=1)
+
+PHRASES CLES
+- Aide soignante
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- patients
+- soins
+- aide
+- sante
+- soignant
+- professionnels
+- soutien
+- aides
+- soignants
+- soignante
+- essentiel
+- domaine
+- fournissent
+- base
+- vital
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Aide soignante
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Aide soignante. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Aide soignante
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Aide soignante, la progression a ete plus rapide quand j'ai renforce Aide soignante. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Aide soignante
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Aide soignante demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

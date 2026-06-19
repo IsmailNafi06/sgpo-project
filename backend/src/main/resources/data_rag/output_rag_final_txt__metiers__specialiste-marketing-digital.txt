@@ -1,0 +1,164 @@
+METIER: Spécialiste marketing digital
+CODE: SPECIALISTE_MARKETING_DIGITAL
+SECTEUR: Métiers du Marketing et Communication
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplôme ENCG Marketing Digital
+2. Diplôme ENCG Marketing Digital
+3. Diplôme ENCG Marketing Digital
+4. Système d'information marketing et commerce - ISGA El Jadida
+5. Diplôme ENCG Marketing Digital
+6. Diplôme ENCG Marketing Digital
+7. Diplôme ENCG Marketing Digital
+8. BAC+5 / MASTER EN MARKETING , COMMUNICATION ET STRATÉGIES COMMERCIALES
+9. Diplôme ENCG Marketing Digital
+10. Diplôme ENCG Marketing Digital
+11. Master en Marketing de l'Université Internationale Senghor - ISGA Rabat
+12. Diplôme ENCG Marketing Digital
+13. Diplôme ENCG Marketing Digital
+14. Diplôme ENCG Marketing Digital
+15. Diplôme ENCG Marketing Digital
+16. Bac+3 Spécialité Communication et Marketing HEC Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Béni Mellal
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Béni Mellal. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Système d'information marketing et commerce - ISGA El Jadida
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion El Jadida
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Système d'information marketing et commerce - ISGA El Jadida. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a Ecole Nationale de Commerce et de Gestion El Jadida. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: BAC+5 / MASTER EN MARKETING , COMMUNICATION ET STRATÉGIES COMMERCIALES
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN MARKETING , COMMUNICATION ET STRATÉGIES COMMERCIALES. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Master en Marketing de l'Université Internationale Senghor - ISGA Rabat
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Marketing de l'Université Internationale Senghor - ISGA Rabat. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: Diplôme ENCG Marketing Digital
+- Prerequis: Non precise
+- Etablissements: ENCG Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Marketing Digital. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a ENCG Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: Bac+3 Spécialité Communication et Marketing HEC Rabat
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Mohammedia
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+3 Spécialité Communication et Marketing HEC Rabat. Cette filiere ouvre un debouche direct vers le metier Spécialiste marketing digital. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Mohammedia. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de la logistique e-commerce (score_chemin_commun=1)
+- Chargé d’affaires bancaires en commerce international (score_chemin_commun=1)
+- Conseiller clientèle (score_chemin_commun=1)
+- Agent service client (score_chemin_commun=1)
+
+PHRASES CLES
+- Spécialiste marketing digital
+- secteur Métiers du Marketing et Communication
+- filiere Diplôme ENCG Marketing Digital
+- filiere Système d'information marketing et commerce - ISGA El Jadida
+- filiere BAC+5 / MASTER EN MARKETING , COMMUNICATION ET STRATÉGIES COMMERCIALES
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme ENCG Marketing Digital, Diplôme ENCG Marketing Digital, j'ai choisi le metier de Spécialiste marketing digital. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Spécialiste marketing digital, la progression a ete plus rapide quand j'ai renforce Spécialiste marketing digital. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Spécialiste marketing digital demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

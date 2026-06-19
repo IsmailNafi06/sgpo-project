@@ -1,0 +1,47 @@
+METIER: Céréalier
+CODE: CEREALIER
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Céréalier Le Céréalier est responsable de la production agricole dont l'essentiel est constitué de céréales: maïs, blé, etc. En tant que professionnel, il est parfois un véritable entrepreneur. De ce fait, en plus de ses opérations, il peut également travailler en réseau avec des coopératives et / ou d'autres organisations professionnelles (comités agricoles, bureaux d'études techniques, fournisseurs, etc.). En effet, Les céréaliers exercent leur carrière en plein air et se consacrent aux travaux nécessaires à la production dans des exploitations spécialisées dans la culture céréalière. D'ailleurs, lorsqu'il a affaire à des produits phytosanitaires, des engrais ou du matériel et des plants, il doit travailler dur chaque jour. Pour cela, il doit savoir choisir les semences, faire la rotation des cultures, préparer le matériel et surveiller attentivement les champs ensemencés afin de mieux prévenir les maladies, les attaques de ravageurs et autres risques s
+
+FORMATIONS QUI MENENT AU METIER
+1. Parcours professionnalisant Céréalier
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Parcours professionnalisant Céréalier
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Céréalier. Cette filiere ouvre un debouche direct vers le metier Céréalier. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Céréalier
+- secteur Métiers biologie et agroalimentaire
+- filiere Parcours professionnalisant Céréalier
+- production
+- travailler
+- autres
+- materiel
+- doit
+- responsable
+- agricole
+- dont
+- essentiel
+- constitue
+- cereales
+- tant
+- professionnel
+- parfois
+- veritable
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Céréalier, j'ai choisi le metier de Céréalier. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Céréalier, la progression a ete plus rapide quand j'ai renforce Céréalier. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Céréalier demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

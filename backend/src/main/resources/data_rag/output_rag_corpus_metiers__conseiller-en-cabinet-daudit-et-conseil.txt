@@ -1,0 +1,45 @@
+METIER: Conseiller en cabinet d’audit et conseil
+CODE: CONSEILLER_EN_CABINET_DAUDIT_ET_CONSEIL
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Conseiller en cabinet d’audit et conseil La principale mission du conseiller en cabinet d'audit et conseil est d'intervenir auprès des clients de son cabinet pour analyser et résoudre différents types de problèmes. Il peut opérer dans des domaines très variés. Prestataire extérieur salarié d’un cabinet, le conseiller en cabinet d'audit et conseil réalise une synthèse de sa mission pour apporter à son cabinet un retour d’expérience. En effet le conseiller vient souvent restructurer ou réorganiser des services, ce qui fait qu'il n’est pas toujours bien accueilli chez son client. Ses qualités humaines mais également sa pédagogie doivent être excellentes. Son sens de la communication est une qualité indispensable, tout comme son esprit de persuasion puisque son message doit impérativement être perçu et accepté par son client. Sa qualité d’écoute auprès de ses différents interlocuteurs en entreprise est un point primordial pour l
+
+PHRASES CLES
+- Conseiller en cabinet d’audit et conseil
+- secteur Métiers de la comptabilité, audit et finance
+- filiere Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger
+- cabinet
+- conseiller
+- conseil
+- mission
+- audit
+- aupres
+- differents
+- client
+- qualite
+- daudit
+- principale
+- intervenir
+- clients
+- analyser
+- resoudre
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Tanger, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=80.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger. Cette filiere ouvre un debouche direct vers le metier Conseiller en cabinet d’audit et conseil. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Tanger, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 80.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Banquier conseil M&A (score chemin commun=1)
+- Entrepreneur spécialisé dans le développement de projets d’hydrogène (score chemin commun=1)
+- Technicien supérieur de l’aviation (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger, j'ai choisi le metier de Conseiller en cabinet d’audit et conseil. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Conseiller en cabinet d’audit et conseil, la progression a ete plus rapide quand j'ai renforce Conseiller en cabinet d’audit et conseil. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Conseiller en cabinet d’audit et conseil demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

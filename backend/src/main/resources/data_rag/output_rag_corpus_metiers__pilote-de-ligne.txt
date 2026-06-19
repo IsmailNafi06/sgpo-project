@@ -1,0 +1,35 @@
+METIER: Pilote de ligne
+CODE: PILOTE_DE_LIGNE
+SECTEUR: Aéronautique et espace
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Pilote de ligne
+- secteur Aéronautique et espace
+- filiere Pilotage de Ligne
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Pilotage de Ligne
+- Prerequis: Non precise
+- Etablissements: AIAC Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Pilotage de Ligne. Cette filiere ouvre un debouche direct vers le metier Pilote de ligne. Le chemin est relie a AIAC Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Pilotage de Ligne, j'ai choisi le metier de Pilote de ligne. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Pilote de ligne, la progression a ete plus rapide quand j'ai renforce Pilote de ligne. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Pilote de ligne demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

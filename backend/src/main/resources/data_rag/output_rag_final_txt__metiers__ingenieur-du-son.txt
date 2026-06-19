@@ -1,0 +1,48 @@
+METIER: Ingénieur du son
+CODE: INGENIEUR_DU_SON
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Ingénieur du son L'ingénieur du son, appelé également chef opérateur son, commence dès la lecture du scénario, en repérant les éléments sonores nécessaires et les techniques d’enregistrement qu’il devra mettre en place. En post-production, il crée l’environnement sonore qui sera rattaché à l’image (ambiances, effets, bruitages et musique). A la télévision, le chef opérateur du son veille à la qualité technique audio des émissions, qu’elles soient diffusées en direct ou en différé. Concentré sur sa console, il effectue les réglages nécessaires et s’adapte pour répondre aux demandes du réalisateur. En studio, véritable homme-orchestre d’un album de musique, l’ ingénieur du son (ingénieur mastering) enregistre les musiciens ensemble ou séparément. Puis il retravaille les sons au mixage à l’aide de différents traitements (filtrages, compresseurs, réverbérations…) afin de créer une identité sonore au titre enregistré. Bac + 5 Niveau d'études 12.000 MAD
+
+FORMATIONS QUI MENENT AU METIER
+1. Master M1 & M2 de l'ESJC
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master M1 & M2 de l'ESJC
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master M1 & M2 de l'ESJC. Cette filiere ouvre un debouche direct vers le metier Ingénieur du son. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Packager éditorial (score_chemin_commun=1)
+- Agent d’exploitation des équipements audiovisuels (score_chemin_commun=1)
+
+PHRASES CLES
+- Ingénieur du son
+- secteur Métiers de l’édition et du journalisme
+- filiere Master M1 & M2 de l'ESJC
+- ingenieur
+- chef
+- operateur
+- necessaires
+- sonore
+- musique
+- enregistre
+- appele
+- egalement
+- commence
+- lecture
+- scenario
+- reperant
+- elements
+- sonores
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master M1 & M2 de l'ESJC, j'ai choisi le metier de Ingénieur du son. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur du son, la progression a ete plus rapide quand j'ai renforce Ingénieur du son. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur du son demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

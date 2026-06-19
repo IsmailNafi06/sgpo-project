@@ -1,0 +1,67 @@
+METIER: Veilleur de nuit
+CODE: VEILLEUR_DE_NUIT
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Veilleur de nuit Le veilleur de nuit assure l'accueil et la permanence de la réception d'un hôtel pendant toute la nuit. Sa fonction principale est de surveiller les locaux et de garantir la sécurité des biens et des personnes tout en veillant à préserver le sommeil et le repos des clients. En effet, son métier peut se rapprocher du réceptionniste qui, lui, travaille la journée. Outre la fonction de surveillance de nuit, il est également amené à exercer les fonctions traditionnelles du réceptionniste, comme la présence à la conciergerie et à la réception, l'enregistrement et le départ des clients, le paiement des services, la vérification de l'identification des clients et la fourniture des clés et la gestion des réservations. De son métier, il apporte son aide aux clients qui font appel à lui et gère leurs nécessités les plus diverses, en répondant aux requêtes formulées de vive voix ou par téléphone. Il remplace la direction de l'hôtel et trouve r
+
+PHRASES CLES
+- Veilleur de nuit
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- nuit
+- clients
+- veilleur
+- reception
+- hotel
+- fonction
+- receptionniste
+- assure
+- accueil
+- permanence
+- pendant
+- toute
+- principale
+- surveiller
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Veilleur de nuit. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Veilleur de nuit. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Consultant en voyages éthiques (score chemin commun=2)
+- Accompagnateur de montagne (score chemin commun=2)
+- Cuisiniste (score chemin commun=2)
+- Administrateur des monuments historiques (score chemin commun=2)
+- Majordome (score chemin commun=2)
+- Équipier en restaurant rapide (score chemin commun=2)
+- Concierge d’hôtel (score chemin commun=2)
+- Sommelier (score chemin commun=2)
+- Plongeur (score chemin commun=2)
+- Lingère (score chemin commun=2)
+- Gouvernante (score chemin commun=2)
+- Organisateur de conférence (score chemin commun=1)
+- Pizzaïolo (score chemin commun=1)
+- Directeur Restauration rapide (score chemin commun=1)
+- Commis de cuisine (score chemin commun=1)
+- Responsable conférences et banquets (score chemin commun=1)
+- Agent thermal (score chemin commun=1)
+- Acheteur dans la mode (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Veilleur de nuit. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Veilleur de nuit, la progression a ete plus rapide quand j'ai renforce Veilleur de nuit. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Veilleur de nuit demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

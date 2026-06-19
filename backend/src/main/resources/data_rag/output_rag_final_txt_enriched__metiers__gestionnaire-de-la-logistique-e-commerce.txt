@@ -1,0 +1,185 @@
+METIER: Gestionnaire de la logistique e-commerce
+CODE: GESTIONNAIRE_DE_LA_LOGISTIQUE_E_COMMERCE
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Gestionnaire de la logistique e-commerce Le Gestionnaire de la logistique e-commerce est un professionnel chargé de superviser et d'optimiser la gestion des flux de marchandises dans le cadre des activités d'une entreprise opérant dans le secteur du commerce électronique. Son rôle consiste à planifier, coordonner et exécuter les différentes étapes de la chaîne logistique, depuis la réception des commandes en ligne jusqu'à la livraison des produits chez les clients. Le gestionnaire de la logistique e-commerce doit assurer une gestion efficace des stocks, collaborer avec les fournisseurs et les transporteurs, ainsi qu'optimiser les processus de préparation des commandes. Il doit être réactif pour répondre aux fluctuations de la demande et s'assurer de la satisfaction des clients en garantissant des délais de livraison rapides et fiables. Pour exceller dans ce métier, des compétences en gestion, en logistique, en coordination et
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir
+2. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger
+3. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+4. Licence en Génie de la Logistique Aéronautique
+5. Système d'information marketing et commerce - ISGA El Jadida
+6. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra
+7. Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+8. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat
+9. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir
+10. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Kénitra
+11. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Tanger
+12. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Marrakech
+13. Diplôme accrédité en Management Stratégique des Entreprises option Commerce International (Type MASTER Bac+5)-SUP'RH
+14. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=65.2%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 65.2%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Tanger
+- Indicateurs: taux_reussite=65.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Tanger. Indicateurs du parcours: taux de reussite estime: 65.8%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Marrakech
+- Indicateurs: taux_reussite=85.1%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Marrakech. Indicateurs du parcours: taux de reussite estime: 85.1%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence en Génie de la Logistique Aéronautique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=84.3%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Génie de la Logistique Aéronautique. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 84.3%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Système d'information marketing et commerce - ISGA El Jadida
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion El Jadida
+- Indicateurs: taux_reussite=73.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Système d'information marketing et commerce - ISGA El Jadida. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion El Jadida. Indicateurs du parcours: taux de reussite estime: 73.4%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Kénitra
+- Indicateurs: taux_reussite=78.6%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Kénitra. Indicateurs du parcours: taux de reussite estime: 78.6%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=86.2%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 86.2%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=75.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 75.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=77.5%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 77.5%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Kénitra
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Kénitra
+- Indicateurs: taux_reussite=84.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Kénitra. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Kénitra. Indicateurs du parcours: taux de reussite estime: 84.9%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Tanger
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Tanger
+- Indicateurs: taux_reussite=83.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Tanger. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Tanger. Indicateurs du parcours: taux de reussite estime: 83.8%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Marrakech
+- Indicateurs: taux_reussite=69.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Marrakech. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Marrakech. Indicateurs du parcours: taux de reussite estime: 69.9%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Diplôme accrédité en Management Stratégique des Entreprises option Commerce International (Type MASTER Bac+5)-SUP'RH
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=74.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme accrédité en Management Stratégique des Entreprises option Commerce International (Type MASTER Bac+5)-SUP'RH. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 74.4%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=88.5%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de la logistique e-commerce. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 88.5%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Chargé d’affaires bancaires en commerce international (score_chemin_commun=13)
+- Conseiller clientèle (score_chemin_commun=3)
+- Agent service client (score_chemin_commun=3)
+- Consultant en optimisation de la chaîne logistique (score_chemin_commun=2)
+- Coordinateur Logistique (score_chemin_commun=2)
+- Ingénieur(e) Aéronautique (score_chemin_commun=1)
+- Spécialiste marketing digital (score_chemin_commun=1)
+- Animateur logistique (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+
+PHRASES CLES
+- Gestionnaire de la logistique e-commerce
+- secteur Métier du commerce et vente
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+- filiere Licence en Génie de la Logistique Aéronautique
+- filiere Système d'information marketing et commerce - ISGA El Jadida
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra
+- filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat
+- logistique
+- commerce
+- gestionnaire
+- gestion
+- optimiser
+- commandes
+- livraison
+- clients
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Gestionnaire de la logistique e-commerce
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir, Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger, j'ai choisi le metier de Gestionnaire de la logistique e-commerce. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Gestionnaire de la logistique e-commerce
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Gestionnaire de la logistique e-commerce, la progression a ete plus rapide quand j'ai renforce Gestionnaire de la logistique e-commerce. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Gestionnaire de la logistique e-commerce
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Gestionnaire de la logistique e-commerce demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

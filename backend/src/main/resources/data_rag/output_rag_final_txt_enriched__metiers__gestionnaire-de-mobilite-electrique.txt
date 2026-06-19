@@ -1,0 +1,73 @@
+METIER: Gestionnaire de mobilité électrique
+CODE: GESTIONNAIRE_DE_MOBILITE_ELECTRIQUE
+SECTEUR: Métiers de l’électrique
+
+DESCRIPTION
+Gestionnaire de mobilité électrique Le gestionnaire de mobilité électrique est un métier d'avenir plus durable et éco-responsable dans le domaine des transports. Ce professionnel joue un rôle central dans la promotion et la gestion de l'utilisation des véhicules électriques et des infrastructures de recharge. Sa mission est d'élaborer des stratégies pour développer un réseau de bornes de recharge efficace et accessible, tout en encourageant l'adoption des véhicules électriques. Il analyse les besoins des utilisateurs, planifie l'implantation des bornes de recharge, et élabore des politiques pour faciliter la transition vers une mobilité électrique plus large. Le Gestionnaire de Mobilité Électrique est à la croisée de l'urbanisme, de la technologie et de la durabilité, contribuant à réduire les émissions de carbone et à façonner un avenir de déplacement plus respectueux de l'environnement. Bac + 3 Niveau d'études 8.000 MAD Rémunéra
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de mobilité électrique. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien de maintenance de véhicule électrique (score_chemin_commun=1)
+
+PHRASES CLES
+- Gestionnaire de mobilité électrique
+- secteur Métiers de l’électrique
+- filiere Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués
+- mobilite
+- electrique
+- gestionnaire
+- recharge
+- avenir
+- vehicules
+- electriques
+- bornes
+- durable
+- responsable
+- domaine
+- transports
+- professionnel
+- joue
+- role
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Gestionnaire de mobilité électrique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués, j'ai choisi le metier de Gestionnaire de mobilité électrique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Gestionnaire de mobilité électrique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Gestionnaire de mobilité électrique, la progression a ete plus rapide quand j'ai renforce Gestionnaire de mobilité électrique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Gestionnaire de mobilité électrique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Gestionnaire de mobilité électrique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

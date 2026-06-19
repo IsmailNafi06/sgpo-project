@@ -1,0 +1,11 @@
+﻿METIER: Developpeur mobile
+CODE: DEVELOPPEUR_MOBILE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Systemes Digitaux et Cybersecurite - ENSIAS Rabat
+- Technicien Specialise Developpement Digital - ISTA Casablanca
+
+TEMOIGNAGE
+Sara, promotion 2021 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Developpeur mobile. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."

@@ -1,0 +1,69 @@
+METIER: Technicien supérieur de l’aviation
+CODE: TECHNICIEN_SUPERIEUR_DE_LAVIATION
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Technicien supérieur de l’aviation Le technicien supérieur de l'aviation effectue des mission de contrôle sur les aéronefs. Il est chargé de vérifier leur bon fonctionnement en se basant sur la réglementation des autorités aéronautiques et sur celle des constructeurs. Le TSA “fonctionnaire” peut exercer son métier sur le terrain comme dans les services administratifs de la Direction Générale de l’Aviation Civile (DGAC). Quelques postes sont également disponibles à Météo France. Le TSA “civil” travaille dans les compagnies aériennes, des sociétés gestionnaires d’aéroports ou encore des sociétés d’assistance en escale. Grâce à des concours internes, l’évolution vers des postes d’ingénieur et de contrôleur aérien est envisageable. Bac + 3 Niveau d'études 4.500 MAD Rémunération 3 ans Expérience Missions principales Réaliser des visites de maintenance sur les appareils S’assurer du bon fonctionnement des équipements mécaniques, électriq
+
+PHRASES CLES
+- Technicien supérieur de l’aviation
+- secteur Métiers de la production et l’industrialisation
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- filiere Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger
+- technicien
+- superieur
+- laviation
+- fonctionnement
+- postes
+- societes
+- aviation
+- effectue
+- mission
+- controle
+- aeronefs
+- charge
+- verifier
+- basant
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Technicien supérieur de l’aviation. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Tanger, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger. Cette filiere ouvre un debouche direct vers le metier Technicien supérieur de l’aviation. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Tanger, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Technicien de maintenance d’éoliennes (score chemin commun=1)
+- Spécialiste de la conservation de l’eau (score chemin commun=1)
+- Expert en chauffage solaire (score chemin commun=1)
+- Ingénieur en conception de systèmes énergétiques durables (score chemin commun=1)
+- Technicien en traitement de l’eau pour l’électrolyse de l’hydrogène (score chemin commun=1)
+- Expert en évaluation de l’empreinte carbone de l’hydrogène vert (score chemin commun=1)
+- Technicien en maintenance des systèmes de distribution d’hydrogène (score chemin commun=1)
+- Gestionnaire de projet pour la construction d’usines de production d’hydrogène (score chemin commun=1)
+- Ingénieur en conception de systèmes de stockage d’hydrogène solide (score chemin commun=1)
+- Responsable des opérations de production d’hydrogène vert (score chemin commun=1)
+- Ingénieur en conversion d’énergie pour les piles à combustible (score chemin commun=1)
+- Technicien en maintenance des piles à combustible (score chemin commun=1)
+- Architecte de systèmes de production d’hydrogène vert (score chemin commun=1)
+- Ingénieur en systèmes de stockage d’hydrogène comprimé (score chemin commun=1)
+- Technicien en électrolyse alcaline (score chemin commun=1)
+- Technicien plasturgiste (score chemin commun=1)
+- Électro (score chemin commun=1)
+- Eco-concepteur de produits plastiques et composites (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+- Architecte en énergies renouvelables (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en NTIC – Énergies renouvelables, Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger, j'ai choisi le metier de Technicien supérieur de l’aviation. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien supérieur de l’aviation, la progression a ete plus rapide quand j'ai renforce Technicien supérieur de l’aviation. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien supérieur de l’aviation demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

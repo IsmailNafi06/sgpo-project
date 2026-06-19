@@ -1,0 +1,72 @@
+METIER: Concierge d’hôtel
+CODE: CONCIERGE_DHOTEL
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Concierge d’hôtel Le concierge d'hôtel est un métier exigeant mais très passionnant. Ce dernier a pour principales missions d’accueillir, de renseigner et de conseiller la clientèle tout au long de son séjour à l'hôtel. Il veille au bon déroulement du service rendu aux clients et à la satisfaction de toutes leurs demandes, quelle que soit leur nature. Il est un bon observateur puisqu'il mémorise les habitudes et les préférences de la clientèle afin d'établir une base de données des clients qui lui permet de coordonner le travail de l'équipe de la réception et du hall, en vue de satisfaire au mieux leurs attentes. La fonction du concierge d'hôtel le met en contact direct et continu avec tout le personnel de l'hôtel, il se charge de la gestion des relations avec les prestataires de services externes à l'hôtel. Il est également amené à assister constamment aux expositions et spectacles, et participer aux séminaires et salons professionnels. Bac + 2 Ni
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Arts culinaires
+2. Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Concierge d’hôtel. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Concierge d’hôtel. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Consultant en voyages éthiques (score_chemin_commun=2)
+- Accompagnateur de montagne (score_chemin_commun=2)
+- Cuisiniste (score_chemin_commun=2)
+- Administrateur des monuments historiques (score_chemin_commun=2)
+- Majordome (score_chemin_commun=2)
+- Équipier en restaurant rapide (score_chemin_commun=2)
+- Veilleur de nuit (score_chemin_commun=2)
+- Sommelier (score_chemin_commun=2)
+- Plongeur (score_chemin_commun=2)
+- Lingère (score_chemin_commun=2)
+- Gouvernante (score_chemin_commun=2)
+- Organisateur de conférence (score_chemin_commun=1)
+- Pizzaïolo (score_chemin_commun=1)
+- Directeur Restauration rapide (score_chemin_commun=1)
+- Commis de cuisine (score_chemin_commun=1)
+- Responsable conférences et banquets (score_chemin_commun=1)
+- Agent thermal (score_chemin_commun=1)
+- Acheteur dans la mode (score_chemin_commun=1)
+
+PHRASES CLES
+- Concierge d’hôtel
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- hotel
+- concierge
+- clientele
+- clients
+- dhotel
+- exigeant
+- passionnant
+- dernier
+- principales
+- missions
+- daccueillir
+- renseigner
+- conseiller
+- long
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Concierge d’hôtel. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Concierge d’hôtel, la progression a ete plus rapide quand j'ai renforce Concierge d’hôtel. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Concierge d’hôtel demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

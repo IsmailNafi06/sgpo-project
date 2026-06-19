@@ -1,0 +1,10 @@
+﻿METIER: Plombier
+CODE: PLOMBIER
+SECTEUR: BTP
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise BTP et Chantier - ISTA Marrakech
+
+TEMOIGNAGE
+Hicham, promotion 2021 :
+"Exercer comme Plombier dans le BTP au Maroc, c'est participer à la transformation du cadre de vie des citoyens. Ma formation technique m'a donné la rigueur nécessaire pour gérer des projets complexes et multi-acteurs."

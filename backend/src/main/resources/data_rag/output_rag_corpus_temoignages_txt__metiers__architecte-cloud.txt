@@ -1,0 +1,9 @@
+METIER: Architecte Cloud
+CODE: ARCHITECTE_CLOUD
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénierie Systèmes Cloud, Ingénierie Systèmes Cloud, j'ai choisi le metier de Architecte Cloud. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Architecte Cloud, la progression a ete plus rapide quand j'ai renforce Architecte Cloud. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Architecte Cloud demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

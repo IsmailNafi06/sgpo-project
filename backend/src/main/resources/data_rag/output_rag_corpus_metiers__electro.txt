@@ -1,0 +1,69 @@
+METIER: Électro
+CODE: ELECTRO
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Électro Le métier d'électro, également connu sous le nom de chef électricien, est une profession clé dans l'industrie cinématographique et télévisuelle, jouant un rôle essentiel dans la création de l'ambiance lumineuse souhaitée par le réalisateur. Les électros travaillent en étroite collaboration avec le directeur de la photographie et le réalisateur pour planifier et exécuter l'éclairage de chaque scène, en s'assurant que la lumière contribue à la narration visuelle de manière artistique et technique. Une des principales responsabilités des électros est de planifier l'éclairage en fonction de la vision artistique de la production. Ils étudient le scénario, discutent des attentes avec le réalisateur et le directeur de la photographie, et effectuent des repérages pour évaluer les besoins en éclairage. Une fois le plan établi, ils procèdent à l'installation des équipements, incluant projecteurs, filtres, réflecteurs, et autres accessoires nécessaires pour cré
+
+PHRASES CLES
+- Électro
+- secteur Métiers art et design
+- filiere Master Tourisme Culturel et Valorisation du Patrimoine
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- realisateur
+- eclairage
+- electros
+- directeur
+- photographie
+- planifier
+- artistique
+- egalement
+- connu
+- sous
+- chef
+- electricien
+- profession
+- industrie
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Tourisme Culturel et Valorisation du Patrimoine
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Tourisme Culturel et Valorisation du Patrimoine. Cette filiere ouvre un debouche direct vers le metier Électro. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Électro. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Monteur (score chemin commun=1)
+- Chef monteur (score chemin commun=1)
+- Assistant monteur (score chemin commun=1)
+- Directeur de la photographie (score chemin commun=1)
+- Étalonneur (score chemin commun=1)
+- Monteur son (score chemin commun=1)
+- Scénariste pour cinéma et séries (score chemin commun=1)
+- Assistant à la réalisation (score chemin commun=1)
+- Designer de jardins verticaux (score chemin commun=1)
+- Stratège Tendances Mode (score chemin commun=1)
+- Technicien de maintenance d’éoliennes (score chemin commun=1)
+- Spécialiste de la conservation de l’eau (score chemin commun=1)
+- Expert en chauffage solaire (score chemin commun=1)
+- Ingénieur en conception de systèmes énergétiques durables (score chemin commun=1)
+- Technicien en traitement de l’eau pour l’électrolyse de l’hydrogène (score chemin commun=1)
+- Expert en évaluation de l’empreinte carbone de l’hydrogène vert (score chemin commun=1)
+- Technicien en maintenance des systèmes de distribution d’hydrogène (score chemin commun=1)
+- Gestionnaire de projet pour la construction d’usines de production d’hydrogène (score chemin commun=1)
+- Ingénieur en conception de systèmes de stockage d’hydrogène solide (score chemin commun=1)
+- Responsable des opérations de production d’hydrogène vert (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Tourisme Culturel et Valorisation du Patrimoine, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Électro. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Électro, la progression a ete plus rapide quand j'ai renforce Électro. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Électro demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

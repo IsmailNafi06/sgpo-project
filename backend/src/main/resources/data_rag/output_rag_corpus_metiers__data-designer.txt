@@ -1,0 +1,66 @@
+METIER: Data designer
+CODE: DATA_DESIGNER
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Data designer Le métier de Data Designer, également appelé didactique visuelle, est une profession émergente qui se situe à l'intersection du design, de l'analyse de données et de la communication visuelle. Les Data Designers sont chargés de transformer des données complexes en visualisations claires, compréhensibles et esthétiquement engageantes. Leur rôle essentiel est de rendre l'information visuelle accessible au grand public et de faciliter la prise de décision informée. Les Data Designers commencent leur travail en comprenant les objectifs spécifiques du projet et les messages clés que les données doivent communiquer. Ils travaillent souvent en étroite collaboration avec des analystes de données, des chercheurs ou des experts métier pour garantir une compréhension approfondie des informations à représenter. Une fois les données en main, ils utilisent une variété d'outils, tels que des logiciels de conception graphique et des langages de programma
+
+PHRASES CLES
+- Data designer
+- secteur Métiers de l’informatique et système d’information
+- filiere Master en Data Science et Intelligence Artificielle
+- filiere Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3)
+- filiere Master Business Analytics & Data Science
+- filiere Licence Professionnelle d'Université Data Science Appliquée en Management et Economie (DSAME) FSJES Marrakech
+- donnees
+- data
+- visuelle
+- designer
+- designers
+- egalement
+- appele
+- didactique
+- profession
+- emergente
+- situe
+- intersection
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master en Data Science et Intelligence Artificielle
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données Taroudant, Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=67.3%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Data Science et Intelligence Artificielle. Cette filiere ouvre un debouche direct vers le metier Data designer. Le chemin est relie a Ecole Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données Taroudant, Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 67.3%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3)
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=65.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3). Cette filiere ouvre un debouche direct vers le metier Data designer. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 65.4%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Master Business Analytics & Data Science
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat
+- Indicateurs: taux_reussite=75.2%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Business Analytics & Data Science. Cette filiere ouvre un debouche direct vers le metier Data designer. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat. Indicateurs du parcours: taux de reussite estime: 75.2%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence Professionnelle d'Université Data Science Appliquée en Management et Economie (DSAME) FSJES Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=72.3%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Professionnelle d'Université Data Science Appliquée en Management et Economie (DSAME) FSJES Marrakech. Cette filiere ouvre un debouche direct vers le metier Data designer. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 72.3%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Data Analyst Supply Chain (score chemin commun=4)
+- Spécialiste en gestion de l’intelligence artificielle éthique (score chemin commun=1)
+- Ingénieur en intelligence énergétique (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master en Data Science et Intelligence Artificielle, Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3), j'ai choisi le metier de Data designer. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Data designer, la progression a ete plus rapide quand j'ai renforce Data designer. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Data designer demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

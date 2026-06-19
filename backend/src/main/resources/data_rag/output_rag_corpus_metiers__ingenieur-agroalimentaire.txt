@@ -1,0 +1,14 @@
+﻿METIER: Ingenieur agroalimentaire
+CODE: INGENIEUR_AGROALIMENTAIRE
+SECTEUR: Agroalimentaire
+
+FORMATIONS QUI Y MENENT
+- Cycle d'ingenieur en Agroalimentaire
+- Ingenieur en Agro-Industrie - Agriculture, Environnement et Gestion des Ressources
+- Ingenieur en Agro-Industrie - Marches, Filieres et Management d'Entreprises
+- Ingenieur en Agro-Industrie - Territoires et Developpement Rural
+- Ingenieur en Industries Agricoles et Alimentaires - FST Fes Sais
+
+TEMOIGNAGE
+Houda, promotion 2021 :
+"Exercer comme Ingenieur agroalimentaire au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

@@ -1,0 +1,10 @@
+﻿METIER: Agent communal
+CODE: AGENT_COMMUNAL
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Imane, promotion 2023 :
+"Mon parcours en droit des affaires m'a préparé à exercer comme Agent communal. Au Maroc, ce secteur est en pleine structuration et les opportunités se multiplient, notamment dans les grandes entreprises et les cabinets."

@@ -1,0 +1,9 @@
+METIER: Technicien en gestion des déchets
+CODE: TECHNICIEN_EN_GESTION_DES_DECHETS
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, Passerelle sectorielle vers Technicien en gestion des déchets, j'ai choisi le metier de Technicien en gestion des déchets. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien en gestion des déchets, la progression a ete plus rapide quand j'ai renforce Technicien en gestion des déchets. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien en gestion des déchets demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Gestionnaire de projet pour la construction d'usines de production d'hydrogene
+CODE: GESTIONNAIRE_DE_PROJET_POUR_LA_CONSTRUCTION_DUSINE
+SECTEUR: Metiers des energies renouvelables
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en NTIC - Energies renouvelables
+
+TEMOIGNAGE
+Sara, promotion 2022 :
+"Travailler comme Gestionnaire de projet pour la construction d'usines de production d'hydrogene dans le secteur des énergies renouvelables au Maroc, c'est participer à un chantier d'avenir. Ma formation m'a appris à conjuguer expertise technique et conscience environnementale."

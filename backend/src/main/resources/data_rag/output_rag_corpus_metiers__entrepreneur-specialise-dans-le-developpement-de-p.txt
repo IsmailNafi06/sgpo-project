@@ -1,0 +1,10 @@
+﻿METIER: Entrepreneur specialise dans le developpement de projets d'hydrogene
+CODE: ENTREPRENEUR_SPECIALISE_DANS_LE_DEVELOPPEMENT_DE_P
+SECTEUR: Metiers des energies renouvelables
+
+FORMATIONS QUI Y MENENT
+- Master Specialise en Metiers du Conseil & Encadrement superieur - ENCG Tanger
+
+TEMOIGNAGE
+Zineb, promotion 2023 :
+"Diplômé en génie électrique spécialisé en énergies renouvelables, j'ai rejoint un grand projet solaire comme Entrepreneur specialise dans le developpement de projets d'hydrogene. Le Maroc est un leader africain en énergie verte et les opportunités pour les ingénieurs du secteur sont excellentes."

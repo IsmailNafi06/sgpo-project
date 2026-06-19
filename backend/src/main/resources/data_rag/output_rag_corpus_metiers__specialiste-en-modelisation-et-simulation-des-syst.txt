@@ -1,0 +1,11 @@
+﻿METIER: Specialiste en modelisation et simulation des systemes d'hydrogene
+CODE: SPECIALISTE_EN_MODELISATION_ET_SIMULATION_DES_SYST
+SECTEUR: Metiers de l'electrique
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en NTIC - Energies renouvelables
+- MBA Management de la Cybersecurite et Gouvernance des Systemes d'Information (MaCYB)
+
+TEMOIGNAGE
+Amina, promotion 2023 :
+"Mon BTS en électrotechnique m'a donné les bases pour exercer comme Specialiste en modelisation et simulation des systemes d'hydrogene. Ce qui me plaît dans ce métier, c'est la diversité des interventions et la satisfaction de voir les installations fonctionner correctement."

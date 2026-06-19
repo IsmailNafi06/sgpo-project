@@ -1,0 +1,10 @@
+﻿METIER: Assistant juridique
+CODE: ASSISTANT_JURIDIQUE
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Fatima, promotion 2024 :
+"Exercer comme Assistant juridique au Maroc demande une veille juridique constante. Ma formation universitaire en droit m'a inculqué cette habitude de recherche et d'analyse qui est devenue ma force professionnelle."

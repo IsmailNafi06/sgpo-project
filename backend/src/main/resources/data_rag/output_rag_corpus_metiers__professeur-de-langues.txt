@@ -1,0 +1,10 @@
+﻿METIER: Professeur de langues
+CODE: PROFESSEUR_DE_LANGUES
+SECTEUR: Education et culture
+
+FORMATIONS QUI Y MENENT
+- Licence Education Culture et Documentation - FLSH Rabat
+
+TEMOIGNAGE
+Hajar, promotion 2022 :
+"Exercer comme Professeur de langues dans le domaine culturel au Maroc, c'est s'inscrire dans une dynamique de valorisation du patrimoine et de promotion de la création contemporaine. Ma formation en lettres et arts m'a donné les clés pour y contribuer."

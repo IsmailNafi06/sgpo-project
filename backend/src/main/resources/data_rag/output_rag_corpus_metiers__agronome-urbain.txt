@@ -1,0 +1,61 @@
+METIER: Agronome urbain
+CODE: AGRONOME_URBAIN
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Agronome urbain L'agronome urbain est un professionnel spécialisé dans la gestion et la promotion de l'agriculture en milieu urbain. Son rôle consiste à développer des solutions agricoles durables au sein des espaces urbains, contribuant ainsi à la sécurité alimentaire locale, à l'amélioration de la qualité de l'environnement et à la création de communautés résilientes. Les agronomes urbains collaborent avec des urbanistes, des ingénieurs, des éco-conseillers et des organismes gouvernementaux pour concevoir et mettre en œuvre des projets agricoles en milieu urbain, tels que les jardins communautaires, les toits verts, les fermes verticales et les espaces de culture en conteneurs. Ils évaluent également l'impact environnemental, économique et social de ces projets tout en veillant à ce qu'ils répondent aux besoins spécifiques de la population locale et aux contraintes urbaines. Bac + 5 Niveau d'études 8.000 MAD Rémunération 3 ans Expérience Missions p
+
+PHRASES CLES
+- Agronome urbain
+- secteur Métiers des BTP et Construction
+- filiere DUT Genie Civil - EST Casablanca
+- urbain
+- agronome
+- milieu
+- agricoles
+- espaces
+- urbains
+- locale
+- projets
+- professionnel
+- specialise
+- gestion
+- promotion
+- agriculture
+- role
+- consiste
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Agronome urbain. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Conducteur de travaux BTP (score chemin commun=1)
+- Gestionnaire de projets urbains intelligents (score chemin commun=1)
+- Designer d’Éclairage Intelligent (score chemin commun=1)
+- Designer de mobilier durable (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+- Chef de projet en construction durable (score chemin commun=1)
+- Designer d’intérieur écologique (score chemin commun=1)
+- Planificateur de transport en commun (score chemin commun=1)
+- Designer d’espaces verts urbains (score chemin commun=1)
+- Planificateur de quartiers résilients (score chemin commun=1)
+- Expert en architecture bioclimatique urbaine (score chemin commun=1)
+- Concepteur de parcours piétonniers (score chemin commun=1)
+- Analyste en transport et mobilité urbaine (score chemin commun=1)
+- Expert en maintenance prédictive des infrastructures de transport (score chemin commun=1)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=1)
+- Manager d’exploitation ferroviaire (score chemin commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score chemin commun=1)
+- Ingénieur structure bois (score chemin commun=1)
+- Ingenieur BTP (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Agronome urbain. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Agronome urbain, la progression a ete plus rapide quand j'ai renforce Agronome urbain. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Agronome urbain demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

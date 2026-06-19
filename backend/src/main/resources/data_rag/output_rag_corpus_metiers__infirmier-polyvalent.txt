@@ -1,0 +1,96 @@
+METIER: Infirmier polyvalent
+CODE: INFIRMIER_POLYVALENT
+SECTEUR: Sante
+
+DESCRIPTION
+Prise en charge clinique et suivi patient en milieu de soins.
+
+PHRASES CLES
+- Infirmier polyvalent
+- secteur Sante
+- filiere Licence en Soins Infirmiers
+- filiere Licence en Sciences Infirmieres - ISPITS Rabat
+- prise
+- charge
+- clinique
+- suivi
+- patient
+- milieu
+- soins
+- prise charge
+- charge clinique
+- clinique suivi
+- suivi patient
+- patient milieu
+- milieu soins
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence en Soins Infirmiers
+- Prerequis: Non precise
+- Etablissements: ISPITS Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Soins Infirmiers. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a ISPITS Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence en Soins Infirmiers
+- Prerequis: Non precise
+- Etablissements: ISPITS Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Soins Infirmiers. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a ISPITS Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence en Soins Infirmiers
+- Prerequis: Non precise
+- Etablissements: ISPITS Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Soins Infirmiers. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a ISPITS Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence en Soins Infirmiers
+- Prerequis: Non precise
+- Etablissements: ISPITS Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Soins Infirmiers. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a ISPITS Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Licence en Soins Infirmiers
+- Prerequis: Non precise
+- Etablissements: ISPITS Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Soins Infirmiers. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a ISPITS Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Licence en Soins Infirmiers
+- Prerequis: Non precise
+- Etablissements: ISPITS Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Soins Infirmiers. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a ISPITS Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Licence en Soins Infirmiers
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Soins Infirmiers. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Licence en Sciences Infirmieres - ISPITS Rabat
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: taux_reussite=74.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Sciences Infirmieres - ISPITS Rabat. Cette filiere ouvre un debouche direct vers le metier Infirmier polyvalent. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: taux de reussite estime: 74.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Gestionnaire de la chaîne d’approvisionnement alimentaire (score chemin commun=1)
+- Technologue alimentaire (score chemin commun=1)
+- Maître-composteur (score chemin commun=1)
+- Chargé de développement agricole en circuit court (score chemin commun=1)
+- Ingénieur(e) en analyse de l’air (score chemin commun=1)
+- Conseiller en agro-développement international (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Soins Infirmiers, Licence en Soins Infirmiers, j'ai choisi le metier de Infirmier polyvalent. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Infirmier polyvalent, la progression a ete plus rapide quand j'ai renforce Infirmier polyvalent. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Infirmier polyvalent demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

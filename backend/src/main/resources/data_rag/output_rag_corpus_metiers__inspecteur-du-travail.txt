@@ -1,0 +1,10 @@
+﻿METIER: Inspecteur du travail
+CODE: INSPECTEUR_DU_TRAVAIL
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Amine, promotion 2021 :
+"Après ma licence en droit à l'Université Mohammed V, j'ai suivi une spécialisation qui m'a conduit vers le métier de Inspecteur du travail. La rigueur juridique acquise durant mes études est au cœur de mon travail quotidien."

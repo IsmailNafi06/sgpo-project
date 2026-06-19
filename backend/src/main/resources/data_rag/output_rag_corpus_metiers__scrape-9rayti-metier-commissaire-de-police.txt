@@ -1,0 +1,10 @@
+﻿METIER: Commissaire De Police
+CODE: SCRAPE_9RAYTI_METIER_COMMISSAIRE_DE_POLICE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Chaimae, promotion 2021 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Commissaire De Police dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

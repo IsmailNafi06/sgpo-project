@@ -1,0 +1,73 @@
+METIER: Chef de projet supply chain
+CODE: CHEF_DE_PROJET_SUPPLY_CHAIN
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Chef de projet supply chain Le chef de projet supply chain est responsable de l'organisation et des méthodes associés aux processus d'approvisionnement et d'expédition des produits entre les fournisseurs, l'enseigne et les clients. Le chef de projet supply chain est responsable de l'organisation et des méthodes associés aux processus d'approvisionnement et d'expédition des produits entre les fournisseurs, l'enseigne et les clients. Il joue également un rôle d'interface entre la supply chain et le service informatique. Une première expérience dans la conduite de projet logistique est nécessaire pour accéder à ce métier. Une formation spécialisée est de plus en plus requise, de type BTS logistique voire un diplôme d'ingénieur ou masters spécialisés (management des systèmes logistiques, conduite de projets et logistique, …) Bac + 4 Niveau d'études 12.000 MAD Rémunération 3 ans Expérience Missions principales Optimiser les flux entrants et so
+
+FORMATIONS QUI MENENT AU METIER
+1. Master Supply Chain Management
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master Supply Chain Management
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Supply Chain Management. Cette filiere ouvre un debouche direct vers le metier Chef de projet supply chain. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Chef de projet supply chain
+- secteur Métiers achats et approvisionnement
+- filiere Master Supply Chain Management
+- projet
+- supply
+- chain
+- chef
+- logistique
+- responsable
+- organisation
+- methodes
+- associes
+- processus
+- approvisionnement
+- expedition
+- produits
+- fournisseurs
+- enseigne
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Chef de projet supply chain
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Supply Chain Management, j'ai choisi le metier de Chef de projet supply chain. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Chef de projet supply chain
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chef de projet supply chain, la progression a ete plus rapide quand j'ai renforce Chef de projet supply chain. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Chef de projet supply chain
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chef de projet supply chain demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,91 @@
+METIER: Designer de mobilier durable
+CODE: DESIGNER_DE_MOBILIER_DURABLE
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Designer de mobilier durable Le designer de mobilier durable incarne l'union harmonieuse entre créativité et responsabilité environnementale. En tant qu'artisan moderne, ce professionnel conçoit des pièces de mobilier fonctionnelles et esthétiquement plaisantes, tout en intégrant des principes de durabilité à chaque étape du processus. À travers une combinaison de compétences en design industriel, en matériaux éco-responsables et en ergonomie, cet expert transforme des idées en objets tangibles qui transcendent les tendances éphémères. En respectant les normes écologiques et en favorisant la réutilisation, le recyclage et la réduction des déchets, les designers de mobilier durable participent activement à la préservation de notre planète. Son rôle dépasse les frontières du simple design pour englober une vision globale de l'innovation responsable, tout en inspirant la prochaine génération d'étudiants à façonner un avenir plus durable et
+
+FORMATIONS QUI MENENT AU METIER
+1. DUT Genie Civil - EST Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Designer de mobilier durable. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Gestionnaire de projets urbains intelligents (score_chemin_commun=1)
+- Designer d’Éclairage Intelligent (score_chemin_commun=1)
+- Architecte en conception bioclimatique (score_chemin_commun=1)
+- Chef de projet en construction durable (score_chemin_commun=1)
+- Agronome urbain (score_chemin_commun=1)
+- Designer d’intérieur écologique (score_chemin_commun=1)
+- Planificateur de transport en commun (score_chemin_commun=1)
+- Designer d’espaces verts urbains (score_chemin_commun=1)
+- Planificateur de quartiers résilients (score_chemin_commun=1)
+- Expert en architecture bioclimatique urbaine (score_chemin_commun=1)
+- Concepteur de parcours piétonniers (score_chemin_commun=1)
+- Analyste en transport et mobilité urbaine (score_chemin_commun=1)
+- Expert en maintenance prédictive des infrastructures de transport (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Manager d’exploitation ferroviaire (score_chemin_commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score_chemin_commun=1)
+- Ingénieur structure bois (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+
+PHRASES CLES
+- Designer de mobilier durable
+- secteur Métiers des BTP et Construction
+- filiere DUT Genie Civil - EST Casablanca
+- mobilier
+- durable
+- designer
+- design
+- incarne
+- union
+- harmonieuse
+- creativite
+- responsabilite
+- environnementale
+- tant
+- artisan
+- moderne
+- professionnel
+- concoit
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Designer de mobilier durable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Designer de mobilier durable. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Designer de mobilier durable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Designer de mobilier durable, la progression a ete plus rapide quand j'ai renforce Designer de mobilier durable. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Designer de mobilier durable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Designer de mobilier durable demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

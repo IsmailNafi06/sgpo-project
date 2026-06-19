@@ -1,0 +1,62 @@
+METIER: Producteur multimédia
+CODE: PRODUCTEUR_MULTIMEDIA
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Producteur multimédia Le producteur multimédia est la personne qui décide de la faisabilité et donc, de la mise en marche d’un projet multimédia. Il se charge principalement du financement et gère la réalisation en fédérant les acteurs qui interviennent dans le processus de création. Il évalue l'intérêt d’un projet pour le public ainsi que les chances de rentabilité. Pour cela, il étudie le marché, établit un planning de production et un budget et trouve des sources de financement (sponsors, pouvoirs publics, privé…) avec comme objectifs de gagner un maximum de temps tout en réduisant les coûts. Le producteur a également un rôle de superviseur et veille à assurer la qualité artistique et technique du projet tout au long de sa réalisation. Il possède un droit de regard sur tous les aspects artistiques et administratifs liés au projet (contenu, forme, rentabilité, droit d'exploitation, etc.). Bac + 4 Niveau d'études 6.500 MAD Rémunération 4 ans E
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Producteur multimédia. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Producteur multimédia
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- projet
+- producteur
+- multimedia
+- marche
+- financement
+- realisation
+- rentabilite
+- droit
+- personne
+- decide
+- faisabilite
+- donc
+- mise
+- charge
+- principalement
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Producteur multimédia. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Producteur multimédia, la progression a ete plus rapide quand j'ai renforce Producteur multimédia. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Producteur multimédia demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,57 @@
+METIER: Conseiller en fusion acquisition
+CODE: CONSEILLER_EN_FUSION_ACQUISITION
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Conseiller en fusion acquisition Le conseiller en fusion acquisition, aussi appelé chargé d’affaires ou analyste en fusion-acquisition, a pour fonction d’accompagner les clients de son cabinet ou de sa banque dans le processus de développement de montages financiers complexes, comme la fusion, l’introduction en bourse, la vente ou encore le rachat de société. Il guide ses clients ou son entreprise dans la réalisation d’opérations financières complexes qu’il aura préalablement monté. Il effectue un véritable travail de recherche et de veille financière pour entreprendre les opérations les plus prometteuses et rentables pour son client ou son entreprise. Selon la politique économique et financière de son entreprise, le conseiller en fusion-acquisition doit trouver la société cible la plus adaptée, évaluer son prix et accompagner les instances dirigeantes tout au long du processus d’acquisition, de l’offre à l’absorption. Bac + 5 Niveau
+
+FORMATIONS QUI MENENT AU METIER
+1. BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION. Cette filiere ouvre un debouche direct vers le metier Conseiller en fusion acquisition. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien en contrôle qualité des électrolyseurs (score_chemin_commun=1)
+- Responsable de l’approvisionnement en électrolyseurs (score_chemin_commun=1)
+- Banquier itinérant (score_chemin_commun=1)
+- Risk manager bancaire (score_chemin_commun=1)
+- Analyste KYC (Know Your Customer) (score_chemin_commun=1)
+- Analyste gouvernance (score_chemin_commun=1)
+- Opérateur en private equity (score_chemin_commun=1)
+- Convoyeur de fonds (score_chemin_commun=1)
+- Inspecteur commercial (score_chemin_commun=1)
+- Chargé de clientèle particuliers (score_chemin_commun=1)
+- Spécialiste des opérations bancaires (score_chemin_commun=1)
+
+PHRASES CLES
+- Conseiller en fusion acquisition
+- secteur Métiers banque et assurance
+- filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- fusion
+- acquisition
+- conseiller
+- entreprise
+- clients
+- processus
+- complexes
+- societe
+- financiere
+- appele
+- charge
+- daffaires
+- analyste
+- fonction
+- daccompagner
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Conseiller en fusion acquisition. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Conseiller en fusion acquisition, la progression a ete plus rapide quand j'ai renforce Conseiller en fusion acquisition. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Conseiller en fusion acquisition demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

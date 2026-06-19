@@ -1,0 +1,73 @@
+METIER: Gestionnaire de projets urbains intelligents
+CODE: GESTIONNAIRE_DE_PROJETS_URBAINS_INTELLIGENTS
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Gestionnaire de projets urbains intelligents Le métier de gestionnaire de projets urbains intelligents est un rôle passionnant et en constante évolution dans le domaine de l'urbanisme et de la technologie. En tant que professionnel de ce domaine, vous seriez responsable de la conception, de la coordination et de la gestion de projets visant à rendre les villes plus intelligentes et plus durables. Votre principale mission en tant que gestionnaire de projets urbains intelligents serait de développer des initiatives innovantes pour améliorer la qualité de vie des citoyens et assurer une gestion efficace des ressources. Cela inclut la mise en place de solutions technologiques avancées telles que les systèmes de transport intelligents, la gestion des déchets, l'éclairage public intelligent, et bien plus encore. Vous travailleriez en étroite collaboration avec des équipes multidisciplinaires, comprenant des urbanistes, des ingé
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur Génie Civil
+2. DUT Genie Civil - EST Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de projets urbains intelligents. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de projets urbains intelligents. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Designer d’Éclairage Intelligent (score_chemin_commun=2)
+- Chef de projet en construction durable (score_chemin_commun=2)
+- Planificateur de quartiers résilients (score_chemin_commun=2)
+- Concepteur de parcours piétonniers (score_chemin_commun=2)
+- Analyste en transport et mobilité urbaine (score_chemin_commun=2)
+- Expert en maintenance prédictive des infrastructures de transport (score_chemin_commun=2)
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Designer de mobilier durable (score_chemin_commun=1)
+- Architecte en conception bioclimatique (score_chemin_commun=1)
+- Agronome urbain (score_chemin_commun=1)
+- Designer d’intérieur écologique (score_chemin_commun=1)
+- Planificateur de transport en commun (score_chemin_commun=1)
+- Designer d’espaces verts urbains (score_chemin_commun=1)
+- Expert en architecture bioclimatique urbaine (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Manager d’exploitation ferroviaire (score_chemin_commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score_chemin_commun=1)
+- Ingénieur structure bois (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+
+PHRASES CLES
+- Gestionnaire de projets urbains intelligents
+- secteur Métiers des BTP et Construction
+- filiere Ingénieur Génie Civil
+- filiere DUT Genie Civil - EST Casablanca
+- projets
+- intelligents
+- gestionnaire
+- urbains
+- gestion
+- domaine
+- tant
+- role
+- passionnant
+- constante
+- evolution
+- urbanisme
+- technologie
+- professionnel
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Gestionnaire de projets urbains intelligents. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Gestionnaire de projets urbains intelligents, la progression a ete plus rapide quand j'ai renforce Gestionnaire de projets urbains intelligents. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Gestionnaire de projets urbains intelligents demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

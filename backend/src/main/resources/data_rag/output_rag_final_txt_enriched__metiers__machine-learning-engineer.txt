@@ -1,0 +1,65 @@
+METIER: Machine Learning Engineer
+CODE: MACHINE_LEARNING_ENGINEER
+SECTEUR: Informatique
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Cycle Ingénieur IA et Machine Learning
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Cycle Ingénieur IA et Machine Learning
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Cycle Ingénieur IA et Machine Learning. Cette filiere ouvre un debouche direct vers le metier Machine Learning Engineer. Le chemin est relie a Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Machine Learning Engineer
+- secteur Informatique
+- filiere Cycle Ingénieur IA et Machine Learning
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Machine Learning Engineer
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Cycle Ingénieur IA et Machine Learning, j'ai choisi le metier de Machine Learning Engineer. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Machine Learning Engineer
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Machine Learning Engineer, la progression a ete plus rapide quand j'ai renforce Machine Learning Engineer. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Machine Learning Engineer
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Machine Learning Engineer demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

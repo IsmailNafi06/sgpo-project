@@ -1,0 +1,62 @@
+METIER: Iconographe
+CODE: ICONOGRAPHE
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Iconographe L’iconographe effectue des recherches auprès de différentes sources (archives publiques ou privées, musées, agences de photo, offices de tourisme, photographes ou illustrateurs indépendants…) et choisit les meilleures images pour illustrer le contenu d’un article, d’un livre... Son objectif est de véhiculer une information pertinente à la fois sur la forme et sur le fond. En collaboration avec le rédacteur en chef et le directeur artistique dans la presse ou avec l’éditeur ou les auteurs dans le secteur de l’édition, l’iconographe définit l’orientation visuelle à prendre. Bac + 2 Niveau d'études 4.400 MAD Rémunération 3 ans Expérience Missions principales Il lit le texte à illustrer. Éventuellement, il l’annote pour retrouver facilement les points à illustrer. Il se réunit avec le rédacteur en chef et le directeur artistique pour se mettre d’accord sur l’orientation visuelle. S’il travaille sur une couverture de roman, il peut aussi demander
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Iconographe. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Iconographe
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- illustrer
+- liconographe
+- redacteur
+- chef
+- directeur
+- artistique
+- lorientation
+- visuelle
+- effectue
+- recherches
+- aupres
+- differentes
+- sources
+- archives
+- publiques
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Iconographe. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Iconographe, la progression a ete plus rapide quand j'ai renforce Iconographe. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Iconographe demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

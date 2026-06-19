@@ -1,0 +1,10 @@
+﻿METIER: Teleconseiller
+CODE: TELECONSEILLER
+SECTEUR: Commerce et administration
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Commerce et Administration - ISTA Fes
+
+TEMOIGNAGE
+Ghita, promotion 2021 :
+"Après une école de commerce à Rabat, j'ai rejoint une entreprise de distribution en tant que Teleconseiller. Le taux d'employabilité des diplômés de commerce est supérieur à 85 % dans les six mois, et j'en suis la preuve."

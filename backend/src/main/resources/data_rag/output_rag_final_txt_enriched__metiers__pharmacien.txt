@@ -1,0 +1,161 @@
+METIER: Pharmacien
+CODE: PHARMACIEN
+SECTEUR: Metiers de la sante
+
+DESCRIPTION
+Exerce en officine, industrie ou hopital apres un doctorat en pharmacie.
+
+FORMATIONS QUI MENENT AU METIER
+1. Doctorat en Pharmacie - Faculte de Medecine et de Pharmacie de Rabat
+2. Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Errachidia
+3. Doctorat en Pharmacie - FM6P Casablanca
+4. Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Agadir
+5. Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Tanger
+6. Doctorat en Pharmacie - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+7. Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Laâyoune
+8. Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Béni Mellal
+9. Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Oujda
+10. Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Marrakech
+11. Doctorat en Pharmacie - FM6P Rabat
+12. Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Guelmim
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Doctorat en Pharmacie - Faculte de Medecine et de Pharmacie de Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculte de Medecine et de Pharmacie de Rabat. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Errachidia
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et Pharmacie Errachidia
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Errachidia. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et Pharmacie Errachidia. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Doctorat en Pharmacie - FM6P Casablanca
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Casablanca
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - FM6P Casablanca. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Casablanca. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Agadir
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Agadir
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Agadir. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Agadir. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Tanger
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et Pharmacie Tanger
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Tanger. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et Pharmacie Tanger. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Laâyoune
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Laâyoune
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Laâyoune. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Laâyoune. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Béni Mellal
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Béni Mellal
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Béni Mellal. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Béni Mellal. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Oujda
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Oujda
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Oujda. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Oujda. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Marrakech
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Marrakech
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Marrakech. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Marrakech. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Doctorat en Pharmacie - FM6P Rabat
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Rabat
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - FM6P Rabat. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Rabat. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Guelmim
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Guelmim
+- Indicateurs: taux_reussite=66.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Guelmim. Cette filiere ouvre un debouche direct vers le metier Pharmacien. Le chemin est relie a Faculté de Médecine et de Pharmacie Guelmim. Indicateurs du parcours: taux de reussite estime: 66.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Pharmacien de production (score_chemin_commun=12)
+
+PHRASES CLES
+- Pharmacien
+- secteur Metiers de la sante
+- filiere Doctorat en Pharmacie - Faculte de Medecine et de Pharmacie de Rabat
+- filiere Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Errachidia
+- filiere Doctorat en Pharmacie - FM6P Casablanca
+- filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Agadir
+- filiere Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Tanger
+- filiere Doctorat en Pharmacie - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+- filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Laâyoune
+- filiere Doctorat en Pharmacie - Faculté de Médecine et de Pharmacie Béni Mellal
+- exerce
+- officine
+- industrie
+- hopital
+- doctorat
+- pharmacie
+- exerce officine
+- officine industrie
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Pharmacien
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Doctorat en Pharmacie - Faculte de Medecine et de Pharmacie de Rabat, Doctorat en Pharmacie - Faculté de Médecine et Pharmacie Errachidia, j'ai choisi le metier de Pharmacien. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Pharmacien
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Pharmacien, la progression a ete plus rapide quand j'ai renforce Pharmacien. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Pharmacien
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Pharmacien demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

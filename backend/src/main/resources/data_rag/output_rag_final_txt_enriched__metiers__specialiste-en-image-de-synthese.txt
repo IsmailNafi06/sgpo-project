@@ -1,0 +1,88 @@
+METIER: Spécialiste en image de synthèse
+CODE: SPECIALISTE_EN_IMAGE_DE_SYNTHESE
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Spécialiste en image de synthèse Le spécialiste en image de synthèse est un infographiste qui crée des images produites entièrement par des moyens informatiques. Il crée ces images à partir d'un modèle et y ajoute un rendu. C'est donc lui qui imagine les environnements graphiques, les scènes ou images en se basant sur des descriptions et des représentations géométriques (réalisées par les spécialistes 3D par exemple). Une fois l'environnement créé, il est chargé de lui appliquer un rendu, c'est-à-dire, de lui donner vie. Pour ce faire, il va rendre l'image la plus réaliste possible, en haute qualité graphique. Son travail se base essentiellement sur des modèles en 3D mais il peut également traiter des images en 2D. Bac + 3 Niveau d'études 5.000 MAD Rémunération 2 ans Expérience Missions principales Créer des images produites entièrement par des moyens informatiques Imaginer les environnements graphiques et les scènes. Réaliser des mo
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Spécialiste en image de synthèse. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Spécialiste en image de synthèse
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- images
+- image
+- cree
+- specialiste
+- synthese
+- produites
+- entierement
+- moyens
+- informatiques
+- rendu
+- environnements
+- graphiques
+- scenes
+- infographiste
+- partir
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Spécialiste en image de synthèse
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Spécialiste en image de synthèse. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Spécialiste en image de synthèse
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Spécialiste en image de synthèse, la progression a ete plus rapide quand j'ai renforce Spécialiste en image de synthèse. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Spécialiste en image de synthèse
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Spécialiste en image de synthèse demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

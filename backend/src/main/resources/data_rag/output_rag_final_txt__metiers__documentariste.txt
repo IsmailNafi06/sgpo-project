@@ -1,0 +1,62 @@
+METIER: Documentariste
+CODE: DOCUMENTARISTE
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Documentariste Le Documentariste sonore ou visuel réalise des films documentaires pour la télévision ou le cinéma ou des reportages sonores. Il maîtrise les techniques cinématographiques et de prise de son. Un documentariste est un cinéaste spécialisé dans la réalisation de documentaires. Il supervise ou organise la réalisation et en maîtrise toutes les étapes: conception et écriture du projet, maîtrise des techniques de mise en scène, de prise de vue, de tournage et de montage, choix des équipes de techniciens et d'encadrement, choix des lieux de tournage et définition du plan de travail, gestion du budget. S'il est spécialisé dans les reportages sonores, son travail s'inspire de celui d'un preneur de son. Après avoir défini puis anglé son sujet, il fait les prises sonores puis le montage de ces dernières. Le documentariste peut travailler pour de multiples secteurs: cinéma, événementiel, publicité, information... Les structures qui l'emploie sont
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Documentariste. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Documentariste
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- sonores
+- maitrise
+- documentaires
+- cinema
+- reportages
+- techniques
+- prise
+- specialise
+- realisation
+- tournage
+- montage
+- choix
+- travail
+- puis
+- sonore
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Documentariste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Documentariste, la progression a ete plus rapide quand j'ai renforce Documentariste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Documentariste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

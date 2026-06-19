@@ -1,0 +1,47 @@
+METIER: Ingénieur (e) Océaonographe
+CODE: INGENIEUR_E_OCEAONOGRAPHE
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Ingénieur (e) Océaonographe L’ingénieur (e) océanographe assure au sein de la structure qui l’emploie des études de projets notamment dans les domaines de l’utilisation et de l’exploitation des milieux marins et ce, en intégrant l’ensemble de ses connaissances en océanographie. Particulièrement dans un souci de développement durable et de respect et protection de l’environnement. Il peut être un homme en charge de projets littoraux. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales sonder les fonds marins et établir des mesures précises plonger pour explorer le monde sous-marin et utiliser des équipements spécifiques à la pratique de la plongée effectuer des prélèvements afin de collecter des informations analyser en laboratoire les données préalablement collectées mettre en lumière les ressources des mers et des océans jouer un rôle de prévention et de sauvegarde de l’environnement, du littoral surveill
+
+FORMATIONS QUI MENENT AU METIER
+1. Parcours professionnalisant Ingénieur (e) Océaonographe
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Parcours professionnalisant Ingénieur (e) Océaonographe
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Ingénieur (e) Océaonographe. Cette filiere ouvre un debouche direct vers le metier Ingénieur (e) Océaonographe. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Ingénieur (e) Océaonographe
+- secteur Métiers biologie et agroalimentaire
+- filiere Parcours professionnalisant Ingénieur (e) Océaonographe
+- etudes
+- projets
+- marins
+- lenvironnement
+- ingenieur
+- oceaonographe
+- lingenieur
+- oceanographe
+- assure
+- sein
+- structure
+- lemploie
+- domaines
+- lutilisation
+- lexploitation
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Ingénieur (e) Océaonographe, j'ai choisi le metier de Ingénieur (e) Océaonographe. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur (e) Océaonographe, la progression a ete plus rapide quand j'ai renforce Ingénieur (e) Océaonographe. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur (e) Océaonographe demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

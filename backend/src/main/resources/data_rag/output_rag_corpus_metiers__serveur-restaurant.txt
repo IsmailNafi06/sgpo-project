@@ -1,0 +1,10 @@
+﻿METIER: Serveur restaurant
+CODE: SERVEUR_RESTAURANT
+SECTEUR: Hotellerie tourisme et restauration
+
+FORMATIONS QUI Y MENENT
+- Technicien Tourisme Hotellerie et Restauration - ISIT Tanger
+
+TEMOIGNAGE
+Karim, promotion 2024 :
+"Mon cursus en hôtellerie-restauration m'a ouvert les portes du secteur. Travailler comme Serveur restaurant au Maroc, c'est évoluer dans un secteur dynamique où l'excellence du service et la culture locale se rejoignent."

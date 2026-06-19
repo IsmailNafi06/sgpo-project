@@ -1,0 +1,10 @@
+﻿METIER: Technicien aquaculture
+CODE: TECHNICIEN_AQUACULTURE
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Hamza, promotion 2021 :
+"Mon parcours à l'École Nationale d'Agriculture m'a préparé à exercer comme Technicien aquaculture. La transition vers une agriculture durable au Maroc crée de nouvelles opportunités pour les jeunes diplômés du secteur."

@@ -1,0 +1,99 @@
+METIER: Expert en maintenance prédictive des infrastructures de transport
+CODE: EXPERT_EN_MAINTENANCE_PREDICTIVE_DES_INFRASTRUCTUR
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Expert en maintenance prédictive des infrastructures de transport L'Expert en maintenance prédictive des infrastructures de transport est un professionnel hautement qualifié spécialisé dans l'optimisation de la maintenance des infrastructures de transport telles que les routes, les ponts, les voies ferrées, les aéroports, les ports,... Son rôle essentiel est de mettre en œuvre des stratégies de maintenance prédictive en utilisant des technologies avancées et des analyses de données. Grâce à ses compétences techniques, cet expert est en mesure de détecter les signes de dégradation ou de défaut dans les infrastructures, permettant ainsi de prévenir les pannes et de minimiser les temps d'arrêt. Son expertise contribue à accroître la durée de vie des infrastructures, à améliorer leur sécurité et à réduire les coûts de maintenance. Pour exceller dans ce domaine, l'Expert en maintenance prédictive doit poss
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur Génie Civil
+2. DUT Genie Civil - EST Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Expert en maintenance prédictive des infrastructures de transport. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Expert en maintenance prédictive des infrastructures de transport. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de projets urbains intelligents (score_chemin_commun=2)
+- Designer d’Éclairage Intelligent (score_chemin_commun=2)
+- Chef de projet en construction durable (score_chemin_commun=2)
+- Planificateur de quartiers résilients (score_chemin_commun=2)
+- Concepteur de parcours piétonniers (score_chemin_commun=2)
+- Analyste en transport et mobilité urbaine (score_chemin_commun=2)
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Designer de mobilier durable (score_chemin_commun=1)
+- Architecte en conception bioclimatique (score_chemin_commun=1)
+- Agronome urbain (score_chemin_commun=1)
+- Designer d’intérieur écologique (score_chemin_commun=1)
+- Planificateur de transport en commun (score_chemin_commun=1)
+- Designer d’espaces verts urbains (score_chemin_commun=1)
+- Expert en architecture bioclimatique urbaine (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Manager d’exploitation ferroviaire (score_chemin_commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score_chemin_commun=1)
+- Ingénieur structure bois (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+
+PHRASES CLES
+- Expert en maintenance prédictive des infrastructures de transport
+- secteur Métiers des BTP et Construction
+- filiere Ingénieur Génie Civil
+- filiere DUT Genie Civil - EST Casablanca
+- maintenance
+- infrastructures
+- expert
+- predictive
+- transport
+- professionnel
+- hautement
+- qualifie
+- specialise
+- optimisation
+- telles
+- routes
+- ponts
+- voies
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Expert en maintenance prédictive des infrastructures de transport
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Expert en maintenance prédictive des infrastructures de transport. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Expert en maintenance prédictive des infrastructures de transport
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Expert en maintenance prédictive des infrastructures de transport, la progression a ete plus rapide quand j'ai renforce Expert en maintenance prédictive des infrastructures de transport. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Expert en maintenance prédictive des infrastructures de transport
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Expert en maintenance prédictive des infrastructures de transport demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

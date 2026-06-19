@@ -1,0 +1,10 @@
+﻿METIER: Redacteur territorial
+CODE: REDACTEUR_TERRITORIAL
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Imane, promotion 2022 :
+"Exercer comme Redacteur territorial au Maroc demande une veille juridique constante. Ma formation universitaire en droit m'a inculqué cette habitude de recherche et d'analyse qui est devenue ma force professionnelle."

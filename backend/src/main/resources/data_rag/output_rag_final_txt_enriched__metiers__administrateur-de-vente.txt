@@ -1,0 +1,89 @@
+METIER: Administrateur de vente
+CODE: ADMINISTRATEUR_DE_VENTE
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Administrateur de vente Un administrateur de vente aide à gérer les contrats de vente, de la réception des commandes à la livraison des produits/services aux clients. La régie publicitaire, il collecte les éléments contractuels tels que les confirmations de transaction, les ventes promises et les procurations des commerciaux et utilise des outils informatiques pour créer des fichiers clients. Après vérification du contrat avec le commercial concerné, il assurera le suivi de la gestion de la commande: signature du contrat par le client, enregistrement du contrat de vente, la gestion et gestion du compte client (avoirs, escomptes, encours ), gestion de portefeuille (documents de financement, solvabilité, etc.), traitement de documents spécifiques (litiges, réclamations, contentieux), C'est-à-dire que les responsables commerciaux ont un bon esprit d'intégration, d'analyse, et de traitement de toutes les affaires en relation avec l'activité comm
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome ENCG en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Administrateur de vente. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Responsable avant-vente (score_chemin_commun=1)
+- Épicier (score_chemin_commun=1)
+- Analyste en expérience client (score_chemin_commun=1)
+- Vendeur de vélo (score_chemin_commun=1)
+- Responsable commercial(E) de l’environnement (score_chemin_commun=1)
+- Social seller (score_chemin_commun=1)
+- Gestionnaire de collection (score_chemin_commun=1)
+- Promoteur des ventes (score_chemin_commun=1)
+- Ingénieur support des ventes (score_chemin_commun=1)
+- Chargé d’affaires dans l’industrie (score_chemin_commun=1)
+- Coordinateur retail (score_chemin_commun=1)
+- Développeur d’enseigne (score_chemin_commun=1)
+- Designer d’interaction (score_chemin_commun=1)
+- Consultant Salesforce senior (score_chemin_commun=1)
+- Cadre commercial et technico-commercial (score_chemin_commun=1)
+- Vendeur moto (score_chemin_commun=1)
+- Concessionnaire (score_chemin_commun=1)
+
+PHRASES CLES
+- Administrateur de vente
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- vente
+- gestion
+- contrat
+- administrateur
+- clients
+- commerciaux
+- client
+- documents
+- traitement
+- aide
+- gerer
+- contrats
+- reception
+- commandes
+- livraison
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Administrateur de vente
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Administrateur de vente. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Administrateur de vente
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Administrateur de vente, la progression a ete plus rapide quand j'ai renforce Administrateur de vente. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Administrateur de vente
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Administrateur de vente demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

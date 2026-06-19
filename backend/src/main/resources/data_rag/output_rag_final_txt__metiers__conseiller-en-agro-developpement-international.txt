@@ -1,0 +1,52 @@
+METIER: Conseiller en agro-développement international
+CODE: CONSEILLER_EN_AGRO_DEVELOPPEMENT_INTERNATIONAL
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Conseiller en agro-développement international La tâche du conseiller en agro-développement international est de mettre en place des projets de développement durable dans les pays en développement. En effet, dans le secteur de l'agriculture, de l'agroalimentaire ou des ressources agricoles... Le conseiller en agro-développement international représente des organisations ou des professionnels dans la conception de projets de développement durable. D'ailleurs, grand scientifique, sa connaissance approfondie de la production agricole, des domaines agroalimentaires lui permet de mener des recherches et d'exprimer des avis et suggestions sur la qualité des produits agricoles et les stratégies adoptées. Dès lors, c'est un excellent économiste qui doit tenir compte des avantages économiques et sociaux du projet dans l'exécution de ses tâches. Ainsi, le consultant en développement agro-développement international est toujours
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Sciences Infirmieres - ISPITS Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Sciences Infirmieres - ISPITS Rabat
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Sciences Infirmieres - ISPITS Rabat. Cette filiere ouvre un debouche direct vers le metier Conseiller en agro-développement international. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Infirmier polyvalent (score_chemin_commun=1)
+- Gestionnaire de la chaîne d’approvisionnement alimentaire (score_chemin_commun=1)
+- Technologue alimentaire (score_chemin_commun=1)
+- Maître-composteur (score_chemin_commun=1)
+- Chargé de développement agricole en circuit court (score_chemin_commun=1)
+- Ingénieur(e) en analyse de l’air (score_chemin_commun=1)
+
+PHRASES CLES
+- Conseiller en agro-développement international
+- secteur Métiers biologie et agroalimentaire
+- filiere Licence en Sciences Infirmieres - ISPITS Rabat
+- developpement
+- agro
+- international
+- conseiller
+- projets
+- durable
+- agricoles
+- tache
+- mettre
+- place
+- pays
+- effet
+- secteur
+- agriculture
+- agroalimentaire
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Sciences Infirmieres - ISPITS Rabat, j'ai choisi le metier de Conseiller en agro-développement international. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Conseiller en agro-développement international, la progression a ete plus rapide quand j'ai renforce Conseiller en agro-développement international. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Conseiller en agro-développement international demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Professeur universitaire
+CODE: PROFESSEUR_UNIVERSITAIRE
+SECTEUR: Education superieure
+
+FORMATIONS QUI Y MENENT
+- Doctorat Recherche et Enseignement Superieur - Faculte des Sciences Rabat
+
+TEMOIGNAGE
+Mehdi, promotion 2023 :
+"Exercer comme Professeur universitaire au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

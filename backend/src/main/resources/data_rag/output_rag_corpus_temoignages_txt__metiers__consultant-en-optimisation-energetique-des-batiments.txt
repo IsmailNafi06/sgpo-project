@@ -1,0 +1,9 @@
+METIER: Consultant en optimisation énergétique des bâtiments
+CODE: CONSULTANT_EN_OPTIMISATION_ENERGETIQUE_DES_BATIMEN
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, Génie Civil, Bâtiments et Travaux Publics (BTP) EMSI Marrakech, j'ai choisi le metier de Consultant en optimisation énergétique des bâtiments. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Consultant en optimisation énergétique des bâtiments, la progression a ete plus rapide quand j'ai renforce Consultant en optimisation énergétique des bâtiments. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Consultant en optimisation énergétique des bâtiments demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

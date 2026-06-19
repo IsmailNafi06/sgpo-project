@@ -1,0 +1,28 @@
+﻿METIER: Gestionnaire banque assurance
+CODE: GESTIONNAIRE_BANQUE_ASSURANCE
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Finance et Comptabilite
+- Diplome ENCG Finance et Comptabilite - ENCG Beni Mellal
+- Diplome ENCG Finance et Comptabilite - ENCG Casablanca
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Agadir
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Beni Mellal
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Casablanca
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Essaouira
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Fes
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Guelmim
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Kenitra
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Khenifra
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Khouribga
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Laayoune
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Marrakech
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Meknes
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Oujda
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Safi
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Sale
+- DUT Gestion Banques et Assurances - Ecole Superieure de Technologie Sidi Bennour
+
+TEMOIGNAGE
+Fatima, promotion 2024 :
+"Diplômée d'une école de commerce à Casablanca, j'ai intégré une banque comme Gestionnaire banque assurance dès ma sortie d'école. Le secteur financier marocain recrute beaucoup, avec des salaires débutants autour de 7 000 à 10 000 MAD selon l'établissement."

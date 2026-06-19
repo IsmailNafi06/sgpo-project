@@ -1,0 +1,61 @@
+METIER: Expert en modélisation 3D
+CODE: EXPERT_EN_MODELISATION_3D
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Expert en modélisation 3D L'expert en modélisation 3D est un professionnel créatif et technique qui excelle dans la création de modèles tridimensionnels pour diverses applications. Doté d'une expertise en infographie et en animation, cet expert donne vie à des objets, personnages ou environnements en utilisant des logiciels spécialisés tels que Blender, Maya, 3ds Max, et bien d'autres. Le rôle principal de l'expert en modélisation 3D consiste à concevoir des modèles virtuels en respectant les principes de perspective, d'éclairage, de texture et de rendu. Ces modèles sont ensuite utilisés dans des secteurs variés tels que les jeux vidéo, l'animation, l'architecture, la publicité et même le cinéma. La créativité de l'expert en modélisation 3D est essentielle pour concevoir des objets réalistes ou fantastiques tout en répondant aux besoins du projet. Un bon sens artistique, une attention méticuleuse aux détails et une capacité à travailler en
+
+PHRASES CLES
+- Expert en modélisation 3D
+- secteur Métiers de l’informatique et système d’information
+- filiere Master IA
+- expert
+- modelisation
+- modeles
+- animation
+- objets
+- tels
+- concevoir
+- professionnel
+- creatif
+- technique
+- excelle
+- creation
+- tridimensionnels
+- diverses
+- applications
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Expert en modélisation 3D. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Spécialiste en Surveillance Environnementale (score chemin commun=1)
+- Concepteur Web design (score chemin commun=1)
+- Expert en sécurité des données biométriques (score chemin commun=1)
+- Analyste en données géospatiales (score chemin commun=1)
+- Consultant en éthique des algorithmes (score chemin commun=1)
+- Consultant en transformation numérique des PME (score chemin commun=1)
+- Développeur de solutions e-learning (score chemin commun=1)
+- Analyste en sécurité des objets connectés (score chemin commun=1)
+- Ingénieur en réalité augmentée (score chemin commun=1)
+- médiateur numérique (score chemin commun=1)
+- Développeur de solutions blockchain (score chemin commun=1)
+- Régulateur de trafic ferroviaire (score chemin commun=1)
+- Media buyer (score chemin commun=1)
+- Cyber journaliste (score chemin commun=1)
+- Spécialiste en déploiement de bornes EV (score chemin commun=1)
+- Spécialiste en intégration de l’hydrogène dans les réseaux électriques (score chemin commun=1)
+- Data Scientist (score chemin commun=1)
+- Deep Learning Engineer (score chemin commun=1)
+- Ingenieur cybersecurite (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master IA, j'ai choisi le metier de Expert en modélisation 3D. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Expert en modélisation 3D, la progression a ete plus rapide quand j'ai renforce Expert en modélisation 3D. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Expert en modélisation 3D demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,15 @@
+﻿METIER: Chef de produit
+CODE: CHEF_DE_PRODUIT
+SECTEUR: Marketing
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Management
+- Diplome ENCG Management - ENCG Beni Mellal
+- Diplome ENCG Management - ENCG Casablanca
+- Diplome ENCG Marketing Digital
+- Diplome ENCG Marketing Digital - ENCG Beni Mellal
+- Diplome ENCG Marketing Digital - ENCG Casablanca
+
+TEMOIGNAGE
+Zakaria, promotion 2022 :
+"Exercer comme Chef de produit au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

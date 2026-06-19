@@ -1,0 +1,10 @@
+﻿METIER: Psychomotricien
+CODE: PSYCHOMOTRICIEN
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Licence Professions Paramedicales Specialisees - ISPITS Rabat
+
+TEMOIGNAGE
+Othmane, promotion 2021 :
+"Après mes études en soins infirmiers à l'IFCS de Casablanca, j'ai intégré un hôpital public en tant que Psychomotricien. La vocation prime dans ce secteur, mais les conditions d'exercice s'améliorent progressivement au Maroc."

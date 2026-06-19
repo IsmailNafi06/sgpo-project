@@ -1,0 +1,116 @@
+METIER: Chargé d’affaires dans la santé
+CODE: CHARGE_DAFFAIRES_DANS_LA_SANTE
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Chargé d’affaires dans la santé Un ingénieur commercial ou chargé d'affaires dans les industries de la santé a pour mission de développer un portefeuille prospects et clients pour le compte de son entreprise. Il assure la vente de produits (systèmes d’information cliniques, dispositifs médicaux...) et de services à destination d’hôpitaux, de cliniques, de laboratoires... Le chargé d'affaires dans la santé met également en œuvre la stratégie technico-réglementaire de l’entreprise afin de garantir l’application de la réglementation pour le développement, la mise sur le marché et la distribution des médicaments et autres produits de santé (dispositifs médicaux, produits cosmétiques etc.). Il réalise toutes les activités liées à l’enregistrement et au maintien des autorisations de mise sur le marché (AMM) de médicaments ou autres procédures d’enregistrement ou déclaration, au Maroc et dans les pays d’exportation. Bac + 2 Niveau d'études
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca
+2. Licence en biotechnologie et sciences de la santé
+3. Master Ingénierie en Sciences Agroalimentaires et Santé
+4. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Rabat
+- Indicateurs: taux_reussite=81.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires dans la santé. Le chemin est relie a Faculté de Médecine et de Pharmacie Rabat. Indicateurs du parcours: taux de reussite estime: 81.4%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence en biotechnologie et sciences de la santé
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Rabat
+- Indicateurs: taux_reussite=81.6%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en biotechnologie et sciences de la santé. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires dans la santé. Le chemin est relie a Faculté de Médecine et de Pharmacie Rabat. Indicateurs du parcours: taux de reussite estime: 81.6%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Master Ingénierie en Sciences Agroalimentaires et Santé
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=84.5%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Ingénierie en Sciences Agroalimentaires et Santé. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires dans la santé. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 84.5%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires dans la santé. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Inspecteur de santé publique (score_chemin_commun=4)
+- Cadre de santé (score_chemin_commun=4)
+- Eco-concepteur de produits plastiques et composites (score_chemin_commun=1)
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+
+PHRASES CLES
+- Chargé d’affaires dans la santé
+- secteur Métier du commerce et vente
+- filiere Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca
+- filiere Licence en biotechnologie et sciences de la santé
+- filiere Master Ingénierie en Sciences Agroalimentaires et Santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- sante
+- charge
+- produits
+- affaires
+- cliniques
+- dispositifs
+- medicaux
+- mise
+- marche
+- medicaments
+- autres
+- daffaires
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Chargé d’affaires dans la santé
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca, Licence en biotechnologie et sciences de la santé, j'ai choisi le metier de Chargé d’affaires dans la santé. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Chargé d’affaires dans la santé
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé d’affaires dans la santé, la progression a ete plus rapide quand j'ai renforce Chargé d’affaires dans la santé. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Chargé d’affaires dans la santé
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé d’affaires dans la santé demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

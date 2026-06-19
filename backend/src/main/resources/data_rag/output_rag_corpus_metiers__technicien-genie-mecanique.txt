@@ -1,0 +1,25 @@
+﻿METIER: Technicien genie mecanique
+CODE: TECHNICIEN_GENIE_MECANIQUE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Agadir
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Beni Mellal
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Casablanca
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Essaouira
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Fes
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Guelmim
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Kenitra
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Khenifra
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Khouribga
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Laayoune
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Marrakech
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Meknes
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Oujda
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Safi
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Sale
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Sidi Bennour
+
+TEMOIGNAGE
+Zakaria, promotion 2022 :
+"Travailler comme Technicien genie mecanique dans l'industrie au Maroc, c'est intégrer un secteur en pleine montée en gamme. Ma formation d'ingénieur m'a appris à résoudre des problèmes complexes et à manager des équipes de production."

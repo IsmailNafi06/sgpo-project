@@ -1,0 +1,63 @@
+METIER: Responsable conférences et banquets
+CODE: RESPONSABLE_CONFERENCES_ET_BANQUETS
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Responsable conférences et banquets Le responsable conférences et banquets a pour mission la gestion d'un département particulier dans un grand hôtel au niveau administratif, commercial, financier et opérationnel. Il est en charge du déroulement des différentes manifestations qu'on lui a confié, entre autres les conférences et banquets. Ce responsable est en charge de la gestion générale des salles, des installations et des équipements. En respectant les objectifs budgets dont il est en charge, il s'assure de la qualité de l'événement en question et innove dans ses propositions de réceptions et d'offres pour la clientèle. Manager des hommes, le responsable de conférences et banquets est doué d'une grande souplesse et sait gérer une équipe. Cette équipe est composée de traiteurs, agents de ménage, techniciens ou encore d'animateurs, ils participent donc tous à la réalisation de l'événement. Ce responsable est donc tenu de les recru
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Arts culinaires
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Responsable conférences et banquets. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Organisateur de conférence (score_chemin_commun=1)
+- Consultant en voyages éthiques (score_chemin_commun=1)
+- Accompagnateur de montagne (score_chemin_commun=1)
+- Pizzaïolo (score_chemin_commun=1)
+- Cuisiniste (score_chemin_commun=1)
+- Administrateur des monuments historiques (score_chemin_commun=1)
+- Majordome (score_chemin_commun=1)
+- Équipier en restaurant rapide (score_chemin_commun=1)
+- Directeur Restauration rapide (score_chemin_commun=1)
+- Veilleur de nuit (score_chemin_commun=1)
+- Concierge d’hôtel (score_chemin_commun=1)
+- Sommelier (score_chemin_commun=1)
+- Plongeur (score_chemin_commun=1)
+- Lingère (score_chemin_commun=1)
+- Gouvernante (score_chemin_commun=1)
+- Commis de cuisine (score_chemin_commun=1)
+- Agent thermal (score_chemin_commun=1)
+
+PHRASES CLES
+- Responsable conférences et banquets
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- responsable
+- conferences
+- banquets
+- charge
+- gestion
+- evenement
+- equipe
+- donc
+- mission
+- departement
+- particulier
+- grand
+- hotel
+- administratif
+- commercial
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, j'ai choisi le metier de Responsable conférences et banquets. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable conférences et banquets, la progression a ete plus rapide quand j'ai renforce Responsable conférences et banquets. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable conférences et banquets demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

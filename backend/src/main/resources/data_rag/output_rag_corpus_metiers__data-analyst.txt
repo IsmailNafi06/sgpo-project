@@ -1,0 +1,16 @@
+﻿METIER: Data analyst
+CODE: DATA_ANALYST
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Bac+3 / Licence Intelligence Artificielle et Marketing Digital
+- Bachelor ESLSCA - Specialite Data & Intelligence Artificielle (Bac+3)
+- Ingenieur en Genie informatique et Intelligence Artificielle
+- Licence Professionnelle d'Universite Data Science Appliquee en Management et Economie (DSAME) FSJES Marrakech
+- Master Business Analytics & Data Science
+- Master en Data Science et Intelligence Artificielle
+- Master IA
+
+TEMOIGNAGE
+Ghita, promotion 2024 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Data analyst. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."

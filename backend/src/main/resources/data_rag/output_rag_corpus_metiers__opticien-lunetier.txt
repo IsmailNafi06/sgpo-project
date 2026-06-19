@@ -1,0 +1,10 @@
+﻿METIER: Opticien lunetier
+CODE: OPTICIEN_LUNETIER
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Licence Professions Paramedicales Specialisees - ISPITS Rabat
+
+TEMOIGNAGE
+Hamza, promotion 2022 :
+"Après mes études en soins infirmiers à l'IFCS de Casablanca, j'ai intégré un hôpital public en tant que Opticien lunetier. La vocation prime dans ce secteur, mais les conditions d'exercice s'améliorent progressivement au Maroc."

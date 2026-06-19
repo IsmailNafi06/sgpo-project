@@ -1,0 +1,59 @@
+METIER: Chargé d’affaires dans l’industrie
+CODE: CHARGE_DAFFAIRES_DANS_LINDUSTRIE
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Chargé d’affaires dans l’industrie Le chargé d’affaires dans l’industrie suit la gestion de ses projets en étroite collaboration avec ses clients. Il gère à la fois les fournisseurs, la logistique, les aspects juridiques mais également la production et la livraison des produits. De l’aéronautique à l’automobile en passant par la chimie, il est amené à travailler sur des productions et des process différents. Souvent intégré dans une équipe, il est en relation avec les dirigeants des entreprises, mais il peut aussi côtoyer les équipes du bureau des études, les sous-traitants, les cabinets d’études… Ses déplacements sont assez fréquents, le chargé d’affaires allant à la rencontre de ses clients et prospects. Bac + 2 Niveau d'études 5.000 MAD Rémunération 3 ans Expérience Missions principales Identifier les besoins de ses clients Apporter des conseils face aux problématiques rencontrées Évaluer et chiffrer les différents projets en te
+
+PHRASES CLES
+- Chargé d’affaires dans l’industrie
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- charge
+- daffaires
+- clients
+- lindustrie
+- projets
+- differents
+- etudes
+- suit
+- gestion
+- etroite
+- collaboration
+- gere
+- fois
+- fournisseurs
+- logistique
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires dans l’industrie. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Responsable avant-vente (score chemin commun=1)
+- Épicier (score chemin commun=1)
+- Analyste en expérience client (score chemin commun=1)
+- Vendeur de vélo (score chemin commun=1)
+- Administrateur de vente (score chemin commun=1)
+- Responsable commercial(E) de l’environnement (score chemin commun=1)
+- Social seller (score chemin commun=1)
+- Gestionnaire de collection (score chemin commun=1)
+- Promoteur des ventes (score chemin commun=1)
+- Ingénieur support des ventes (score chemin commun=1)
+- Coordinateur retail (score chemin commun=1)
+- Développeur d’enseigne (score chemin commun=1)
+- Designer d’interaction (score chemin commun=1)
+- Consultant Salesforce senior (score chemin commun=1)
+- Cadre commercial et technico-commercial (score chemin commun=1)
+- Vendeur moto (score chemin commun=1)
+- Concessionnaire (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Chargé d’affaires dans l’industrie. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé d’affaires dans l’industrie, la progression a ete plus rapide quand j'ai renforce Chargé d’affaires dans l’industrie. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé d’affaires dans l’industrie demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

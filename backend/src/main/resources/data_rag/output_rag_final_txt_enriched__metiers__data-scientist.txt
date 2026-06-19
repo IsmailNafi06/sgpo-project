@@ -1,0 +1,121 @@
+METIER: Data Scientist
+CODE: DATA_SCIENTIST
+SECTEUR: Data et IA
+
+DESCRIPTION
+Analyse avancee des donnees et modelisation predictive.
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénierie Data & IA
+2. Ingénierie Data & IA
+3. Licence Professionnelle Data Analytics - EST Casablanca
+4. Master IA
+5. Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénierie Data & IA
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Data & IA. Cette filiere ouvre un debouche direct vers le metier Data Scientist. Le chemin est relie a Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénierie Data & IA
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Data & IA. Cette filiere ouvre un debouche direct vers le metier Data Scientist. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence Professionnelle Data Analytics - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Professionnelle Data Analytics - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Data Scientist. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Data Scientist. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 5
+- Filiere: Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=81.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca. Cette filiere ouvre un debouche direct vers le metier Data Scientist. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 81.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Ingenieur cybersecurite (score_chemin_commun=2)
+- Spécialiste en Surveillance Environnementale (score_chemin_commun=1)
+- Concepteur Web design (score_chemin_commun=1)
+- Expert en modélisation 3D (score_chemin_commun=1)
+- Expert en sécurité des données biométriques (score_chemin_commun=1)
+- Analyste en données géospatiales (score_chemin_commun=1)
+- Consultant en éthique des algorithmes (score_chemin_commun=1)
+- Consultant en transformation numérique des PME (score_chemin_commun=1)
+- Développeur de solutions e-learning (score_chemin_commun=1)
+- Analyste en sécurité des objets connectés (score_chemin_commun=1)
+- Ingénieur en réalité augmentée (score_chemin_commun=1)
+- médiateur numérique (score_chemin_commun=1)
+- Développeur de solutions blockchain (score_chemin_commun=1)
+- Régulateur de trafic ferroviaire (score_chemin_commun=1)
+- Media buyer (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Spécialiste en déploiement de bornes EV (score_chemin_commun=1)
+- Spécialiste en intégration de l’hydrogène dans les réseaux électriques (score_chemin_commun=1)
+- Deep Learning Engineer (score_chemin_commun=1)
+- Developpeur Full Stack (score_chemin_commun=1)
+
+PHRASES CLES
+- Data Scientist
+- secteur Data et IA
+- filiere Ingénierie Data & IA
+- filiere Licence Professionnelle Data Analytics - EST Casablanca
+- filiere Master IA
+- filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- analyse
+- avancee
+- donnees
+- modelisation
+- predictive
+- analyse avancee
+- avancee donnees
+- donnees modelisation
+- modelisation predictive
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Data Scientist
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénierie Data & IA, Ingénierie Data & IA, j'ai choisi le metier de Data Scientist. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Data Scientist
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Data Scientist, la progression a ete plus rapide quand j'ai renforce Data Scientist. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Data Scientist
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Data Scientist demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

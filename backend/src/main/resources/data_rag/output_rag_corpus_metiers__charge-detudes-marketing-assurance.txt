@@ -1,0 +1,43 @@
+METIER: Chargé d’études marketing assurance
+CODE: CHARGE_DETUDES_MARKETING_ASSURANCE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Chargé d’études marketing assurance Curieux, intuitif, à l'affût des tendances, le chargé d'études marketing assurance aime analyser le comment et le pourquoi des évolutions du marché. Par ailleurs, son sens pédagogique lui permet d'expliquer avec clarté et aisance les résultats de ses études car il est aussi un bon communicant et possède une bonne maîtrise rédactionnelle. Toutefois, Les outils informatiques de gestion de bases de données et de traitement statistique sont ses fidèles alliés. Economie, nouveaux risques, fiscalité, commerce et techniques… Autant de domaines évolutifs auxquels doivent s'adapter les sociétés d'assurances pour répondre aux attentes de leurs clients et leur offrir, en permanence, des services performants. Il s'agit alors, selon les besoins du marché, de modifier les produits existants ou d'en créer de nouveaux. Cette mission s'exerce en liaison avec les réseaux de distribution, les services études et de
+
+PHRASES CLES
+- Chargé d’études marketing assurance
+- secteur Métiers banque et assurance
+- filiere Parcours professionnalisant Chargé d’études marketing assurance
+- etudes
+- charge
+- marketing
+- assurance
+- marche
+- nouveaux
+- services
+- detudes
+- curieux
+- intuitif
+- affut
+- tendances
+- aime
+- analyser
+- comment
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Parcours professionnalisant Chargé d’études marketing assurance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Al Hoceima
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Chargé d’études marketing assurance. Cette filiere ouvre un debouche direct vers le metier Chargé d’études marketing assurance. Le chemin est relie a Ecole Nationale des Sciences Appliquées Al Hoceima. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Chargé d’études marketing assurance, j'ai choisi le metier de Chargé d’études marketing assurance. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé d’études marketing assurance, la progression a ete plus rapide quand j'ai renforce Chargé d’études marketing assurance. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé d’études marketing assurance demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

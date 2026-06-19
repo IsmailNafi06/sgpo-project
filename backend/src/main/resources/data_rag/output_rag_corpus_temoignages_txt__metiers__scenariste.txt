@@ -1,0 +1,9 @@
+METIER: Scénariste
+CODE: SCENARISTE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, Licence Arts et Culture, j'ai choisi le metier de Scénariste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Scénariste, la progression a ete plus rapide quand j'ai renforce Scénariste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Scénariste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

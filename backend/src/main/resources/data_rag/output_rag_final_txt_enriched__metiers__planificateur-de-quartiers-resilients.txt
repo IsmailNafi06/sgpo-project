@@ -1,0 +1,99 @@
+METIER: Planificateur de quartiers résilients
+CODE: PLANIFICATEUR_DE_QUARTIERS_RESILIENTS
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Planificateur de quartiers résilients Le planificateur de quartiers résilients conçoit et met en œuvre des plans urbains innovants qui favorisent la résilience des quartiers face aux défis environnementaux, sociaux et économiques. En étroite collaboration avec des équipes pluridisciplinaires, ce professionnel élabore des stratégies d'aménagement intégrant des solutions durables, telles que la gestion efficace des ressources, l'adaptation aux changements climatiques et la promotion de la mixité sociale. Le planificateur de quartiers résilients coordonne l'aménagement des infrastructures, des espaces verts et des services publics en harmonie avec les besoins de la communauté. Les compétences clés incluent la conception urbaine, la gestion de projet, la communication interdisciplinaire et la connaissance des réglementations en urbanisme. Une formation en urbanisme, architecture ou génie civil est généralement requise, avec un intér
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur Génie Civil
+2. DUT Genie Civil - EST Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Planificateur de quartiers résilients. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Planificateur de quartiers résilients. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de projets urbains intelligents (score_chemin_commun=2)
+- Designer d’Éclairage Intelligent (score_chemin_commun=2)
+- Chef de projet en construction durable (score_chemin_commun=2)
+- Concepteur de parcours piétonniers (score_chemin_commun=2)
+- Analyste en transport et mobilité urbaine (score_chemin_commun=2)
+- Expert en maintenance prédictive des infrastructures de transport (score_chemin_commun=2)
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Designer de mobilier durable (score_chemin_commun=1)
+- Architecte en conception bioclimatique (score_chemin_commun=1)
+- Agronome urbain (score_chemin_commun=1)
+- Designer d’intérieur écologique (score_chemin_commun=1)
+- Planificateur de transport en commun (score_chemin_commun=1)
+- Designer d’espaces verts urbains (score_chemin_commun=1)
+- Expert en architecture bioclimatique urbaine (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Manager d’exploitation ferroviaire (score_chemin_commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score_chemin_commun=1)
+- Ingénieur structure bois (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+
+PHRASES CLES
+- Planificateur de quartiers résilients
+- secteur Métiers des BTP et Construction
+- filiere Ingénieur Génie Civil
+- filiere DUT Genie Civil - EST Casablanca
+- quartiers
+- planificateur
+- resilients
+- amenagement
+- gestion
+- urbanisme
+- concoit
+- uvre
+- plans
+- urbains
+- innovants
+- favorisent
+- resilience
+- face
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Planificateur de quartiers résilients
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Planificateur de quartiers résilients. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Planificateur de quartiers résilients
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Planificateur de quartiers résilients, la progression a ete plus rapide quand j'ai renforce Planificateur de quartiers résilients. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Planificateur de quartiers résilients
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Planificateur de quartiers résilients demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

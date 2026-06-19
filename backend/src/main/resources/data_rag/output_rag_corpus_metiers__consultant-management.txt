@@ -1,0 +1,12 @@
+﻿METIER: Consultant en management
+CODE: CONSULTANT_MANAGEMENT
+SECTEUR: Conseil
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Management
+- Diplome ENCG Management - ENCG Beni Mellal
+- Diplome ENCG Management - ENCG Casablanca
+
+TEMOIGNAGE
+Fatima, promotion 2021 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Consultant en management. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

@@ -1,0 +1,89 @@
+METIER: Designer d’interaction
+CODE: DESIGNER_DINTERACTION
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Designer d’interaction Le designer d’interaction design des expériences, des services, des systèmes, des objets intégrant les nouvelles technologies, et particulièrement le numérique. Internet des objets, objets connectés, robots sociaux, drones, design de service: loin de se limiter aux interfaces, le designer d’interaction travaille sur le nouveau rapport au monde induit par les nouvelles technologies. Pour autant, le design d’interface et d’expérience utilisateur fait partie du champ de ses expertises. La démarche du designer d’interaction consiste à définir la façon dont les personnes, les produits, les espaces et les services dialoguent. Il imagine ainsi la forme et le comportement des objets et des espaces, et de leurs possibles interfaces, que les nouvelles technologies permettent ou promettent. Il étend le champ de l’UX design aux objets en ne limitant pas l’expérience utilisateur à une interface mais à l’usage complet de celui-ci. Ba
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome ENCG en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Designer d’interaction. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Responsable avant-vente (score_chemin_commun=1)
+- Épicier (score_chemin_commun=1)
+- Analyste en expérience client (score_chemin_commun=1)
+- Vendeur de vélo (score_chemin_commun=1)
+- Administrateur de vente (score_chemin_commun=1)
+- Responsable commercial(E) de l’environnement (score_chemin_commun=1)
+- Social seller (score_chemin_commun=1)
+- Gestionnaire de collection (score_chemin_commun=1)
+- Promoteur des ventes (score_chemin_commun=1)
+- Ingénieur support des ventes (score_chemin_commun=1)
+- Chargé d’affaires dans l’industrie (score_chemin_commun=1)
+- Coordinateur retail (score_chemin_commun=1)
+- Développeur d’enseigne (score_chemin_commun=1)
+- Consultant Salesforce senior (score_chemin_commun=1)
+- Cadre commercial et technico-commercial (score_chemin_commun=1)
+- Vendeur moto (score_chemin_commun=1)
+- Concessionnaire (score_chemin_commun=1)
+
+PHRASES CLES
+- Designer d’interaction
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- objets
+- designer
+- dinteraction
+- design
+- nouvelles
+- technologies
+- services
+- interfaces
+- utilisateur
+- champ
+- espaces
+- experiences
+- systemes
+- integrant
+- particulierement
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Designer d’interaction
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Designer d’interaction. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Designer d’interaction
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Designer d’interaction, la progression a ete plus rapide quand j'ai renforce Designer d’interaction. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Designer d’interaction
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Designer d’interaction demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

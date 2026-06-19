@@ -1,0 +1,27 @@
+﻿METIER: Gestionnaire de stock
+CODE: GESTIONNAIRE_STOCK
+SECTEUR: Logistique
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Logistique & Supply Chain - ENCG Agadir
+- Diplome ENCG Logistique & Supply Chain - ENCG Beni Mellal
+- Diplome ENCG Logistique & Supply Chain - ENCG Casablanca
+- Diplome ENCG Logistique & Supply Chain - ENCG Dakhla
+- Diplome ENCG Logistique & Supply Chain - ENCG El Jadida
+- Diplome ENCG Logistique & Supply Chain - ENCG Fes
+- Diplome ENCG Logistique & Supply Chain - ENCG Kenitra
+- Diplome ENCG Logistique & Supply Chain - ENCG Marrakech
+- Diplome ENCG Logistique & Supply Chain - ENCG Meknes
+- Diplome ENCG Logistique & Supply Chain - ENCG Oujda
+- Diplome ENCG Logistique & Supply Chain - ENCG Settat
+- Diplome ENCG Logistique & Supply Chain - ENCG Tanger
+- Technicien Specialise Logistique - ISTA Agadir
+- Technicien Specialise Logistique - ISTA Casablanca
+- Technicien Specialise Logistique - ISTA Fes
+- Technicien Specialise Logistique - ISTA Marrakech
+- Technicien Specialise Logistique - ISTA Rabat
+- Technicien Specialise Logistique - ISTA Tanger
+
+TEMOIGNAGE
+Samira, promotion 2021 :
+"Exercer comme Gestionnaire de stock au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

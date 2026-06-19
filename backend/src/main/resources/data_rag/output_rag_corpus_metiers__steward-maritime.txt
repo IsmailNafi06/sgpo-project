@@ -1,0 +1,10 @@
+﻿METIER: Steward maritime
+CODE: STEWARD_MARITIME
+SECTEUR: Hotellerie tourisme et restauration
+
+FORMATIONS QUI Y MENENT
+- Technicien Tourisme Hotellerie et Restauration - ISIT Tanger
+
+TEMOIGNAGE
+Nadia, promotion 2022 :
+"Formé à l'Institut Spécialisé de Technologie Appliquée Hôtelière de Casablanca, j'exerce comme Steward maritime dans un établissement cinq étoiles. Le tourisme marocain se redresse fortement et les recrutements sont nombreux."

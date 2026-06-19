@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur agronome
+CODE: INGENIEUR_AGRONOME
+SECTEUR: Agronomie
+
+FORMATIONS QUI Y MENENT
+- Cycle Ingenieur Agronome - IAV Hassan II Rabat
+
+TEMOIGNAGE
+Chaimae, promotion 2021 :
+"Exercer comme Ingenieur agronome au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

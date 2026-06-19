@@ -1,0 +1,73 @@
+METIER: Aquaculteur
+CODE: AQUACULTEUR
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Aquaculteur L’aquaculteur est un spécialiste des productions animales et végétales en milieu aquatiques. D'ailleurs, il élève des poissons (poissons de mer ou d’eau douce). Des coquillages (huitres, moules, palourdes), des crustacés ou des alevins. De meme Il peut cultiver des algues. Tout au long du processus, il veille à la sélection et à la reproduction des espèces, au suivi de la croissance (soins, nourrissage) et pratique des contrôles rigoureux (qualité de l’eau, détection de maladies et parasites). Toutes ces étapes s’effectuent dans le respect des règles sanitaires et environnementales. Il procède ensuite à la commercialisation et à la vente des produits (lavage, triage, emballage, étiquetage). Selon la taille de l’exploitation aquacole, on peut distinguer différents niveaux de responsabilité. En fait, il participe aux travaux courants de l’entreprise aquacole: nourrissage, tri, calibrage, contrôle des bassins. L'aquaculteur veille à donner aux
+
+FORMATIONS QUI MENENT AU METIER
+1. Parcours professionnalisant Aquaculteur
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Parcours professionnalisant Aquaculteur
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Aquaculteur. Cette filiere ouvre un debouche direct vers le metier Aquaculteur. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Aquaculteur
+- secteur Métiers biologie et agroalimentaire
+- filiere Parcours professionnalisant Aquaculteur
+- poissons
+- peut
+- veille
+- nourrissage
+- aquacole
+- laquaculteur
+- specialiste
+- productions
+- animales
+- vegetales
+- milieu
+- aquatiques
+- ailleurs
+- eleve
+- deau
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Aquaculteur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Aquaculteur, j'ai choisi le metier de Aquaculteur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Aquaculteur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Aquaculteur, la progression a ete plus rapide quand j'ai renforce Aquaculteur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Aquaculteur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Aquaculteur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

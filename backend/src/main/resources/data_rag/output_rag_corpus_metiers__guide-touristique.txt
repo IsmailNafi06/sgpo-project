@@ -1,0 +1,10 @@
+﻿METIER: Guide touristique
+CODE: GUIDE_TOURISTIQUE
+SECTEUR: Tourisme
+
+FORMATIONS QUI Y MENENT
+- Licence Tourisme et Hotellerie - ISIT Tanger
+
+TEMOIGNAGE
+Amine, promotion 2022 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Guide touristique. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

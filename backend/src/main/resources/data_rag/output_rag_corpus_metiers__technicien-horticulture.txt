@@ -1,0 +1,10 @@
+﻿METIER: Technicien horticulture
+CODE: TECHNICIEN_HORTICULTURE
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Karim, promotion 2022 :
+"Mon parcours à l'École Nationale d'Agriculture m'a préparé à exercer comme Technicien horticulture. La transition vers une agriculture durable au Maroc crée de nouvelles opportunités pour les jeunes diplômés du secteur."

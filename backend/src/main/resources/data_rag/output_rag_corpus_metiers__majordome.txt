@@ -1,0 +1,67 @@
+METIER: Majordome
+CODE: MAJORDOME
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Majordome Appelé également Butler, le majordome est un professionnel au service des clients les plus fortunés. En fait, son rôle est de veiller au bien-être constant des clients dont il a la charge et de satisfaire toutes leurs demandes. Dîners nocturnes, changement d’ampoule, vêtement de rechange, le majordome est disponible en permanence et trouve toujours une solution aux demandes, parfois incongrues, de ses clients de façon à ce qu'ils aient satisfaits. Ces derniers sont souvent des habitués des lieux dans lesquels ils séjournent, le majordome connaît bien leurs besoins et attentes, il anticipe donc en permanence leur demande. Métier exigeant un dévouement complet à sa mission, la polyvalence de ce professionnel de l’hôtellerie et sa présentation exemplaire le rendent indispensable pour concourir au prestige et à l’image de marque d’un établissement. En effet, quand il exerce au sein d’un établissement de renom, il est en contact permanent avec tous le
+
+PHRASES CLES
+- Majordome
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- clients
+- professionnel
+- bien
+- demandes
+- permanence
+- etablissement
+- appele
+- egalement
+- butler
+- service
+- fortunes
+- role
+- veiller
+- constant
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Majordome. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Majordome. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Consultant en voyages éthiques (score chemin commun=2)
+- Accompagnateur de montagne (score chemin commun=2)
+- Cuisiniste (score chemin commun=2)
+- Administrateur des monuments historiques (score chemin commun=2)
+- Équipier en restaurant rapide (score chemin commun=2)
+- Veilleur de nuit (score chemin commun=2)
+- Concierge d’hôtel (score chemin commun=2)
+- Sommelier (score chemin commun=2)
+- Plongeur (score chemin commun=2)
+- Lingère (score chemin commun=2)
+- Gouvernante (score chemin commun=2)
+- Organisateur de conférence (score chemin commun=1)
+- Pizzaïolo (score chemin commun=1)
+- Directeur Restauration rapide (score chemin commun=1)
+- Commis de cuisine (score chemin commun=1)
+- Responsable conférences et banquets (score chemin commun=1)
+- Agent thermal (score chemin commun=1)
+- Acheteur dans la mode (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Majordome. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Majordome, la progression a ete plus rapide quand j'ai renforce Majordome. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Majordome demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,99 @@
+METIER: Data Analyst Supply Chain
+CODE: DATA_ANALYST_SUPPLY_CHAIN
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Data Analyst Supply Chain Le poste de Data Analyst est principalement accessible aux profils issus de l’IT ou du Digital, ou des métiers des Opérations ou de la supply. Généralement les profils du Digital sont diplômés d’un Master de Science of Data, DataMining, Mathématiques Appliquées ou plus largement d’une formation Informatique Bac+5. Ils devront en priorité disposer d’une grande ouverture d’esprit qui se traduit par une compréhension des grands enjeux d’une entreprise et des problématiques métiers. Le Data Analyst est un « bilingue qui sait faire parler ». Il traduit les besoins métiers vers les DSI/Directions Digitales et fait parler les chiffres pour les Opérations. À ce titre, il: analyse les données internes/externes de la Supply Chain et les rend intelligibles pour les utilisateurs. Bac + 5 Niveau d'études 11.000 MAD Rémunération 3 ans Expérience Missions principales Identifie leurs besoins de data afin de les remonter au Digita
+
+FORMATIONS QUI MENENT AU METIER
+1. Master en Data Science et Intelligence Artificielle
+2. Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3)
+3. Master Business Analytics & Data Science
+4. Licence Professionnelle d'Université Data Science Appliquée en Management et Economie (DSAME) FSJES Marrakech
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master en Data Science et Intelligence Artificielle
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données Taroudant, Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.2%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Data Science et Intelligence Artificielle. Cette filiere ouvre un debouche direct vers le metier Data Analyst Supply Chain. Le chemin est relie a Ecole Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données Taroudant, Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.2%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3)
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=70.3%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3). Cette filiere ouvre un debouche direct vers le metier Data Analyst Supply Chain. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 70.3%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Master Business Analytics & Data Science
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat
+- Indicateurs: taux_reussite=68.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Business Analytics & Data Science. Cette filiere ouvre un debouche direct vers le metier Data Analyst Supply Chain. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat. Indicateurs du parcours: taux de reussite estime: 68.4%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence Professionnelle d'Université Data Science Appliquée en Management et Economie (DSAME) FSJES Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=75.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Professionnelle d'Université Data Science Appliquée en Management et Economie (DSAME) FSJES Marrakech. Cette filiere ouvre un debouche direct vers le metier Data Analyst Supply Chain. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 75.4%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Data designer (score_chemin_commun=4)
+- Spécialiste en gestion de l’intelligence artificielle éthique (score_chemin_commun=1)
+- Ingénieur en intelligence énergétique (score_chemin_commun=1)
+
+PHRASES CLES
+- Data Analyst Supply Chain
+- secteur Métiers achats et approvisionnement
+- filiere Master en Data Science et Intelligence Artificielle
+- filiere Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3)
+- filiere Master Business Analytics & Data Science
+- filiere Licence Professionnelle d'Université Data Science Appliquée en Management et Economie (DSAME) FSJES Marrakech
+- data
+- analyst
+- supply
+- dune
+- chain
+- profils
+- digital
+- operations
+- traduit
+- parler
+- besoins
+- poste
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Data Analyst Supply Chain
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master en Data Science et Intelligence Artificielle, Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3), j'ai choisi le metier de Data Analyst Supply Chain. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Data Analyst Supply Chain
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Data Analyst Supply Chain, la progression a ete plus rapide quand j'ai renforce Data Analyst Supply Chain. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Data Analyst Supply Chain
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Data Analyst Supply Chain demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

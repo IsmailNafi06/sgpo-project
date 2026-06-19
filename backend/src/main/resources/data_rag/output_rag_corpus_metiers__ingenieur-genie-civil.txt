@@ -1,0 +1,157 @@
+METIER: Ingénieur Génie Civil
+CODE: INGENIEUR_GENIE_CIVIL
+SECTEUR: BTP
+
+DESCRIPTION
+Conception et réalisation des ouvrages de génie civil.
+
+PHRASES CLES
+- Ingénieur Génie Civil
+- secteur BTP
+- filiere Ingénieur Génie Civil
+- filiere Ingénierie Hydraulique et Environnement
+- conception
+- realisation
+- ouvrages
+- genie
+- civil
+- conception realisation
+- realisation ouvrages
+- ouvrages genie
+- genie civil
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: ENSA Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a ENSA Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Ingénierie Hydraulique et Environnement
+- Prerequis: Non precise
+- Etablissements: Ecole Hassania des Travaux Publics
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Hydraulique et Environnement. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Hassania des Travaux Publics. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Berrechid
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Berrechid. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Al Hoceima
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Al Hoceima. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Khouribga
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Khouribga. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences  Appliquées  Ait Melloul
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Faculté des Sciences  Appliquées  Ait Melloul. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: ENSA Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a ENSA Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: Cycle Ingenieur Genie Civil - EHTP Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Hassania des Travaux Publics
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Cycle Ingenieur Genie Civil - EHTP Casablanca. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Hassania des Travaux Publics. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Nationale des Sciences Appliquées El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 17
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 18
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: ENSA Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Ingénieur Génie Civil. Le chemin est relie a ENSA Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Conducteur de travaux BTP (score chemin commun=17)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, Ingénieur Génie Civil, j'ai choisi le metier de Ingénieur Génie Civil. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur Génie Civil, la progression a ete plus rapide quand j'ai renforce Ingénieur Génie Civil. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur Génie Civil demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

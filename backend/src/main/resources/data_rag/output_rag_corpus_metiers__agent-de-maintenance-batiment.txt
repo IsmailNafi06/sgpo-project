@@ -1,0 +1,10 @@
+﻿METIER: Agent de maintenance batiment
+CODE: AGENT_DE_MAINTENANCE_BATIMENT
+SECTEUR: Services
+
+FORMATIONS QUI Y MENENT
+- Qualification Services Securite et Maintenance Batiment - ISTA Casablanca
+
+TEMOIGNAGE
+Hicham, promotion 2023 :
+"Après ma formation professionnelle, j'ai intégré rapidement le marché comme Agent de maintenance batiment. Le secteur des services au Maroc offre de nombreuses opportunités aux profils bien formés et adaptables."

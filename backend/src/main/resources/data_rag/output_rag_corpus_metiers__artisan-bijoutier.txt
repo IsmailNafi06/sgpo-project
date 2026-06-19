@@ -1,0 +1,11 @@
+﻿METIER: Artisan bijoutier
+CODE: ARTISAN_BIJOUTIER
+SECTEUR: Arts communication et services
+
+FORMATIONS QUI Y MENENT
+- Technicien Artisanat Beaute et Services - ISTA Agadir
+- Technicien Audiovisuel Communication et Evenementiel - ISMAC Rabat
+
+TEMOIGNAGE
+Bilal, promotion 2024 :
+"Après ma formation professionnelle, j'ai intégré rapidement le marché comme Artisan bijoutier. Le secteur des services au Maroc offre de nombreuses opportunités aux profils bien formés et adaptables."

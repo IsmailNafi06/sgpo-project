@@ -1,0 +1,10 @@
+﻿METIER: Gestionnaire entrepot
+CODE: GESTIONNAIRE_ENTREPOT
+SECTEUR: Logistique et transport
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Transport Douane et Transit - ISTA Casablanca
+
+TEMOIGNAGE
+Leila, promotion 2021 :
+"Diplômé en supply chain d'une grande école d'ingénieurs à Casablanca, j'ai rejoint un opérateur logistique comme Gestionnaire entrepot. Le Maroc se positionne comme hub logistique régional, ce qui crée une forte demande de profils qualifiés."

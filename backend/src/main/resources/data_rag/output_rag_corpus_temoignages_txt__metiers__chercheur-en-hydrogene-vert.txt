@@ -1,0 +1,9 @@
+METIER: Chercheur en hydrogène vert
+CODE: CHERCHEUR_EN_HYDROGENE_VERT
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, Passerelle sectorielle vers Chercheur en hydrogène vert, j'ai choisi le metier de Chercheur en hydrogène vert. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chercheur en hydrogène vert, la progression a ete plus rapide quand j'ai renforce Chercheur en hydrogène vert. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chercheur en hydrogène vert demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

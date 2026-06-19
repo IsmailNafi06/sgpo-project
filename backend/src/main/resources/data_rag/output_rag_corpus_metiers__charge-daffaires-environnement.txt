@@ -1,0 +1,55 @@
+METIER: Chargé d’affaires (Environnement)
+CODE: CHARGE_DAFFAIRES_ENVIRONNEMENT
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Chargé d’affaires (Environnement) Le chargé d'affaires environnement analyse les besoins du client et construit en partenariat avec l'équipe technique une offre commerciale et technique de produits ou prestations dans le domaine de l'environnement (dépollution, mesures et analyses, déchets, traitement des eaux...). Il gère un portefeuille clients et développe l'activité commerciale de son entreprise. Ses missions: Développement de l'activité, gestion du portefeuille client et négociation commerciale, Suivi de la réalisation de la prestation commercialisée et Veille et stratégie marketing. Si la vente reste le cœur de métier du chargé d'affaires environnement, ses missions et les compétences nécessaires pour les mener à bien peuvent varier. S'il s'adresse à des acheteurs publics, il doit connaître les règles des marchés publics pour répondre aux appels d'offres et obtenir des contrats. Dans une petite structure, son champ d'intervent
+
+PHRASES CLES
+- Chargé d’affaires (Environnement)
+- secteur Métiers de la comptabilité, audit et finance
+- filiere BTS Comptabilite et Gestion
+- environnement
+- charge
+- commerciale
+- affaires
+- client
+- technique
+- portefeuille
+- activite
+- missions
+- publics
+- daffaires
+- analyse
+- besoins
+- construit
+- partenariat
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: BTS Comptabilite et Gestion
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Comptabilite et Gestion. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires (Environnement). Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Analyste en Investissements (score chemin commun=1)
+- Analyste de données agroalimentaires (score chemin commun=1)
+- Analyste en données urbaines et démographiques (score chemin commun=1)
+- Analyste en évaluation économique des projets d’hydrogène vert (score chemin commun=1)
+- Analyste financier pour les projets d’infrastructures d’hydrogène (score chemin commun=1)
+- Analyste ESG (score chemin commun=1)
+- Conseiller en investissement écoresponsable (score chemin commun=1)
+- percepteur (score chemin commun=1)
+- Agent des finances (score chemin commun=1)
+- guichetier payeur (score chemin commun=1)
+- Assistant comptable (score chemin commun=1)
+- Technicien administratif/financier (score chemin commun=1)
+- Agent de dépôt (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Comptabilite et Gestion, j'ai choisi le metier de Chargé d’affaires (Environnement). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé d’affaires (Environnement), la progression a ete plus rapide quand j'ai renforce Chargé d’affaires (Environnement). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé d’affaires (Environnement) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

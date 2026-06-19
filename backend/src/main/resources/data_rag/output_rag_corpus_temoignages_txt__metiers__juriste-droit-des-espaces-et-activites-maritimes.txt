@@ -1,0 +1,9 @@
+METIER: Juriste Droit des Espaces et Activités maritimes
+CODE: JURISTE_DROIT_DES_ESPACES_ET_ACTIVITES_MARITIMES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement, j'ai choisi le metier de Juriste Droit des Espaces et Activités maritimes. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Juriste Droit des Espaces et Activités maritimes, la progression a ete plus rapide quand j'ai renforce Juriste Droit des Espaces et Activités maritimes. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Juriste Droit des Espaces et Activités maritimes demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

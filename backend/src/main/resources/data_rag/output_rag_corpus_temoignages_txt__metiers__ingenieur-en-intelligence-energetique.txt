@@ -1,0 +1,9 @@
+METIER: Ingénieur en intelligence énergétique
+CODE: INGENIEUR_EN_INTELLIGENCE_ENERGETIQUE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3), j'ai choisi le metier de Ingénieur en intelligence énergétique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur en intelligence énergétique, la progression a ete plus rapide quand j'ai renforce Ingénieur en intelligence énergétique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur en intelligence énergétique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

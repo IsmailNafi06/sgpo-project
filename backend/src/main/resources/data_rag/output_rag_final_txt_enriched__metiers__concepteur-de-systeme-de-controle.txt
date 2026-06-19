@@ -1,0 +1,67 @@
+METIER: Concepteur de systeme de controle
+CODE: CONCEPTEUR_DE_SYSTEME_DE_CONTROLE
+SECTEUR: Ingenierie industrielle
+
+DESCRIPTION
+Conception de systemes automatises et de pilotage industriel.
+
+FORMATIONS QUI MENENT AU METIER
+1. Parcours professionnalisant Concepteur de systeme de controle
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Parcours professionnalisant Concepteur de systeme de controle
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Al Hoceima
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Concepteur de systeme de controle. Cette filiere ouvre un debouche direct vers le metier Concepteur de systeme de controle. Le chemin est relie a Ecole Nationale des Sciences Appliquées Al Hoceima. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Concepteur de systeme de controle
+- secteur Ingenierie industrielle
+- filiere Parcours professionnalisant Concepteur de systeme de controle
+- conception
+- systemes
+- automatises
+- pilotage
+- industriel
+- conception systemes
+- systemes automatises
+- automatises pilotage
+- pilotage industriel
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Concepteur de systeme de controle
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Concepteur de systeme de controle, j'ai choisi le metier de Concepteur de systeme de controle. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Concepteur de systeme de controle
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Concepteur de systeme de controle, la progression a ete plus rapide quand j'ai renforce Concepteur de systeme de controle. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Concepteur de systeme de controle
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Concepteur de systeme de controle demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

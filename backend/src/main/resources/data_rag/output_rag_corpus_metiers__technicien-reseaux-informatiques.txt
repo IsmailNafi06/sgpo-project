@@ -1,0 +1,11 @@
+﻿METIER: Technicien reseaux informatiques
+CODE: TECHNICIEN_RESEAUX_INFORMATIQUES
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Systemes Digitaux et Cybersecurite - ENSIAS Rabat
+- Technicien Specialise Developpement Digital - ISTA Casablanca
+
+TEMOIGNAGE
+Amina, promotion 2024 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Technicien reseaux informatiques dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

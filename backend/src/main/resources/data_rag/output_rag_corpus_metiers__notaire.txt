@@ -1,0 +1,18 @@
+﻿METIER: Notaire
+CODE: NOTAIRE
+SECTEUR: Droit
+
+FORMATIONS QUI Y MENENT
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Agadir
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Fes
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Marrakech
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Meknes
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Oujda
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Rabat Agdal
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Settat
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Tanger
+- Licence Droit Prive - FSJES Casablanca
+
+TEMOIGNAGE
+Imane, promotion 2022 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Notaire. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

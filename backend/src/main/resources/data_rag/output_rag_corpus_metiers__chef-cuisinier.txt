@@ -1,0 +1,15 @@
+﻿METIER: Chef cuisinier
+CODE: CHEF_CUISINIER
+SECTEUR: Restauration
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Cuisine et Restauration - ISTA Agadir
+- Technicien Specialise Cuisine et Restauration - ISTA Casablanca
+- Technicien Specialise Cuisine et Restauration - ISTA Fes
+- Technicien Specialise Cuisine et Restauration - ISTA Marrakech
+- Technicien Specialise Cuisine et Restauration - ISTA Rabat
+- Technicien Specialise Cuisine et Restauration - ISTA Tanger
+
+TEMOIGNAGE
+Amina, promotion 2022 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Chef cuisinier. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

@@ -1,0 +1,87 @@
+METIER: Radiologue
+CODE: RADIOLOGUE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Imagerie Médicale et Radiologie
+2. Licence Imagerie Médicale et Radiologie
+3. Licence Imagerie Médicale et Radiologie
+4. Licence Imagerie Médicale et Radiologie
+5. Licence Imagerie Médicale et Radiologie
+6. Licence Imagerie Médicale et Radiologie
+7. Licence Imagerie Médicale et Radiologie
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Imagerie Médicale et Radiologie
+- Prerequis: Non precise
+- Etablissements: ISPITS Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Imagerie Médicale et Radiologie. Cette filiere ouvre un debouche direct vers le metier Radiologue. Le chemin est relie a ISPITS Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Imagerie Médicale et Radiologie
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Imagerie Médicale et Radiologie. Cette filiere ouvre un debouche direct vers le metier Radiologue. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence Imagerie Médicale et Radiologie
+- Prerequis: Non precise
+- Etablissements: ISPITS Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Imagerie Médicale et Radiologie. Cette filiere ouvre un debouche direct vers le metier Radiologue. Le chemin est relie a ISPITS Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence Imagerie Médicale et Radiologie
+- Prerequis: Non precise
+- Etablissements: ISPITS Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Imagerie Médicale et Radiologie. Cette filiere ouvre un debouche direct vers le metier Radiologue. Le chemin est relie a ISPITS Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Licence Imagerie Médicale et Radiologie
+- Prerequis: Non precise
+- Etablissements: ISPITS Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Imagerie Médicale et Radiologie. Cette filiere ouvre un debouche direct vers le metier Radiologue. Le chemin est relie a ISPITS Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Licence Imagerie Médicale et Radiologie
+- Prerequis: Non precise
+- Etablissements: ISPITS Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Imagerie Médicale et Radiologie. Cette filiere ouvre un debouche direct vers le metier Radiologue. Le chemin est relie a ISPITS Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Licence Imagerie Médicale et Radiologie
+- Prerequis: Non precise
+- Etablissements: ISPITS Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Imagerie Médicale et Radiologie. Cette filiere ouvre un debouche direct vers le metier Radiologue. Le chemin est relie a ISPITS Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Radiologue
+- secteur Métiers de la santé
+- filiere Licence Imagerie Médicale et Radiologie
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Imagerie Médicale et Radiologie, Licence Imagerie Médicale et Radiologie, j'ai choisi le metier de Radiologue. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Radiologue, la progression a ete plus rapide quand j'ai renforce Radiologue. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Radiologue demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

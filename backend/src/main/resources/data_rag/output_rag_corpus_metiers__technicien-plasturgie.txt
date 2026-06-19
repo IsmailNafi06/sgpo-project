@@ -1,0 +1,10 @@
+﻿METIER: Technicien plasturgie
+CODE: TECHNICIEN_PLASTURGIE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Lamia, promotion 2021 :
+"Diplômé en génie industriel d'une école d'ingénieurs à Fès, j'ai intégré une usine de l'industrie aéronautique comme Technicien plasturgie. La zone franche de Casablanca et les écosystèmes industriels marocains recrutent massivement des profils techniques."

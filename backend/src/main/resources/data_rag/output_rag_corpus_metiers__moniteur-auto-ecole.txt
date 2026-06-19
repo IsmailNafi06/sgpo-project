@@ -1,0 +1,10 @@
+﻿METIER: Moniteur auto ecole
+CODE: MONITEUR_AUTO_ECOLE
+SECTEUR: Education et culture
+
+FORMATIONS QUI Y MENENT
+- Licence Education Culture et Documentation - FLSH Rabat
+
+TEMOIGNAGE
+Mehdi, promotion 2023 :
+"Mon master en sciences de l'éducation m'a orienté vers le métier de Moniteur auto ecole. La dimension humaine de ce travail est ce qui me motive chaque jour, même si les conditions d'exercice restent à améliorer."

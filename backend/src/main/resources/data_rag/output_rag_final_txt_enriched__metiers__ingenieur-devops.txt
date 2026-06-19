@@ -1,0 +1,71 @@
+METIER: Ingenieur DevOps
+CODE: INGENIEUR_DEVOPS
+SECTEUR: Informatique
+
+DESCRIPTION
+Automatisation CI/CD, cloud, observabilite et fiabilite.
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=74.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca. Cette filiere ouvre un debouche direct vers le metier Ingenieur DevOps. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 74.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Developpeur Full Stack (score_chemin_commun=1)
+- Ingenieur genie informatique (score_chemin_commun=1)
+- Data Scientist (score_chemin_commun=1)
+- Ingenieur (score_chemin_commun=1)
+- Ingenieur cybersecurite (score_chemin_commun=1)
+- Développeur Web Full Stack (score_chemin_commun=1)
+- Administrateur base de données (score_chemin_commun=1)
+
+PHRASES CLES
+- Ingenieur DevOps
+- secteur Informatique
+- filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- automatisation
+- cloud
+- observabilite
+- fiabilite
+- automatisation cloud
+- cloud observabilite
+- observabilite fiabilite
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Ingenieur DevOps
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingenieur d'Etat en Genie Informatique - ENSA Casablanca, j'ai choisi le metier de Ingenieur DevOps. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Ingenieur DevOps
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingenieur DevOps, la progression a ete plus rapide quand j'ai renforce Ingenieur DevOps. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Ingenieur DevOps
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingenieur DevOps demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

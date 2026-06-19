@@ -1,0 +1,150 @@
+METIER: Chargé d’affaires bancaires en commerce international
+CODE: CHARGE_DAFFAIRES_BANCAIRES_EN_COMMERCE_INTERNATION
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Chargé d’affaires bancaires en commerce international Le chargé d'affaires bancaires en commerce international est chargé de Conseille et propose des solutions bancaires globales (stratégie d'immobilisation de capital, placement,...) auprès d'un portefeuille de clients (grandes entreprises, institutionnels,...) selon la politique commerciale de la banque et la réglementation bancaire. Son but: faire des profits. Ses armes: son flair et son sens de l'analyse pour apprécier les risques, ainsi que les outils de télécommunications pour suivre en temps réel l'évolution des marchés internationaux. Plus souvent appelé trader, le chargé d'affaires bancaires en commerce international doit être réactif, excellent analyste et spéculateur financier redoutable. Il doit savoir gérer tant physiquement que moralement la pression et le stress inhérents à son travail, qu'il exerce le plus souvent dans des grandes villes du mon
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir
+2. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger
+3. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+4. Système d'information marketing et commerce - ISGA El Jadida
+5. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra
+6. Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+7. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat
+8. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir
+9. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Kénitra
+10. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Tanger
+11. Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Marrakech
+12. Diplôme accrédité en Management Stratégique des Entreprises option Commerce International (Type MASTER Bac+5)-SUP'RH
+13. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=71.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 71.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Tanger
+- Indicateurs: taux_reussite=65.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Tanger. Indicateurs du parcours: taux de reussite estime: 65.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Marrakech
+- Indicateurs: taux_reussite=85.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Marrakech. Indicateurs du parcours: taux de reussite estime: 85.8%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Système d'information marketing et commerce - ISGA El Jadida
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion El Jadida
+- Indicateurs: taux_reussite=70.2%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Système d'information marketing et commerce - ISGA El Jadida. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion El Jadida. Indicateurs du parcours: taux de reussite estime: 70.2%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Kénitra
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Kénitra. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=86.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 86.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=81.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 81.9%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=82.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 82.4%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Kénitra
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Kénitra
+- Indicateurs: taux_reussite=89.1%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Kénitra. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Kénitra. Indicateurs du parcours: taux de reussite estime: 89.1%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Tanger
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Tanger
+- Indicateurs: taux_reussite=83.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Tanger. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Tanger. Indicateurs du parcours: taux de reussite estime: 83.8%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Marrakech
+- Indicateurs: taux_reussite=79.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Marrakech. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Marrakech. Indicateurs du parcours: taux de reussite estime: 79.8%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Diplôme accrédité en Management Stratégique des Entreprises option Commerce International (Type MASTER Bac+5)-SUP'RH
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=88.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme accrédité en Management Stratégique des Entreprises option Commerce International (Type MASTER Bac+5)-SUP'RH. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 88.8%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=73.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Chargé d’affaires bancaires en commerce international. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 73.9%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de la logistique e-commerce (score_chemin_commun=13)
+- Conseiller clientèle (score_chemin_commun=3)
+- Agent service client (score_chemin_commun=3)
+- Spécialiste marketing digital (score_chemin_commun=1)
+- Consultant en optimisation de la chaîne logistique (score_chemin_commun=1)
+- Coordinateur Logistique (score_chemin_commun=1)
+- Animateur logistique (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+
+PHRASES CLES
+- Chargé d’affaires bancaires en commerce international
+- secteur Métiers de la comptabilité, audit et finance
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+- filiere Système d'information marketing et commerce - ISGA El Jadida
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kénitra
+- filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir
+- charge
+- bancaires
+- commerce
+- international
+- affaires
+- grandes
+- souvent
+- doit
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir, Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger, j'ai choisi le metier de Chargé d’affaires bancaires en commerce international. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé d’affaires bancaires en commerce international, la progression a ete plus rapide quand j'ai renforce Chargé d’affaires bancaires en commerce international. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé d’affaires bancaires en commerce international demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,100 @@
+METIER: Chargé de réalisation radio
+CODE: CHARGE_DE_REALISATION_RADIO
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Chargé de réalisation radio Au sein des grosses rédactions radiophoniques, le Chargé de réalisation radio est en charge de la conception et de la construction d’une émission. En effet, en accord avec l’animateur ou le journaliste radio, il a pour mission de concevoir et fabriquer l’émission. Le chargé de réalisation radio participe à l’écriture du conducteur d’antenne et à son exécution en direct, le tout en prenant soin de bien respecter le cahier des charges préétablis par la direction d’antenne. Installé en régie, il suit attentivement ce qui se passe à l’antenne. Le chargé de réalisation radio peut prendre la décision d’envoyer un disque ou de lancer la publicité si un problème de rythme survient dans l’émission ou qu’une interview s’enlise. Pour autant, il ne touche pas à la console, il donne ses directives au technicien d’antenne qui a charge de lui obéir et de ne s’occuper que de la bonne qualité du son. Bac + 2 Niveau d'études 4.0
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur en architecture d’intérieur
+2. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur en architecture d’intérieur
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en architecture d’intérieur. Cette filiere ouvre un debouche direct vers le metier Chargé de réalisation radio. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Chargé de réalisation radio. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Architecte (score_chemin_commun=1)
+- Technicien en gestion des déchets (score_chemin_commun=1)
+- Consultant en optimisation énergétique des bâtiments (score_chemin_commun=1)
+- Technicien en maintenance d’éolienne (score_chemin_commun=1)
+- Ingénieur en intelligence énergétique (score_chemin_commun=1)
+- Chercheur en hydrogène vert (score_chemin_commun=1)
+- Opérateur de centrale électrolyse à hydrogène (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Opérateur d’usine (score_chemin_commun=1)
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+
+PHRASES CLES
+- Chargé de réalisation radio
+- secteur Métiers de l’édition et du journalisme
+- filiere Ingénieur en architecture d’intérieur
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- charge
+- radio
+- realisation
+- dantenne
+- lemission
+- sein
+- grosses
+- redactions
+- radiophoniques
+- conception
+- construction
+- dune
+- emission
+- effet
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Chargé de réalisation radio
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Chargé de réalisation radio. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Chargé de réalisation radio
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé de réalisation radio, la progression a ete plus rapide quand j'ai renforce Chargé de réalisation radio. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Chargé de réalisation radio
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé de réalisation radio demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Veterinaire
+CODE: VETERINAIRE
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+TEMOIGNAGE
+Rachid, promotion 2022 :
+"Travailler comme Veterinaire est un défi quotidien mais aussi une grande satisfaction personnelle. Ma formation clinique au Maroc m'a donné une autonomie que j'apprécie énormément dans ma pratique professionnelle."

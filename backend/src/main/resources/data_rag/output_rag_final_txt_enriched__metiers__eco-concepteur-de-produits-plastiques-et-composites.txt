@@ -1,0 +1,100 @@
+METIER: Eco-concepteur de produits plastiques et composites
+CODE: ECO_CONCEPTEUR_DE_PRODUITS_PLASTIQUES_ET_COMPOSITE
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Eco-concepteur de produits plastiques et composites L’éco-concepteur de produits plastiques et composites étudie les produits plastiques d’une approche globale des conséquences sur l’environnement: air, sol, eau, bruit, matières premières utilisées, énergie nécessaire, déchets. Il prend en compte l’ensemble du cycle de vie du produit. L' éco-concepteur travaille donc pour que son produit n'ait qu'une faible consommation de matières premières, d'eau et d'énergie, pollue peu et produise le moins de déchets possible. La mission de l’ éco-concepteur est globale. Il participe aux choix technologiques des composants et des matériaux pour favoriser la maintenance et le recyclage du produit. Il analyse les caractéristiques humaines et environnementales du territoire proche du lieu de production pour accomplir des études d’impact. L'éco-concepteur procède à des études de besoins, des diagnostics. Il réalise des plans d’exé
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca
+2. Ingénieur en NTIC – Énergies renouvelables
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine et de Pharmacie Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca. Cette filiere ouvre un debouche direct vers le metier Eco-concepteur de produits plastiques et composites. Le chemin est relie a Faculté de Médecine et de Pharmacie Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Eco-concepteur de produits plastiques et composites. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Technicien de maintenance d’éoliennes (score_chemin_commun=1)
+- Spécialiste de la conservation de l’eau (score_chemin_commun=1)
+- Expert en chauffage solaire (score_chemin_commun=1)
+- Ingénieur en conception de systèmes énergétiques durables (score_chemin_commun=1)
+- Technicien en traitement de l’eau pour l’électrolyse de l’hydrogène (score_chemin_commun=1)
+- Expert en évaluation de l’empreinte carbone de l’hydrogène vert (score_chemin_commun=1)
+- Technicien en maintenance des systèmes de distribution d’hydrogène (score_chemin_commun=1)
+- Gestionnaire de projet pour la construction d’usines de production d’hydrogène (score_chemin_commun=1)
+- Ingénieur en conception de systèmes de stockage d’hydrogène solide (score_chemin_commun=1)
+- Responsable des opérations de production d’hydrogène vert (score_chemin_commun=1)
+- Ingénieur en conversion d’énergie pour les piles à combustible (score_chemin_commun=1)
+- Technicien en maintenance des piles à combustible (score_chemin_commun=1)
+- Architecte de systèmes de production d’hydrogène vert (score_chemin_commun=1)
+- Ingénieur en systèmes de stockage d’hydrogène comprimé (score_chemin_commun=1)
+- Technicien en électrolyse alcaline (score_chemin_commun=1)
+- Technicien supérieur de l’aviation (score_chemin_commun=1)
+- Technicien plasturgiste (score_chemin_commun=1)
+
+PHRASES CLES
+- Eco-concepteur de produits plastiques et composites
+- secteur Métiers biologie et agroalimentaire
+- filiere Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- concepteur
+- produits
+- plastiques
+- produit
+- composites
+- globale
+- matieres
+- premieres
+- energie
+- dechets
+- etudes
+- leco
+- etudie
+- dune
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Eco-concepteur de produits plastiques et composites
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Professionnelle en Fabrication et Contrôle des Produits de Santé - FM6P Casablanca, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Eco-concepteur de produits plastiques et composites. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Eco-concepteur de produits plastiques et composites
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Eco-concepteur de produits plastiques et composites, la progression a ete plus rapide quand j'ai renforce Eco-concepteur de produits plastiques et composites. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Eco-concepteur de produits plastiques et composites
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Eco-concepteur de produits plastiques et composites demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

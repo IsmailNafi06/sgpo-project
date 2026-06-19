@@ -1,0 +1,100 @@
+METIER: Technicien de maintenance de véhicule électrique
+CODE: TECHNICIEN_DE_MAINTENANCE_DE_VEHICULE_ELECTRIQUE
+SECTEUR: Métiers de l’électrique
+
+DESCRIPTION
+Technicien de maintenance de véhicule électrique Le Technicien de maintenance de véhicule électrique est un professionnel spécialisé dans l'entretien et la réparation des véhicules électriques. Son rôle principal est d'assurer le bon fonctionnement et la sécurité des systèmes électriques et électroniques des véhicules électriques, y compris les batteries, les moteurs, les systèmes de charge, et les équipements de gestion de l'énergie. Pour exercer ce métier, il est nécessaire d'avoir des connaissances approfondies en électricité automobile, en électronique de puissance et en systèmes de gestion de l'énergie. La maîtrise des normes de sécurité et des réglementations en vigueur est également requise pour garantir un travail de qualité et respecter les normes environnementales. Bac + 2 Niveau d'études 5.000 MAD Rémunération 2 ans Expérience Missions principales Effectuer la maintenance préventive des véhicules électrique
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués
+2. Ingénieur en NTIC – Énergies renouvelables
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués. Cette filiere ouvre un debouche direct vers le metier Technicien de maintenance de véhicule électrique. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Technicien de maintenance de véhicule électrique. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de mobilité électrique (score_chemin_commun=1)
+- Technicien de maintenance d’éoliennes (score_chemin_commun=1)
+- Spécialiste de la conservation de l’eau (score_chemin_commun=1)
+- Expert en chauffage solaire (score_chemin_commun=1)
+- Ingénieur en conception de systèmes énergétiques durables (score_chemin_commun=1)
+- Technicien en traitement de l’eau pour l’électrolyse de l’hydrogène (score_chemin_commun=1)
+- Expert en évaluation de l’empreinte carbone de l’hydrogène vert (score_chemin_commun=1)
+- Technicien en maintenance des systèmes de distribution d’hydrogène (score_chemin_commun=1)
+- Gestionnaire de projet pour la construction d’usines de production d’hydrogène (score_chemin_commun=1)
+- Ingénieur en conception de systèmes de stockage d’hydrogène solide (score_chemin_commun=1)
+- Responsable des opérations de production d’hydrogène vert (score_chemin_commun=1)
+- Ingénieur en conversion d’énergie pour les piles à combustible (score_chemin_commun=1)
+- Technicien en maintenance des piles à combustible (score_chemin_commun=1)
+- Architecte de systèmes de production d’hydrogène vert (score_chemin_commun=1)
+- Ingénieur en systèmes de stockage d’hydrogène comprimé (score_chemin_commun=1)
+- Technicien en électrolyse alcaline (score_chemin_commun=1)
+- Technicien supérieur de l’aviation (score_chemin_commun=1)
+- Technicien plasturgiste (score_chemin_commun=1)
+- Électro (score_chemin_commun=1)
+- Eco-concepteur de produits plastiques et composites (score_chemin_commun=1)
+
+PHRASES CLES
+- Technicien de maintenance de véhicule électrique
+- secteur Métiers de l’électrique
+- filiere Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- maintenance
+- electrique
+- vehicules
+- electriques
+- systemes
+- technicien
+- vehicule
+- securite
+- gestion
+- energie
+- normes
+- professionnel
+- specialise
+- entretien
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Technicien de maintenance de véhicule électrique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Technicien de maintenance de véhicule électrique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Technicien de maintenance de véhicule électrique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien de maintenance de véhicule électrique, la progression a ete plus rapide quand j'ai renforce Technicien de maintenance de véhicule électrique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Technicien de maintenance de véhicule électrique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien de maintenance de véhicule électrique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

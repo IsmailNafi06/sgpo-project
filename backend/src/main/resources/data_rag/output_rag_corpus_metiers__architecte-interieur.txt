@@ -1,0 +1,10 @@
+﻿METIER: Architecte d interieur
+CODE: ARCHITECTE_INTERIEUR
+SECTEUR: Architecture et design
+
+FORMATIONS QUI Y MENENT
+- Licence Design d Interieur - INBA Tetouan
+
+TEMOIGNAGE
+Sara, promotion 2022 :
+"Exercer comme Architecte d interieur au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

@@ -1,0 +1,62 @@
+METIER: Procureur de la république
+CODE: PROCUREUR_DE_LA_REPUBLIQUE
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Procureur de la république Magistrat du parquet, le procureur de la République est un personnage-clé du ministère de la Justice, au même titre que l’avocat général ou le substitut. Sa mission est aussi claire que difficile à remplir: défendre les intérêts de la société et veiller à assurer l’ordre public. Bac + 5 Niveau d'études 20.000 MAD Rémunération 3 ans Expérience Missions principales Effectuer un travail de prévention et applique le droit dans l’intérêt des citoyens Analyser les plaintes et dossiers émis par les institutions publiques et les particuliers Défendre les intérêts des citoyens Contrôler le respect légal des dossiers et procédures au niveau national Compétences techniques Connaissances en droit Grande capacité d’analyse et de synthèse Sens de l’impartialité et de l’équité Qualités personnelles Autonome Mature Qualités d’expression écrite et orale Type de formation Pour devenir procureur de la République, il faut d’abord d
+
+PHRASES CLES
+- Procureur de la république
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- procureur
+- republique
+- defendre
+- interets
+- droit
+- citoyens
+- dossiers
+- qualites
+- magistrat
+- parquet
+- personnage
+- ministere
+- justice
+- meme
+- titre
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Procureur de la république. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Agent d’Immigration (score chemin commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score chemin commun=1)
+- Inspecteur des douanes (score chemin commun=1)
+- Substitut du procureur (score chemin commun=1)
+- Juge aux affaires familiales (score chemin commun=1)
+- Administrateur judiciaire (score chemin commun=1)
+- Juge pour enfants (score chemin commun=1)
+- Flasheur (score chemin commun=1)
+- Juriste en droit de l’environnement (score chemin commun=1)
+- Juriste dans l’immobilier (score chemin commun=1)
+- Fiscaliste (score chemin commun=1)
+- Responsable legs (score chemin commun=1)
+- Directeur des services de greffe judiciaires (score chemin commun=1)
+- Avocat d’affaires (score chemin commun=1)
+- Juriste agricole (score chemin commun=1)
+- Juriste du sport (score chemin commun=1)
+- Chargé d’indemnisation (score chemin commun=1)
+- Responsable des achats durables (score chemin commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score chemin commun=1)
+- Avocat (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, j'ai choisi le metier de Procureur de la république. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Procureur de la république, la progression a ete plus rapide quand j'ai renforce Procureur de la république. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Procureur de la république demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

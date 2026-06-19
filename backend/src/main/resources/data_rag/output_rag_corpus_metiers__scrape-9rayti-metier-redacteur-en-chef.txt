@@ -1,0 +1,10 @@
+﻿METIER: Redacteur En Chef
+CODE: SCRAPE_9RAYTI_METIER_REDACTEUR_EN_CHEF
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Soufiane, promotion 2021 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Redacteur En Chef. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."

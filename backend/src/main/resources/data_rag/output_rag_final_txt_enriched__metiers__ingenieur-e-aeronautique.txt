@@ -1,0 +1,75 @@
+METIER: Ingénieur(e) Aéronautique
+CODE: INGENIEUR_E_AERONAUTIQUE
+SECTEUR: Métiers de l’électrique
+
+DESCRIPTION
+Ingénieur(e) Aéronautique Électronique, mécanique, aérodynamisme, optique, système embarqué… Le moins que l’on puisse dire, c’est que l’ingénieur aéronautique a l’embarras du choix! Derrière ce terme générique coexistent en réalité de multiples profils d’ingénieurs: ingénieur d’études, ingénieur calcul, ingénieur production, ingénieur d’essais… Qu’il travaille pour un constructeur, un équipementier ou une société de services, l’ingénieur aéronautique est toujours spécialisé dans un domaine technique. Il peut aussi occuper des fonctions commerciales, on parle alors d’ingénieur d’affaires ou acheteur. Dans un bureau d’études ou en usine, l’ingénieur aéronautique évolue au sein d’équipes multiculturelles et pluridisciplinaires. La pratique de l’anglais et un bon sens du relationnel sont donc indispensables! Bac + 5 Niveau d'études 10.000 MAD Rémunération 3 ans Expérience Missions principales concevoir des pièces ou des ensembles pour les av
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Génie de la Logistique Aéronautique
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Génie de la Logistique Aéronautique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Génie de la Logistique Aéronautique. Cette filiere ouvre un debouche direct vers le metier Ingénieur(e) Aéronautique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de la logistique e-commerce (score_chemin_commun=1)
+- Consultant en optimisation de la chaîne logistique (score_chemin_commun=1)
+- Coordinateur Logistique (score_chemin_commun=1)
+
+PHRASES CLES
+- Ingénieur(e) Aéronautique
+- secteur Métiers de l’électrique
+- filiere Licence en Génie de la Logistique Aéronautique
+- ingenieur
+- aeronautique
+- lingenieur
+- detudes
+- electronique
+- mecanique
+- aerodynamisme
+- optique
+- systeme
+- embarque
+- moins
+- puisse
+- dire
+- cest
+- lembarras
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Ingénieur(e) Aéronautique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Génie de la Logistique Aéronautique, j'ai choisi le metier de Ingénieur(e) Aéronautique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Ingénieur(e) Aéronautique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur(e) Aéronautique, la progression a ete plus rapide quand j'ai renforce Ingénieur(e) Aéronautique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Ingénieur(e) Aéronautique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur(e) Aéronautique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

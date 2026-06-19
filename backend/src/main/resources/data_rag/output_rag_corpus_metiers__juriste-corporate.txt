@@ -1,0 +1,78 @@
+METIER: Juriste corporate
+CODE: JURISTE_CORPORATE
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Juriste corporate
+- secteur Métiers de droit et de la justice
+- filiere ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit
+- filiere Master Droit des Contentieux publics et administratifs
+- filiere Licence Droit Public SUP’H Droit
+- filiere Licence Droit des Affaires
+- filiere Master en Droit des Affaires et Management des Entreprises
+- filiere Licence Droit des affaires et fiscalité SUP’H Droit
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit. Cette filiere ouvre un debouche direct vers le metier Juriste corporate. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Droit des Contentieux publics et administratifs
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Fès
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Droit des Contentieux publics et administratifs. Cette filiere ouvre un debouche direct vers le metier Juriste corporate. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Fès. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence Droit Public SUP’H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit Public SUP’H Droit. Cette filiere ouvre un debouche direct vers le metier Juriste corporate. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence Droit des Affaires
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit des Affaires. Cette filiere ouvre un debouche direct vers le metier Juriste corporate. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Master en Droit des Affaires et Management des Entreprises
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Droit des Affaires et Management des Entreprises. Cette filiere ouvre un debouche direct vers le metier Juriste corporate. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Licence Droit des affaires et fiscalité SUP’H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit des affaires et fiscalité SUP’H Droit. Cette filiere ouvre un debouche direct vers le metier Juriste corporate. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Juriste en droit de l’environnement (score chemin commun=6)
+- Juriste Droit des Espaces et Activités maritimes (score chemin commun=6)
+- Juge aux affaires familiales (score chemin commun=3)
+- Avocat en droit de l’environnement (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit, Master Droit des Contentieux publics et administratifs, j'ai choisi le metier de Juriste corporate. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Juriste corporate, la progression a ete plus rapide quand j'ai renforce Juriste corporate. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Juriste corporate demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

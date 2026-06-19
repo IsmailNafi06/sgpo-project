@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur chimie industrielle
+CODE: INGENIEUR_CHIMIE_INDUSTRIELLE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Genie Chimie Industrielle - ENSC Kenitra
+
+TEMOIGNAGE
+Nabil, promotion 2021 :
+"Travailler comme Ingenieur chimie industrielle dans l'industrie au Maroc, c'est intégrer un secteur en pleine montée en gamme. Ma formation d'ingénieur m'a appris à résoudre des problèmes complexes et à manager des équipes de production."

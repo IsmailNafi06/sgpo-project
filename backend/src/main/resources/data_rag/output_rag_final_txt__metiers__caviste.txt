@@ -1,0 +1,66 @@
+METIER: Caviste
+CODE: CAVISTE
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Caviste L'ouvrier caviste, sous la responsabilité du chef de cave ou du chef de cave, s'assure que le vin est suivi et vieilli. Selon la situation, son autonomie est plus ou moins importante. Il peut faire les choses simplement, et il peut aussi être responsable d'une partie du travail de vinification. Avant les vendanges, le caviste prépare et désinfecte la cave (cave), nettoie les cuves et inspecte le matériel. Ainsi, lors des vendanges, il ramasse les raisins, les transporte et les empile dans de grands fûts. Ensuite, il contrôle la température et la composition du jus (ou jus) obtenu. En fait,il peut y ajouter du sucre: c'est ce qu'on appelle le broyage. De plus il surveille la fermentation du sucre ou la conversion du sucre en alcool. Dès lors, une fois la fermentation terminée, le jus est pressé et placé dans un seau. Et la prochaine étape est le vin mûr. En fait, les ouvriers du chai sortent le vin (transférez le vin d'un tonneau à l'autre), le fil
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Caviste. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+
+PHRASES CLES
+- Caviste
+- secteur Métiers biologie et agroalimentaire
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- cave
+- peut
+- sucre
+- chef
+- vendanges
+- lors
+- fermentation
+- ouvrier
+- sous
+- responsabilite
+- assure
+- suivi
+- vieilli
+- selon
+- situation
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Caviste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Caviste, la progression a ete plus rapide quand j'ai renforce Caviste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Caviste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

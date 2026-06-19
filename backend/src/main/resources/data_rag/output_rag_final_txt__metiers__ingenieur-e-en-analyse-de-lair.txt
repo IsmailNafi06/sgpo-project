@@ -1,0 +1,52 @@
+METIER: Ingénieur(e) en analyse de l’air
+CODE: INGENIEUR_E_EN_ANALYSE_DE_LAIR
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Ingénieur(e) en analyse de l’air Ozone, monoxyde de carbone, azote… L’air que nous respirons est susceptible de contenir de multiples pollutions. La mission de cet ingénieur consiste à analyser les différents polluants enregistrés par les appareils de mesure, placés notamment dans les grandes villes. Employé par des associations agréées de surveillance de l’air ou des organismes de recherche, il peut être amené à tirer la sonnette d’alarme quand les taux de pollution dépassent les seuils d’alerte fixés par les autorités. Bac + 5 Niveau d'études 8.000 MAD Rémunération 3 ans Expérience Missions principales Analyser les différents polluants enregistrés par les appareils de mesure. Tirer la sonnette d’alarme quand les taux de pollution dépassent les seuils d’alerte fixés par les autorités. Assurer la surveillance de l’air Compétences techniques Rigueur scientifique Esprit d’analyse et de synthèse Goût pour la technologie Sens de la pédag
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Sciences Infirmieres - ISPITS Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Sciences Infirmieres - ISPITS Rabat
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Sciences Infirmieres - ISPITS Rabat. Cette filiere ouvre un debouche direct vers le metier Ingénieur(e) en analyse de l’air. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Infirmier polyvalent (score_chemin_commun=1)
+- Gestionnaire de la chaîne d’approvisionnement alimentaire (score_chemin_commun=1)
+- Technologue alimentaire (score_chemin_commun=1)
+- Maître-composteur (score_chemin_commun=1)
+- Chargé de développement agricole en circuit court (score_chemin_commun=1)
+- Conseiller en agro-développement international (score_chemin_commun=1)
+
+PHRASES CLES
+- Ingénieur(e) en analyse de l’air
+- secteur Métiers biologie et agroalimentaire
+- filiere Licence en Sciences Infirmieres - ISPITS Rabat
+- lair
+- ingenieur
+- analyser
+- differents
+- polluants
+- enregistres
+- appareils
+- mesure
+- surveillance
+- tirer
+- sonnette
+- dalarme
+- quand
+- taux
+- pollution
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Sciences Infirmieres - ISPITS Rabat, j'ai choisi le metier de Ingénieur(e) en analyse de l’air. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur(e) en analyse de l’air, la progression a ete plus rapide quand j'ai renforce Ingénieur(e) en analyse de l’air. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur(e) en analyse de l’air demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

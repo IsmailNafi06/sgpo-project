@@ -1,0 +1,11 @@
+﻿METIER: Geologue
+CODE: GEOLOGUE
+SECTEUR: Sciences
+
+FORMATIONS QUI Y MENENT
+- Licence Geologie - Faculte des Sciences Semlalia Marrakech
+- Master Geosciences - Faculte des Sciences Semlalia Marrakech
+
+TEMOIGNAGE
+Karim, promotion 2024 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Geologue. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

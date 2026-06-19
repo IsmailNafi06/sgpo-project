@@ -1,0 +1,12 @@
+﻿METIER: Charge d affaires bancaires
+CODE: CHARGE_AFFAIRES_BANCAIRES
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Finance et Comptabilite
+- Diplome ENCG Finance et Comptabilite - ENCG Beni Mellal
+- Diplome ENCG Finance et Comptabilite - ENCG Casablanca
+
+TEMOIGNAGE
+Amine, promotion 2024 :
+"Mon master en finance à l'ISCAE m'a ouvert les portes du métier de Charge d affaires bancaires. La rigueur analytique apprise en formation est indispensable pour gérer les dossiers complexes que je traite au quotidien."

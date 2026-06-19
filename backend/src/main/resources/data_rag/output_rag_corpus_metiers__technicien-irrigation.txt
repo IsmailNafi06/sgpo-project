@@ -1,0 +1,10 @@
+﻿METIER: Technicien irrigation
+CODE: TECHNICIEN_IRRIGATION
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Yassine, promotion 2022 :
+"Diplômé de l'IAV Hassan II à Rabat, j'exerce aujourd'hui comme Technicien irrigation dans le cadre du Plan Maroc Vert. Le secteur agricole marocain se modernise rapidement et offre de belles perspectives aux jeunes formés."

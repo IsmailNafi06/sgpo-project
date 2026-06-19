@@ -1,0 +1,10 @@
+﻿METIER: Auditeur
+CODE: AUDITEUR
+SECTEUR: Audit, Comptabilite et Gestion
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Zakaria, promotion 2024 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Auditeur. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

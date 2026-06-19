@@ -1,0 +1,113 @@
+METIER: Technicien de laboratoire médical
+CODE: TECHNICIEN_DE_LABORATOIRE_MEDICAL
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Techniques de Laboratoire Médical
+2. Licence Techniques de Laboratoire Médical
+3. Licence Techniques de Laboratoire Médical
+4. Licence Techniques de Laboratoire Médical
+5. Licence Techniques de Laboratoire Médical
+6. Licence Techniques de Laboratoire Médical
+7. Licence Techniques de Laboratoire Médical
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Techniques de Laboratoire Médical
+- Prerequis: Non precise
+- Etablissements: ISPITS Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Techniques de Laboratoire Médical. Cette filiere ouvre un debouche direct vers le metier Technicien de laboratoire médical. Le chemin est relie a ISPITS Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Techniques de Laboratoire Médical
+- Prerequis: Non precise
+- Etablissements: ISPITS Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Techniques de Laboratoire Médical. Cette filiere ouvre un debouche direct vers le metier Technicien de laboratoire médical. Le chemin est relie a ISPITS Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence Techniques de Laboratoire Médical
+- Prerequis: Non precise
+- Etablissements: ISPITS Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Techniques de Laboratoire Médical. Cette filiere ouvre un debouche direct vers le metier Technicien de laboratoire médical. Le chemin est relie a ISPITS Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence Techniques de Laboratoire Médical
+- Prerequis: Non precise
+- Etablissements: ISPITS Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Techniques de Laboratoire Médical. Cette filiere ouvre un debouche direct vers le metier Technicien de laboratoire médical. Le chemin est relie a ISPITS Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Licence Techniques de Laboratoire Médical
+- Prerequis: Non precise
+- Etablissements: ISPITS Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Techniques de Laboratoire Médical. Cette filiere ouvre un debouche direct vers le metier Technicien de laboratoire médical. Le chemin est relie a ISPITS Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Licence Techniques de Laboratoire Médical
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Techniques de Laboratoire Médical. Cette filiere ouvre un debouche direct vers le metier Technicien de laboratoire médical. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Licence Techniques de Laboratoire Médical
+- Prerequis: Non precise
+- Etablissements: ISPITS Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Techniques de Laboratoire Médical. Cette filiere ouvre un debouche direct vers le metier Technicien de laboratoire médical. Le chemin est relie a ISPITS Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Technicien de laboratoire médical
+- secteur Métiers de la santé
+- filiere Licence Techniques de Laboratoire Médical
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Technicien de laboratoire médical
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Techniques de Laboratoire Médical, Licence Techniques de Laboratoire Médical, j'ai choisi le metier de Technicien de laboratoire médical. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Technicien de laboratoire médical
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien de laboratoire médical, la progression a ete plus rapide quand j'ai renforce Technicien de laboratoire médical. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Technicien de laboratoire médical
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien de laboratoire médical demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

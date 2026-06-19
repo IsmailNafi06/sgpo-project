@@ -1,0 +1,239 @@
+METIER: Ingenieur cybersecurite
+CODE: INGENIEUR_CYBERSECURITE
+SECTEUR: Cybersecurite
+
+DESCRIPTION
+Protection des SI, reseaux et donnees contre les cyberattaques.
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur Génie Informatique
+2. Ingénieur Génie Informatique
+3. Ingénieur Génie Informatique
+4. Ingénieur Génie Informatique
+5. Ingénieur Génie Informatique
+6. Ingénieur Génie Informatique
+7. Ingénierie Cybersécurité
+8. Ingénieur Génie Informatique
+9. Ingénierie Cybersécurité
+10. Master IA
+11. Ingénierie Cybersécurité
+12. Ingénieur Génie Informatique
+13. Ingénieur Génie Informatique
+14. Ingénieur Génie Informatique
+15. Ingénieur Génie Informatique
+16. Ingénieur Génie Informatique
+17. MBA Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB)
+18. Ingénieur Génie Informatique
+19. Ingénieur Génie Informatique
+20. Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: ENSA Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a ENSA Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: ENSA Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a ENSA Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: ENSA Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a ENSA Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Al Hoceima
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Al Hoceima. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Ingénierie Cybersécurité
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Cybersécurité. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Berrechid
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Berrechid. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Ingénierie Cybersécurité
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Cybersécurité. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 11
+- Filiere: Ingénierie Cybersécurité
+- Prerequis: Non precise
+- Etablissements: Institut National des Postes et Telecommunications
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Cybersécurité. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Institut National des Postes et Telecommunications. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Khouribga
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Khouribga. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences  Appliquées  Ait Melloul
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Faculté des Sciences  Appliquées  Ait Melloul. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 17
+- Filiere: MBA Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB)
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere MBA Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB). Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 18
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 19
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquées El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 20
+- Filiere: Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca. Cette filiere ouvre un debouche direct vers le metier Ingenieur cybersecurite. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Développeur Web Full Stack (score_chemin_commun=15)
+- Administrateur base de données (score_chemin_commun=15)
+- Data Scientist (score_chemin_commun=2)
+- Spécialiste en Surveillance Environnementale (score_chemin_commun=1)
+- Concepteur Web design (score_chemin_commun=1)
+- Expert en modélisation 3D (score_chemin_commun=1)
+- Expert en sécurité des données biométriques (score_chemin_commun=1)
+- Analyste en données géospatiales (score_chemin_commun=1)
+- Consultant en éthique des algorithmes (score_chemin_commun=1)
+- Consultant en transformation numérique des PME (score_chemin_commun=1)
+- Développeur de solutions e-learning (score_chemin_commun=1)
+- Analyste en sécurité des objets connectés (score_chemin_commun=1)
+- Ingénieur en réalité augmentée (score_chemin_commun=1)
+- médiateur numérique (score_chemin_commun=1)
+- Développeur de solutions blockchain (score_chemin_commun=1)
+- Régulateur de trafic ferroviaire (score_chemin_commun=1)
+- Media buyer (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Spécialiste en déploiement de bornes EV (score_chemin_commun=1)
+- Spécialiste en intégration de l’hydrogène dans les réseaux électriques (score_chemin_commun=1)
+
+PHRASES CLES
+- Ingenieur cybersecurite
+- secteur Cybersecurite
+- filiere Ingénieur Génie Informatique
+- filiere Ingénierie Cybersécurité
+- protection
+- reseaux
+- donnees
+- contre
+- cyberattaques
+- protection reseaux
+- reseaux donnees
+- donnees contre
+- contre cyberattaques
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Ingenieur cybersecurite
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Informatique, Ingénieur Génie Informatique, j'ai choisi le metier de Ingenieur cybersecurite. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Ingenieur cybersecurite
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingenieur cybersecurite, la progression a ete plus rapide quand j'ai renforce Ingenieur cybersecurite. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Ingenieur cybersecurite
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingenieur cybersecurite demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

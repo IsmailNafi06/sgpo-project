@@ -1,0 +1,9 @@
+METIER: Assistant à la réalisation
+CODE: ASSISTANT_A_LA_REALISATION
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Tourisme Culturel et Valorisation du Patrimoine, j'ai choisi le metier de Assistant à la réalisation. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Assistant à la réalisation, la progression a ete plus rapide quand j'ai renforce Assistant à la réalisation. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Assistant à la réalisation demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

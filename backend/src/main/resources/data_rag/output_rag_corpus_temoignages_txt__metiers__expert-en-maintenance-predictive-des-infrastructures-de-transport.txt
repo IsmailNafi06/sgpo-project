@@ -1,0 +1,9 @@
+METIER: Expert en maintenance prédictive des infrastructures de transport
+CODE: EXPERT_EN_MAINTENANCE_PREDICTIVE_DES_INFRASTRUCTUR
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Expert en maintenance prédictive des infrastructures de transport. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Expert en maintenance prédictive des infrastructures de transport, la progression a ete plus rapide quand j'ai renforce Expert en maintenance prédictive des infrastructures de transport. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Expert en maintenance prédictive des infrastructures de transport demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

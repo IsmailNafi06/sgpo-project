@@ -1,0 +1,10 @@
+﻿METIER: Tourneur fraiseur
+CODE: TOURNEUR_FRAISEUR
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Mehdi, promotion 2022 :
+"Travailler comme Tourneur fraiseur dans l'industrie au Maroc, c'est intégrer un secteur en pleine montée en gamme. Ma formation d'ingénieur m'a appris à résoudre des problèmes complexes et à manager des équipes de production."

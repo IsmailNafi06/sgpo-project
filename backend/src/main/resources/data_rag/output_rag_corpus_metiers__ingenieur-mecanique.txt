@@ -1,0 +1,11 @@
+﻿METIER: Ingenieur mecanique
+CODE: INGENIEUR_MECANIQUE
+SECTEUR: Ingenierie
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en Genie Mecanique - ENSAM Meknes
+- Ingenieur en Genie Mecanique - FST Tanger
+
+TEMOIGNAGE
+Lamia, promotion 2021 :
+"Exercer comme Ingenieur mecanique dans le secteur de l'ingénierie au Maroc, c'est évoluer dans un environnement exigeant où la rigueur technique, la gestion de projet et la communication sont également importantes."

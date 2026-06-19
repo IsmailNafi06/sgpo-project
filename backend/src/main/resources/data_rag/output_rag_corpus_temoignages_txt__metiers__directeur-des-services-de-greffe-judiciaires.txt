@@ -1,0 +1,9 @@
+METIER: Directeur des services de greffe judiciaires
+CODE: DIRECTEUR_DES_SERVICES_DE_GREFFE_JUDICIAIRES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d’Études Professionnelle en Métiers Juridiques et Judiciaires (en arabe) - FSJES Settat, Licence en Droit Prive, j'ai choisi le metier de Directeur des services de greffe judiciaires. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Directeur des services de greffe judiciaires, la progression a ete plus rapide quand j'ai renforce Directeur des services de greffe judiciaires. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Directeur des services de greffe judiciaires demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

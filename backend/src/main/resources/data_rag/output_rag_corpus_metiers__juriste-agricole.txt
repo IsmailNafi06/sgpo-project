@@ -1,0 +1,69 @@
+METIER: Juriste agricole
+CODE: JURISTE_AGRICOLE
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Juriste agricole Le juriste agricole joue un rôle de conseiller en matière juridique. Au quotidien, ce spécialiste du droit rural apporte informations et conseils personnalisés à ses clients au sein d’exploitations ou organisations professionnelles agricoles. Selon leurs besoins, il rédige et supervise tous types d’actes juridiques tels que des contrats de travail, des baux ruraux, des licenciements, des ruptures conventionnelles. Bac + 5 Niveau d'études 9.000 MAD Rémunération 3 ans Expérience Missions principales Apporter des informations et conseils personnalisés aux clients au sein des organisations professionnelles agricoles Superviser les actes juridiques: contrats de travail, baux ruraux, licenciements, ruptures conventionnelles Analyser les risques en réalisant des études juridiques Suivi perpétuel des changements dans la législation, la réglementation et la jurisprudence. Compétences techniques Doté d’une forte capacité d’analyse Maîtrise d
+
+PHRASES CLES
+- Juriste agricole
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- filiere DESS en Management agricole : Techniques de management, stratégie et politique - FS Meknès
+- juridiques
+- juriste
+- agricole
+- informations
+- conseils
+- personnalises
+- clients
+- sein
+- organisations
+- professionnelles
+- agricoles
+- contrats
+- travail
+- baux
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Juriste agricole. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DESS en Management agricole : Techniques de management, stratégie et politique - FS Meknès
+- Prerequis: Non precise
+- Etablissements: Faculté des Lettres et des Sciences Humaines Meknès
+- Indicateurs: taux_reussite=74.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DESS en Management agricole : Techniques de management, stratégie et politique - FS Meknès. Cette filiere ouvre un debouche direct vers le metier Juriste agricole. Le chemin est relie a Faculté des Lettres et des Sciences Humaines Meknès. Indicateurs du parcours: taux de reussite estime: 74.4%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score chemin commun=2)
+- Agent d’Immigration (score chemin commun=1)
+- Inspecteur des douanes (score chemin commun=1)
+- Substitut du procureur (score chemin commun=1)
+- Juge aux affaires familiales (score chemin commun=1)
+- Administrateur judiciaire (score chemin commun=1)
+- Juge pour enfants (score chemin commun=1)
+- Flasheur (score chemin commun=1)
+- Juriste en droit de l’environnement (score chemin commun=1)
+- Juriste dans l’immobilier (score chemin commun=1)
+- Fiscaliste (score chemin commun=1)
+- Responsable legs (score chemin commun=1)
+- Directeur des services de greffe judiciaires (score chemin commun=1)
+- Avocat d’affaires (score chemin commun=1)
+- Procureur de la république (score chemin commun=1)
+- Juriste du sport (score chemin commun=1)
+- Chargé d’indemnisation (score chemin commun=1)
+- Responsable des achats durables (score chemin commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score chemin commun=1)
+- Avocat (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, DESS en Management agricole : Techniques de management, stratégie et politique - FS Meknès, j'ai choisi le metier de Juriste agricole. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Juriste agricole, la progression a ete plus rapide quand j'ai renforce Juriste agricole. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Juriste agricole demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,66 @@
+METIER: Végétaliseur urbain
+CODE: VEGETALISEUR_URBAIN
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Végétaliseur urbain Un végétaliseur urbain conçoit et installe des murs végétaux pour des particuliers comme des professionnels. Ils peuvent être de différentes natures: vivants, stabilisés (plantes dont on a extrait la sève pour les faire vivre dans le temps) ou artificiels. Bac + 2 Niveau d'études 5.500 MAD Rémunération 3 ans Expérience Missions principales Réponse à un appel d’offres: pour les projets publics, cela passe par une réponse à un cahier des charges et une estimation des coûts précis avant d’être engagé. Conception du calpinage: la façon dont on va disposer les plantes, c’est la partie créative (dessin d’illustration, dessin végétal, dessin d’application) Préparation des différents éléments qui composent le mur végétal Réalisation de la structure qui servira de support aux plantes Installation du mur sur site: pose de la structure et des composants végétaux. Compétences techniques Qualités personnelles Polyvalence Habilité Créat
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Végétaliseur urbain. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+
+PHRASES CLES
+- Végétaliseur urbain
+- secteur Métiers biologie et agroalimentaire
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- plantes
+- dessin
+- vegetaliseur
+- urbain
+- vegetaux
+- dont
+- reponse
+- vegetal
+- structure
+- concoit
+- installe
+- murs
+- particuliers
+- professionnels
+- peuvent
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Végétaliseur urbain. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Végétaliseur urbain, la progression a ete plus rapide quand j'ai renforce Végétaliseur urbain. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Végétaliseur urbain demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

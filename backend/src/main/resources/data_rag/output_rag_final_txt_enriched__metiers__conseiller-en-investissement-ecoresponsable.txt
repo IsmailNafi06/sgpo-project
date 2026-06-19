@@ -1,0 +1,85 @@
+METIER: Conseiller en investissement écoresponsable
+CODE: CONSEILLER_EN_INVESTISSEMENT_ECORESPONSABLE
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Conseiller en investissement écoresponsable Le conseiller en investissement écoresponsable est un professionnel spécialisé dans les investissements durables et éthiques. Son rôle principal est d'aider les clients à prendre des décisions financières alignées avec des critères environnementaux, sociaux et de gouvernance (ESG). Bac + 5 Niveau d'études 15.000 MAD Rémunération 3 ans Expérience Missions principales Analyser les opportunités d’investissement et évaluer leur impact environnemental, social et gouvernemental (ESG); Conseiller les clients sur les options d’investissement écoresponsables; Construire des portefeuilles durables et équilibrés; Sensibiliser les clients aux enjeux de durabilité et d’investissement responsable; Suivre les performances des investissements et fournir des rapports. Compétences techniques Connaissance approfondie des marchés financiers et des critères ESG; Capacité à analyser et évaluer les opp
+
+FORMATIONS QUI MENENT AU METIER
+1. BTS Comptabilite et Gestion
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BTS Comptabilite et Gestion
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Comptabilite et Gestion. Cette filiere ouvre un debouche direct vers le metier Conseiller en investissement écoresponsable. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Analyste en Investissements (score_chemin_commun=1)
+- Analyste de données agroalimentaires (score_chemin_commun=1)
+- Analyste en données urbaines et démographiques (score_chemin_commun=1)
+- Analyste en évaluation économique des projets d’hydrogène vert (score_chemin_commun=1)
+- Analyste financier pour les projets d’infrastructures d’hydrogène (score_chemin_commun=1)
+- Analyste ESG (score_chemin_commun=1)
+- percepteur (score_chemin_commun=1)
+- Agent des finances (score_chemin_commun=1)
+- guichetier payeur (score_chemin_commun=1)
+- Assistant comptable (score_chemin_commun=1)
+- Technicien administratif/financier (score_chemin_commun=1)
+- Chargé d’affaires (Environnement) (score_chemin_commun=1)
+- Agent de dépôt (score_chemin_commun=1)
+
+PHRASES CLES
+- Conseiller en investissement écoresponsable
+- secteur Métiers de la comptabilité, audit et finance
+- filiere BTS Comptabilite et Gestion
+- conseiller
+- clients
+- dinvestissement
+- investissement
+- ecoresponsable
+- investissements
+- durables
+- criteres
+- analyser
+- evaluer
+- professionnel
+- specialise
+- ethiques
+- role
+- principal
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Conseiller en investissement écoresponsable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Comptabilite et Gestion, j'ai choisi le metier de Conseiller en investissement écoresponsable. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Conseiller en investissement écoresponsable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Conseiller en investissement écoresponsable, la progression a ete plus rapide quand j'ai renforce Conseiller en investissement écoresponsable. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Conseiller en investissement écoresponsable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Conseiller en investissement écoresponsable demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,63 @@
+METIER: Coordinateur retail
+CODE: COORDINATEUR_RETAIL
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Coordinateur retail En charge d’une zone géographique, le coordinateur retail a pour mission de veiller à ce que les objectifs commerciaux définit par sa direction soient atteints. Il peut s’agir d’objectifs qualitatifs et/ou quantitatifs: optimiser l’agencement des boutiques, développer les compétences des vendeurs, booster le chiffre d’affaires… Coordinateur de réseau, il est un soutien à l’animation et à la gestion commerciale et marketing (suivi des stocks et des achats, rédaction de newsletter, suivi du calendrier commercial et des opérations, déploiement des opérations de communication et de marketing…). Il veille parallèlement à ce que la politique commerciale et marketing de l’enseigne soit bien appliquée et est dans ce cadre garant de l’image de marque. Bac + 5 Niveau d'études 2.500 MAD Rémunération 3 ans Expérience Missions principales Comprendre les attentes et besoins en formation, les lister et les planifier. Recruter l’équipe pédag
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome ENCG en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Coordinateur retail. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Responsable avant-vente (score_chemin_commun=1)
+- Épicier (score_chemin_commun=1)
+- Analyste en expérience client (score_chemin_commun=1)
+- Vendeur de vélo (score_chemin_commun=1)
+- Administrateur de vente (score_chemin_commun=1)
+- Responsable commercial(E) de l’environnement (score_chemin_commun=1)
+- Social seller (score_chemin_commun=1)
+- Gestionnaire de collection (score_chemin_commun=1)
+- Promoteur des ventes (score_chemin_commun=1)
+- Ingénieur support des ventes (score_chemin_commun=1)
+- Chargé d’affaires dans l’industrie (score_chemin_commun=1)
+- Développeur d’enseigne (score_chemin_commun=1)
+- Designer d’interaction (score_chemin_commun=1)
+- Consultant Salesforce senior (score_chemin_commun=1)
+- Cadre commercial et technico-commercial (score_chemin_commun=1)
+- Vendeur moto (score_chemin_commun=1)
+- Concessionnaire (score_chemin_commun=1)
+
+PHRASES CLES
+- Coordinateur retail
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- coordinateur
+- marketing
+- retail
+- commerciale
+- suivi
+- operations
+- charge
+- dune
+- zone
+- geographique
+- mission
+- veiller
+- objectifs
+- commerciaux
+- definit
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Coordinateur retail. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Coordinateur retail, la progression a ete plus rapide quand j'ai renforce Coordinateur retail. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Coordinateur retail demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

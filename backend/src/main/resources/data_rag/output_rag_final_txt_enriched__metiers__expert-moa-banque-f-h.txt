@@ -1,0 +1,77 @@
+METIER: Expert MOA banque F/H
+CODE: EXPERT_MOA_BANQUE_F_H
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Expert MOA banque F/H Le responsable de la maîtrise d’ouvrage (MOA) analyse, spécifie et valide fonctionnellement les besoins métiers de la banque. Il pilote les projets d’évolution du système d’information ainsi que les évolutions des processus métiers. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales Analyser et consolider les demandes de maintenance applicative ou corrective du système d’information métier Recueillir et analyser les besoins des équipes métiers pour de nouveaux projets ou des refontes importantes Evaluer le coût des projets Définir les éléments de cadrage du projet: budget, planning, ressources Assurer la mise en place d’une équipe, chargée d’analyser la faisabilité technique des demandes métiers, ainsi que la cohérence avec l’urbanisme et l’architecture globale du SI Animer des réunions avec les responsables des métiers Identifier les incidences ainsi que les risques éventuels Définir les
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence d'État français | Assurance Banque Finance
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence d'État français | Assurance Banque Finance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=68.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d'État français | Assurance Banque Finance. Cette filiere ouvre un debouche direct vers le metier Expert MOA banque F/H. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 68.9%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Courtier en banque (score_chemin_commun=1)
+- Agent administratif en banque (score_chemin_commun=1)
+- Responsable d’équipe commerciale ( Assurance) (score_chemin_commun=1)
+- Ingénieur préventionniste assurance (score_chemin_commun=1)
+- Souscripteur assurance (score_chemin_commun=1)
+
+PHRASES CLES
+- Expert MOA banque F/H
+- secteur Métiers banque et assurance
+- filiere Licence d'État français | Assurance Banque Finance
+- projets
+- banque
+- besoins
+- systeme
+- dinformation
+- analyser
+- demandes
+- definir
+- expert
+- responsable
+- maitrise
+- douvrage
+- analyse
+- specifie
+- valide
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Expert MOA banque F/H
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d'État français | Assurance Banque Finance, j'ai choisi le metier de Expert MOA banque F/H. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Expert MOA banque F/H
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Expert MOA banque F/H, la progression a ete plus rapide quand j'ai renforce Expert MOA banque F/H. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Expert MOA banque F/H
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Expert MOA banque F/H demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

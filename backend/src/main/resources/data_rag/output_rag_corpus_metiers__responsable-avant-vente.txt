@@ -1,0 +1,53 @@
+METIER: Responsable avant-vente
+CODE: RESPONSABLE_AVANT_VENTE
+SECTEUR: Commerce et IT
+
+DESCRIPTION
+Support technique et commercial avant contractualisation.
+
+PHRASES CLES
+- Responsable avant-vente
+- secteur Commerce et IT
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- support
+- technique
+- commercial
+- avant
+- contractualisation
+- support technique
+- technique commercial
+- commercial avant
+- avant contractualisation
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=74.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Responsable avant-vente. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 74.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Épicier (score chemin commun=1)
+- Analyste en expérience client (score chemin commun=1)
+- Vendeur de vélo (score chemin commun=1)
+- Administrateur de vente (score chemin commun=1)
+- Responsable commercial(E) de l’environnement (score chemin commun=1)
+- Social seller (score chemin commun=1)
+- Gestionnaire de collection (score chemin commun=1)
+- Promoteur des ventes (score chemin commun=1)
+- Ingénieur support des ventes (score chemin commun=1)
+- Chargé d’affaires dans l’industrie (score chemin commun=1)
+- Coordinateur retail (score chemin commun=1)
+- Développeur d’enseigne (score chemin commun=1)
+- Designer d’interaction (score chemin commun=1)
+- Consultant Salesforce senior (score chemin commun=1)
+- Cadre commercial et technico-commercial (score chemin commun=1)
+- Vendeur moto (score chemin commun=1)
+- Concessionnaire (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Responsable avant-vente. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable avant-vente, la progression a ete plus rapide quand j'ai renforce Responsable avant-vente. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable avant-vente demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

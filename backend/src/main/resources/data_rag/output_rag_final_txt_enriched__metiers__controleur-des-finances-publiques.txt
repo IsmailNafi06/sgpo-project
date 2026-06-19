@@ -1,0 +1,73 @@
+METIER: Contrôleur des finances publiques
+CODE: CONTROLEUR_DES_FINANCES_PUBLIQUES
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Contrôleur des finances publiques Le contrôleur des finances publiques est chargé de contrôler les comptes des collectivités locales et de leurs lieux publics (écoles, etc.). Ainsi, il vérifie s'ils sont correctement tenus et de la gestion financière des fonds publics. Le contrôleur des finances publiques des activités participe également à la collecte de recettes fiscales de l'État (amendes, taxes). De plus, il collecte les recettes non financières spécifiques à la communauté (cantines, logements à loyer modique, crèches, etc.). Dès lors, il supervise le paiement des dépenses liées aux marchés publics ou aux salaires des agents. Le contrôleur travaille au sein de trésoreries générales, d’établissements de formation du Trésor Public ou encore à l’administration centrale du Ministère de l’Economie, des Finances et de l’Industrie. Ce poste étant accessible uniquement sur concours, le nombre de postes à pourvoir varie selon les be
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénierie Financière et Audit EMSI Marrakech
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénierie Financière et Audit EMSI Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Financière et Audit EMSI Marrakech. Cette filiere ouvre un debouche direct vers le metier Contrôleur des finances publiques. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Contrôleur des finances publiques
+- secteur Métiers de la comptabilité, audit et finance
+- filiere Ingénierie Financière et Audit EMSI Marrakech
+- controleur
+- finances
+- publiques
+- publics
+- collecte
+- recettes
+- charge
+- controler
+- comptes
+- collectivites
+- locales
+- lieux
+- ecoles
+- verifie
+- correctement
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Contrôleur des finances publiques
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénierie Financière et Audit EMSI Marrakech, j'ai choisi le metier de Contrôleur des finances publiques. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Contrôleur des finances publiques
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Contrôleur des finances publiques, la progression a ete plus rapide quand j'ai renforce Contrôleur des finances publiques. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Contrôleur des finances publiques
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Contrôleur des finances publiques demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

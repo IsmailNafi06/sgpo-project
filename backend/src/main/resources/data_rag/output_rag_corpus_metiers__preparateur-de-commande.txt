@@ -1,0 +1,66 @@
+METIER: Préparateur de commande
+CODE: PREPARATEUR_DE_COMMANDE
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Préparateur de commande L’envoi d’une commande se déroule selon un processus bien établi. Le préparateur de commandes réceptionne et gère les bons de commande en provenance des services commerciaux. Puis, en fonction d’un planning, il va chercher les marchandises dans le stock, les prépare pour l’expédition, les emballe et les met en cartons. Il charge des palettes en tenant compte de l’éventuelle fragilité des produits et les dispose avec précaution. Auparavant, il aura vérifié la conformité du colis par rapport à la commande. Enfin, il participe au chargement des articles à expédier dans les camions et établit les documents d’expédition. Dans certaines entreprises, il livre lui-même. Les tâches administratives alternent avec les travaux de manutention. Le préparateur de commandes est chargé d’étiqueter les produits selon leurs références, de vérifier la facture établie et l’adressage. A tous les stades de la procédure, il veille à respecter
+
+PHRASES CLES
+- Préparateur de commande
+- secteur Métiers achats et approvisionnement
+- filiere Licence Arts et Culture
+- filiere Passerelle sectorielle vers Préparateur de commande
+- commande
+- preparateur
+- selon
+- commandes
+- charge
+- produits
+- lenvoi
+- dune
+- deroule
+- processus
+- bien
+- etabli
+- receptionne
+- gere
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Préparateur de commande. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Passerelle sectorielle vers Préparateur de commande
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Préparateur de commande. Cette filiere ouvre un debouche direct vers le metier Préparateur de commande. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Concepteur de produits durables (score chemin commun=1)
+- Technicien en impression 3D (score chemin commun=1)
+- Logisticien (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+- Marinier/Batelier (score chemin commun=1)
+- Responsable qualité en logistique (score chemin commun=1)
+- Scripte (score chemin commun=1)
+- Le directeur de postproduction (score chemin commun=1)
+- Assistant caméra (score chemin commun=1)
+- Machino (score chemin commun=1)
+- Mixeur (score chemin commun=1)
+- Technicien du son (score chemin commun=1)
+- Consultant scénario (score chemin commun=1)
+- Potier(ère) (score chemin commun=1)
+- Scénariste (score chemin commun=1)
+- Cadreur (score chemin commun=1)
+- Directeur artistique multimédia (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts et Culture, Passerelle sectorielle vers Préparateur de commande, j'ai choisi le metier de Préparateur de commande. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Préparateur de commande, la progression a ete plus rapide quand j'ai renforce Préparateur de commande. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Préparateur de commande demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

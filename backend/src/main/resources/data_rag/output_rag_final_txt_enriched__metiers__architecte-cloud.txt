@@ -1,0 +1,82 @@
+METIER: Architecte Cloud
+CODE: ARCHITECTE_CLOUD
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénierie Systèmes Cloud
+2. Ingénierie Systèmes Cloud
+3. Ingénierie Cloud & Data
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénierie Systèmes Cloud
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Systèmes Cloud. Cette filiere ouvre un debouche direct vers le metier Architecte Cloud. Le chemin est relie a Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénierie Systèmes Cloud
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Systèmes Cloud. Cette filiere ouvre un debouche direct vers le metier Architecte Cloud. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Ingénierie Cloud & Data
+- Prerequis: Non precise
+- Etablissements: Institut National des Postes et Telecommunications
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Cloud & Data. Cette filiere ouvre un debouche direct vers le metier Architecte Cloud. Le chemin est relie a Institut National des Postes et Telecommunications. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Administrateur base de données (score_chemin_commun=3)
+
+PHRASES CLES
+- Architecte Cloud
+- secteur Métiers de l’informatique et système d’information
+- filiere Ingénierie Systèmes Cloud
+- filiere Ingénierie Cloud & Data
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Architecte Cloud
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénierie Systèmes Cloud, Ingénierie Systèmes Cloud, j'ai choisi le metier de Architecte Cloud. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Architecte Cloud
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Architecte Cloud, la progression a ete plus rapide quand j'ai renforce Architecte Cloud. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Architecte Cloud
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Architecte Cloud demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

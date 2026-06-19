@@ -1,0 +1,98 @@
+METIER: Consultant en voyages éthiques
+CODE: CONSULTANT_EN_VOYAGES_ETHIQUES
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Consultant en voyages éthiques Le consultant en voyages éthiques conseille et guide les voyageurs ainsi que les entreprises du secteur touristique dans la création et la planification de voyages responsables sur le plan éthique, social et environnemental. Le consultant en voyages éthiques joue un rôle essentiel dans la promotion du tourisme durable en veillant à ce que les voyages respectent les cultures locales, préservent l'environnement et contribuent au bien-être des communautés visitées. Son travail implique la recherche de destinations respectueuses de l'environnement, la promotion d'activités culturelles et la sensibilisation aux pratiques responsables. Il doit posséder des compétences en planification de voyages, en durabilité, en gestion de projets et en communication pour aider à transformer l'industrie du tourisme en une force positive pour les sociétés et l'environnement. Bac + 5 Niveau d'études 10.000 MAD Rémunération 3 an
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Arts culinaires
+2. Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Consultant en voyages éthiques. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Consultant en voyages éthiques. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Accompagnateur de montagne (score_chemin_commun=2)
+- Cuisiniste (score_chemin_commun=2)
+- Administrateur des monuments historiques (score_chemin_commun=2)
+- Majordome (score_chemin_commun=2)
+- Équipier en restaurant rapide (score_chemin_commun=2)
+- Veilleur de nuit (score_chemin_commun=2)
+- Concierge d’hôtel (score_chemin_commun=2)
+- Sommelier (score_chemin_commun=2)
+- Plongeur (score_chemin_commun=2)
+- Lingère (score_chemin_commun=2)
+- Gouvernante (score_chemin_commun=2)
+- Organisateur de conférence (score_chemin_commun=1)
+- Pizzaïolo (score_chemin_commun=1)
+- Directeur Restauration rapide (score_chemin_commun=1)
+- Commis de cuisine (score_chemin_commun=1)
+- Responsable conférences et banquets (score_chemin_commun=1)
+- Agent thermal (score_chemin_commun=1)
+- Acheteur dans la mode (score_chemin_commun=1)
+
+PHRASES CLES
+- Consultant en voyages éthiques
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- voyages
+- consultant
+- ethiques
+- environnement
+- planification
+- responsables
+- promotion
+- tourisme
+- conseille
+- guide
+- voyageurs
+- entreprises
+- secteur
+- touristique
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Consultant en voyages éthiques
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Consultant en voyages éthiques. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Consultant en voyages éthiques
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Consultant en voyages éthiques, la progression a ete plus rapide quand j'ai renforce Consultant en voyages éthiques. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Consultant en voyages éthiques
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Consultant en voyages éthiques demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

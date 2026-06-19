@@ -1,0 +1,75 @@
+﻿METIER: Analyste financier
+CODE: ANALYSTE_FINANCIER
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Bac +5 Specialite Comptabilite Controle et Audit HEC Rabat
+- BAC+5 / MASTER EN FINANCE, AUDIT ET CONTROLE DE GESTION
+- Bac+5 Banque et Finance HEC Rabat
+- Comptabilite, Controle et Audit
+- DESA en Audit & Controle de Gestion - FSJES Fes Dahr El Mehraz
+- DESA en Finance Audit et Controle de Gestion - ENCG Tanger
+- DESA en Monnaie, banque et finances - FSJES Oujda
+- DESS en Finance et banque - FSJES Rabat Agdal
+- Diplome ENCG Finance et Comptabilite
+- Genie financier EMSI Casablanca Centre 2
+- Genie financier EMSI Fes
+- Genie financier EMSI Tanger
+- Ingenierie Financiere et Audit EMSI Casablanca Centre
+- Ingenierie financiere et audit EMSI Casablanca Les Orangers
+- Ingenierie financiere et audit EMSI Casablanca Moulay Youssef
+- Ingenierie financiere et audit EMSI Casablanca Roudani
+- Ingenierie Financiere et Audit EMSI Maarif
+- Ingenierie Financiere et Audit EMSI Marrakech
+- Ingenierie financiere et audit EMSI Marrakech Gueliz
+- Ingenierie financiere et audit EMSI Rabat Agdal 1
+- Ingenierie financiere et audit EMSI Rabat Agdal 2
+- Ingenierie Financiere et Audit EMSI Rabat Bouregreg
+- Ingenierie Financiere et Audit EMSI Rabat Centre
+- Ingenierie financiere et audit EMSI Rabat Centre d'orientation
+- Ingenierie financiere et audit EMSI Rabat Hassan
+- Ingenierie financiere et audit EMSI Rabat Souissi
+- Licence Administration des Entreprises option Comptabilite Finance ISIAM
+- Licence Business administration option Accounting and Finance ISIAM
+- Licence Comptabilite et Finance
+- Licence Economie et Gestion - FSJES Rabat Agdal
+- Master (1 et 2) en Comptabilite - Controle - Audit - IGA 2 Mars
+- Master (1 et 2) en Comptabilite - Controle - Audit - IGA Belvedere
+- Master (1 et 2) en Comptabilite - Controle - Audit - IGA Maarif
+- Master (1 et 2) en Systeme d'Information et Controle de Gestion - IGA 2 Mars
+- Master (1 et 2) en Systeme d'Information et Controle de Gestion - IGA Belvedere
+- Master (1 et 2) en Systeme d'Information et Controle de Gestion - IGA Maarif
+- Master Comptabilite, Controle et Audit - Adalia School of Business
+- Master Comptabilite, Controle et Audit - CCA
+- Master Corporate Finance et Marches Financiers - Adalia School of Business
+- Master en Audit et gouvernance du developpement humain - FSJES Casablanca
+- Master en Banque & Marches Financiers - IGA 2 Mars
+- Master en Banque & Marches Financiers - IGA Belvedere
+- Master en Banque & Marches Financiers - IGA Maarif
+- Master en Comptabilite, management, audit - FSJES Oujda
+- Master en Ingenierie Financiere, Controle et Audit option Comptabilite, Controle et Audit ISIAM
+- Master en Monnaie, Banque et Finance - FSJES Oujda
+- Master en Monnaie-Finance-Banque-Assurance - FSJES Settat
+- Master en Systeme d'information et controle de gestion - ENCG Marrakech
+- Master Financial Engineering Control and Auditing ISIAM
+- Master in Comptabilite - Controle - Audit (CCA)
+- Master Ingenierie financiere, Controle et Audit option Ingenierie financiere et Trading ISIAM
+- Master Programme Grande Ecole - Comptabilite / Controle / Audit - Campus HEM Casablanca
+- Master Programme Grande Ecole - Comptabilite / Controle / Audit - Campus HEM Fes
+- Master Programme Grande Ecole - Comptabilite / Controle / Audit - Campus HEM Marrakech
+- Master Programme Grande Ecole - Comptabilite / Controle / Audit - Campus HEM Rabat
+- Master Programme Grande Ecole - Comptabilite / Controle / Audit - Campus HEM Tanger
+- Master Specialise en Management et Audit des Organisations - FSJES Fes Dahr El Mehraz
+- Master Systemes d'information et Controle de Gestion - IGA 2 Mars
+- Mastere : AUDIT CONTROLE FINANCE
+- Systeme d'Information Audit et Controle de Gestion - IGA Belvedere
+- Systeme d'Information Audit et Controle de Gestion - IGA Maarif
+- Systeme d'information audit et controle de gestion - ISGA El Jadida
+- Systeme d'information audit et controle de gestion - ISGA Settat
+- Systeme d'Information et Genie Financier - ISGA El Jadida
+- Systeme d'Information et Genie Financier - ISGA Settat
+- Systeme d'Information, Audit et Controle de Gestion - IGA 2 mars
+
+TEMOIGNAGE
+Hajar, promotion 2021 :
+"Diplômée d'une école de commerce à Casablanca, j'ai intégré une banque comme Analyste financier dès ma sortie d'école. Le secteur financier marocain recrute beaucoup, avec des salaires débutants autour de 7 000 à 10 000 MAD selon l'établissement."

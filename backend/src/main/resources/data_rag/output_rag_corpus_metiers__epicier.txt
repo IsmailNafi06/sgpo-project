@@ -1,0 +1,59 @@
+METIER: Épicier
+CODE: EPICIER
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Épicier Le métier d'épicier implique la gestion et l'exploitation d'un commerce de détail spécialisé dans la vente de produits alimentaires et parfois non alimentaires. En tant qu'épicier, vous êtes responsable de l'approvisionnement en produits, de la gestion des stocks, de la tenue du magasin, de l'interaction avec les clients et de la réalisation des ventes. Vous devrez également surveiller les tendances du marché, ajuster votre offre en conséquence et maintenir des normes d'hygiène élevées. Les compétences clés pour réussir en tant qu'épicier comprennent la connaissance approfondie des produits, des compétences en gestion des stocks, des compétences en service à la clientèle et une compréhension des pratiques commerciales. L'adaptabilité, la communication efficace et la gestion du temps sont également importantes. Le niveau d'éducation requis varie généralement de l'enseignement secondaire à certains cours de gestion ou de commerce. Les salaires d'épicie
+
+PHRASES CLES
+- Épicier
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- gestion
+- produits
+- competences
+- commerce
+- alimentaires
+- tant
+- stocks
+- egalement
+- implique
+- exploitation
+- detail
+- specialise
+- vente
+- parfois
+- etes
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Épicier. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Responsable avant-vente (score chemin commun=1)
+- Analyste en expérience client (score chemin commun=1)
+- Vendeur de vélo (score chemin commun=1)
+- Administrateur de vente (score chemin commun=1)
+- Responsable commercial(E) de l’environnement (score chemin commun=1)
+- Social seller (score chemin commun=1)
+- Gestionnaire de collection (score chemin commun=1)
+- Promoteur des ventes (score chemin commun=1)
+- Ingénieur support des ventes (score chemin commun=1)
+- Chargé d’affaires dans l’industrie (score chemin commun=1)
+- Coordinateur retail (score chemin commun=1)
+- Développeur d’enseigne (score chemin commun=1)
+- Designer d’interaction (score chemin commun=1)
+- Consultant Salesforce senior (score chemin commun=1)
+- Cadre commercial et technico-commercial (score chemin commun=1)
+- Vendeur moto (score chemin commun=1)
+- Concessionnaire (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Épicier. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Épicier, la progression a ete plus rapide quand j'ai renforce Épicier. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Épicier demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

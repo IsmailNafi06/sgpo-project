@@ -1,0 +1,10 @@
+﻿METIER: Agent maritime
+CODE: AGENT_MARITIME
+SECTEUR: Logistique et transport
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Transport Douane et Transit - ISTA Casablanca
+
+TEMOIGNAGE
+Hamza, promotion 2023 :
+"Diplômé en supply chain d'une grande école d'ingénieurs à Casablanca, j'ai rejoint un opérateur logistique comme Agent maritime. Le Maroc se positionne comme hub logistique régional, ce qui crée une forte demande de profils qualifiés."

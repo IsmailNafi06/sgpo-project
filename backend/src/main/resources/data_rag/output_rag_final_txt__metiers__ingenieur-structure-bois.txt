@@ -1,0 +1,65 @@
+METIER: Ingénieur structure bois
+CODE: INGENIEUR_STRUCTURE_BOIS
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Ingénieur structure bois L'ingénieur structure bois est un professionnel spécialisé dans la conception et la construction d'ouvrages en bois. Son rôle est de concevoir des structures en bois solides, sûres et durables, en prenant en compte les contraintes techniques, environnementales et économiques. Les missions principales de l'ingénieur structure bois incluent l'analyse des plans et des besoins du projet, la conception des structures en bois en utilisant des logiciels de modélisation, le calcul des charges et des contraintes pour s'assurer de la stabilité de la structure, ainsi que la coordination avec les autres professionnels du bâtiment. Ce professionnel doit posséder de solides compétences en calcul et en modélisation, ainsi qu'une bonne connaissance des propriétés et des caractéristiques du bois. Il doit également être à l'écoute des besoins du client, être créatif et rigoureux dans son travail. La formation pour devenir ingénieur st
+
+FORMATIONS QUI MENENT AU METIER
+1. DUT Genie Civil - EST Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Ingénieur structure bois. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Gestionnaire de projets urbains intelligents (score_chemin_commun=1)
+- Designer d’Éclairage Intelligent (score_chemin_commun=1)
+- Designer de mobilier durable (score_chemin_commun=1)
+- Architecte en conception bioclimatique (score_chemin_commun=1)
+- Chef de projet en construction durable (score_chemin_commun=1)
+- Agronome urbain (score_chemin_commun=1)
+- Designer d’intérieur écologique (score_chemin_commun=1)
+- Planificateur de transport en commun (score_chemin_commun=1)
+- Designer d’espaces verts urbains (score_chemin_commun=1)
+- Planificateur de quartiers résilients (score_chemin_commun=1)
+- Expert en architecture bioclimatique urbaine (score_chemin_commun=1)
+- Concepteur de parcours piétonniers (score_chemin_commun=1)
+- Analyste en transport et mobilité urbaine (score_chemin_commun=1)
+- Expert en maintenance prédictive des infrastructures de transport (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Manager d’exploitation ferroviaire (score_chemin_commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+
+PHRASES CLES
+- Ingénieur structure bois
+- secteur Métiers des BTP et Construction
+- filiere DUT Genie Civil - EST Casablanca
+- bois
+- ingenieur
+- structure
+- professionnel
+- conception
+- structures
+- solides
+- contraintes
+- besoins
+- modelisation
+- calcul
+- doit
+- specialise
+- construction
+- ouvrages
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Ingénieur structure bois. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur structure bois, la progression a ete plus rapide quand j'ai renforce Ingénieur structure bois. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur structure bois demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

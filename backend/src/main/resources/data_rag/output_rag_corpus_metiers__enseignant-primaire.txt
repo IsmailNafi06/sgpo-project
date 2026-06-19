@@ -1,0 +1,13 @@
+﻿METIER: Enseignant primaire
+CODE: ENSEIGNANT_PRIMAIRE
+SECTEUR: Education
+
+FORMATIONS QUI Y MENENT
+- Formation Enseignement Primaire - CRMEF Casablanca
+- Formation Enseignement Primaire - CRMEF Fes
+- Formation Enseignement Primaire - CRMEF Marrakech
+- Formation Enseignement Primaire - CRMEF Rabat
+
+TEMOIGNAGE
+Karim, promotion 2022 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Enseignant primaire. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

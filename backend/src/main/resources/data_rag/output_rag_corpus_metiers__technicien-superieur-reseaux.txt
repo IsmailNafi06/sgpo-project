@@ -1,0 +1,25 @@
+﻿METIER: Technicien superieur reseaux
+CODE: TECHNICIEN_SUPERIEUR_RESEAUX
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Agadir
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Beni Mellal
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Casablanca
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Essaouira
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Fes
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Guelmim
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Kenitra
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Khenifra
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Khouribga
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Laayoune
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Marrakech
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Meknes
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Oujda
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Safi
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Sale
+- DUT Reseaux et Telecommunications - Ecole Superieure de Technologie Sidi Bennour
+
+TEMOIGNAGE
+Hajar, promotion 2021 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Technicien superieur reseaux. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."

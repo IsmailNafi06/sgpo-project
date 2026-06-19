@@ -1,0 +1,88 @@
+METIER: Technicien d’antenne
+CODE: TECHNICIEN_DANTENNE
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Technicien d’antenne Spécialiste du son, appelé également technicien d'antenne, travaille au sein d’une radio. Il est le garant du bon déroulement d’une émission. En charge de toutes les opérations techniques essentielles à la diffusion d’une émission radio, il gère la prise de son, le mixage et la mise en onde du programme mais coordonne également les différentes composantes de l’émission (enrobé, papier, musique, publicité…). Au-delà de la technique, le technicien d’antenne est aussi lié directement aux auditeurs. Il réceptionne leurs appels et SMS et communique avec eux sur les différents réseaux sociaux. Bac + 2 Niveau d'études 5.000 MAD Rémunération 3 ans Expérience Missions principales Chargé de la prise de son, le mixage et la mise en onde du programme Cordonner les différentes composantes de l’émission radio Etablir un lien direct avec les auditeurs Réceptionner les appels et SMS Compétences techniques Grandes compétences techniques Très
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Technicien d’antenne. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Technicien d’antenne
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- technicien
+- dune
+- radio
+- techniques
+- dantenne
+- egalement
+- emission
+- charge
+- prise
+- mixage
+- mise
+- onde
+- programme
+- differentes
+- composantes
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Technicien d’antenne
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Technicien d’antenne. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Technicien d’antenne
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien d’antenne, la progression a ete plus rapide quand j'ai renforce Technicien d’antenne. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Technicien d’antenne
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien d’antenne demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

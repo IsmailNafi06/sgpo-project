@@ -1,0 +1,100 @@
+METIER: Cadreur
+CODE: CADREUR
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Cadreur Pour la télévision ou le cinéma, le cadreur (ou cameraman) est responsable du cadrage de l'image et de l'harmonie des mouvements de l'appareil de prise de vues. Il travaille sous le contrôle du chef opérateur et suit les directives du réalisateur. Le cadreur travaille aussi bien en studio qu'à l'extérieur. Ses conditions de travail varient selon le lieu d'exercice. Si à la télévision, ses horaires sont relativement réguliers, ce n'est pas toujours le cas pour le cinéma. Bien que son rôle dans l'élaboration des plans soit essentiel, le pouvoir de décision revient toujours au réalisateur ainsi qu'au directeur de la photographie, dont il doit appliquer les instructions. Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales Il réfléchit et manipule l’appareil afin d’élaborer les prises de vue. Il gère la réalisation de plans conformes aux consignes du réalisateur. Il contribue au raccord dit « de plan à plan » et de « séquence à sé
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+2. Licence Arts et Culture
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Cadreur. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Cadreur. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Scénariste (score_chemin_commun=2)
+- Directeur artistique multimédia (score_chemin_commun=2)
+- Journaliste international(e) (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+- Concepteur de produits durables (score_chemin_commun=1)
+- Technicien en impression 3D (score_chemin_commun=1)
+- Logisticien (score_chemin_commun=1)
+- Agent de routage (score_chemin_commun=1)
+
+PHRASES CLES
+- Cadreur
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- filiere Licence Arts et Culture
+- realisateur
+- television
+- cinema
+- travaille
+- bien
+- toujours
+- plans
+- plan
+- cameraman
+- responsable
+- cadrage
+- image
+- harmonie
+- mouvements
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Cadreur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, Licence Arts et Culture, j'ai choisi le metier de Cadreur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Cadreur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Cadreur, la progression a ete plus rapide quand j'ai renforce Cadreur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Cadreur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Cadreur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

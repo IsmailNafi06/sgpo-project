@@ -1,0 +1,10 @@
+﻿METIER: Fiscaliste juridique
+CODE: FISCALISTE_JURIDIQUE
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Omar, promotion 2023 :
+"Mon parcours en droit des affaires m'a préparé à exercer comme Fiscaliste juridique. Au Maroc, ce secteur est en pleine structuration et les opportunités se multiplient, notamment dans les grandes entreprises et les cabinets."

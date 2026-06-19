@@ -1,0 +1,11 @@
+﻿METIER: Specialiste en gestion de l'intelligence artificielle ethique
+CODE: SPECIALISTE_EN_GESTION_DE_LINTELLIGENCE_ARTIFICIEL
+SECTEUR: Metiers de l'informatique et systeme d'information
+
+FORMATIONS QUI Y MENENT
+- Master en Data Science et Intelligence Artificielle
+- Parcours professionnalisant Specialiste en gestion de l'intelligence artificielle ethique
+
+TEMOIGNAGE
+Soufiane, promotion 2022 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Specialiste en gestion de l'intelligence artificielle ethique dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

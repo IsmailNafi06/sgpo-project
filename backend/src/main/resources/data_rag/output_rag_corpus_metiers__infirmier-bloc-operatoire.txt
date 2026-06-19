@@ -1,0 +1,10 @@
+﻿METIER: Infirmier de bloc operatoire
+CODE: INFIRMIER_BLOC_OPERATOIRE
+SECTEUR: Metiers de la sante
+
+FORMATIONS QUI Y MENENT
+- Licence Infirmier de Bloc Operatoire
+
+TEMOIGNAGE
+Leila, promotion 2022 :
+"Travailler comme Infirmier de bloc operatoire est un défi quotidien mais aussi une grande satisfaction personnelle. Ma formation clinique au Maroc m'a donné une autonomie que j'apprécie énormément dans ma pratique professionnelle."

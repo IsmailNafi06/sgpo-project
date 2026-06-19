@@ -1,0 +1,10 @@
+﻿METIER: Courtier en assurance
+CODE: COURTIER_EN_ASSURANCE
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Licence Finance Banque Assurance - FSJES Casablanca
+
+TEMOIGNAGE
+Yassine, promotion 2021 :
+"Diplômée d'une école de commerce à Casablanca, j'ai intégré une banque comme Courtier en assurance dès ma sortie d'école. Le secteur financier marocain recrute beaucoup, avec des salaires débutants autour de 7 000 à 10 000 MAD selon l'établissement."

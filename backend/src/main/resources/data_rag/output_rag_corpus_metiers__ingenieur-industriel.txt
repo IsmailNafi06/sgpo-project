@@ -1,0 +1,12 @@
+﻿METIER: Ingenieur industriel
+CODE: INGENIEUR_INDUSTRIEL
+SECTEUR: Ingenierie
+
+FORMATIONS QUI Y MENENT
+- Ingenieur Genie Industriel - ENSA Agadir
+- Ingenieur Genie Industriel - ENSA Fes
+- Ingenieur Genie Industriel - ENSA Oujda
+
+TEMOIGNAGE
+Hajar, promotion 2024 :
+"Mon parcours d'ingénieur m'a préparé aux défis techniques du métier de Ingenieur industriel. Ce qui m'a le plus appris, c'est la confrontation régulière avec des problèmes réels que ni les cours ni les manuels n'avaient entièrement anticipés."

@@ -1,0 +1,55 @@
+METIER: Technicien administratif/financier
+CODE: TECHNICIEN_ADMINISTRATIF_FINANCIER
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Technicien administratif/financier Le Technicien administratif/financier soutient le directeur administratif et financier. Son activité consiste à gérer les finances et le personnel de l’entreprise. Il contrôle les budgets, gère la trésorerie de l’entreprise. Il établit aussi les fiches de paie mensuelles du personnel en se basant sur les fiches d’absences dont il doit assurer le suivi. Il analyse également les coûts de revient et le chiffre d'affaires par produit en cohérence avec la stratégie générale de l'établissement. Le Technicien administratif/financier assure cependant le secrétariat et l’assistance technique et logistique des responsables de service. D'autre part, il réalise des actes administratifs dans le respect des techniques, des règles des domaines fonctionnels de l’établissement. Bac + 2 Niveau d'études 3.600 MAD Rémunération 3 ans Expérience Missions principales Etablir les fiches de paie de l’ensemble des collabor
+
+PHRASES CLES
+- Technicien administratif/financier
+- secteur Métiers de la comptabilité, audit et finance
+- filiere BTS Comptabilite et Gestion
+- administratif
+- financier
+- technicien
+- fiches
+- personnel
+- lentreprise
+- paie
+- soutient
+- directeur
+- activite
+- consiste
+- gerer
+- finances
+- controle
+- budgets
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: BTS Comptabilite et Gestion
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Comptabilite et Gestion. Cette filiere ouvre un debouche direct vers le metier Technicien administratif/financier. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Analyste en Investissements (score chemin commun=1)
+- Analyste de données agroalimentaires (score chemin commun=1)
+- Analyste en données urbaines et démographiques (score chemin commun=1)
+- Analyste en évaluation économique des projets d’hydrogène vert (score chemin commun=1)
+- Analyste financier pour les projets d’infrastructures d’hydrogène (score chemin commun=1)
+- Analyste ESG (score chemin commun=1)
+- Conseiller en investissement écoresponsable (score chemin commun=1)
+- percepteur (score chemin commun=1)
+- Agent des finances (score chemin commun=1)
+- guichetier payeur (score chemin commun=1)
+- Assistant comptable (score chemin commun=1)
+- Chargé d’affaires (Environnement) (score chemin commun=1)
+- Agent de dépôt (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Comptabilite et Gestion, j'ai choisi le metier de Technicien administratif/financier. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien administratif/financier, la progression a ete plus rapide quand j'ai renforce Technicien administratif/financier. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien administratif/financier demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

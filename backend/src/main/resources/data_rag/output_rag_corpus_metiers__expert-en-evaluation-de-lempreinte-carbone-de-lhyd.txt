@@ -1,0 +1,11 @@
+﻿METIER: Expert en evaluation de l'empreinte carbone de l'hydrogene vert
+CODE: EXPERT_EN_EVALUATION_DE_LEMPREINTE_CARBONE_DE_LHYD
+SECTEUR: Metiers des energies renouvelables
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en NTIC - Energies renouvelables
+- Passerelle sectorielle vers Expert en evaluation de l'empreinte carbone de l'hydrogene vert
+
+TEMOIGNAGE
+Mehdi, promotion 2022 :
+"Mon parcours à l'ENSA en énergies renouvelables m'a préparé au métier de Expert en evaluation de l'empreinte carbone de l'hydrogene vert. Les projets Noor et Tarfaya m'ont donné envie de contribuer à la transition énergétique du pays dès mes études."

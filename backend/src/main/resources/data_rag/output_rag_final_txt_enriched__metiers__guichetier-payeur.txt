@@ -1,0 +1,85 @@
+METIER: guichetier payeur
+CODE: GUICHETIER_PAYEUR
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+guichetier payeur Le guichetier payeur est un professionnel important de l'agence bancaire. En fait, il est chargé d'accueillir les clients et d'assurer le premier volet de services. Ainsi, Il est responsable des services bancaires quotidiens, qui ne nécessitent pas forcément de rendez-vous avec des consultants: livraison ou renouvellement de chéquiers ou de cartes de crédit, virements, retraits au comptoir, extraits de compte, ouverture ou virements, suggestions et explications sur les fonctions de l'automate. Le guichetier peut également être nécessaire pour promouvoir les produits et solutions bancaires auprès des clients En effet, le guichetier payeur est chargé d'effectuer les opérations bancaires les plus courantes (dépôts d'espèces, retraits, virements de chèques ou enregistrements de déménagements, etc.). Ainsi, Le caissier des téléphones publics peut effectuer une large gamme d'activités par téléphone ou devant le client. Entre l'inform
+
+FORMATIONS QUI MENENT AU METIER
+1. BTS Comptabilite et Gestion
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BTS Comptabilite et Gestion
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Comptabilite et Gestion. Cette filiere ouvre un debouche direct vers le metier guichetier payeur. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Analyste en Investissements (score_chemin_commun=1)
+- Analyste de données agroalimentaires (score_chemin_commun=1)
+- Analyste en données urbaines et démographiques (score_chemin_commun=1)
+- Analyste en évaluation économique des projets d’hydrogène vert (score_chemin_commun=1)
+- Analyste financier pour les projets d’infrastructures d’hydrogène (score_chemin_commun=1)
+- Analyste ESG (score_chemin_commun=1)
+- Conseiller en investissement écoresponsable (score_chemin_commun=1)
+- percepteur (score_chemin_commun=1)
+- Agent des finances (score_chemin_commun=1)
+- Assistant comptable (score_chemin_commun=1)
+- Technicien administratif/financier (score_chemin_commun=1)
+- Chargé d’affaires (Environnement) (score_chemin_commun=1)
+- Agent de dépôt (score_chemin_commun=1)
+
+PHRASES CLES
+- guichetier payeur
+- secteur Métiers de la comptabilité, audit et finance
+- filiere BTS Comptabilite et Gestion
+- guichetier
+- payeur
+- bancaires
+- virements
+- charge
+- clients
+- services
+- retraits
+- peut
+- effectuer
+- professionnel
+- important
+- agence
+- bancaire
+- accueillir
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: guichetier payeur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Comptabilite et Gestion, j'ai choisi le metier de guichetier payeur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: guichetier payeur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en guichetier payeur, la progression a ete plus rapide quand j'ai renforce guichetier payeur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: guichetier payeur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers guichetier payeur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

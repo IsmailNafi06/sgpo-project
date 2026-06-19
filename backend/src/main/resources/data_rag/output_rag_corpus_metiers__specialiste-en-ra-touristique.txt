@@ -1,0 +1,57 @@
+METIER: Spécialiste en RA touristique
+CODE: SPECIALISTE_EN_RA_TOURISTIQUE
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Spécialiste en RA touristique Le spécialiste en réalité augmentée (RA) touristique exploite les potentialités de la technologie pour transformer l'expérience des voyageurs. En fusionnant le monde virtuel avec le monde réel, cet expert conçoit des expériences interactives et immersives pour les touristes. Il crée des applications et des contenus qui fournissent des informations enrichies, des guides virtuels et des expériences ludiques sur les sites touristiques. Son rôle implique la maîtrise des technologies de réalité augmentée, la création de contenus visuels et audiovisuels, et la coordination avec les acteurs du secteur touristique. Ce spécialiste ouvre de nouvelles perspectives de découverte et d'apprentissage, stimulant l'engagement et l'enthousiasme des voyageurs tout en créant des souvenirs mémorables. En combinant technologie et exploration, il réinvente le voyage pour les générations actuelles et futures. Bac + 3 Niveau d'étud
+
+PHRASES CLES
+- Spécialiste en RA touristique
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence en Management Touristique et Hôtelier École Supérieure d’Hôtellerie et de Communication Agadir
+- filiere MBA Spécialisé en Management Touristique et Événementiel - OSTELEA Rabat
+- filiere Licence Professionnelle en Management Touristique et Événementiel - OSTELEA Rabat
+- specialiste
+- touristique
+- realite
+- augmentee
+- technologie
+- voyageurs
+- monde
+- experiences
+- contenus
+- exploite
+- potentialites
+- transformer
+- experience
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence en Management Touristique et Hôtelier École Supérieure d’Hôtellerie et de Communication Agadir
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Agadir
+- Indicateurs: taux_reussite=80.2%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Management Touristique et Hôtelier École Supérieure d’Hôtellerie et de Communication Agadir. Cette filiere ouvre un debouche direct vers le metier Spécialiste en RA touristique. Le chemin est relie a Ecole Nationale des Sciences Appliquées Agadir. Indicateurs du parcours: taux de reussite estime: 80.2%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: MBA Spécialisé en Management Touristique et Événementiel - OSTELEA Rabat
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.6%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere MBA Spécialisé en Management Touristique et Événementiel - OSTELEA Rabat. Cette filiere ouvre un debouche direct vers le metier Spécialiste en RA touristique. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.6%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence Professionnelle en Management Touristique et Événementiel - OSTELEA Rabat
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.6%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Professionnelle en Management Touristique et Événementiel - OSTELEA Rabat. Cette filiere ouvre un debouche direct vers le metier Spécialiste en RA touristique. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.6%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Management Touristique et Hôtelier École Supérieure d’Hôtellerie et de Communication Agadir, MBA Spécialisé en Management Touristique et Événementiel - OSTELEA Rabat, j'ai choisi le metier de Spécialiste en RA touristique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Spécialiste en RA touristique, la progression a ete plus rapide quand j'ai renforce Spécialiste en RA touristique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Spécialiste en RA touristique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

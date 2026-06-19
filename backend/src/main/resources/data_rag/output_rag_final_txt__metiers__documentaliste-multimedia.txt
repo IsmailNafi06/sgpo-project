@@ -1,0 +1,62 @@
+METIER: Documentaliste multimédia
+CODE: DOCUMENTALISTE_MULTIMEDIA
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Documentaliste multimédia A l’instar du documentaliste traditionnel, le documentaliste multimédia est chargé de répertorier, d’archiver et d’actualiser des matériaux variés (textes, vidéos, bandes son, images, etc.) sur divers supports multimédia. Il recherche ces matériaux sur des sites Web ou des intranets, dans des banques de données informatisées, des bibliothèques virtuelles et les classe dans une base de données documentaire à l’aide de métadonnées, de façon à ce que les utilisateurs puissent retrouver facilement ce qu’ils recherchent dans l’univers de la « documentation virtuelle ». Il réalisera des recherches sur des sujets variés, pour des projets précis, à la demande d’entreprises. Le documentaliste occupe également un rôle d’accompagnement dans la recherche d’information pertinente. Il doit pour cela initier les utilisateurs à la formulation de « requêtes » efficaces, en les aidant dans le choix des termes de recherche et de leu
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Documentaliste multimédia. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Documentaliste multimédia
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- documentaliste
+- multimedia
+- recherche
+- materiaux
+- varies
+- donnees
+- utilisateurs
+- linstar
+- traditionnel
+- charge
+- repertorier
+- darchiver
+- dactualiser
+- textes
+- videos
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Documentaliste multimédia. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Documentaliste multimédia, la progression a ete plus rapide quand j'ai renforce Documentaliste multimédia. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Documentaliste multimédia demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

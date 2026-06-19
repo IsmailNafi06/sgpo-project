@@ -1,0 +1,10 @@
+﻿METIER: Architecte de systemes de production d'hydrogene vert
+CODE: ARCHITECTE_DE_SYSTEMES_DE_PRODUCTION_DHYDROGENE_VE
+SECTEUR: Metiers de la production et l'industrialisation
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Zakaria, promotion 2022 :
+"Formé en génie de production, j'exerce aujourd'hui comme Architecte de systemes de production d'hydrogene vert dans une usine de l'industrie automobile à Kénitra. La chaîne de production marocaine se hisse au niveau des standards internationaux."

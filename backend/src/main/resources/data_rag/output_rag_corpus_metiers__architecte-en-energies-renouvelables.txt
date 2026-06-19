@@ -1,0 +1,62 @@
+METIER: Architecte en énergies renouvelables
+CODE: ARCHITECTE_EN_ENERGIES_RENOUVELABLES
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Architecte en énergies renouvelables L'architecte en énergies renouvelables est un professionnel du secteur de la construction qui se spécialise dans la conception et la planification de bâtiments et d'infrastructures en utilisant des sources d'énergie renouvelable. Son rôle consiste à intégrer des technologies durables telles que les panneaux solaires, les éoliennes, la géothermie et d'autres solutions éco-énergétiques dans les projets architecturaux. Ce professionnel travaille en étroite collaboration avec les ingénieurs, urbanistes et concepteurs pour créer des structures qui réduisent l'empreinte carbone et optimisent l'utilisation des énergies renouvelables. Ses missions comprennent l'évaluation des besoins énergétiques, la conception de systèmes de chauffage, de refroidissement et d'éclairage efficaces, ainsi que la prise en compte des aspects environnementaux dans chaque étape du processus de construction. Un architecte en
+
+PHRASES CLES
+- Architecte en énergies renouvelables
+- secteur Métiers des BTP et Construction
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- architecte
+- energies
+- renouvelables
+- professionnel
+- construction
+- conception
+- energetiques
+- secteur
+- specialise
+- planification
+- batiments
+- infrastructures
+- utilisant
+- sources
+- energie
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Architecte en énergies renouvelables. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Technicien de maintenance d’éoliennes (score chemin commun=1)
+- Spécialiste de la conservation de l’eau (score chemin commun=1)
+- Expert en chauffage solaire (score chemin commun=1)
+- Ingénieur en conception de systèmes énergétiques durables (score chemin commun=1)
+- Technicien en traitement de l’eau pour l’électrolyse de l’hydrogène (score chemin commun=1)
+- Expert en évaluation de l’empreinte carbone de l’hydrogène vert (score chemin commun=1)
+- Technicien en maintenance des systèmes de distribution d’hydrogène (score chemin commun=1)
+- Gestionnaire de projet pour la construction d’usines de production d’hydrogène (score chemin commun=1)
+- Ingénieur en conception de systèmes de stockage d’hydrogène solide (score chemin commun=1)
+- Responsable des opérations de production d’hydrogène vert (score chemin commun=1)
+- Ingénieur en conversion d’énergie pour les piles à combustible (score chemin commun=1)
+- Technicien en maintenance des piles à combustible (score chemin commun=1)
+- Architecte de systèmes de production d’hydrogène vert (score chemin commun=1)
+- Ingénieur en systèmes de stockage d’hydrogène comprimé (score chemin commun=1)
+- Technicien en électrolyse alcaline (score chemin commun=1)
+- Technicien supérieur de l’aviation (score chemin commun=1)
+- Technicien plasturgiste (score chemin commun=1)
+- Électro (score chemin commun=1)
+- Eco-concepteur de produits plastiques et composites (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Architecte en énergies renouvelables. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Architecte en énergies renouvelables, la progression a ete plus rapide quand j'ai renforce Architecte en énergies renouvelables. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Architecte en énergies renouvelables demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

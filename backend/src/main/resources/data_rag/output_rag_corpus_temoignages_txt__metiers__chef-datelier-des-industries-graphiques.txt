@@ -1,0 +1,9 @@
+METIER: Chef d’atelier des industries graphiques
+CODE: CHEF_DATELIER_DES_INDUSTRIES_GRAPHIQUES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Chef d’atelier des industries graphiques. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chef d’atelier des industries graphiques, la progression a ete plus rapide quand j'ai renforce Chef d’atelier des industries graphiques. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chef d’atelier des industries graphiques demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

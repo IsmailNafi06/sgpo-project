@@ -1,0 +1,60 @@
+METIER: Chercheur en hydrogène vert
+CODE: CHERCHEUR_EN_HYDROGENE_VERT
+SECTEUR: Métiers des énergies renouvelables
+
+DESCRIPTION
+Chercheur en hydrogène vert Le chercheur en hydrogène vert est un professionnel engagé dans la recherche scientifique et technologique visant à développer des solutions innovantes pour produire, stocker, transporter et utiliser de l'hydrogène vert, c'est-à-dire de l'hydrogène produit à partir de sources d'énergie renouvelables. Son travail consiste à mener des études approfondies, à concevoir des expériences et à réaliser des tests en laboratoire pour améliorer les processus de production d'hydrogène propre et efficace. Le chercheur en hydrogène vert collabore souvent avec des équipes multidisciplinaires et participe à des projets de recherche ambitieux visant à promouvoir l'utilisation de cette énergie propre dans divers secteurs tels que les transports, l'industrie et l'énergie. Sa passion pour l'innovation et son expertise en matière de développement durable font de lui un acteur clé dans la transition énergétique vers un avenir plus r
+
+PHRASES CLES
+- Chercheur en hydrogène vert
+- secteur Métiers des énergies renouvelables
+- filiere Ingénieur en architecture d’intérieur
+- filiere Passerelle sectorielle vers Chercheur en hydrogène vert
+- hydrogene
+- vert
+- chercheur
+- energie
+- recherche
+- visant
+- propre
+- professionnel
+- engage
+- scientifique
+- technologique
+- developper
+- solutions
+- innovantes
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en architecture d’intérieur
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en architecture d’intérieur. Cette filiere ouvre un debouche direct vers le metier Chercheur en hydrogène vert. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Passerelle sectorielle vers Chercheur en hydrogène vert
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Chercheur en hydrogène vert. Cette filiere ouvre un debouche direct vers le metier Chercheur en hydrogène vert. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Architecte (score chemin commun=1)
+- Technicien en gestion des déchets (score chemin commun=1)
+- Consultant en optimisation énergétique des bâtiments (score chemin commun=1)
+- Technicien en maintenance d’éolienne (score chemin commun=1)
+- Ingénieur en intelligence énergétique (score chemin commun=1)
+- Opérateur de centrale électrolyse à hydrogène (score chemin commun=1)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Opérateur d’usine (score chemin commun=1)
+- Conducteur de travaux BTP (score chemin commun=1)
+- Ingenieur BTP (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, Passerelle sectorielle vers Chercheur en hydrogène vert, j'ai choisi le metier de Chercheur en hydrogène vert. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chercheur en hydrogène vert, la progression a ete plus rapide quand j'ai renforce Chercheur en hydrogène vert. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chercheur en hydrogène vert demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

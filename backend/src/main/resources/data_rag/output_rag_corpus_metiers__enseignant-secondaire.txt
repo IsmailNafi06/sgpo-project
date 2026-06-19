@@ -1,0 +1,26 @@
+﻿METIER: Enseignant secondaire
+CODE: ENSEIGNANT_SECONDAIRE
+SECTEUR: Education
+
+FORMATIONS QUI Y MENENT
+- DESA en Staff Development and Research in Higher Education - FLSH Dahr El Mehraz Fes
+- Doctorat en Langue, culture et education - FLSH Rabat
+- Formation Enseignement Secondaire - CRMEF Casablanca
+- Formation Enseignement Secondaire - CRMEF Fes
+- Formation Enseignement Secondaire - CRMEF Marrakech
+- Formation Enseignement Secondaire - CRMEF Rabat
+- Licence Etudes Francaises - FLSH Rabat
+- Licence Physique Chimie - Faculte des Sciences Agadir
+- Licence Physique Chimie - Faculte des Sciences Casablanca
+- Licence Physique Chimie - Faculte des Sciences Fes
+- Licence Physique Chimie - Faculte des Sciences Meknes
+- Licence Physique Chimie - Faculte des Sciences Oujda
+- Licence Physique Chimie - Faculte des Sciences Rabat
+- Licence Physique Chimie - Faculte des Sciences Semlalia Marrakech
+- Licence Physique Chimie - Faculte des Sciences Tetouan
+- Master Specialise en Applied Language Studies and Research in Higher Education - FLSH Dahr El Mehraz Fes
+- Professeur assistant de l enseignement superieur en Medecine Dentaire - FMD Rabat
+
+TEMOIGNAGE
+Hajar, promotion 2024 :
+"Exercer comme Enseignant secondaire au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

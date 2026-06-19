@@ -1,0 +1,66 @@
+METIER: Flasheur
+CODE: FLASHEUR
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Flasheur Le métier de flasheur, existant depuis des années dans le domaine de l'imprimerie, concerne la mise en forme de documents originaux en couleur ou en noir et blanc sur des équipements techniques pour la production de plaques d'impression. Le flasheur s'occupe de toutes opérations de pré-presse de document ou autres produits imprimés en prenant en considération les facteurs de délais, de demandes et de qualité. Bac Niveau d'études 2.000 MAD Rémunération 1 ans Expérience Missions principales Mise en forme de documents originaux Utilisation de matériel technique Ajustements et réglages correspondants au produit Connaître les systèmes assistés par ordinateur Connaître les matériaux et leurs propriétés (papier, colle, encres, carton, etc.) Respecter les délais Maîtriser les étapes de la chaîne de fabrication de l’imprimerie Compétences techniques Maîtrise des techniques de PAO et de CAO Maîtrise des techniques de CTP et de CTF Maîtrise des procédés de ph
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Droit Prive
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Flasheur. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Agent d’Immigration (score_chemin_commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score_chemin_commun=1)
+- Inspecteur des douanes (score_chemin_commun=1)
+- Substitut du procureur (score_chemin_commun=1)
+- Juge aux affaires familiales (score_chemin_commun=1)
+- Administrateur judiciaire (score_chemin_commun=1)
+- Juge pour enfants (score_chemin_commun=1)
+- Juriste en droit de l’environnement (score_chemin_commun=1)
+- Juriste dans l’immobilier (score_chemin_commun=1)
+- Fiscaliste (score_chemin_commun=1)
+- Responsable legs (score_chemin_commun=1)
+- Directeur des services de greffe judiciaires (score_chemin_commun=1)
+- Avocat d’affaires (score_chemin_commun=1)
+- Procureur de la république (score_chemin_commun=1)
+- Juriste agricole (score_chemin_commun=1)
+- Juriste du sport (score_chemin_commun=1)
+- Chargé d’indemnisation (score_chemin_commun=1)
+- Responsable des achats durables (score_chemin_commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score_chemin_commun=1)
+- Avocat (score_chemin_commun=1)
+
+PHRASES CLES
+- Flasheur
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- techniques
+- maitrise
+- mise
+- forme
+- documents
+- originaux
+- delais
+- connaitre
+- existant
+- depuis
+- annees
+- domaine
+- imprimerie
+- concerne
+- couleur
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, j'ai choisi le metier de Flasheur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Flasheur, la progression a ete plus rapide quand j'ai renforce Flasheur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Flasheur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

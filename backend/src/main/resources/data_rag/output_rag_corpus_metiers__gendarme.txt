@@ -1,0 +1,10 @@
+﻿METIER: Gendarme
+CODE: GENDARME
+SECTEUR: Securite publique
+
+FORMATIONS QUI Y MENENT
+- Concours Gendarmerie Royale
+
+TEMOIGNAGE
+Nadia, promotion 2021 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Gendarme. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

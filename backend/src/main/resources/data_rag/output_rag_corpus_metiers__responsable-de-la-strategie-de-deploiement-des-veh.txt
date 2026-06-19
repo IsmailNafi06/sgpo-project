@@ -1,0 +1,11 @@
+﻿METIER: Responsable de la strategie de deploiement des vehicules a hydrogene
+CODE: RESPONSABLE_DE_LA_STRATEGIE_DE_DEPLOIEMENT_DES_VEH
+SECTEUR: Metiers de l'electrique
+
+FORMATIONS QUI Y MENENT
+- Bac+5 Administration et Strategie des Entreprises : Option Entrepreneuriat HEC Rabat
+- Ingenieur en NTIC - Energies renouvelables
+
+TEMOIGNAGE
+Amine, promotion 2022 :
+"Exercer comme Responsable de la strategie de deploiement des vehicules a hydrogene dans le secteur électrique au Maroc est un métier d'avenir. Avec le développement des smart grids et des énergies renouvelables, les compétences en électricité sont de plus en plus recherchées."

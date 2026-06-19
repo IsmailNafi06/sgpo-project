@@ -1,0 +1,11 @@
+﻿METIER: Responsable R&D
+CODE: RESPONSABLE_R_D
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Industrie Qualite et Process - ENSAM Casablanca
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Imane, promotion 2024 :
+"Mon cursus en génie mécanique m'a préparé au métier de Responsable R&D. L'industrie marocaine se modernise rapidement avec l'arrivée de grands donneurs d'ordre internationaux, et les ingénieurs locaux sont très demandés."

@@ -1,0 +1,11 @@
+﻿METIER: Biologiste
+CODE: BIOLOGISTE
+SECTEUR: Sciences
+
+FORMATIONS QUI Y MENENT
+- Licence Biologie - Faculte des Sciences Casablanca
+- Master Biologie Sante - Faculte des Sciences Casablanca
+
+TEMOIGNAGE
+Soufiane, promotion 2021 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Biologiste. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

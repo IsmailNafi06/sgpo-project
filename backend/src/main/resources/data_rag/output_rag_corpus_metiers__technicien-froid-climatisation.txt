@@ -1,0 +1,15 @@
+﻿METIER: Technicien froid et climatisation
+CODE: TECHNICIEN_FROID_CLIMATISATION
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Electricite et Maintenance - ISTA Agadir
+- Technicien Specialise Electricite et Maintenance - ISTA Casablanca
+- Technicien Specialise Electricite et Maintenance - ISTA Fes
+- Technicien Specialise Electricite et Maintenance - ISTA Marrakech
+- Technicien Specialise Electricite et Maintenance - ISTA Rabat
+- Technicien Specialise Electricite et Maintenance - ISTA Tanger
+
+TEMOIGNAGE
+Hicham, promotion 2024 :
+"Travailler comme Technicien froid et climatisation dans l'industrie au Maroc, c'est intégrer un secteur en pleine montée en gamme. Ma formation d'ingénieur m'a appris à résoudre des problèmes complexes et à manager des équipes de production."

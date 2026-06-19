@@ -1,0 +1,10 @@
+﻿METIER: Technicien agricole
+CODE: TECHNICIEN_AGRICOLE
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Nadia, promotion 2024 :
+"Mon parcours à l'École Nationale d'Agriculture m'a préparé à exercer comme Technicien agricole. La transition vers une agriculture durable au Maroc crée de nouvelles opportunités pour les jeunes diplômés du secteur."

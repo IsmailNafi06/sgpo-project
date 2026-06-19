@@ -1,0 +1,11 @@
+﻿METIER: Auditeur qualite
+CODE: AUDITEUR_QUALITE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Industrie Qualite et Process - ENSAM Casablanca
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Hicham, promotion 2021 :
+"Mon cursus en génie mécanique m'a préparé au métier de Auditeur qualite. L'industrie marocaine se modernise rapidement avec l'arrivée de grands donneurs d'ordre internationaux, et les ingénieurs locaux sont très demandés."

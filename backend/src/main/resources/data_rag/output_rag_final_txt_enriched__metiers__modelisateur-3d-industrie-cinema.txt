@@ -1,0 +1,73 @@
+METIER: Modélisateur 3D industrie cinéma
+CODE: MODELISATEUR_3D_INDUSTRIE_CINEMA
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Modélisateur 3D industrie cinéma Le modélisateur 3D dans l'industrie du cinéma est un artiste technique qui donne vie aux mondes virtuels des films. Ce professionnel crée des modèles 3D détaillés de personnages, d'objets et d'environnements pour les productions cinématographiques. Son rôle consiste à traduire les concepts artistiques en modèles numériques réalistes, en tenant compte des détails, des textures et des effets visuels. En utilisant des logiciels spécialisés, il façonne chaque élément avec précision, en veillant à ce qu'il s'intègre harmonieusement dans l'univers visuel du film. Le modélisateur 3D collabore étroitement avec les directeurs artistiques, les concepteurs et les animateurs pour créer des scènes cinématographiques saisissantes et immersives. Son expertise technique et son sens artistique sont essentiels pour garantir la qualité visuelle et l'authenticité des mondes cinématographiques. Bac + 3 Niveau d'études 8.0
+
+FORMATIONS QUI MENENT AU METIER
+1. Parcours professionnalisant Modélisateur 3D industrie cinéma
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Parcours professionnalisant Modélisateur 3D industrie cinéma
+- Prerequis: Non precise
+- Etablissements: FST Mohammedia
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Modélisateur 3D industrie cinéma. Cette filiere ouvre un debouche direct vers le metier Modélisateur 3D industrie cinéma. Le chemin est relie a FST Mohammedia. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Modélisateur 3D industrie cinéma
+- secteur Métiers art et design
+- filiere Parcours professionnalisant Modélisateur 3D industrie cinéma
+- modelisateur
+- cinematographiques
+- industrie
+- cinema
+- technique
+- mondes
+- modeles
+- artistiques
+- artiste
+- donne
+- virtuels
+- films
+- professionnel
+- cree
+- detailles
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Modélisateur 3D industrie cinéma
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Modélisateur 3D industrie cinéma, j'ai choisi le metier de Modélisateur 3D industrie cinéma. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Modélisateur 3D industrie cinéma
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Modélisateur 3D industrie cinéma, la progression a ete plus rapide quand j'ai renforce Modélisateur 3D industrie cinéma. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Modélisateur 3D industrie cinéma
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Modélisateur 3D industrie cinéma demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

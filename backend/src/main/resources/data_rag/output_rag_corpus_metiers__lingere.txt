@@ -1,0 +1,67 @@
+METIER: Lingère
+CODE: LINGERE
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Lingère La lingère assure la blanchisserie, l'entretien et le stockage des vêtements pour l'hôtel où elle travaille. Elle a trié et regroupé les draps et les serviettes qui devaient être livrés à la blanchisserie. Puis elle reçoit et remit les vêtements propres. Selon les instructions de la chef-lingère, elle le rangea et le confia à la femme de chambre. Il suffit de dire que porter des objets lourds ne doit pas lui faire peur... Elle est également responsable de l'entretien de ce type de vêtements: réparer, liser ou restaurer les vêtements, la petite couture fait également partie de ses tâches. Si son unité fournit des services de blanchisserie, elle sera responsable du nettoyage et du repassage des vêtements confiés par le client. Enfin, dans certains cas, la fabrication et l'entretien des vêtements de travail peuvent être de sa responsabilité Niveau bac Niveau d'études 2.800 MAD Rémunération 2 ans Expérience Missions principales Responsable de l’entretie
+
+PHRASES CLES
+- Lingère
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- vetements
+- blanchisserie
+- entretien
+- responsable
+- egalement
+- assure
+- stockage
+- hotel
+- travaille
+- trie
+- regroupe
+- draps
+- serviettes
+- devaient
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Lingère. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Lingère. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Consultant en voyages éthiques (score chemin commun=2)
+- Accompagnateur de montagne (score chemin commun=2)
+- Cuisiniste (score chemin commun=2)
+- Administrateur des monuments historiques (score chemin commun=2)
+- Majordome (score chemin commun=2)
+- Équipier en restaurant rapide (score chemin commun=2)
+- Veilleur de nuit (score chemin commun=2)
+- Concierge d’hôtel (score chemin commun=2)
+- Sommelier (score chemin commun=2)
+- Plongeur (score chemin commun=2)
+- Gouvernante (score chemin commun=2)
+- Organisateur de conférence (score chemin commun=1)
+- Pizzaïolo (score chemin commun=1)
+- Directeur Restauration rapide (score chemin commun=1)
+- Commis de cuisine (score chemin commun=1)
+- Responsable conférences et banquets (score chemin commun=1)
+- Agent thermal (score chemin commun=1)
+- Acheteur dans la mode (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Lingère. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Lingère, la progression a ete plus rapide quand j'ai renforce Lingère. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Lingère demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

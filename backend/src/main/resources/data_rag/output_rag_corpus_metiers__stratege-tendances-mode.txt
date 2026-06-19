@@ -1,0 +1,52 @@
+METIER: Stratège Tendances Mode
+CODE: STRATEGE_TENDANCES_MODE
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Stratège Tendances Mode Le rôle dynamique du Stratège Tendances Mode est essentiel dans l'industrie de la mode, car il prévoit et analyse les évolutions futures en matière de style et de consommation. Ce professionnel passionné surveille attentivement les changements culturels, sociaux et économiques pour anticiper les tendances émergentes et les préférences des consommateurs. Grâce à une combinaison de recherche approfondie, de compréhension du marché et d'intuition créative, il guide les décisions des designers, des marques et des entreprises. Il élabore des stratégies de conception, de marketing et de communication en alignant les collections et les produits avec les aspirations des consommateurs. Sa capacité à capturer l'essence de la société dans des choix de couleurs, de motifs et de formes en fait des acteurs clés dans la création d'offres mode pertinentes et attrayantes. Son influence contribue à façonner l'avenir de l'industrie en ap
+
+PHRASES CLES
+- Stratège Tendances Mode
+- secteur Métiers art et design
+- filiere Master Tourisme Culturel et Valorisation du Patrimoine
+- mode
+- tendances
+- stratege
+- industrie
+- consommateurs
+- role
+- dynamique
+- essentiel
+- prevoit
+- analyse
+- evolutions
+- futures
+- matiere
+- style
+- consommation
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Tourisme Culturel et Valorisation du Patrimoine
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Tourisme Culturel et Valorisation du Patrimoine. Cette filiere ouvre un debouche direct vers le metier Stratège Tendances Mode. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Monteur (score chemin commun=1)
+- Chef monteur (score chemin commun=1)
+- Assistant monteur (score chemin commun=1)
+- Directeur de la photographie (score chemin commun=1)
+- Étalonneur (score chemin commun=1)
+- Électro (score chemin commun=1)
+- Monteur son (score chemin commun=1)
+- Scénariste pour cinéma et séries (score chemin commun=1)
+- Assistant à la réalisation (score chemin commun=1)
+- Designer de jardins verticaux (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Tourisme Culturel et Valorisation du Patrimoine, j'ai choisi le metier de Stratège Tendances Mode. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Stratège Tendances Mode, la progression a ete plus rapide quand j'ai renforce Stratège Tendances Mode. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Stratège Tendances Mode demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

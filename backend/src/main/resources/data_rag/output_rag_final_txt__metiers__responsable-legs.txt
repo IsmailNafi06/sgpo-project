@@ -1,0 +1,66 @@
+METIER: Responsable legs
+CODE: RESPONSABLE_LEGS
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Responsable legs Le responsable legs a pour mission de promouvoir le développement des legs auprès de testateurs potentiels manifestant un intérêt pour les causes défendues par l'organisation, et d'accompagner le testateur dans sa démarche en favorisant une relation personnalisée, durable et sincère. Ses missions: Elaborer une stratégie globale de promotion et de développement des legs, en cohérence avec la politique de l'organisation, Accompagner le testateur potentiel dans sa prise de décision Etre le garant du traitement du legs en aval de l'exécution du legs, Apporter son expertise juridique tout au long des dossiers legs, Enrichir son expertise juridique... Activités éventuelles: S'occuper prioritairement de la partie relationnelle avec le testateur. Il occupe alors le poste de responsable des relations avec le testateur. Ce métier, en émergence, répond à la forte nécessité ressentie par certaines organisations d'accompagner avec empathie ces d
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Droit Prive
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Responsable legs. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Agent d’Immigration (score_chemin_commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score_chemin_commun=1)
+- Inspecteur des douanes (score_chemin_commun=1)
+- Substitut du procureur (score_chemin_commun=1)
+- Juge aux affaires familiales (score_chemin_commun=1)
+- Administrateur judiciaire (score_chemin_commun=1)
+- Juge pour enfants (score_chemin_commun=1)
+- Flasheur (score_chemin_commun=1)
+- Juriste en droit de l’environnement (score_chemin_commun=1)
+- Juriste dans l’immobilier (score_chemin_commun=1)
+- Fiscaliste (score_chemin_commun=1)
+- Directeur des services de greffe judiciaires (score_chemin_commun=1)
+- Avocat d’affaires (score_chemin_commun=1)
+- Procureur de la république (score_chemin_commun=1)
+- Juriste agricole (score_chemin_commun=1)
+- Juriste du sport (score_chemin_commun=1)
+- Chargé d’indemnisation (score_chemin_commun=1)
+- Responsable des achats durables (score_chemin_commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score_chemin_commun=1)
+- Avocat (score_chemin_commun=1)
+
+PHRASES CLES
+- Responsable legs
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- legs
+- testateur
+- responsable
+- accompagner
+- developpement
+- organisation
+- expertise
+- juridique
+- mission
+- promouvoir
+- aupres
+- testateurs
+- potentiels
+- manifestant
+- interet
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, j'ai choisi le metier de Responsable legs. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable legs, la progression a ete plus rapide quand j'ai renforce Responsable legs. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable legs demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

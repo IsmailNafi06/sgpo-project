@@ -1,0 +1,47 @@
+METIER: Concepteur multimédia
+CODE: CONCEPTEUR_MULTIMEDIA
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Concepteur multimédia Le concepteur multimédia est chargé d’adapter la scénarisation d’un projet (cd-rom, site web, animations 2D-3D, performances live de VJ, exposition interactive, supports interactifs, spots et bannières publicitaires, jeux vidéo, applications mobiles, etc.) et de diriger les étapes de la conception. Après avoir rédigé un cahier des charges reprenant les différents postes et le budget, il établit la structure, l’arborescence du produit, suite aux indications de l’auteur-scénariste. Selon les projets, le concepteur peut également intervenir au niveau du scénario, avec ou sans la collaboration du scénariste. Il hiérarchise les informations, les classe et propose un accès logique et convivial pour l’utilisateur ou le spectateur. Il peut alors réaliser des croquis à la main ou au moyen de logiciels spécifiques. Il doit également veiller à l’interactivité, à l’unité graphique et à la cohérence de l’ensemble. Afin d’intégrer les d
+
+FORMATIONS QUI MENENT AU METIER
+1. Parcours professionnalisant Concepteur multimédia
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Parcours professionnalisant Concepteur multimédia
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Béni Mellal
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Concepteur multimédia. Cette filiere ouvre un debouche direct vers le metier Concepteur multimédia. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Béni Mellal. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Concepteur multimédia
+- secteur Métiers de l’édition et du journalisme
+- filiere Parcours professionnalisant Concepteur multimédia
+- concepteur
+- multimedia
+- scenariste
+- peut
+- egalement
+- charge
+- dadapter
+- scenarisation
+- projet
+- site
+- animations
+- performances
+- live
+- exposition
+- interactive
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Concepteur multimédia, j'ai choisi le metier de Concepteur multimédia. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Concepteur multimédia, la progression a ete plus rapide quand j'ai renforce Concepteur multimédia. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Concepteur multimédia demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

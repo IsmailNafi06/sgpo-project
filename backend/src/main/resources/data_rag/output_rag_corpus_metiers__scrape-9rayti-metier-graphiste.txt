@@ -1,0 +1,10 @@
+﻿METIER: Graphiste
+CODE: SCRAPE_9RAYTI_METIER_GRAPHISTE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Lamia, promotion 2023 :
+"Après deux ans d'expérience en tant que Graphiste, j'ai pu évoluer vers des responsabilités techniques plus larges. Ce qui m'a le plus aidé, c'est de compléter ma formation par des certifications professionnelles reconnues."

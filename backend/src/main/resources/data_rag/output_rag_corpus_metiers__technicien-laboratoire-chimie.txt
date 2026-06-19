@@ -1,0 +1,10 @@
+﻿METIER: Technicien laboratoire chimie
+CODE: TECHNICIEN_LABORATOIRE_CHIMIE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Houda, promotion 2022 :
+"Diplômé en génie industriel d'une école d'ingénieurs à Fès, j'ai intégré une usine de l'industrie aéronautique comme Technicien laboratoire chimie. La zone franche de Casablanca et les écosystèmes industriels marocains recrutent massivement des profils techniques."

@@ -1,0 +1,59 @@
+METIER: Administrateur de vente
+CODE: ADMINISTRATEUR_DE_VENTE
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Administrateur de vente Un administrateur de vente aide à gérer les contrats de vente, de la réception des commandes à la livraison des produits/services aux clients. La régie publicitaire, il collecte les éléments contractuels tels que les confirmations de transaction, les ventes promises et les procurations des commerciaux et utilise des outils informatiques pour créer des fichiers clients. Après vérification du contrat avec le commercial concerné, il assurera le suivi de la gestion de la commande: signature du contrat par le client, enregistrement du contrat de vente, la gestion et gestion du compte client (avoirs, escomptes, encours ), gestion de portefeuille (documents de financement, solvabilité, etc.), traitement de documents spécifiques (litiges, réclamations, contentieux), C'est-à-dire que les responsables commerciaux ont un bon esprit d'intégration, d'analyse, et de traitement de toutes les affaires en relation avec l'activité comm
+
+PHRASES CLES
+- Administrateur de vente
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- vente
+- gestion
+- contrat
+- administrateur
+- clients
+- commerciaux
+- client
+- documents
+- traitement
+- aide
+- gerer
+- contrats
+- reception
+- commandes
+- livraison
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Administrateur de vente. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Responsable avant-vente (score chemin commun=1)
+- Épicier (score chemin commun=1)
+- Analyste en expérience client (score chemin commun=1)
+- Vendeur de vélo (score chemin commun=1)
+- Responsable commercial(E) de l’environnement (score chemin commun=1)
+- Social seller (score chemin commun=1)
+- Gestionnaire de collection (score chemin commun=1)
+- Promoteur des ventes (score chemin commun=1)
+- Ingénieur support des ventes (score chemin commun=1)
+- Chargé d’affaires dans l’industrie (score chemin commun=1)
+- Coordinateur retail (score chemin commun=1)
+- Développeur d’enseigne (score chemin commun=1)
+- Designer d’interaction (score chemin commun=1)
+- Consultant Salesforce senior (score chemin commun=1)
+- Cadre commercial et technico-commercial (score chemin commun=1)
+- Vendeur moto (score chemin commun=1)
+- Concessionnaire (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Administrateur de vente. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Administrateur de vente, la progression a ete plus rapide quand j'ai renforce Administrateur de vente. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Administrateur de vente demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

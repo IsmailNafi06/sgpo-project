@@ -1,0 +1,10 @@
+﻿METIER: Archiviste
+CODE: ARCHIVISTE
+SECTEUR: Education et culture
+
+FORMATIONS QUI Y MENENT
+- Licence Education Culture et Documentation - FLSH Rabat
+
+TEMOIGNAGE
+Omar, promotion 2021 :
+"Après ma formation à l'École Normale Supérieure, j'exerce comme Archiviste dans un établissement public. L'éducation au Maroc est en pleine réforme et les enseignants jouent un rôle clé dans cette transformation."

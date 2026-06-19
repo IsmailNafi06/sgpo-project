@@ -1,0 +1,58 @@
+METIER: Journaliste international(e)
+CODE: JOURNALISTE_INTERNATIONAL_E
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Journaliste international(e) Le journaliste international est un professionnel des médias spécialisé dans la couverture et l'analyse des événements et des actualités à l'échelle mondiale. Il est chargé de collecter, de vérifier et de présenter des informations pertinentes sur des sujets internationaux pour le public. Sa mission principale consiste à informer le public sur les événements, les politiques et les problématiques qui ont un impact à l'échelle mondiale. Cela peut inclure des sujets tels que les conflits, les crises humanitaires, les accords diplomatiques, les enjeux environnementaux et bien plus encore. Le Journaliste International doit être compétent dans la recherche d'informations, la rédaction d'articles, la réalisation d'interviews et la production de reportages vidéo. Il doit également avoir une compréhension approfondie des contextes politiques, économiques et culturels des différentes régions du monde. La curiosité, la
+
+PHRASES CLES
+- Journaliste international(e)
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- journaliste
+- international
+- evenements
+- echelle
+- mondiale
+- informations
+- sujets
+- public
+- politiques
+- doit
+- professionnel
+- medias
+- specialise
+- couverture
+- analyse
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Journaliste international(e). Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Scénariste (score chemin commun=1)
+- Animateur E-sport (score chemin commun=1)
+- Cyber journaliste (score chemin commun=1)
+- Opératrice en PAO (score chemin commun=1)
+- Technicien PAO (score chemin commun=1)
+- Chef d’atelier des industries graphiques (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Documentariste (score chemin commun=1)
+- Cadreur (score chemin commun=1)
+- Iconographe (score chemin commun=1)
+- Technicien d’antenne (score chemin commun=1)
+- Directeur artistique multimédia (score chemin commun=1)
+- Documentaliste multimédia (score chemin commun=1)
+- Producteur multimédia (score chemin commun=1)
+- Spécialiste en image de synthèse (score chemin commun=1)
+- Journaliste (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Journaliste international(e). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Journaliste international(e), la progression a ete plus rapide quand j'ai renforce Journaliste international(e). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Journaliste international(e) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

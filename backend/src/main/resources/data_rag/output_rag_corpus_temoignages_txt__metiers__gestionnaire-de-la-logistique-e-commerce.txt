@@ -1,0 +1,9 @@
+METIER: Gestionnaire de la logistique e-commerce
+CODE: GESTIONNAIRE_DE_LA_LOGISTIQUE_E_COMMERCE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir, Diplôme de l’Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger, j'ai choisi le metier de Gestionnaire de la logistique e-commerce. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Gestionnaire de la logistique e-commerce, la progression a ete plus rapide quand j'ai renforce Gestionnaire de la logistique e-commerce. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Gestionnaire de la logistique e-commerce demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Agriculteur
+CODE: AGRICULTEUR
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Douae, promotion 2023 :
+"Diplômé de l'IAV Hassan II à Rabat, j'exerce aujourd'hui comme Agriculteur dans le cadre du Plan Maroc Vert. Le secteur agricole marocain se modernise rapidement et offre de belles perspectives aux jeunes formés."

@@ -1,0 +1,9 @@
+METIER: Responsable avant-vente
+CODE: RESPONSABLE_AVANT_VENTE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Responsable avant-vente. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable avant-vente, la progression a ete plus rapide quand j'ai renforce Responsable avant-vente. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable avant-vente demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

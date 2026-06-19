@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur environnement
+CODE: INGENIEUR_ENVIRONNEMENT
+SECTEUR: Environnement et energies
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Hajar, promotion 2023 :
+"Après un master en sciences de l'environnement, j'exerce comme Ingenieur environnement dans un bureau d'études spécialisé. La réglementation environnementale se renforce au Maroc, créant une forte demande pour ces profils."

@@ -1,0 +1,27 @@
+﻿METIER: Responsable import export
+CODE: RESPONSABLE_IMPORT_EXPORT
+SECTEUR: Commerce international
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Logistique & Supply Chain - ENCG Agadir
+- Diplome ENCG Logistique & Supply Chain - ENCG Beni Mellal
+- Diplome ENCG Logistique & Supply Chain - ENCG Casablanca
+- Diplome ENCG Logistique & Supply Chain - ENCG Dakhla
+- Diplome ENCG Logistique & Supply Chain - ENCG El Jadida
+- Diplome ENCG Logistique & Supply Chain - ENCG Fes
+- Diplome ENCG Logistique & Supply Chain - ENCG Kenitra
+- Diplome ENCG Logistique & Supply Chain - ENCG Marrakech
+- Diplome ENCG Logistique & Supply Chain - ENCG Meknes
+- Diplome ENCG Logistique & Supply Chain - ENCG Oujda
+- Diplome ENCG Logistique & Supply Chain - ENCG Settat
+- Diplome ENCG Logistique & Supply Chain - ENCG Tanger
+- Technicien Specialise Commerce International - ISTA Agadir
+- Technicien Specialise Commerce International - ISTA Casablanca
+- Technicien Specialise Commerce International - ISTA Fes
+- Technicien Specialise Commerce International - ISTA Marrakech
+- Technicien Specialise Commerce International - ISTA Rabat
+- Technicien Specialise Commerce International - ISTA Tanger
+
+TEMOIGNAGE
+Hamza, promotion 2024 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Responsable import export. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

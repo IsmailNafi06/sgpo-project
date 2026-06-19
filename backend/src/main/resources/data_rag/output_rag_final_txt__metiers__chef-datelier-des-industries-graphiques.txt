@@ -1,0 +1,62 @@
+METIER: Chef d’atelier des industries graphiques
+CODE: CHEF_DATELIER_DES_INDUSTRIES_GRAPHIQUES
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Chef d’atelier des industries graphiques Le chef d’atelier des industries graphiques travaille en relation directe avec le directeur technique ou le chef d’entreprise. Selon la taille de la structure, il est en charge de l’encadrement, de la gestion administrative et de la production. Il dispose d’un dossier de fabrication contenant les informations relatives aux procédés, aux quantités, à la qualité et aux délais de production graphique. Le chef d’atelier contrôle le bon déroulement du traitement des différents dossiers clients. Il fixe le niveau d’exigence à respecter en fonction du devis de la commande. A chaque opération, il analyse et contrôle le produit réalisé. Bac + 2 Niveau d'études 5.000 MAD Rémunération 3 ans Expérience Missions principales Planifier les étapes d’une production Répartir l’activité entre les ateliers/équipes Affecter le personnel sur des postes de travail Sélectionner des machines et des outillages
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Chef d’atelier des industries graphiques. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Chef d’atelier des industries graphiques
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- chef
+- datelier
+- production
+- industries
+- graphiques
+- controle
+- travaille
+- relation
+- directe
+- directeur
+- technique
+- dentreprise
+- selon
+- taille
+- structure
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Chef d’atelier des industries graphiques. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chef d’atelier des industries graphiques, la progression a ete plus rapide quand j'ai renforce Chef d’atelier des industries graphiques. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chef d’atelier des industries graphiques demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

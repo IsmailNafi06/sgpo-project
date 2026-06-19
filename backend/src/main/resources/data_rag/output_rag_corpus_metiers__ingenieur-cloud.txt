@@ -1,0 +1,15 @@
+﻿METIER: Ingenieur cloud
+CODE: INGENIEUR_CLOUD
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Ingenieur Genie Informatique - ENSA Agadir
+- Ingenieur Genie Informatique - ENSA Al Hoceima
+- Ingenieur Genie Informatique - ENSA Fes
+- Ingenieur Genie Informatique - ENSA Marrakech
+- Ingenieur Genie Informatique - ENSA Oujda
+- Ingenieur Genie Informatique - ENSA Tanger
+
+TEMOIGNAGE
+Houda, promotion 2022 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Ingenieur cloud dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

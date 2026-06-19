@@ -1,0 +1,35 @@
+METIER: BIM Manager
+CODE: BIM_MANAGER
+SECTEUR: BTP
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- BIM Manager
+- secteur BTP
+- filiere Master BIM et Construction Digitale
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master BIM et Construction Digitale
+- Prerequis: Non precise
+- Etablissements: Ecole Hassania des Travaux Publics
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master BIM et Construction Digitale. Cette filiere ouvre un debouche direct vers le metier BIM Manager. Le chemin est relie a Ecole Hassania des Travaux Publics. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master BIM et Construction Digitale, j'ai choisi le metier de BIM Manager. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en BIM Manager, la progression a ete plus rapide quand j'ai renforce BIM Manager. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers BIM Manager demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

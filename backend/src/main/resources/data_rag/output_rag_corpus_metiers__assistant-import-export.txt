@@ -1,0 +1,10 @@
+﻿METIER: Assistant import export
+CODE: ASSISTANT_IMPORT_EXPORT
+SECTEUR: Logistique et transport
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Transport Douane et Transit - ISTA Casablanca
+
+TEMOIGNAGE
+Amina, promotion 2024 :
+"Diplômé en supply chain d'une grande école d'ingénieurs à Casablanca, j'ai rejoint un opérateur logistique comme Assistant import export. Le Maroc se positionne comme hub logistique régional, ce qui crée une forte demande de profils qualifiés."

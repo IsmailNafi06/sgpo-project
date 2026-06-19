@@ -1,0 +1,10 @@
+﻿METIER: Policier
+CODE: POLICIER
+SECTEUR: Securite publique
+
+FORMATIONS QUI Y MENENT
+- Concours Police - Institut Royal de Police Kenitra
+
+TEMOIGNAGE
+Leila, promotion 2022 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Policier. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

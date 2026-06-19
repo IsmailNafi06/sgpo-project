@@ -1,0 +1,74 @@
+METIER: Directeur des services de greffe judiciaires
+CODE: DIRECTEUR_DES_SERVICES_DE_GREFFE_JUDICIAIRES
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Directeur des services de greffe judiciaires Agent public du ministère de la Justice, le directeur des services de greffe judiciaires assure de hautes responsabilités. Il dirige et gère le service du greffe assisté généralement d’un ou plusieurs adjoints. Le directeur des services de greffe participe aussi à l'élaboration des budgets, en assure l'exécution et veille à la bonne gestion des moyens matériels. Dépositaire des minutes, scellés et archives au sein de la juridiction, il en assure la conservation. Il collabore également avec les chefs de juridictions et met en œuvre leurs décisions. Du parc informatique aux marchés publics, en passant par les règles hygiène et sécurité ou la formation des agents, le directeur des services de greffe intervient dans de multiples domaines. Bac + 3 Niveau d'études 11.000 MAD Rémunération 3 ans Expérience Missions principales Il dirige les services de la juridiction: il est chargé de
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence d’Études Professionnelle en Métiers Juridiques et Judiciaires (en arabe) - FSJES Settat
+2. Licence en Droit Prive
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence d’Études Professionnelle en Métiers Juridiques et Judiciaires (en arabe) - FSJES Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Fès
+- Indicateurs: taux_reussite=68.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d’Études Professionnelle en Métiers Juridiques et Judiciaires (en arabe) - FSJES Settat. Cette filiere ouvre un debouche direct vers le metier Directeur des services de greffe judiciaires. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Fès. Indicateurs du parcours: taux de reussite estime: 68.4%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Directeur des services de greffe judiciaires. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Agent d’Immigration (score_chemin_commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score_chemin_commun=1)
+- Inspecteur des douanes (score_chemin_commun=1)
+- Substitut du procureur (score_chemin_commun=1)
+- Juge aux affaires familiales (score_chemin_commun=1)
+- Administrateur judiciaire (score_chemin_commun=1)
+- Juge pour enfants (score_chemin_commun=1)
+- Flasheur (score_chemin_commun=1)
+- Juriste en droit de l’environnement (score_chemin_commun=1)
+- Juriste dans l’immobilier (score_chemin_commun=1)
+- Fiscaliste (score_chemin_commun=1)
+- Responsable legs (score_chemin_commun=1)
+- Avocat d’affaires (score_chemin_commun=1)
+- Procureur de la république (score_chemin_commun=1)
+- Juriste agricole (score_chemin_commun=1)
+- Juriste du sport (score_chemin_commun=1)
+- Chargé d’indemnisation (score_chemin_commun=1)
+- Responsable des achats durables (score_chemin_commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score_chemin_commun=1)
+- Avocat (score_chemin_commun=1)
+
+PHRASES CLES
+- Directeur des services de greffe judiciaires
+- secteur Métiers de droit et de la justice
+- filiere Licence d’Études Professionnelle en Métiers Juridiques et Judiciaires (en arabe) - FSJES Settat
+- filiere Licence en Droit Prive
+- services
+- greffe
+- directeur
+- assure
+- judiciaires
+- dirige
+- juridiction
+- agent
+- public
+- ministere
+- justice
+- hautes
+- responsabilites
+- gere
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d’Études Professionnelle en Métiers Juridiques et Judiciaires (en arabe) - FSJES Settat, Licence en Droit Prive, j'ai choisi le metier de Directeur des services de greffe judiciaires. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Directeur des services de greffe judiciaires, la progression a ete plus rapide quand j'ai renforce Directeur des services de greffe judiciaires. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Directeur des services de greffe judiciaires demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

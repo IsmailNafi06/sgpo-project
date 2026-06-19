@@ -1,0 +1,63 @@
+METIER: Machino
+CODE: MACHINO
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Machino Le métier de machiniste, souvent appelé "machino" dans le langage cinématographique, est une profession essentielle sur les plateaux de tournage de films et de séries télévisées. Les machinistes sont responsables de la manipulation et de la mise en place du matériel technique nécessaire pour la réalisation des plans, contribuant ainsi à la concrétisation de la vision du réalisateur. L'une des responsabilités clés des machinistes est la manipulation des décors et des équipements lourds. Ils travaillent en étroite collaboration avec l'équipe de scénographie pour monter et démonter les décors selon les besoins de chaque scène. Cela peut inclure la manipulation de structures complexes, de plateformes élévatrices, et d'autres équipements nécessaires pour créer l'environnement visuel souhaité. Les machinistes sont également chargés de la mise en place des mouvements de caméra. Ils installent et opèrent des rails de caméra, des grues, des chariots et d'autr
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Arts et Culture
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Machino. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Concepteur de produits durables (score_chemin_commun=1)
+- Technicien en impression 3D (score_chemin_commun=1)
+- Logisticien (score_chemin_commun=1)
+- Agent de routage (score_chemin_commun=1)
+- Marinier/Batelier (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Préparateur de commande (score_chemin_commun=1)
+- Scripte (score_chemin_commun=1)
+- Le directeur de postproduction (score_chemin_commun=1)
+- Assistant caméra (score_chemin_commun=1)
+- Mixeur (score_chemin_commun=1)
+- Technicien du son (score_chemin_commun=1)
+- Consultant scénario (score_chemin_commun=1)
+- Potier(ère) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+
+PHRASES CLES
+- Machino
+- secteur Métiers art et design
+- filiere Licence Arts et Culture
+- machinistes
+- manipulation
+- mise
+- place
+- decors
+- equipements
+- camera
+- machiniste
+- souvent
+- appele
+- langage
+- cinematographique
+- profession
+- essentielle
+- plateaux
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts et Culture, j'ai choisi le metier de Machino. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Machino, la progression a ete plus rapide quand j'ai renforce Machino. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Machino demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

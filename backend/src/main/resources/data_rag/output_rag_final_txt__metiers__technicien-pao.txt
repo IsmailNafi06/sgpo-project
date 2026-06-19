@@ -1,0 +1,62 @@
+METIER: Technicien PAO
+CODE: TECHNICIEN_PAO
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Technicien PAO Le technicien PAO réalise des documents pour répondre à un projet éditorial papier. L’opérateur occupe un des maillons de la chaîne qui se situe entre la création graphique ou écrite et sa reproduction par impression. Dans la chaîne graphique et grâce à l’informatique le traitement des textes et celui des images sont menées simultanément. Le travail de l’opérateur consiste à combiner ces deux opérations en utilisant un système basé sur le stockage numérique des données. Il opère à la fois sur les textes (saisie, corrections, travail typographique) et sur les images (contours, couleurs). C’est aussi l’opérateur qui assure les mises en pages pour préparer, formater et maquetter le document qui est ensuite traité par l’imprimeur. Niveau d'études 2.500 MAD Rémunération 3 ans Expérience Missions principales Veiller à la mise en conformité, à la manipulation et à l’exploitation d’appareils particuliers. Chargé de la maintenance de ces équipem
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Technicien PAO. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Technicien PAO
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- loperateur
+- technicien
+- chaine
+- graphique
+- textes
+- images
+- travail
+- realise
+- documents
+- repondre
+- projet
+- editorial
+- papier
+- occupe
+- maillons
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, j'ai choisi le metier de Technicien PAO. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien PAO, la progression a ete plus rapide quand j'ai renforce Technicien PAO. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien PAO demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,91 @@
+METIER: Concepteur Web design
+CODE: CONCEPTEUR_WEB_DESIGN
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Concepteur Web design Le métier de concepteur web design est une profession dynamique et cruciale dans le domaine de la conception et du développement web. Ces professionnels sont les architectes visuels des sites internet, chargés de créer des interfaces esthétiques, conviviales et engageantes. Leur rôle va au-delà de la simple esthétique, englobant également la fonctionnalité et l'expérience utilisateur (UX). Le processus de conception web commence par une compréhension approfondie des besoins du client. Les concepteurs web design travaillent en étroite collaboration avec les clients pour saisir leurs objectifs, leur public cible et l'image de marque de leur entreprise. Cette compréhension approfondie guide la création d'une interface utilisateur (UI) qui répond aux attentes esthétiques tout en optimisant l'expérience de navigation. Une compétence clé du concepteur web design réside dans sa maîtrise des outils de conception graphique. Des log
+
+FORMATIONS QUI MENENT AU METIER
+1. Master IA
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Concepteur Web design. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Spécialiste en Surveillance Environnementale (score_chemin_commun=1)
+- Expert en modélisation 3D (score_chemin_commun=1)
+- Expert en sécurité des données biométriques (score_chemin_commun=1)
+- Analyste en données géospatiales (score_chemin_commun=1)
+- Consultant en éthique des algorithmes (score_chemin_commun=1)
+- Consultant en transformation numérique des PME (score_chemin_commun=1)
+- Développeur de solutions e-learning (score_chemin_commun=1)
+- Analyste en sécurité des objets connectés (score_chemin_commun=1)
+- Ingénieur en réalité augmentée (score_chemin_commun=1)
+- médiateur numérique (score_chemin_commun=1)
+- Développeur de solutions blockchain (score_chemin_commun=1)
+- Régulateur de trafic ferroviaire (score_chemin_commun=1)
+- Media buyer (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Spécialiste en déploiement de bornes EV (score_chemin_commun=1)
+- Spécialiste en intégration de l’hydrogène dans les réseaux électriques (score_chemin_commun=1)
+- Data Scientist (score_chemin_commun=1)
+- Deep Learning Engineer (score_chemin_commun=1)
+- Ingenieur cybersecurite (score_chemin_commun=1)
+
+PHRASES CLES
+- Concepteur Web design
+- secteur Métiers de l’informatique et système d’information
+- filiere Master IA
+- design
+- concepteur
+- conception
+- esthetiques
+- experience
+- utilisateur
+- comprehension
+- approfondie
+- profession
+- dynamique
+- cruciale
+- domaine
+- developpement
+- professionnels
+- architectes
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Concepteur Web design
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master IA, j'ai choisi le metier de Concepteur Web design. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Concepteur Web design
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Concepteur Web design, la progression a ete plus rapide quand j'ai renforce Concepteur Web design. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Concepteur Web design
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Concepteur Web design demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

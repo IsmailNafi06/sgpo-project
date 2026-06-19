@@ -1,0 +1,66 @@
+METIER: Naturopathe
+CODE: NATUROPATHE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Naturopathe Le naturopathe est l'un des métiers les plus récents de la médecine traditionnelle moderne. Classée 3ème après la médecine traditionnelle chinoise et la médecine Ayurvédique par l'OMS, la Naturopathie vise principalement à améliorer l'hygiène de vie et apporter bien-être physique et psychique. Rôle: Dans ce sens, le naturopathe aide les patients à comprendre leurs corps sur la base des aspects propres et individuels. En premier, il propose aux patients des bilans personnalisés prenant en compte les habitudes alimentaires et les antécédents médicaux. Il établit ensuite des conseils personnalisés portant sur la qualité d'alimentation, la gestion du stress, le contact avec la nature,... En addition, il peut implémenter des méthodes douces et naturelles pour prévenir ou encore soulager les maladies chroniques. Le naturopathe ne fait pas de diagnostics et ne propose pas de traitement. Cependant, naturopathes et médecins peuvent travailler ensemble
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Naturopathe. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Ingénieur biomécanique (score_chemin_commun=1)
+
+PHRASES CLES
+- Naturopathe
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- medecine
+- traditionnelle
+- patients
+- propose
+- personnalises
+- recents
+- moderne
+- classee
+- 3eme
+- chinoise
+- ayurvedique
+- naturopathie
+- vise
+- principalement
+- ameliorer
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Naturopathe. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Naturopathe, la progression a ete plus rapide quand j'ai renforce Naturopathe. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Naturopathe demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

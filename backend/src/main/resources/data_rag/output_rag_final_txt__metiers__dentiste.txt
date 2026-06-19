@@ -1,0 +1,60 @@
+METIER: Dentiste
+CODE: DENTISTE
+SECTEUR: Metiers de la sante
+
+DESCRIPTION
+Exerce en chirurgie dentaire apres un cursus en medecine dentaire.
+
+FORMATIONS QUI MENENT AU METIER
+1. Doctorat en Médecine Dentaire - FM6MD Rabat
+2. Doctorat en Medecine Dentaire - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+3. Doctorat en Médecine Dentaire - FM6MD Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Doctorat en Médecine Dentaire - FM6MD Rabat
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine Dentaire Rabat
+- Indicateurs: taux_reussite=60.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Médecine Dentaire - FM6MD Rabat. Cette filiere ouvre un debouche direct vers le metier Dentiste. Le chemin est relie a Faculté de Médecine Dentaire Rabat. Indicateurs du parcours: taux de reussite estime: 60.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Doctorat en Medecine Dentaire - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+- Indicateurs: taux_reussite=60.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Medecine Dentaire - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès. Cette filiere ouvre un debouche direct vers le metier Dentiste. Le chemin est relie a Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès. Indicateurs du parcours: taux de reussite estime: 60.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Doctorat en Médecine Dentaire - FM6MD Casablanca
+- Prerequis: Non precise
+- Etablissements: Faculté de Médecine Dentaire Casablanca
+- Indicateurs: taux_reussite=60.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Doctorat en Médecine Dentaire - FM6MD Casablanca. Cette filiere ouvre un debouche direct vers le metier Dentiste. Le chemin est relie a Faculté de Médecine Dentaire Casablanca. Indicateurs du parcours: taux de reussite estime: 60.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Praticien en médecine alternative (score_chemin_commun=2)
+
+PHRASES CLES
+- Dentiste
+- secteur Metiers de la sante
+- filiere Doctorat en Médecine Dentaire - FM6MD Rabat
+- filiere Doctorat en Medecine Dentaire - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès
+- filiere Doctorat en Médecine Dentaire - FM6MD Casablanca
+- dentaire
+- exerce
+- chirurgie
+- cursus
+- medecine
+- exerce chirurgie
+- chirurgie dentaire
+- dentaire cursus
+- cursus medecine
+- medecine dentaire
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Doctorat en Médecine Dentaire - FM6MD Rabat, Doctorat en Medecine Dentaire - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès, j'ai choisi le metier de Dentiste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Dentiste, la progression a ete plus rapide quand j'ai renforce Dentiste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Dentiste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

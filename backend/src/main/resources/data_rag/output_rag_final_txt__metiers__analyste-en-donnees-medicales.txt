@@ -1,0 +1,52 @@
+METIER: Analyste en données médicales
+CODE: ANALYSTE_EN_DONNEES_MEDICALES
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Analyste en données médicales L'Analyste en Données Médicales est un professionnel clé dans le domaine de la santé, jouant un rôle essentiel dans la gestion et l'analyse des données liées aux soins de santé. Ils collectent, organisent et analysent des données médicales provenant de diverses sources telles que dossiers médicaux électroniques, essais cliniques et dispositifs de surveillance médicale. Son objectif principal est d'extraire des informations pertinentes pour améliorer les décisions cliniques, la recherche médicale et la planification des soins. Les compétences techniques comprennent la maîtrise des outils d'analyse de données, des bases de données médicales et des connaissances en terminologie médicale. Une solide éthique de travail, une attention aux détails et la capacité à communiquer efficacement sont essentielles pour réussir en tant qu'Analyste en Données Médicales. Bac + 3 Niveau d'études 8.000 MAD Rémunération 3 ans E
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2. Cette filiere ouvre un debouche direct vers le metier Analyste en données médicales. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Analyste UX (score_chemin_commun=1)
+- Ingénieur en paiement sécurisé en ligne (score_chemin_commun=1)
+- Spécialiste en bioinformatique (score_chemin_commun=1)
+- Développeur de contenus VR (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Technicien en cybersécurité médicale (score_chemin_commun=1)
+
+PHRASES CLES
+- Analyste en données médicales
+- secteur Métiers de l’informatique et système d’information
+- filiere Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2
+- donnees
+- medicales
+- analyste
+- medicale
+- sante
+- analyse
+- soins
+- cliniques
+- professionnel
+- domaine
+- jouant
+- role
+- essentiel
+- gestion
+- liees
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2, j'ai choisi le metier de Analyste en données médicales. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste en données médicales, la progression a ete plus rapide quand j'ai renforce Analyste en données médicales. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste en données médicales demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

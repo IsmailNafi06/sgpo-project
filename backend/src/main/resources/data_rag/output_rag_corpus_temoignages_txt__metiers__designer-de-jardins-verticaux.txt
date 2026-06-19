@@ -1,0 +1,9 @@
+METIER: Designer de jardins verticaux
+CODE: DESIGNER_DE_JARDINS_VERTICAUX
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Tourisme Culturel et Valorisation du Patrimoine, j'ai choisi le metier de Designer de jardins verticaux. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Designer de jardins verticaux, la progression a ete plus rapide quand j'ai renforce Designer de jardins verticaux. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Designer de jardins verticaux demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

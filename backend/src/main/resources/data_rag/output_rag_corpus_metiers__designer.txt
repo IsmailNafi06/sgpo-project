@@ -1,0 +1,75 @@
+METIER: Designer
+CODE: DESIGNER
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Designer
+- secteur Métiers art et design
+- filiere Bac+3 Communication Visuelle Art’Com Sup Rabat
+- filiere Bac+3 Communication des Organisations Art’Com Sup Rabat
+- filiere Formations Continues Arts-Com Sup Rabat
+- filiere Bac+3 Communication Visuelle Art’Com Sup Casablanca
+- filiere Bac+3 Communication des Organisations Art’Com Sup Casablanca
+- filiere Bac Arts Appliqués
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Bac+3 Communication Visuelle Art’Com Sup Rabat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieur d'Art et Design Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+3 Communication Visuelle Art’Com Sup Rabat. Cette filiere ouvre un debouche direct vers le metier Designer. Le chemin est relie a Ecole Nationale Supérieur d'Art et Design Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Bac+3 Communication des Organisations Art’Com Sup Rabat
+- Prerequis: Non precise
+- Etablissements: Institut Superieur de l'Information et de la Communication Rabat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+3 Communication des Organisations Art’Com Sup Rabat. Cette filiere ouvre un debouche direct vers le metier Designer. Le chemin est relie a Institut Superieur de l'Information et de la Communication Rabat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Formations Continues Arts-Com Sup Rabat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Rabat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Formations Continues Arts-Com Sup Rabat. Cette filiere ouvre un debouche direct vers le metier Designer. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Rabat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Bac+3 Communication Visuelle Art’Com Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieur d'Art et Design Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+3 Communication Visuelle Art’Com Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Designer. Le chemin est relie a Ecole Nationale Supérieur d'Art et Design Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Bac+3 Communication des Organisations Art’Com Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieur d'Art et Design Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+3 Communication des Organisations Art’Com Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Designer. Le chemin est relie a Ecole Nationale Supérieur d'Art et Design Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Bac Arts Appliqués
+- Prerequis: 1ère Bac Arts
+- Etablissements: Faculté des Sciences et Techniques Tanger, Ecole Supérieure de Technologie Tétouan, Ecole Hassania des Travaux Publics, Faculté de Médecine et de Pharmacie Guelmim, Ecole Normale Supérieure Meknès, Faculté des Lettres et des Sciences Humaines Dhar El Mahraz Fès, Faculté des Lettres et des Sciences Humaines Marrakech, Faculté des Sciences Juridiques et Politiques Kénitra, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat, Faculté des Sciences de l'Education Rabat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de 1ère Bac Arts, l'apprenant peut evoluer vers la filiere Bac Arts Appliqués. Cette filiere ouvre un debouche direct vers le metier Designer. Le chemin est relie a Faculté des Sciences et Techniques Tanger, Ecole Supérieure de Technologie Tétouan, Ecole Hassania des Travaux Publics, Faculté de Médecine et de Pharmacie Guelmim, Ecole Normale Supérieure Meknès, Faculté des Lettres et des Sciences Humaines Dhar El Mahraz Fès. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Journaliste (score chemin commun=2)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+3 Communication Visuelle Art’Com Sup Rabat, Bac+3 Communication des Organisations Art’Com Sup Rabat, j'ai choisi le metier de Designer. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Designer, la progression a ete plus rapide quand j'ai renforce Designer. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Designer demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

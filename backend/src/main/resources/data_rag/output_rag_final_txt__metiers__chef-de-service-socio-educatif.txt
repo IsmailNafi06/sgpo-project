@@ -1,0 +1,66 @@
+METIER: Chef de service socio-éducatif
+CODE: CHEF_DE_SERVICE_SOCIO_EDUCATIF
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Chef de service socio-éducatif Le chef de service socio-éducatif est un relais entre la direction et les équipes socio-éducatives, il joue un rôle d’interface. Il a pour mission principale l’encadrement des équipes et la coordination des actions socio-éducatives directement engagées auprès des personnes accueillies et de leurs proches auprès de qui il intervient très régulièrement. Bac + 3 Niveau d'études 5.500 MAD Rémunération 3 ans Expérience Missions principales Concevoir et mettre en œuvre le projet de service ou de l’unité, en concertation avec l’équipe et la direction, en tenant compte du projet de la structure et de l’évaluation des besoins des personnes accueillies. Mettre en œuvre et promouvoir une démarche qualité garantissant la mise en œuvre et le respect des projets individuels des personnes accueillies. Apporter un appui technique aux professionnels. Développer les compétences individuelles et collectives de l’équipe et i
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Chef de service socio-éducatif. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+- Ingénieur biomécanique (score_chemin_commun=1)
+
+PHRASES CLES
+- Chef de service socio-éducatif
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- socio
+- service
+- personnes
+- accueillies
+- uvre
+- chef
+- educatif
+- direction
+- equipes
+- educatives
+- aupres
+- mettre
+- projet
+- lequipe
+- relais
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Chef de service socio-éducatif. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chef de service socio-éducatif, la progression a ete plus rapide quand j'ai renforce Chef de service socio-éducatif. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chef de service socio-éducatif demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

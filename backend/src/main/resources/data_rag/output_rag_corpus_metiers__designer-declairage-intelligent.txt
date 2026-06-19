@@ -1,0 +1,68 @@
+METIER: Designer d’Éclairage Intelligent
+CODE: DESIGNER_DECLAIRAGE_INTELLIGENT
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Designer d’Éclairage Intelligent Le designer d'éclairage intelligent est un professionnel créatif et technique qui conçoit des systèmes d'éclairage innovants et fonctionnels pour différents espaces. Cet expert fusionne l'art, la science et la technologie pour créer des ambiances lumineuses qui répondent aux besoins esthétiques et pratiques. Sa mission consiste à concevoir des solutions d'éclairage qui utilisent des technologies avancées, comme la gestion intelligente de la lumière, pour améliorer l'efficacité énergétique et la convivialité. Le designer d'éclairage intelligent travaille en collaboration avec des architectes, des ingénieurs et des clients pour concevoir des environnements lumineux adaptés à des contextes variés, tels que des bâtiments commerciaux, des espaces publics, des hôtels et des résidences. Son expertise contribue à créer des ambiances visuelles engageantes tout en respectant les principes de durabilité et de co
+
+PHRASES CLES
+- Designer d’Éclairage Intelligent
+- secteur Métiers des BTP et Construction
+- filiere Ingénieur Génie Civil
+- filiere DUT Genie Civil - EST Casablanca
+- eclairage
+- designer
+- intelligent
+- espaces
+- creer
+- ambiances
+- concevoir
+- declairage
+- professionnel
+- creatif
+- technique
+- concoit
+- systemes
+- innovants
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Designer d’Éclairage Intelligent. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Designer d’Éclairage Intelligent. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Gestionnaire de projets urbains intelligents (score chemin commun=2)
+- Chef de projet en construction durable (score chemin commun=2)
+- Planificateur de quartiers résilients (score chemin commun=2)
+- Concepteur de parcours piétonniers (score chemin commun=2)
+- Analyste en transport et mobilité urbaine (score chemin commun=2)
+- Expert en maintenance prédictive des infrastructures de transport (score chemin commun=2)
+- Conducteur de travaux BTP (score chemin commun=1)
+- Designer de mobilier durable (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+- Agronome urbain (score chemin commun=1)
+- Designer d’intérieur écologique (score chemin commun=1)
+- Planificateur de transport en commun (score chemin commun=1)
+- Designer d’espaces verts urbains (score chemin commun=1)
+- Expert en architecture bioclimatique urbaine (score chemin commun=1)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=1)
+- Manager d’exploitation ferroviaire (score chemin commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score chemin commun=1)
+- Ingénieur structure bois (score chemin commun=1)
+- Ingenieur BTP (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Designer d’Éclairage Intelligent. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Designer d’Éclairage Intelligent, la progression a ete plus rapide quand j'ai renforce Designer d’Éclairage Intelligent. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Designer d’Éclairage Intelligent demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

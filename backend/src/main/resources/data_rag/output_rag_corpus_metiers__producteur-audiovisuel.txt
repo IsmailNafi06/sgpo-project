@@ -1,0 +1,10 @@
+﻿METIER: Producteur audiovisuel
+CODE: PRODUCTEUR_AUDIOVISUEL
+SECTEUR: Audiovisuel
+
+FORMATIONS QUI Y MENENT
+- Licence Audiovisuel et Cinema - ISMAC Rabat
+
+TEMOIGNAGE
+Nabil, promotion 2023 :
+"Exercer comme Producteur audiovisuel au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

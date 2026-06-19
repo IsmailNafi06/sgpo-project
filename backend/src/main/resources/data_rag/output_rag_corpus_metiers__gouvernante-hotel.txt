@@ -1,0 +1,10 @@
+﻿METIER: Gouvernante hotel
+CODE: GOUVERNANTE_HOTEL
+SECTEUR: Hotellerie tourisme et restauration
+
+FORMATIONS QUI Y MENENT
+- Technicien Tourisme Hotellerie et Restauration - ISIT Tanger
+
+TEMOIGNAGE
+Rachid, promotion 2021 :
+"Formé à l'Institut Spécialisé de Technologie Appliquée Hôtelière de Casablanca, j'exerce comme Gouvernante hotel dans un établissement cinq étoiles. Le tourisme marocain se redresse fortement et les recrutements sont nombreux."

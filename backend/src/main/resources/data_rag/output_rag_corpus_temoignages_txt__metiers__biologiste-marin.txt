@@ -1,0 +1,9 @@
+METIER: Biologiste marin
+CODE: BIOLOGISTE_MARIN
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Biologiste marin, j'ai choisi le metier de Biologiste marin. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Biologiste marin, la progression a ete plus rapide quand j'ai renforce Biologiste marin. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Biologiste marin demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

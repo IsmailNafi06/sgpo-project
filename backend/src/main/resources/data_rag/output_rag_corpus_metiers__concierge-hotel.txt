@@ -1,0 +1,38 @@
+﻿METIER: Concierge hotel
+CODE: CONCIERGE_HOTEL
+SECTEUR: Hotellerie tourisme et restauration
+
+FORMATIONS QUI Y MENENT
+- Bachelor BAC+4 en Management en Tourisme International - OSTELEA Rabat
+- Bachelor en Tourisme et Hotellerie - IMBT Rabat
+- Bachelor ESLSCA - Specialite Tourisme & Evenementiel (Bac+3)
+- DUT en Marketing du tourisme - EST Oujda
+- Gestion hoteliere - IMBT Rabat
+- Licence Arts culinaires
+- Licence d'Etudes Professionnelle en Management du Tourisme - FSJES Oujda
+- Licence d'Etudes Professionnelle en Tourisme et Communication - FLSH Agadir
+- Licence en Management Touristique et Hotelier Ecole Superieure d'Hotellerie et de Communication Agadir
+- Licence en Tourisme et Gestion d'activites touristiques et culturelles - Ostelea Casablanca
+- Licence Management en Hotellerie Internationale
+- LICENCE MANAGEMENT EN HOTELLERIE INTERNATIONALE (Vatel Business School)
+- Licence Professionnelle en Management Touristique et Evenementiel - OSTELEA Rabat
+- Licence Tourisme & Hotellerie
+- Master en Gestion Hoteliere et de la Restauration/ Food&Beverage - Ostelea Casablanca
+- Master en Management des Entreprises Touristiques et de l'Evenementiel - OSTELEA Rabat
+- Master en Organisation d'Evenements, Protocole et Tourisme D'Affaires (MICE) - Ostelea Casablanca
+- Master Gestion Evenementielle Ecole Superieure d'Hotellerie et de Communication Agadir
+- Master Management en Hotellerie Internationale
+- Master Management en Hotellerie Internationale - Option Management Entrepreneurial
+- MASTER MANAGEMENT EN HOTELLERIE INTERNATIONALE (Vatel Business School)
+- Master Option Communication Corporate Ecole Superieure d'Hotellerie et de Communication Agadir
+- Master Specialise en Tourisme, Patrimoine et Developpement durable - FLSH Marrakech
+- Master Tourisme Culturel et Valorisation du Patrimoine
+- MBA Management du Tourisme et de l'Hotellerie - Ostelea Casablanca
+- MBA Specialise en Management Touristique et Evenementiel - OSTELEA Rabat
+- OSTELEA Rabat - Presentation
+- Reception d'Hotels - IMBT Rabat
+- Technicien Tourisme Hotellerie et Restauration - ISIT Tanger
+
+TEMOIGNAGE
+Nadia, promotion 2021 :
+"Mon cursus en hôtellerie-restauration m'a ouvert les portes du secteur. Travailler comme Concierge hotel au Maroc, c'est évoluer dans un secteur dynamique où l'excellence du service et la culture locale se rejoignent."

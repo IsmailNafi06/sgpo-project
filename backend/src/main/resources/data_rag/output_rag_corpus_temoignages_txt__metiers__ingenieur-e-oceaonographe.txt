@@ -1,0 +1,9 @@
+METIER: Ingénieur (e) Océaonographe
+CODE: INGENIEUR_E_OCEAONOGRAPHE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Ingénieur (e) Océaonographe, j'ai choisi le metier de Ingénieur (e) Océaonographe. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur (e) Océaonographe, la progression a ete plus rapide quand j'ai renforce Ingénieur (e) Océaonographe. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur (e) Océaonographe demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

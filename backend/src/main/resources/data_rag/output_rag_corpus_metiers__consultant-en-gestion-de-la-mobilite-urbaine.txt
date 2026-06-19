@@ -1,0 +1,69 @@
+METIER: Consultant en gestion de la mobilité urbaine
+CODE: CONSULTANT_EN_GESTION_DE_LA_MOBILITE_URBAINE
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Consultant en gestion de la mobilité urbaine Le consultant en gestion de la mobilité urbaine consiste apporte des solutions innovantes et durables pour améliorer les déplacements et la fluidité des transports dans les zones urbaines. En tant que professionnel de la mobilité urbaine, le consultant analyse les problématiques de circulation, les besoins des usagers et les enjeux environnementaux. Son rôle est d'élaborer des stratégies et des plans d'action adaptés aux spécificités de chaque ville, en prenant en compte les nouvelles technologies et les moyens de transport écologiques. Parmi ses missions principales, on retrouve la réalisation d'études de faisabilité, la conception de projets d'infrastructures, la gestion de la transition vers des modes de transport durables, ainsi que l'accompagnement des autorités publiques et des entreprises dans la mise en œuvre de solutions de mobilité innovantes et respectueuses de l'env
+
+PHRASES CLES
+- Consultant en gestion de la mobilité urbaine
+- secteur Métiers des BTP et Construction
+- filiere Ingénieur en architecture d’intérieur
+- filiere DUT Genie Civil - EST Casablanca
+- mobilite
+- consultant
+- gestion
+- urbaine
+- solutions
+- innovantes
+- durables
+- transport
+- consiste
+- apporte
+- ameliorer
+- deplacements
+- fluidite
+- transports
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en architecture d’intérieur
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en architecture d’intérieur. Cette filiere ouvre un debouche direct vers le metier Consultant en gestion de la mobilité urbaine. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Consultant en gestion de la mobilité urbaine. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Conducteur de travaux BTP (score chemin commun=2)
+- Ingenieur BTP (score chemin commun=2)
+- Architecte (score chemin commun=1)
+- Technicien en gestion des déchets (score chemin commun=1)
+- Consultant en optimisation énergétique des bâtiments (score chemin commun=1)
+- Technicien en maintenance d’éolienne (score chemin commun=1)
+- Ingénieur en intelligence énergétique (score chemin commun=1)
+- Chercheur en hydrogène vert (score chemin commun=1)
+- Opérateur de centrale électrolyse à hydrogène (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Opérateur d’usine (score chemin commun=1)
+- Gestionnaire de projets urbains intelligents (score chemin commun=1)
+- Designer d’Éclairage Intelligent (score chemin commun=1)
+- Designer de mobilier durable (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+- Chef de projet en construction durable (score chemin commun=1)
+- Agronome urbain (score chemin commun=1)
+- Designer d’intérieur écologique (score chemin commun=1)
+- Planificateur de transport en commun (score chemin commun=1)
+- Designer d’espaces verts urbains (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Consultant en gestion de la mobilité urbaine. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Consultant en gestion de la mobilité urbaine, la progression a ete plus rapide quand j'ai renforce Consultant en gestion de la mobilité urbaine. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Consultant en gestion de la mobilité urbaine demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

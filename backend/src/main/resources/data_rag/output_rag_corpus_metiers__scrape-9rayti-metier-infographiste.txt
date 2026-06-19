@@ -1,0 +1,10 @@
+﻿METIER: Infographiste
+CODE: SCRAPE_9RAYTI_METIER_INFOGRAPHISTE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Mehdi, promotion 2022 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Infographiste. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."

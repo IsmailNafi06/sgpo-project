@@ -1,0 +1,97 @@
+METIER: Technicien en impression 3D
+CODE: TECHNICIEN_EN_IMPRESSION_3D
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Technicien en impression 3D Technicien en impression 3D est un métier essentiel dans le domaine de la fabrication et de la conception. En tant que professionnel, votre rôle principal consiste à opérer et à entretenir les machines d'impression 3D pour créer des objets et des prototypes tridimensionnels à partir de modèles numériques. Vous serez responsable de la préparation des fichiers d'impression, du calibrage de l'équipement, du choix des matériaux adaptés et de la surveillance du processus d'impression pour assurer des résultats de haute qualité. Votre expertise technique en modélisation 3D et en programmation vous permettra de résoudre les problèmes techniques et d'optimiser les paramètres d'impression. En tant que technicien en impression 3D, la précision, la créativité et la capacité à résoudre les défis techniques seront des qualités essentielles pour contribuer au développement de produits novateurs et de projets de pointe. Une f
+
+FORMATIONS QUI MENENT AU METIER
+1. Passerelle sectorielle vers Technicien en impression 3D
+2. Licence Arts et Culture
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Passerelle sectorielle vers Technicien en impression 3D
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Technicien en impression 3D. Cette filiere ouvre un debouche direct vers le metier Technicien en impression 3D. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Technicien en impression 3D. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Concepteur de produits durables (score_chemin_commun=1)
+- Logisticien (score_chemin_commun=1)
+- Agent de routage (score_chemin_commun=1)
+- Marinier/Batelier (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Préparateur de commande (score_chemin_commun=1)
+- Scripte (score_chemin_commun=1)
+- Le directeur de postproduction (score_chemin_commun=1)
+- Assistant caméra (score_chemin_commun=1)
+- Machino (score_chemin_commun=1)
+- Mixeur (score_chemin_commun=1)
+- Technicien du son (score_chemin_commun=1)
+- Consultant scénario (score_chemin_commun=1)
+- Potier(ère) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+
+PHRASES CLES
+- Technicien en impression 3D
+- secteur Métiers de la production et l’industrialisation
+- filiere Passerelle sectorielle vers Technicien en impression 3D
+- filiere Licence Arts et Culture
+- impression
+- technicien
+- tant
+- votre
+- resoudre
+- techniques
+- essentiel
+- domaine
+- fabrication
+- conception
+- professionnel
+- role
+- principal
+- consiste
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Technicien en impression 3D
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Technicien en impression 3D, Licence Arts et Culture, j'ai choisi le metier de Technicien en impression 3D. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Technicien en impression 3D
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien en impression 3D, la progression a ete plus rapide quand j'ai renforce Technicien en impression 3D. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Technicien en impression 3D
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien en impression 3D demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

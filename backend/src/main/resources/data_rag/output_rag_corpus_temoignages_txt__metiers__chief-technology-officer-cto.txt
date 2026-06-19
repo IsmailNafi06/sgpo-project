@@ -1,0 +1,9 @@
+METIER: Chief Technology Officer (CTO)
+CODE: CTO
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Management des Systèmes d'Information, j'ai choisi le metier de Chief Technology Officer (CTO). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chief Technology Officer (CTO), la progression a ete plus rapide quand j'ai renforce Chief Technology Officer (CTO). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chief Technology Officer (CTO) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

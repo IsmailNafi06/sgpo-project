@@ -1,0 +1,69 @@
+METIER: Ingénieur CVC
+CODE: INGENIEUR_CVC
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Ingénieur CVC L’ingénieur CVC (chauffage, ventilation, climatisation) ou HVAC (heating, ventilation and air-conditioning) gère le bon fonctionnement du matériel de chauffage, ventilation et climatisation de bâtiments. De la conception à la maintenance en passant par l’installation, il réalise des études techniques de faisabilité et conçoit un projet qui prend en compte la maîtrise des consommations énergétiques dans le respect des réglementations, des normes de sécurité, des contraintes environnementales et budgétaires. Bac + 5 Niveau d'études 8.000 MAD Rémunération 3 ans Expérience Missions principales Conception technique de projets et essais Étudier les besoins du client, les données économiques, techniques et déterminer le projet. Réaliser des diagnostics via des études techniques en CVC. Concevoir un projet de lots CVC: plomberie, chauffage, ventilation, climatisation et électricité en collaboration avec l’architecte du projet (faisabilité, dimen
+
+PHRASES CLES
+- Ingénieur CVC
+- secteur Métiers de la production et l’industrialisation
+- filiere Passerelle sectorielle vers Ingénieur CVC
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- ventilation
+- projet
+- chauffage
+- climatisation
+- etudes
+- techniques
+- conception
+- faisabilite
+- ingenieur
+- lingenieur
+- hvac
+- heating
+- conditioning
+- gere
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Passerelle sectorielle vers Ingénieur CVC
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Ingénieur CVC. Cette filiere ouvre un debouche direct vers le metier Ingénieur CVC. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Ingénieur CVC. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Technicien de maintenance d’éoliennes (score chemin commun=1)
+- Spécialiste de la conservation de l’eau (score chemin commun=1)
+- Expert en chauffage solaire (score chemin commun=1)
+- Ingénieur en conception de systèmes énergétiques durables (score chemin commun=1)
+- Technicien en traitement de l’eau pour l’électrolyse de l’hydrogène (score chemin commun=1)
+- Expert en évaluation de l’empreinte carbone de l’hydrogène vert (score chemin commun=1)
+- Technicien en maintenance des systèmes de distribution d’hydrogène (score chemin commun=1)
+- Gestionnaire de projet pour la construction d’usines de production d’hydrogène (score chemin commun=1)
+- Ingénieur en conception de systèmes de stockage d’hydrogène solide (score chemin commun=1)
+- Responsable des opérations de production d’hydrogène vert (score chemin commun=1)
+- Ingénieur en conversion d’énergie pour les piles à combustible (score chemin commun=1)
+- Technicien en maintenance des piles à combustible (score chemin commun=1)
+- Architecte de systèmes de production d’hydrogène vert (score chemin commun=1)
+- Ingénieur en systèmes de stockage d’hydrogène comprimé (score chemin commun=1)
+- Technicien en électrolyse alcaline (score chemin commun=1)
+- Technicien supérieur de l’aviation (score chemin commun=1)
+- Technicien plasturgiste (score chemin commun=1)
+- Électro (score chemin commun=1)
+- Eco-concepteur de produits plastiques et composites (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Ingénieur CVC, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Ingénieur CVC. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur CVC, la progression a ete plus rapide quand j'ai renforce Ingénieur CVC. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur CVC demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

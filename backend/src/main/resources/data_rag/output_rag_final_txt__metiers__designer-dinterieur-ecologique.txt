@@ -1,0 +1,74 @@
+METIER: Designer d’intérieur écologique
+CODE: DESIGNER_DINTERIEUR_ECOLOGIQUE
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Designer d’intérieur écologique Le designer d'intérieur écologique allie la créativité artistique à la conscience environnementale. Ce professionnel planifie, conçoit et aménage des espaces intérieurs en utilisant des matériaux durables et respectueux de l'environnement. Il intègre des solutions éco-responsables dans la conception d'espaces esthétiques et fonctionnels, en mettant l'accent sur l'efficacité énergétique, la gestion des déchets et l'utilisation de ressources renouvelables. Les Designer d'intérieur écologiques collaborent étroitement avec leurs clients pour comprendre leurs besoins et leurs préférences, tout en intégrant des éléments tels que l'éclairage naturel, la ventilation et l'isolation thermique. Ils maîtrisent les concepts de développement durable, la sélection de matériaux recyclables et la réduction de l'empreinte carbone. Les compétences essentielles comprennent la créativité, la sensibilité au design, la maîtri
+
+FORMATIONS QUI MENENT AU METIER
+1. DUT Genie Civil - EST Casablanca
+2. Ingénieur en NTIC – Énergies renouvelables
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Designer d’intérieur écologique. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Designer d’intérieur écologique. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Architecte en conception bioclimatique (score_chemin_commun=2)
+- Expert en architecture bioclimatique urbaine (score_chemin_commun=2)
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Gestionnaire de projets urbains intelligents (score_chemin_commun=1)
+- Designer d’Éclairage Intelligent (score_chemin_commun=1)
+- Designer de mobilier durable (score_chemin_commun=1)
+- Chef de projet en construction durable (score_chemin_commun=1)
+- Agronome urbain (score_chemin_commun=1)
+- Planificateur de transport en commun (score_chemin_commun=1)
+- Designer d’espaces verts urbains (score_chemin_commun=1)
+- Planificateur de quartiers résilients (score_chemin_commun=1)
+- Concepteur de parcours piétonniers (score_chemin_commun=1)
+- Analyste en transport et mobilité urbaine (score_chemin_commun=1)
+- Expert en maintenance prédictive des infrastructures de transport (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Manager d’exploitation ferroviaire (score_chemin_commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score_chemin_commun=1)
+- Ingénieur structure bois (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+- Technicien de maintenance d’éoliennes (score_chemin_commun=1)
+
+PHRASES CLES
+- Designer d’intérieur écologique
+- secteur Métiers des BTP et Construction
+- filiere DUT Genie Civil - EST Casablanca
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- designer
+- ecologique
+- interieur
+- creativite
+- espaces
+- materiaux
+- dinterieur
+- allie
+- artistique
+- conscience
+- environnementale
+- professionnel
+- planifie
+- concoit
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Designer d’intérieur écologique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Designer d’intérieur écologique, la progression a ete plus rapide quand j'ai renforce Designer d’intérieur écologique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Designer d’intérieur écologique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

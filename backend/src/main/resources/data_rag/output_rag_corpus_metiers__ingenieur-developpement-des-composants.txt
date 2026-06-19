@@ -1,0 +1,43 @@
+METIER: Ingénieur développement des composants
+CODE: INGENIEUR_DEVELOPPEMENT_DES_COMPOSANTS
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Ingénieur développement des composants L’ingénieur développement de composants configure des équipements électroniques (sous la forme de cartes électroniques) destinés à être embarqués sur des robots, des fusées, des voitures… pour leur apporter des fonctionnalités spécifiques (enregistrement, indicateur de bord, système de contrôle-commande…). Il définit et conçoit l’architecture de la carte et développe ou sélectionne les puces qui la composent. Bac + 5 Niveau d'études 8.000 MAD Rémunération 3 ans Expérience Missions principales Conception des composants électroniques Traduire un besoin en fonctionnalités et performances. Définir l’architecture de la carte électronique (circuit électronique, soit un ensemble de composants électroniques interconnectés souvent à l’aide d’un circuit imprimé, aussi appelé PCB [Printed Circuit Board]): ses différents composants et la manière dont ils interagiront. Concevoir le schéma électronique
+
+PHRASES CLES
+- Ingénieur développement des composants
+- secteur Métiers de la production et l’industrialisation
+- filiere Ingénieur en Agro-Industrie – Territoires et Développement Rural
+- composants
+- electroniques
+- electronique
+- circuit
+- developpement
+- fonctionnalites
+- larchitecture
+- carte
+- ingenieur
+- lingenieur
+- configure
+- equipements
+- sous
+- forme
+- cartes
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en Agro-Industrie – Territoires et Développement Rural
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquées Marrakech, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en Agro-Industrie – Territoires et Développement Rural. Cette filiere ouvre un debouche direct vers le metier Ingénieur développement des composants. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquées Marrakech, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en Agro-Industrie – Territoires et Développement Rural, j'ai choisi le metier de Ingénieur développement des composants. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur développement des composants, la progression a ete plus rapide quand j'ai renforce Ingénieur développement des composants. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur développement des composants demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

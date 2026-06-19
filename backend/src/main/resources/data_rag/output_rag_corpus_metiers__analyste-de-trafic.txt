@@ -1,0 +1,35 @@
+METIER: Analyste de trafic
+CODE: ANALYSTE_DE_TRAFIC
+SECTEUR: Marketing digital
+
+DESCRIPTION
+Metier digital axe analyse de trafic et performance web.
+
+PHRASES CLES
+- Analyste de trafic
+- secteur Marketing digital
+- filiere Passerelle sectorielle vers Analyste de trafic
+- digital
+- analyse
+- trafic
+- performance
+- digital analyse
+- analyse trafic
+- trafic performance
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Passerelle sectorielle vers Analyste de trafic
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Analyste de trafic. Cette filiere ouvre un debouche direct vers le metier Analyste de trafic. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Analyste de trafic, j'ai choisi le metier de Analyste de trafic. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste de trafic, la progression a ete plus rapide quand j'ai renforce Analyste de trafic. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste de trafic demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

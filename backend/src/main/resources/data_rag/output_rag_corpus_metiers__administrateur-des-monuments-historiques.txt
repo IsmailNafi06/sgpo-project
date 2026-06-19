@@ -1,0 +1,67 @@
+METIER: Administrateur des monuments historiques
+CODE: ADMINISTRATEUR_DES_MONUMENTS_HISTORIQUES
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Administrateur des monuments historiques L’administrateur de monuments historiques a pour mission la promotion de proximité, mais aussi l’animation culturelle de tous les monuments dont il a la charge. Il a besoin de développer plusieurs compétences car il est appelé à réaliser différentes missions dont la veille à la conservation, la valorisation, l’animation et la promotion des monuments historiques. Donc, il engage donc toutes les actions à entreprendre pour atteindre ces objectifs. En addition à ceci, il encadre le personnel avec qui il collabore au quotidien. Il coordonne les actions de rayonnement des monuments, ainsi que d’entretien des bâtiments. Il travaille, parfois, en étroite collaboration avec les architectes des bâtiments de France, lesquels sont chargés du suivi et de la réalisation des travaux de restauration et de conservation. Et parfois encore, il agit avec l’accord du conservateur régional pour diriger ces
+
+PHRASES CLES
+- Administrateur des monuments historiques
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- monuments
+- historiques
+- promotion
+- lanimation
+- dont
+- conservation
+- donc
+- actions
+- batiments
+- parfois
+- administrateur
+- ladministrateur
+- mission
+- proximite
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Administrateur des monuments historiques. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Administrateur des monuments historiques. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Consultant en voyages éthiques (score chemin commun=2)
+- Accompagnateur de montagne (score chemin commun=2)
+- Cuisiniste (score chemin commun=2)
+- Majordome (score chemin commun=2)
+- Équipier en restaurant rapide (score chemin commun=2)
+- Veilleur de nuit (score chemin commun=2)
+- Concierge d’hôtel (score chemin commun=2)
+- Sommelier (score chemin commun=2)
+- Plongeur (score chemin commun=2)
+- Lingère (score chemin commun=2)
+- Gouvernante (score chemin commun=2)
+- Organisateur de conférence (score chemin commun=1)
+- Pizzaïolo (score chemin commun=1)
+- Directeur Restauration rapide (score chemin commun=1)
+- Commis de cuisine (score chemin commun=1)
+- Responsable conférences et banquets (score chemin commun=1)
+- Agent thermal (score chemin commun=1)
+- Acheteur dans la mode (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Administrateur des monuments historiques. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Administrateur des monuments historiques, la progression a ete plus rapide quand j'ai renforce Administrateur des monuments historiques. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Administrateur des monuments historiques demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,73 @@
+METIER: Comptable
+CODE: COMPTABLE
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Comptable Le comptable enregistre les dépenses, les rendements et les investissements de l’entreprise. Il est également chargé de la préparation des livres comptables et du suivi des opérations bancaires ainsi que de la préparation des données sur les résultats des activités et des comptes qui sont des documents importants pour le service fiscal. Le rôle du comptable junior se reflète dans l’enregistrement des dépenses et des revenus de l’entreprise, qui consistent principalement en factures aux fournisseurs, impôts, salaires des employés, paiements à l’entreprise...). Dans un bureau comptable, le comptable devient en relation directe avec l’entreprise le client qui gère les opérations comptables ou seulement une partie. Les grandes entreprises ont habituellement un département spécial de comptabilité et invitent rarement une compagnie particulière de services comptables. Bac + 5 Niveau d'études 4.000 MAD Rémunération 3 ans Expérience Missions principales
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Economie et Gestion - Option Comptabilite (Casablanca)
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Economie et Gestion - Option Comptabilite (Casablanca)
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Aïn Chock Casablanca
+- Indicateurs: taux_reussite=83.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Economie et Gestion - Option Comptabilite (Casablanca). Cette filiere ouvre un debouche direct vers le metier Comptable. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Aïn Chock Casablanca. Indicateurs du parcours: taux de reussite estime: 83.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Comptable
+- secteur Métiers de la comptabilité, audit et finance
+- filiere Licence en Economie et Gestion - Option Comptabilite (Casablanca)
+- lentreprise
+- comptables
+- depenses
+- preparation
+- operations
+- enregistre
+- rendements
+- investissements
+- egalement
+- charge
+- livres
+- suivi
+- bancaires
+- donnees
+- resultats
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Comptable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Economie et Gestion - Option Comptabilite (Casablanca), j'ai choisi le metier de Comptable. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Comptable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Comptable, la progression a ete plus rapide quand j'ai renforce Comptable. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Comptable
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Comptable demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

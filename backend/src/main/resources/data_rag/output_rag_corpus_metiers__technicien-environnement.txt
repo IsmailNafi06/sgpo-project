@@ -1,0 +1,10 @@
+﻿METIER: Technicien environnement
+CODE: TECHNICIEN_ENVIRONNEMENT
+SECTEUR: Environnement et energies
+
+FORMATIONS QUI Y MENENT
+- Licence Environnement Energies et Mines - FST Marrakech
+
+TEMOIGNAGE
+Soufiane, promotion 2024 :
+"Après un master en sciences de l'environnement, j'exerce comme Technicien environnement dans un bureau d'études spécialisé. La réglementation environnementale se renforce au Maroc, créant une forte demande pour ces profils."

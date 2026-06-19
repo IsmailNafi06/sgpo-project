@@ -1,0 +1,212 @@
+﻿METIER: Administrateur systemes et reseaux
+CODE: ADMINISTRATEUR_SYSTEMES_RESEAUX
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Architecture et Securite des Systemes et Reseaux Informatiques - ISGA El Jadida
+- Architecture et Securite des Systemes et Reseaux Informatiques - ISGA Settat
+- Automatique Industrielle et Controle Qualite - ISGA El Jadida
+- Automatique industrielle et controle qualite - ISGA Settat
+- Bac + 5 Hautes Technologies et Design de l'Innovation - ISEN Fes
+- Bac + 5 Systemes d'Information, Reseaux et Multimedia - ISEN Fes
+- Bac + 5 Technologies numeriques et leurs applications - ISEN Fes
+- Bac+5 Mastere ISD - ESISA Fes
+- Bac+5 Mastere ISI - ESISA Fes
+- Bachelor en Informatique et Reseaux - IMBT Rabat
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Casablanca
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Fes
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Marrakech
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Rabat
+- BTS Systemes Numeriques option Informatique et Reseaux - ENSET Mohammedia
+- Controle de Gestion et Nouveaux Systemes Technologiques - HEEC Marrakech
+- DESA en Reseaux Informatiques, Telecoms et Multimedia (RITM) - ENSIAS Rabat
+- DESA en Systemes de Telecommunications - FS Tetouan
+- DESA en Telecommunication et Reseaux - FST Gueliz Marrakech
+- DESA en Telecommunications spatiales - EMI Rabat
+- Developpement Informatique - IMBT Rabat
+- DUT en Administration Systeme et Reseaux - EST Fes
+- DUT en Genie Informatique - EST Agadir
+- DUT en Genie Informatique - EST Laayoune
+- DUT en Informatique - EST Guelmim
+- DUT en Informatique, Systemes et Reseaux - EST Meknes
+- DUT en Reseaux et Telecommunications - EST Fes
+- DUT en Technicien de reseau (Offshoring) - EST Oujda
+- Filiere Genie Informatique - ESMA Marrakech
+- Genie Informatique
+- Genie Informatique Ecole Polytechnique Agadir
+- Ingenierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2
+- Ingenierie Automatismes et Informatique Industrielle EMSI Casablanca Les Orangers
+- Ingenierie Automatismes et Informatique Industrielle EMSI Casablanca Moulay Youssef
+- Ingenierie Automatismes et Informatique Industrielle EMSI Casablanca Roudani
+- Ingenierie Automatismes et Informatique Industrielle EMSI Fes
+- Ingenierie Automatismes et Informatique Industrielle EMSI Maarif
+- Ingenierie Automatismes et Informatique Industrielle EMSI Marrakech Gueliz
+- Ingenierie Automatismes et Informatique Industrielle EMSI Rabat Agdal 1
+- Ingenierie Automatismes et Informatique Industrielle EMSI Rabat Agdal 2
+- Ingenierie Automatismes et Informatique Industrielle EMSI Rabat Bouregreg
+- Ingenierie Automatismes et Informatique Industrielle EMSI Rabat Centre
+- Ingenierie Automatismes et Informatique Industrielle EMSI Rabat Centre d'orientation
+- Ingenierie Automatismes et Informatique Industrielle EMSI Rabat Hassan
+- Ingenierie Automatismes et Informatique Industrielle EMSI Rabat Souissi
+- Ingenierie Automatismes et Informatique Industrielle EMSI Tanger
+- Ingenierie des logiciels et Traitements d'images - IGA 2 mars
+- Ingenierie des logiciels et Traitements d'Images - IGA Belvedere
+- Ingenierie des logiciels et Traitements d'Images - IGA Maarif
+- Ingenierie des Reseaux Informatiques et Securite - IGA 2 Mars
+- Ingenierie des Reseaux Informatiques et Securite - IGA Belvedere
+- Ingenierie des Reseaux Informatiques et Securite - IGA Maarif
+- Ingenierie des Systemes Electroniques - IGA 2 mars
+- Ingenierie des Systemes Electroniques - IGA Belvedere
+- Ingenierie des Systemes Electroniques - IGA Maarif
+- Ingenierie des Systemes Informatiques - IGA 2 Mars
+- Ingenierie des Systemes Informatiques - IGA Belvedere
+- Ingenierie des Systemes Informatiques - IGA Maarif
+- Ingenierie informatique
+- Ingenierie Informatique & Reseaux
+- Ingenierie Informatique et Reseaux EMSI Casablanca Centre
+- Ingenierie informatique et reseaux EMSI Casablanca Centre 2
+- Ingenierie Informatique et Reseaux EMSI Casablanca Les Orangers
+- Ingenierie Informatique et Reseaux EMSI Casablanca Moulay Youssef
+- Ingenierie Informatique et Reseaux EMSI Casablanca Roudani
+- Ingenierie Informatique et Reseaux EMSI Fes
+- Ingenierie Informatique et Reseaux EMSI Maarif
+- Ingenierie Informatique et Reseaux EMSI Marrakech
+- Ingenierie informatique et reseaux EMSI Marrakech Gueliz
+- Ingenierie Informatique et Reseaux EMSI Rabat Agdal 1
+- Ingenierie Informatique et Reseaux EMSI Rabat Agdal 2
+- Ingenierie Informatique et Reseaux EMSI Rabat Bouregreg
+- Ingenierie Informatique et Reseaux EMSI Rabat Centre
+- Ingenierie Informatique et Reseaux EMSI Rabat Centre d'orientation
+- Ingenierie informatique et reseaux EMSI Rabat Hassan
+- Ingenierie Informatique et Reseaux EMSI Rabat Souissi
+- Ingenierie Informatique et Reseaux EMSI Tanger
+- Ingenierie logicielle et Developpement Web - ISGA El Jadida
+- Ingenierie logicielle et Developpement Web - ISGA Settat
+- Ingenierie Reseaux et Telecommunications - ENSA Agadir
+- Ingenierie Reseaux et Telecommunications - ENSA Al Hoceima
+- Ingenierie Reseaux et Telecommunications - ENSA Beni Mellal
+- Ingenierie Reseaux et Telecommunications - ENSA Berrechid
+- Ingenierie Reseaux et Telecommunications - ENSA El Jadida
+- Ingenierie Reseaux et Telecommunications - ENSA Fes
+- Ingenierie Reseaux et Telecommunications - ENSA Kenitra
+- Ingenierie Reseaux et Telecommunications - ENSA Khouribga
+- Ingenierie Reseaux et Telecommunications - ENSA Marrakech
+- Ingenierie Reseaux et Telecommunications - ENSA Oujda
+- Ingenierie Reseaux et Telecommunications - ENSA Safi
+- Ingenierie Reseaux et Telecommunications - ENSA Tanger
+- Ingenierie Reseaux et Telecommunications - ENSA Tetouan
+- Ingenierie Telecommunications et Reseaux - ENSIAS Rabat
+- Ingenierie Telecoms, Reseaux et Systemes Embarques - IGA 2 Mars
+- Ingenierie Telecoms, Reseaux et Systemes Embarques - IGA Belvedere
+- Ingenierie Telecoms, Reseaux et Systemes Embarques - IGA Maarif
+- Ingenieur en Genie des Systemes de Telecommunications & Reseaux - ENSA Tanger
+- Ingenieur en Genie Electrique et Telecommunications - ENSEM Casablanca
+- Ingenieur en Genie Informatique - ENSA Safi - ENSA Safi
+- Ingenieur en Genie Reseaux et Telecommunications - ENSA Fes
+- Ingenieur en Genie Reseaux et Telecommunications - ENSA Marrakech
+- Ingenieur en Genie Reseaux et Telecommunications - ENSA Oujda
+- Ingenieur en Genie Reseaux et telecommunications - ENSA Safi
+- Ingenieur en NTIC - Informatique, Systeme d'information
+- Ingenieur en NTIC - Reseaux & Telecoms
+- Ingenieur en Reseaux - EMI Rabat
+- Ingenieur en Reseaux et Communications - ENSIAS Rabat
+- Ingenieur en Systemes Electroniques et Telecommunications - EMI Rabat
+- Ingenieur en Systemes Electroniques et Telecommunications - FST Fes Sais
+- Ingenieur en Systemes Electroniques et Telecommunications - FST Gueliz Marrakech
+- Ingenieur Genie Informatique - ENSA Agadir
+- Ingenieur Genie Informatique - ENSA Al Hoceima
+- Ingenieur Genie Informatique - ENSA Fes
+- Ingenieur Genie Informatique - ENSA Marrakech
+- Ingenieur Genie Informatique - ENSA Tanger
+- LICENCE : ADMINISTRATEUR SYSTEMES ET RESEAUX
+- LICENCE : CONCEPTEUR-DEVELOPPEUR DES APPLICATIONS WEB ET MOBILES
+- LICENCE : IT PROJECT MANAGER
+- Licence d'Etudes Professionnelle en Electronique electrotechnique Automatique et Reseaux (EEAR) - FP Khouribga
+- Licence d'Etudes Professionnelle en Electronique electrotechnique Automatique et Reseaux (EEAR) - FS Casablanca
+- Licence d'Etudes Professionnelle en Genie Informatique et Reseaux - ENSAM Meknes
+- Licence d'Etudes Professionnelle en Genie Informatique et Reseaux - FS Meknes
+- Licence d'Etudes Professionnelle en Systemes, Base de Donnees et Reseaux - FS Casablanca
+- Licence d'Etudes Professionnelle en Technicien de Reseau - FST Gueliz Marrakech
+- Licence en Informatique Appliquee
+- Licence Informatique
+- Licence Informatique - Faculte des Sciences Agadir
+- Licence Informatique - Faculte des Sciences Casablanca
+- Licence Informatique - Faculte des Sciences Fes
+- Licence Informatique - Faculte des Sciences Meknes
+- Licence Informatique - Faculte des Sciences Oujda
+- Licence Informatique - Faculte des Sciences Rabat
+- Licence Informatique - Faculte des Sciences Semlalia Marrakech
+- Licence Informatique - Faculte des Sciences Tetouan
+- Licence ISIDIS (Ingenierie des Systemes Informatiques Distribues) - SUPTECHNOLOGY Casablanca
+- Licence ISIDIS (Ingenierie des Systemes Informatiques Distribues) - SUPTECHNOLOGY El Jadida
+- Licence MIAGE - IGA 2 Mars
+- Licence Pro DII (Developpement Internet / Intranet) - SUPTECHNOLOGY Casablanca
+- Licence Pro DII (Developpement Internet / Intranet) - SUPTECHNOLOGY El Jadida
+- Licence Pro INTR (Ingenierie des Nouveaux Technologies Reseaux) - SUPTECHNOLOGY Casablanca
+- Licence Pro INTR (Ingenierie des Nouveaux Technologies Reseaux) - SUPTECHNOLOGY El Jadida
+- Licence professionnelle en Informatique - IGA 2 mars
+- Licence Professionnelle en Informatique - IGA Belvedere
+- Licence professionnelle en Informatique decisionnelle et Statistiques - EST Guelmim
+- Licence Professionnelle en Informatique Developpement WEB - IGA Maarif
+- Licence professionnelle en informatique et telecommunication - ISEN Fes
+- Licence Professionnelle en Securite des Reseaux et Systemes Informatiques - IGA Belvedere
+- Licence Professionnelle en Securite des Reseaux et Systemes Informatiques - IGA Maarif
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Al Hoceima
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Beni Mellal
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Errachidia
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Fes
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Marrakech
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Settat
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Tanger
+- Licence Sciences et Techniques Genie Informatique - FST Mohammedia
+- Licences en Electronique, Telecommunication & Informatique - FST Fes Sais
+- Maitrise en Telecommunications - FST Gueliz Marrakech
+- Master en Electronique et Telecommunications - FS Tetouan
+- Master en Genie Electrique et Informatique Industrielle - GEII - IGA 2 Mars
+- Master en Genie Electrique et Informatique Industrielle - GEII - IGA Belvedere
+- Master en Genie Electrique et Informatique Industrielle - GEII - IGA Maarif
+- Master en Gestion des Technologies et des systemes d'information - MATCI
+- Master en Informatique Option : Services, Securite, Reseaux - SSR - IGA 2 Mars
+- Master en Informatique Option : Services, Securite, Reseaux - SSR - IGA Belvedere
+- Master en Informatique Option : Services, Securite, Reseaux - SSR - IGA Maarif
+- Master en Informatique Telecommunications - FS Rabat
+- Master en Informatique Telecommunications et Imagerie (ITI, Sciences de l ingenieur) - FS Rabat
+- Master en Methodes Informatique Appliquees a la Gestion des Entreprises - IGA 2 Mars
+- Master en Methodes Informatique Appliquees a la Gestion des Entreprises - IGA Belvedere
+- Master en Reseaux et systemes - FST Settat
+- Master en Sciences et Techniques en Genie Informatique - Systemes et Reseaux - FST Tanger
+- Master en Sciences et Techniques en Reseaux et Systemes - FST Tanger
+- Master en Sciences et Techniques en Systeme Informatique et Reseaux - FST Tanger
+- Master en Systemes Informatiques et Reseaux (SIR) - IGA 2 mars
+- Master en Systemes Informatiques et Reseaux (SIR) - IGA Belvedere
+- Master en Systemes Microelectroniques de Telecommunication et de l'Information Industrielle - FST Fes Sais
+- Master Europeen en Informatique - IMBT Rabat
+- Master Informatique Appliquee a la Gestion ISIAM
+- Master INTR (Ingenierie des Nouveaux Technologies Reseaux) - SUPTECHNOLOGY Casablanca
+- Master INTR (Ingenierie des Nouveaux Technologies Reseaux) - SUPTECHNOLOGY El Jadida
+- Master ISIDIS (Ingenierie des Systemes Informatiques Distribues) - SUPTECHNOLOGY Casablanca
+- Master ISIDIS (Ingenierie des Systemes Informatiques Distribues) - SUPTECHNOLOGY El Jadida
+- Master Sciences et Techniques Reseaux et Systemes - Faculte des Sciences et Techniques Al Hoceima
+- Master Sciences et Techniques Reseaux et Systemes - Faculte des Sciences et Techniques Beni Mellal
+- Master Sciences et Techniques Reseaux et Systemes - Faculte des Sciences et Techniques Errachidia
+- Master Sciences et Techniques Reseaux et Systemes - Faculte des Sciences et Techniques Marrakech
+- Master Sciences et Techniques Reseaux et Systemes - Faculte des Sciences et Techniques Mohammedia
+- Master Sciences et Techniques Reseaux et Systemes - Faculte des Sciences et Techniques Settat
+- Master Sciences et Techniques Reseaux et Systemes - Faculte des Sciences et Techniques Tanger
+- Master Sciences et Techniques Reseaux et Systemes - FST Fes
+- Master Specialise en Reseaux et Systemes - FSA Agadir
+- Master Specialise en Reseaux Informatiques, Telecoms et Multimedia (MS-RITM) - ENSIAS Rabat
+- Mastere : CHEF DE PROJET INGENIERIE LOGICIELLE
+- Mastere : CHEF DE PROJET RESEAUX ET SECURITE
+- Mastere : IT PROJECT MANAGER
+- Mastere : RESPONSABLE SYSTEME D'INFORMATION
+- Programme Bac+4 - ESISA Fes
+- Systeme d'Information et Genie Financier - IGA 2 mars
+- Systeme d'Information et Genie Financier - IGA Belvedere
+- Systeme d'Information et Genie Financier - IGA Maarif
+- Systemes Informatiques d'Aide a la Decision - ISGA El Jadida
+- Systemes Informatiques d'Aide a la Decision - ISGA Settat
+
+TEMOIGNAGE
+Houda, promotion 2022 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Administrateur systemes et reseaux. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."

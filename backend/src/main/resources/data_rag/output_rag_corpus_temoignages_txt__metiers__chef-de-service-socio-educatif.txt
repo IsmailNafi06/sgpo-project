@@ -1,0 +1,9 @@
+METIER: Chef de service socio-éducatif
+CODE: CHEF_DE_SERVICE_SOCIO_EDUCATIF
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Chef de service socio-éducatif. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chef de service socio-éducatif, la progression a ete plus rapide quand j'ai renforce Chef de service socio-éducatif. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chef de service socio-éducatif demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

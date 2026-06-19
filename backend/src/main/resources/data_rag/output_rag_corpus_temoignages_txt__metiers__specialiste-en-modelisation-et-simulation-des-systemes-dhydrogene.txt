@@ -1,0 +1,9 @@
+METIER: Spécialiste en modélisation et simulation des systèmes d’hydrogène
+CODE: SPECIALISTE_EN_MODELISATION_ET_SIMULATION_DES_SYST
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en MBA Management de la Cybersécurité et Gouvernance des Systèmes d’Information (MaCYB), Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Spécialiste en modélisation et simulation des systèmes d’hydrogène. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Spécialiste en modélisation et simulation des systèmes d’hydrogène, la progression a ete plus rapide quand j'ai renforce Spécialiste en modélisation et simulation des systèmes d’hydrogène. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Spécialiste en modélisation et simulation des systèmes d’hydrogène demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

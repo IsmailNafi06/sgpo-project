@@ -1,0 +1,9 @@
+METIER: Designer de mobilier durable
+CODE: DESIGNER_DE_MOBILIER_DURABLE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Designer de mobilier durable. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Designer de mobilier durable, la progression a ete plus rapide quand j'ai renforce Designer de mobilier durable. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Designer de mobilier durable demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

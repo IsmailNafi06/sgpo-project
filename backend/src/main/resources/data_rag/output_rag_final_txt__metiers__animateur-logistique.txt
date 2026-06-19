@@ -1,0 +1,53 @@
+METIER: Animateur logistique
+CODE: ANIMATEUR_LOGISTIQUE
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Animateur logistique L’animateur logistique assure l’organisation des flux de matières premières et l’exploitation des flux d’informations. Il contribue fortement à l’amélioration continue de l’organisation et l’exploitation des flux de l’entreprise. Il est chargé de l'organisation de l'arrivée et du départ des marchandises de l'entreprise. Selon les cas, son rôle peut se cantonner à l'amont, c'est-à-dire l'approvisionnement en matières premières, ou à l'aval de la production c'est-à-dire l'expédition des produits finis aux distributeurs. Dans une petite société, il devra gérer les deux aspects soit l'ensemble du flux des marchandises, depuis l'arrivée dans l'entreprise jusqu'à l'acheminement chez les clients. L’animateur logistique a sous sa responsabilité une équipe de magasiniers ou d'agents logistiques. Il organise leur temps de travail en fonction des commandes. Il met en place les outils et les méthodes de travail nécessaires au bon foncti
+
+FORMATIONS QUI MENENT AU METIER
+1. Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM. Cette filiere ouvre un debouche direct vers le metier Animateur logistique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de la logistique e-commerce (score_chemin_commun=1)
+- Chargé d’affaires bancaires en commerce international (score_chemin_commun=1)
+- Consultant en optimisation de la chaîne logistique (score_chemin_commun=1)
+- Coordinateur Logistique (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Conseiller clientèle (score_chemin_commun=1)
+- Agent service client (score_chemin_commun=1)
+
+PHRASES CLES
+- Animateur logistique
+- secteur Métiers achats et approvisionnement
+- filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- flux
+- logistique
+- lanimateur
+- lorganisation
+- matieres
+- premieres
+- lexploitation
+- arrivee
+- marchandises
+- entreprise
+- dire
+- travail
+- animateur
+- assure
+- dinformations
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM, j'ai choisi le metier de Animateur logistique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Animateur logistique, la progression a ete plus rapide quand j'ai renforce Animateur logistique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Animateur logistique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

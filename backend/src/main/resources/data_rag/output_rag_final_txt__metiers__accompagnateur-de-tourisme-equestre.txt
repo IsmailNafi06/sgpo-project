@@ -1,0 +1,47 @@
+METIER: Accompagnateur de tourisme équestre
+CODE: ACCOMPAGNATEUR_DE_TOURISME_EQUESTRE
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Accompagnateur de tourisme équestre L'accompagnateur de tourisme équestre organise et encadre des randonnées à cheval pour des groupes d'adultes ou d'enfants. Il est également responsable de la préparation des chevaux, du repérage du parcours et de la sécurité des cavaliers. Chaque jour, l'accompagnateur de tourisme équestre commence d'abord son travail par une visite aux écuries: il nettoie les box, nourrit les chevaux et les brosse. Il consulte ensuite son planning de promenades pour préparer les chevaux, installer leurs selles et leurs harnachements. En fonction du niveau des cavaliers, et de la durée de la randonnée, l'animateur de tourisme équestre définit un parcours de promenade et repère l'itinéraire s'il ne lui est pas familier. Tout au long de la balade, il encadre le groupe, veille à sa sécurité et parle des caractéristiques des sites traversés. A la fin de la promenade, il soigne enfin, les animaux dans leur box. Nive
+
+FORMATIONS QUI MENENT AU METIER
+1. Bachelor BAC+4 en Management en Tourisme International - OSTELEA Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bachelor BAC+4 en Management en Tourisme International - OSTELEA Rabat
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Superieure de Technologie de Casablanca, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=72.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bachelor BAC+4 en Management en Tourisme International - OSTELEA Rabat. Cette filiere ouvre un debouche direct vers le metier Accompagnateur de tourisme équestre. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Superieure de Technologie de Casablanca, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 72.4%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Accompagnateur de tourisme équestre
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Bachelor BAC+4 en Management en Tourisme International - OSTELEA Rabat
+- tourisme
+- equestre
+- accompagnateur
+- chevaux
+- encadre
+- parcours
+- securite
+- cavaliers
+- promenade
+- organise
+- randonnees
+- cheval
+- groupes
+- adultes
+- enfants
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bachelor BAC+4 en Management en Tourisme International - OSTELEA Rabat, j'ai choisi le metier de Accompagnateur de tourisme équestre. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Accompagnateur de tourisme équestre, la progression a ete plus rapide quand j'ai renforce Accompagnateur de tourisme équestre. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Accompagnateur de tourisme équestre demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

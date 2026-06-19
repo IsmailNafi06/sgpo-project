@@ -1,0 +1,63 @@
+METIER: Analyste en expérience client
+CODE: ANALYSTE_EN_EXPERIENCE_CLIENT
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Analyste en expérience client L'analyste en expérience client est un professionnel spécialisé dans l'étude et l'analyse du parcours des clients au sein d'une entreprise. Son rôle principal est de collecter et d'analyser les données liées à l'expérience client pour identifier les points forts et les faiblesses de l'entreprise en matière de satisfaction client. Grâce à ses compétences en analyse de données et en gestion de projet, l'analyste en expérience client est en mesure de proposer des recommandations et des solutions pour améliorer la qualité du service et la satisfaction des clients. Il collabore étroitement avec les équipes marketing, vente et service client pour mettre en place des stratégies visant à fidéliser les clients et à accroître leur engagement avec la marque. Une excellente compréhension des besoins et des attentes des clients, ainsi que des compétences en communication et en résolution de problèmes, sont essentielles
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome ENCG en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Analyste en expérience client. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Responsable avant-vente (score_chemin_commun=1)
+- Épicier (score_chemin_commun=1)
+- Vendeur de vélo (score_chemin_commun=1)
+- Administrateur de vente (score_chemin_commun=1)
+- Responsable commercial(E) de l’environnement (score_chemin_commun=1)
+- Social seller (score_chemin_commun=1)
+- Gestionnaire de collection (score_chemin_commun=1)
+- Promoteur des ventes (score_chemin_commun=1)
+- Ingénieur support des ventes (score_chemin_commun=1)
+- Chargé d’affaires dans l’industrie (score_chemin_commun=1)
+- Coordinateur retail (score_chemin_commun=1)
+- Développeur d’enseigne (score_chemin_commun=1)
+- Designer d’interaction (score_chemin_commun=1)
+- Consultant Salesforce senior (score_chemin_commun=1)
+- Cadre commercial et technico-commercial (score_chemin_commun=1)
+- Vendeur moto (score_chemin_commun=1)
+- Concessionnaire (score_chemin_commun=1)
+
+PHRASES CLES
+- Analyste en expérience client
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- client
+- experience
+- clients
+- analyste
+- analyse
+- entreprise
+- donnees
+- satisfaction
+- competences
+- service
+- professionnel
+- specialise
+- etude
+- parcours
+- sein
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Analyste en expérience client. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste en expérience client, la progression a ete plus rapide quand j'ai renforce Analyste en expérience client. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste en expérience client demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,68 @@
+METIER: Régulateur de trafic ferroviaire
+CODE: REGULATEUR_DE_TRAFIC_FERROVIAIRE
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Régulateur de trafic ferroviaire Les yeux fixés sans relâche sur son écran, le régulateur de trafic ferroviaire suit à la seconde près l’état du trafic. Lorsqu'il travaille pour un réseau d’autobus, de métro, de tramway ou encore de RER, il veille à la régularité des horaires de transport dont il a la charge. Dans une entreprise de petite taille, le contact entre conducteur et régulateur de trafic se fait par téléphone. Par contre, dans les grosses infrastructures, il est installé au cœur d’un centre d’exploitation face à différents écrans reliés à des caméras. C’est de là qu’il surveille le trafic et le flux des voyageurs. Le régulateur de trafic ferroviaire peut rapidement prévenir les usagers en cas de perturbation et les orienter vers des moyens de transport de substitution. Bac + 2 Niveau d'études 3.000 MAD Rémunération 1 ans Expérience Missions principales Assurer la surveillance du trafic routier, ferroviaire ou maritime de ma
+
+PHRASES CLES
+- Régulateur de trafic ferroviaire
+- secteur Métiers achats et approvisionnement
+- filiere Passerelle sectorielle vers Régulateur de trafic ferroviaire
+- filiere Master IA
+- trafic
+- regulateur
+- ferroviaire
+- transport
+- yeux
+- fixes
+- sans
+- relache
+- ecran
+- suit
+- seconde
+- pres
+- letat
+- lorsqu
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Passerelle sectorielle vers Régulateur de trafic ferroviaire
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Régulateur de trafic ferroviaire. Cette filiere ouvre un debouche direct vers le metier Régulateur de trafic ferroviaire. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Régulateur de trafic ferroviaire. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Spécialiste en Surveillance Environnementale (score chemin commun=1)
+- Concepteur Web design (score chemin commun=1)
+- Expert en modélisation 3D (score chemin commun=1)
+- Expert en sécurité des données biométriques (score chemin commun=1)
+- Analyste en données géospatiales (score chemin commun=1)
+- Consultant en éthique des algorithmes (score chemin commun=1)
+- Consultant en transformation numérique des PME (score chemin commun=1)
+- Développeur de solutions e-learning (score chemin commun=1)
+- Analyste en sécurité des objets connectés (score chemin commun=1)
+- Ingénieur en réalité augmentée (score chemin commun=1)
+- médiateur numérique (score chemin commun=1)
+- Développeur de solutions blockchain (score chemin commun=1)
+- Media buyer (score chemin commun=1)
+- Cyber journaliste (score chemin commun=1)
+- Spécialiste en déploiement de bornes EV (score chemin commun=1)
+- Spécialiste en intégration de l’hydrogène dans les réseaux électriques (score chemin commun=1)
+- Data Scientist (score chemin commun=1)
+- Deep Learning Engineer (score chemin commun=1)
+- Ingenieur cybersecurite (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Régulateur de trafic ferroviaire, Master IA, j'ai choisi le metier de Régulateur de trafic ferroviaire. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Régulateur de trafic ferroviaire, la progression a ete plus rapide quand j'ai renforce Régulateur de trafic ferroviaire. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Régulateur de trafic ferroviaire demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

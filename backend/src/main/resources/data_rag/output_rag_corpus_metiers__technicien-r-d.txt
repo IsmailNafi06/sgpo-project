@@ -1,0 +1,10 @@
+﻿METIER: Technicien R&D
+CODE: TECHNICIEN_R_D
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Nadia, promotion 2023 :
+"Diplômé en génie industriel d'une école d'ingénieurs à Fès, j'ai intégré une usine de l'industrie aéronautique comme Technicien R&D. La zone franche de Casablanca et les écosystèmes industriels marocains recrutent massivement des profils techniques."

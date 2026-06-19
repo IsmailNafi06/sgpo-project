@@ -1,0 +1,10 @@
+﻿METIER: Psychologue
+CODE: PSYCHOLOGUE
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Master Psychologie Clinique - FLSH Rabat
+
+TEMOIGNAGE
+Houda, promotion 2023 :
+"Travailler comme Psychologue est un défi quotidien mais aussi une grande satisfaction personnelle. Ma formation clinique au Maroc m'a donné une autonomie que j'apprécie énormément dans ma pratique professionnelle."

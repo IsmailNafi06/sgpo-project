@@ -1,0 +1,10 @@
+﻿METIER: Metiers Diplomes Demandes Maroc
+CODE: SCRAPE_9RAYTI_METIER_METIERS_DIPLOMES_DEMANDES_MAROC
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Nabil, promotion 2023 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Metiers Diplomes Demandes Maroc dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

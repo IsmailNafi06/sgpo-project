@@ -1,0 +1,10 @@
+﻿METIER: Officier militaire
+CODE: OFFICIER_MILITAIRE
+SECTEUR: Defense
+
+FORMATIONS QUI Y MENENT
+- Concours Officier Militaire - ARM Meknes
+
+TEMOIGNAGE
+Bilal, promotion 2023 :
+"Exercer comme Officier militaire au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

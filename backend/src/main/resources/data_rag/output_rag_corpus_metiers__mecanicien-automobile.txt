@@ -1,0 +1,15 @@
+﻿METIER: Mecanicien automobile
+CODE: MECANICIEN_AUTOMOBILE
+SECTEUR: Automobile
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Diagnostic Automobile - ISTA Agadir
+- Technicien Specialise Diagnostic Automobile - ISTA Casablanca
+- Technicien Specialise Diagnostic Automobile - ISTA Fes
+- Technicien Specialise Diagnostic Automobile - ISTA Marrakech
+- Technicien Specialise Diagnostic Automobile - ISTA Rabat
+- Technicien Specialise Diagnostic Automobile - ISTA Tanger
+
+TEMOIGNAGE
+Othmane, promotion 2024 :
+"Exercer comme Mecanicien automobile au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

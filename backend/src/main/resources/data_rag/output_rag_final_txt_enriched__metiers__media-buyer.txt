@@ -1,0 +1,100 @@
+METIER: Media buyer
+CODE: MEDIA_BUYER
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Media buyer Le travail du media buyer succède à celui du responsable du plan media. Après que ce dernier ait mis en place un planning avec le choix des différents supports de publicité et leur fréquence de diffusion, c’est au tour de l’acheteur d’espaces publicitaires d’intervenir. Il se base sur toutes les informations données dans le plan media mais également sur les études médias afin d’orienter sa recherche d’achats vers les supports appropriés. Son but est avant tout de trouver le meilleur rapport qualité-prix en fonction de la durée de la campagne, du public visé et du budget initial. Pour ce faire, il doit jouer de ses facultés de négociateur, que ce soit pour le prix ou pour l’emplacement d’une annonce. Le media buyer a pour objectif de garantir une rentabilité optimale en maximisant l’impact de la campagne. Par exemple, pour la télévision, il analyse minutieusement la grille télévisuelle et définit le programme des espaces à retenir, par chaîne
+
+FORMATIONS QUI MENENT AU METIER
+1. Master IA
+2. Licence & Master en Journalisme et Média
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Media buyer. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Licence & Master en Journalisme et Média
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence & Master en Journalisme et Média. Cette filiere ouvre un debouche direct vers le metier Media buyer. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Spécialiste en Surveillance Environnementale (score_chemin_commun=1)
+- Concepteur Web design (score_chemin_commun=1)
+- Expert en modélisation 3D (score_chemin_commun=1)
+- Expert en sécurité des données biométriques (score_chemin_commun=1)
+- Analyste en données géospatiales (score_chemin_commun=1)
+- Consultant en éthique des algorithmes (score_chemin_commun=1)
+- Consultant en transformation numérique des PME (score_chemin_commun=1)
+- Développeur de solutions e-learning (score_chemin_commun=1)
+- Analyste en sécurité des objets connectés (score_chemin_commun=1)
+- Ingénieur en réalité augmentée (score_chemin_commun=1)
+- médiateur numérique (score_chemin_commun=1)
+- Développeur de solutions blockchain (score_chemin_commun=1)
+- Régulateur de trafic ferroviaire (score_chemin_commun=1)
+- Cyber journaliste (score_chemin_commun=1)
+- Spécialiste en déploiement de bornes EV (score_chemin_commun=1)
+- Spécialiste en intégration de l’hydrogène dans les réseaux électriques (score_chemin_commun=1)
+- Data Scientist (score_chemin_commun=1)
+- Deep Learning Engineer (score_chemin_commun=1)
+- Ingenieur cybersecurite (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+
+PHRASES CLES
+- Media buyer
+- secteur Métiers achats et approvisionnement
+- filiere Master IA
+- filiere Licence & Master en Journalisme et Média
+- media
+- buyer
+- plan
+- supports
+- prix
+- campagne
+- travail
+- succede
+- celui
+- responsable
+- dernier
+- place
+- planning
+- choix
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Media buyer
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master IA, Licence & Master en Journalisme et Média, j'ai choisi le metier de Media buyer. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Media buyer
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Media buyer, la progression a ete plus rapide quand j'ai renforce Media buyer. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Media buyer
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Media buyer demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

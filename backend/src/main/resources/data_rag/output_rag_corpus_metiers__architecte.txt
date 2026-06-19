@@ -1,0 +1,55 @@
+METIER: Architecte
+CODE: ARCHITECTE
+SECTEUR: Metiers de l architecture
+
+DESCRIPTION
+Conception architecturale et conduite de projets de batiment.
+
+PHRASES CLES
+- Architecte
+- secteur Metiers de l architecture
+- filiere Ingénieur en architecture d’intérieur
+- filiere Passerelle sectorielle vers Architecte
+- conception
+- architecturale
+- conduite
+- projets
+- batiment
+- conception architecturale
+- architecturale conduite
+- conduite projets
+- projets batiment
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en architecture d’intérieur
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=56.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en architecture d’intérieur. Cette filiere ouvre un debouche direct vers le metier Architecte. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 56.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Passerelle sectorielle vers Architecte
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Architecte. Cette filiere ouvre un debouche direct vers le metier Architecte. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Technicien en gestion des déchets (score chemin commun=1)
+- Consultant en optimisation énergétique des bâtiments (score chemin commun=1)
+- Technicien en maintenance d’éolienne (score chemin commun=1)
+- Ingénieur en intelligence énergétique (score chemin commun=1)
+- Chercheur en hydrogène vert (score chemin commun=1)
+- Opérateur de centrale électrolyse à hydrogène (score chemin commun=1)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Opérateur d’usine (score chemin commun=1)
+- Conducteur de travaux BTP (score chemin commun=1)
+- Ingenieur BTP (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, Passerelle sectorielle vers Architecte, j'ai choisi le metier de Architecte. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Architecte, la progression a ete plus rapide quand j'ai renforce Architecte. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Architecte demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

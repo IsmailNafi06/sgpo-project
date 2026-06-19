@@ -1,0 +1,10 @@
+﻿METIER: Technicien methodes
+CODE: TECHNICIEN_METHODES
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Amine, promotion 2023 :
+"Travailler comme Technicien methodes dans l'industrie au Maroc, c'est intégrer un secteur en pleine montée en gamme. Ma formation d'ingénieur m'a appris à résoudre des problèmes complexes et à manager des équipes de production."

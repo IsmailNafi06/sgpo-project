@@ -1,0 +1,72 @@
+METIER: Chargé(e) de comptabilité
+CODE: CHARGE_E_DE_COMPTABILITE
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Chargé(e) de comptabilité Le chargé de comptabilité est responsable de la tenue des comptes d'une entreprise, de l'établissement des rapports financiers et de l'analyse de l'état financier de l'entreprise. Le chargé de comptabilité est également responsable de l'élaboration des budgets, de la gestion des paiements et des factures, et de la communication avec les auditeurs et les partenaires financiers. Bac + 3 Niveau d'études 5.200 MAD Rémunération 3 ans Expérience Missions principales Tenir les comptes de l’entreprise en utilisant des logiciels comptables et autres outils de gestion financière. Établir les rapports financiers, y compris les bilans, les comptes de résultats et les flux de trésorerie. Effectuer des analyses financières pour aider à la prise de décisions stratégiques de l’entreprise. Élaborer et gérer les budgets, y compris la planification des recettes et des dépenses. Gérer les paiements et les factures, y compris les compt
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Comptabilité et Finance
+2. Master en Ingénierie Financière, Contrôle et Audit option Comptabilité, Contrôle et Audit ISIAM
+3. Master in Comptabilité - Contrôle – Audit (CCA)
+4. Licence Administration des Entreprises option Comptabilité Finance ISIAM
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Comptabilité et Finance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=89.2%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Comptabilité et Finance. Cette filiere ouvre un debouche direct vers le metier Chargé(e) de comptabilité. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 89.2%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master en Ingénierie Financière, Contrôle et Audit option Comptabilité, Contrôle et Audit ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=79.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Ingénierie Financière, Contrôle et Audit option Comptabilité, Contrôle et Audit ISIAM. Cette filiere ouvre un debouche direct vers le metier Chargé(e) de comptabilité. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 79.4%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Master in Comptabilité - Contrôle – Audit (CCA)
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=88.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master in Comptabilité - Contrôle – Audit (CCA). Cette filiere ouvre un debouche direct vers le metier Chargé(e) de comptabilité. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 88.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence Administration des Entreprises option Comptabilité Finance ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=82.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Administration des Entreprises option Comptabilité Finance ISIAM. Cette filiere ouvre un debouche direct vers le metier Chargé(e) de comptabilité. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 82.9%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien en contrôle qualité des électrolyseurs (score_chemin_commun=2)
+- Ingénieur en contrôle des processus d’électrolyse (score_chemin_commun=1)
+
+PHRASES CLES
+- Chargé(e) de comptabilité
+- secteur Métiers de la comptabilité, audit et finance
+- filiere Licence Comptabilité et Finance
+- filiere Master en Ingénierie Financière, Contrôle et Audit option Comptabilité, Contrôle et Audit ISIAM
+- filiere Master in Comptabilité - Contrôle – Audit (CCA)
+- filiere Licence Administration des Entreprises option Comptabilité Finance ISIAM
+- charge
+- comptabilite
+- comptes
+- financiers
+- compris
+- responsable
+- entreprise
+- rapports
+- budgets
+- gestion
+- paiements
+- factures
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Comptabilité et Finance, Master en Ingénierie Financière, Contrôle et Audit option Comptabilité, Contrôle et Audit ISIAM, j'ai choisi le metier de Chargé(e) de comptabilité. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé(e) de comptabilité, la progression a ete plus rapide quand j'ai renforce Chargé(e) de comptabilité. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé(e) de comptabilité demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

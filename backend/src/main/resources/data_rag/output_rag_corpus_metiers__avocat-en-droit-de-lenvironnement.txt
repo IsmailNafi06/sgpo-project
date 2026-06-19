@@ -1,0 +1,45 @@
+METIER: Avocat en droit de l’environnement
+CODE: AVOCAT_EN_DROIT_DE_LENVIRONNEMENT
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Avocat en droit de l’environnement L'avocat en droit de l'environnement est un juriste spécialisé dans les questions liées à la protection de l'environnement et à la législation environnementale. Son rôle consiste à conseiller et représenter ses clients, qu'ils soient des entreprises, des organisations ou des particuliers, dans des affaires liées à l'environnement. Il intervient dans des domaines tels que la réglementation sur la pollution, les permis environnementaux, les litiges environnementaux, la gestion des déchets, les énergies renouvelables, la conservation de la biodiversité, etc. Pour exercer ce métier, l'avocat doit posséder une solide connaissance des lois et réglementations environnementales, ainsi que des compétences en droit administratif, en droit pénal, en droit de la santé publique et en droit international de l'environnement. Il doit également être capable de mener des recherches approfondies, de rédiger des mémo
+
+PHRASES CLES
+- Avocat en droit de l’environnement
+- secteur Métiers de droit et de la justice
+- filiere ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit
+- droit
+- environnement
+- avocat
+- liees
+- environnementaux
+- doit
+- lenvironnement
+- juriste
+- specialise
+- questions
+- protection
+- legislation
+- environnementale
+- role
+- consiste
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit. Cette filiere ouvre un debouche direct vers le metier Avocat en droit de l’environnement. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Juriste en droit de l’environnement (score chemin commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score chemin commun=1)
+- Juriste corporate (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit, j'ai choisi le metier de Avocat en droit de l’environnement. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Avocat en droit de l’environnement, la progression a ete plus rapide quand j'ai renforce Avocat en droit de l’environnement. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Avocat en droit de l’environnement demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

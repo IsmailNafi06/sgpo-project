@@ -1,0 +1,141 @@
+﻿METIER: Juriste d affaires
+CODE: JURISTE_D_AFFAIRES
+SECTEUR: Droit
+
+FORMATIONS QUI Y MENENT
+- Bac +5 Specialite Comptabilite Controle et Audit HEC Rabat
+- Bac+5 / Master en Management, Ingenierie et Droit de l'Environnement
+- Bachelor Banque Assurance - ESIAC
+- Bachelor Marketing - ESIAC
+- DESA Droit des Affaires et des Entreprises - FSJES Rabat Souissi
+- DESA en Droit civil approfondi - FSJES Rabat Agdal
+- DESA en Droit constitutionnel et institutions politiques - FSJES Casablanca
+- DESA en Droit de commerce - FSJES Oujda
+- DESA en Droit de contentieux - FSJES Oujda
+- DESA en Droit de la famille - FSJES Oujda
+- DESA en Droit de l'Entreprise - FSJES Fes Dahr El Mehraz
+- DESA en Droit de l'entreprise - FSJES Rabat Agdal
+- DESA en Droit des affaires - FSJES Casablanca
+- DESA en Droit des affaires - FSJES Settat
+- DESA en Etudes methodologiques du droit musulman dans l'Occident musulman - FLSH Kenitra
+- DESA en Migration et droit - FSJES Casablanca
+- DESA en Sciences politiques et droit constitutionnel - FSJES Rabat Agdal
+- DESS en Droit de la sante - FSJES Rabat Agdal
+- DESS en Droit des assurances - FSJES Casablanca
+- DESS en Droit des organisations internationales et communautaires - FSJES Rabat Agdal
+- DESS en Professions Juridiques et Judiciaires - FSJES Rabat Souissi
+- Diplome accredite en Management des Ressources Humaines (Type MASTER Bac) - SUP'RH
+- Droit des Affaires - HEEC Marrakech
+- Droit notarial et des affaires
+- Licence Arbitrage, Mediation et Commerce International SUP'H Droit
+- Licence d'Etudes Professionnelle en Conseiller juridique de l entreprise - FSJES Settat
+- Licence d'Etudes Professionnelle en Metiers Juridiques et Judiciaires (en arabe) - FSJES Settat
+- Licence Droit des Affaires
+- Licence Droit des affaires et fiscalite SUP'H Droit
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Agadir
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Fes
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Marrakech
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Meknes
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Oujda
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Rabat Agdal
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Settat
+- Licence Droit Prive - Faculte des Sciences Juridiques, Economiques et Sociales Tanger
+- Licence Droit Prive - FSJES Casablanca
+- Licence Droit Prive SUP'H Droit
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Agadir
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Casablanca
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Fes
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Marrakech
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Meknes
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Oujda
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Rabat Agdal
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Settat
+- Licence Droit Public - Faculte des Sciences Juridiques, Economiques et Sociales Tanger
+- Licence Droit Public SUP'H Droit
+- Licence en Charia et Droit - Faculte Acharia Fes
+- Licence en Droit Prive en Arabe - FSJES Agadir
+- Licence en Droit Prive en Arabe - FSJES Marrakech
+- Licence en Droit Prive en Arabe - FSJES Meknes
+- Licence en Droit Prive en Arabe - FSJES Oujda
+- Licence en Droit Prive en Arabe - FSJES Rabat Souissi
+- Licence en Droit Prive en Arabe - FSJES Sale
+- Licence en Droit Prive en Arabe - FSJES Settat
+- Licence en Droit Prive en Francais - FP Taza
+- Licence en Droit Prive en Francais - FSJES Casablanca
+- Licence en Droit Prive en Francais - FSJES Fes Dahr El Mehraz
+- Licence en Droit Prive en Francais - FSJES Marrakech
+- Licence en Droit Prive en Francais - FSJES Meknes
+- Licence en Droit Prive en Francais - FSJES Rabat Agdal
+- Licence en Droit Prive en Francais - FSJES Rabat Souissi
+- Licence en Droit Prive en Francais - FSJES Sale
+- Licence en Droit Public en Arabe - FSJES Marrakech
+- Licence en Droit Public en Arabe - FSJES Meknes
+- Licence en Droit Public en Arabe - FSJES Oujda
+- Licence en Droit Public en Arabe - FSJES Rabat Souissi
+- Licence en Droit Public en Arabe - FSJES Sale
+- Licence en Droit Public en Arabe - FSJES Settat
+- Licence en Droit Public en Francais - FSJES Casablanca
+- Licence en Droit Public en Francais - FSJES Fes Dahr El Mehraz
+- Licence en Droit Public en Francais - FSJES Marrakech
+- Licence en Droit Public en Francais - FSJES Meknes
+- Licence en Droit Public en Francais - FSJES Oujda
+- Licence en Droit Public en Francais - FSJES Rabat Agdal
+- Licence en Droit Public en Francais - FSJES Rabat Souissi
+- Licence en Droit Public en Francais - FSJES Sale
+- Licence en Economie
+- Licence en Etudes juridiques et politiques arabe - FP Safi
+- Licence en Psychologie SUP'H Droit
+- Licence en Relations Internationales et Sciences Politiques
+- Licence en Sciences juridiques fondamentales (Droit prive francais) - FSJES Settat
+- Licence en Sciences Politiques (Droit Public) - FSJES Settat
+- Licence Medias, Communication et Journalisme
+- Licence Professionnelle en Techniques Juridiques et Financieres - EST Laayoune
+- Licence Sciences Politiques et Relations Internationales SUP'H Droit
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Agadir
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Fes
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Marrakech
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Meknes
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Oujda
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Rabat Agdal
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Settat
+- Master Droit des Affaires - Faculte des Sciences Juridiques, Economiques et Sociales Tanger
+- Master Droit des Affaires - FSJES Casablanca
+- Master Droit des affaires en alternance Universite - Entreprises
+- Master Droit des Affaires, Contentieux et Professions Judiciaires SUP'H Droit
+- Master Droit des Contentieux publics et administratifs
+- Master Droit Notarial des Affaires
+- Master en Droit : Option Professionnelle - Option Recherche - IGA Belvedere
+- Master en Droit administratif et sciences administratives - FSJES Casablanca
+- Master en Droit de l homme et libertes publiques - FSJES Marrakech
+- Master en Droit de l'Administration Publique et des collectivites locales - FSJES Sale
+- Master en Droit de l'entreprise commerciale - FSJES Settat
+- Master en Droit des Affaires et Fiscalite
+- Master en Droit des Affaires et Management des Entreprises
+- Master en Droit des Collectivites Locales - FSJES Sale
+- Master en Droit des Contentieux (En arabe) - FS Meknes
+- Master en Droit des contentieux a vocation economique - FSJES Oujda
+- Master en Droit des Contentieux Publics - FSJES Fes Dahr El Mehraz
+- Master en Droit des contrats et de l'immobilier - FSJES Oujda
+- Master en Droit des relations d'affaires - FSJES Settat
+- Master en Droit des transports - FSJES Casablanca
+- Master en Droit Economique et des Affaires - FSJES Rabat Souissi
+- Master en Droit et Entreprise (En arabe) - FS Meknes
+- Master en Droit international et Sciences politiques - FSJES Fes Dahr El Mehraz
+- Master en Droit Medical et de la Sante - FSJES Sale
+- Master en Droit penal et sciences criminelles - FSJES Oujda
+- Master en Droits de l'Homme et Libertes Fondamentales - FSJES Rabat Souissi
+- Master en Nouvelles tendances du Droit International - FSJES Casablanca
+- Master en sciences politiques, diplomatie et relations internationales SUP'H Droit
+- Master Energies et Developpement Durable Ecole Polytechnique Agadir
+- Master Gouvernance et Institutions Internationales
+- Master Juriste d'Affaires internationales
+- Master Relations Internationales et Diplomatie
+- Master Specialise en Droit des assurances - FSJES Casablanca
+- Master Specialise en Femmes, civilisations et Systemes Juridiques - FSJES Marrakech
+- Master Specialise en Professions Juridiques et Judiciaires (En Arabe) - FSJES Rabat Souissi
+- Mastere : MANAGEMENT ET INGENIERIE JURIDIQUE
+- SUP'H Droit
+
+TEMOIGNAGE
+Hicham, promotion 2024 :
+"Exercer comme Juriste d affaires au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

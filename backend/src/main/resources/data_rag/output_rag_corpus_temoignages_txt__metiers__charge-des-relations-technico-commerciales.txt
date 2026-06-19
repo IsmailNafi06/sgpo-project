@@ -1,0 +1,9 @@
+METIER: Chargé des relations technico-commerciales
+CODE: CHARGE_DES_RELATIONS_TECHNICO_COMMERCIALES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Prépas Économiques et Commerciales, j'ai choisi le metier de Chargé des relations technico-commerciales. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé des relations technico-commerciales, la progression a ete plus rapide quand j'ai renforce Chargé des relations technico-commerciales. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé des relations technico-commerciales demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

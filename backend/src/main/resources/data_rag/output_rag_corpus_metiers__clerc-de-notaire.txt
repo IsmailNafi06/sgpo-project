@@ -1,0 +1,10 @@
+﻿METIER: Clerc de notaire
+CODE: CLERC_DE_NOTAIRE
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Saad, promotion 2021 :
+"Après ma licence en droit à l'Université Mohammed V, j'ai suivi une spécialisation qui m'a conduit vers le métier de Clerc de notaire. La rigueur juridique acquise durant mes études est au cœur de mon travail quotidien."

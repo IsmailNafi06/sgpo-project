@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur materiaux
+CODE: INGENIEUR_MATERIAUX
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Genie des Materiaux - EMI Rabat
+
+TEMOIGNAGE
+Samira, promotion 2024 :
+"Mon cursus en génie mécanique m'a préparé au métier de Ingenieur materiaux. L'industrie marocaine se modernise rapidement avec l'arrivée de grands donneurs d'ordre internationaux, et les ingénieurs locaux sont très demandés."

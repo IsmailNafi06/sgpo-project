@@ -1,0 +1,10 @@
+﻿METIER: Technicien biomedical
+CODE: TECHNICIEN_BIOMEDICAL
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Licence Professions Paramedicales Specialisees - ISPITS Rabat
+
+TEMOIGNAGE
+Houda, promotion 2024 :
+"Mon parcours en sciences de la santé m'a conduit vers le métier de Technicien biomedical. Les stages hospitaliers ont été déterminants dans ma formation et m'ont permis de confronter la théorie à la réalité du terrain."

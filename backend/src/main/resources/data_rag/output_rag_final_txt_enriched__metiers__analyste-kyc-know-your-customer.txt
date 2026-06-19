@@ -1,0 +1,83 @@
+METIER: Analyste KYC (Know Your Customer)
+CODE: ANALYSTE_KYC_KNOW_YOUR_CUSTOMER
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Analyste KYC (Know Your Customer) Aux manettes d’un poste stratégique bien que relativement nouveau, l’analyste KYC est garant de la sécurisation des opérations financières de son entreprise avec tout autre acteur potentiel de son marché. Il s’agit donc d’un métier phare - notamment dans le secteur bancaire - et passionnant pour les candidats souhaitant manipuler des données sensibles. Le rôle de l’analyste KYC est de connaître parfaitement le client qui initialise une demande de crédit. Selon son analyse les demandes de prêts émanant des particuliers ou des collectivités seront adoptées ou refusées. Il a en charge l’examen de la demande et de la solvabilité des demandeurs mais aussi de la gestion des risques en fonction du profil de chacun. A partir de ses observations et de sa projection sur la durée du contrat demandé, il va donner une décision à partir d’arguments précis à destination du directeur financier qui aura la décision
+
+FORMATIONS QUI MENENT AU METIER
+1. BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION. Cette filiere ouvre un debouche direct vers le metier Analyste KYC (Know Your Customer). Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien en contrôle qualité des électrolyseurs (score_chemin_commun=1)
+- Responsable de l’approvisionnement en électrolyseurs (score_chemin_commun=1)
+- Banquier itinérant (score_chemin_commun=1)
+- Risk manager bancaire (score_chemin_commun=1)
+- Analyste gouvernance (score_chemin_commun=1)
+- Opérateur en private equity (score_chemin_commun=1)
+- Conseiller en fusion acquisition (score_chemin_commun=1)
+- Convoyeur de fonds (score_chemin_commun=1)
+- Inspecteur commercial (score_chemin_commun=1)
+- Chargé de clientèle particuliers (score_chemin_commun=1)
+- Spécialiste des opérations bancaires (score_chemin_commun=1)
+
+PHRASES CLES
+- Analyste KYC (Know Your Customer)
+- secteur Métiers banque et assurance
+- filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- demande
+- lanalyste
+- partir
+- decision
+- analyste
+- know
+- your
+- customer
+- manettes
+- poste
+- strategique
+- bien
+- relativement
+- nouveau
+- garant
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Analyste KYC (Know Your Customer)
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Analyste KYC (Know Your Customer). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Analyste KYC (Know Your Customer)
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste KYC (Know Your Customer), la progression a ete plus rapide quand j'ai renforce Analyste KYC (Know Your Customer). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Analyste KYC (Know Your Customer)
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste KYC (Know Your Customer) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

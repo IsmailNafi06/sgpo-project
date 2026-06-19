@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur qualite
+CODE: INGENIEUR_QUALITE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Genie Industriel Qualite - ENSAM Casablanca
+
+TEMOIGNAGE
+Zakaria, promotion 2024 :
+"Travailler comme Ingenieur qualite dans l'industrie au Maroc, c'est intégrer un secteur en pleine montée en gamme. Ma formation d'ingénieur m'a appris à résoudre des problèmes complexes et à manager des équipes de production."

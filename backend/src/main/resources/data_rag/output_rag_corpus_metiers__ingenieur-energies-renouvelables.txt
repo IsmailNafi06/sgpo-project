@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur energies renouvelables
+CODE: INGENIEUR_ENERGIES_RENOUVELABLES
+SECTEUR: Ingenierie
+
+FORMATIONS QUI Y MENENT
+- Genie Energies Renouvelables - EMI Rabat
+
+TEMOIGNAGE
+Saad, promotion 2023 :
+"Mon parcours d'ingénieur m'a préparé aux défis techniques du métier de Ingenieur energies renouvelables. Ce qui m'a le plus appris, c'est la confrontation régulière avec des problèmes réels que ni les cours ni les manuels n'avaient entièrement anticipés."

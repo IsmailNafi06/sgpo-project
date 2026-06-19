@@ -1,0 +1,66 @@
+METIER: Inspecteur des douanes
+CODE: INSPECTEUR_DES_DOUANES
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Inspecteur des douanes L'inspecteur des douanes est responsable de la protection du territoire national du pays. C'est un fonctionnaire qui travaille pour le gouvernement et qui contrôle les produits aux frontières pour prévenir la fraude douanière, empêcher l'importation de produits dangereux sur le territoire et veiller au respect des embargos.Il peut travailler à la Direction Générale des Douanes et des Droits Indirects (DGDDI) ou aux frontières. Les centres de fret ont souvent des manutentionnaires de fret qui aident à déplacer les articles volumineux et lourds. Bac + 5 Niveau d'études 7.500 MAD Rémunération 3 ans Expérience Missions principales La surveillance douanière Rédiger et instruire des dossiers dans l’administration générale Enquêter sur des fraudes Contrôler les marchandises en zone de fret (aéroports, gares, etc.) Compétences techniques Une connaissance en droit Connaissance du droit douanier Connaissance des procédures fiscale
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Droit Prive
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Inspecteur des douanes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Agent d’Immigration (score_chemin_commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score_chemin_commun=1)
+- Substitut du procureur (score_chemin_commun=1)
+- Juge aux affaires familiales (score_chemin_commun=1)
+- Administrateur judiciaire (score_chemin_commun=1)
+- Juge pour enfants (score_chemin_commun=1)
+- Flasheur (score_chemin_commun=1)
+- Juriste en droit de l’environnement (score_chemin_commun=1)
+- Juriste dans l’immobilier (score_chemin_commun=1)
+- Fiscaliste (score_chemin_commun=1)
+- Responsable legs (score_chemin_commun=1)
+- Directeur des services de greffe judiciaires (score_chemin_commun=1)
+- Avocat d’affaires (score_chemin_commun=1)
+- Procureur de la république (score_chemin_commun=1)
+- Juriste agricole (score_chemin_commun=1)
+- Juriste du sport (score_chemin_commun=1)
+- Chargé d’indemnisation (score_chemin_commun=1)
+- Responsable des achats durables (score_chemin_commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score_chemin_commun=1)
+- Avocat (score_chemin_commun=1)
+
+PHRASES CLES
+- Inspecteur des douanes
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- douanes
+- fret
+- connaissance
+- inspecteur
+- territoire
+- produits
+- frontieres
+- douaniere
+- generale
+- droit
+- responsable
+- protection
+- national
+- pays
+- fonctionnaire
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, j'ai choisi le metier de Inspecteur des douanes. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Inspecteur des douanes, la progression a ete plus rapide quand j'ai renforce Inspecteur des douanes. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Inspecteur des douanes demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

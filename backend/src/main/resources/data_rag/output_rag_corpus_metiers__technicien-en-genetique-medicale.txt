@@ -1,0 +1,62 @@
+METIER: Technicien en génétique médicale
+CODE: TECHNICIEN_EN_GENETIQUE_MEDICALE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Technicien en génétique médicale Le technicien en génétique médicale est un professionnel de la santé jouant un rôle essentiel dans le domaine de la médecine génétique. Son rôle consiste à réaliser des analyses génétiques sur des échantillons biologiques afin d'identifier et d'étudier les anomalies génétiques susceptibles d'être à l'origine de maladies héréditaires ou génétiques. Il travaille en étroite collaboration avec les médecins généticiens et les biologistes moléculaires pour interpréter les résultats des analyses et contribuer au diagnostic et au suivi des patients. Le technicien en génétique médicale est également chargé de maintenir et de calibrer les équipements de laboratoire, de préparer les échantillons et de suivre les protocoles de sécurité et de qualité. Une formation spécialisée en biologie moléculaire et en génétique est nécessaire pour exercer ce métier. Les qualités requises incluent la rigueur, la précision, la
+
+PHRASES CLES
+- Technicien en génétique médicale
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- genetique
+- technicien
+- medicale
+- genetiques
+- role
+- analyses
+- echantillons
+- professionnel
+- sante
+- jouant
+- essentiel
+- domaine
+- medecine
+- consiste
+- realiser
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Technicien en génétique médicale. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Medecin generaliste (score chemin commun=1)
+- Médecin pharmacien biologiste (score chemin commun=1)
+- Chargé d’affaires dans la santé (score chemin commun=1)
+- Analyste en Cybersanté (score chemin commun=1)
+- Ludothérapeute (score chemin commun=1)
+- Inspecteur de santé publique (score chemin commun=1)
+- Aide soignante (score chemin commun=1)
+- Epidémiologiste (score chemin commun=1)
+- Conseiller en planning familial (score chemin commun=1)
+- Physiothérapeute (score chemin commun=1)
+- Technicien en génie biomédical (score chemin commun=1)
+- Coach de vie (score chemin commun=1)
+- Délégué de l’assurance maladie (score chemin commun=1)
+- Chef de service socio-éducatif (score chemin commun=1)
+- Chargé de mission médico-social (score chemin commun=1)
+- Cadre de santé (score chemin commun=1)
+- Délégué vétérinaire (score chemin commun=1)
+- Podo-orthésiste (score chemin commun=1)
+- Naturopathe (score chemin commun=1)
+- Ingénieur biomécanique (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Technicien en génétique médicale. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien en génétique médicale, la progression a ete plus rapide quand j'ai renforce Technicien en génétique médicale. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien en génétique médicale demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

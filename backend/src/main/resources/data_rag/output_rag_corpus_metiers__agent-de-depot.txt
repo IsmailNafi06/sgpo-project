@@ -1,0 +1,64 @@
+METIER: Agent de dépôt
+CODE: AGENT_DE_DEPOT
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Agent de dépôt L'agent de dépôt effectue des opérations telles que: l'organisation, la coordination, la supervision et la gestion de l'ensemble des opérations de réception, stockage, manutention et transport des produits pour un dépôt ou une unité logistique. Il assure aussi le respect de la réglementation en la matière, en liaison avec les services concernés de l'entreprise et les différentes administrations. L'agent de dépôt doit organiser les flux de réception et de chargement des produits pétroliers, ainsi de manager, coordonner et suivre des équipes. Il faut qu'il veille à contrôler et coordonner la comptabilisation des mouvements de produits et de l'état permanent des stocks. Il doit piloter la tenue des obligations réglementaires avec les différentes administrations et organismes de contrôle, planifier et mettre en œuvre les opérations de transports des produits, superviser l'accomplissement des formalités douanières et enfin surveiller la mise
+
+PHRASES CLES
+- Agent de dépôt
+- secteur Métiers achats et approvisionnement
+- filiere Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda
+- filiere BTS Comptabilite et Gestion
+- depot
+- produits
+- agent
+- operations
+- reception
+- differentes
+- administrations
+- doit
+- coordonner
+- effectue
+- telles
+- organisation
+- coordination
+- supervision
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale de Commerce et de Gestion Oujda, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda. Cette filiere ouvre un debouche direct vers le metier Agent de dépôt. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale de Commerce et de Gestion Oujda, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: BTS Comptabilite et Gestion
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Comptabilite et Gestion. Cette filiere ouvre un debouche direct vers le metier Agent de dépôt. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Agent d’Immigration (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+- Analyste en Investissements (score chemin commun=1)
+- Analyste de données agroalimentaires (score chemin commun=1)
+- Analyste en données urbaines et démographiques (score chemin commun=1)
+- Analyste en évaluation économique des projets d’hydrogène vert (score chemin commun=1)
+- Analyste financier pour les projets d’infrastructures d’hydrogène (score chemin commun=1)
+- Analyste ESG (score chemin commun=1)
+- Conseiller en investissement écoresponsable (score chemin commun=1)
+- percepteur (score chemin commun=1)
+- Agent des finances (score chemin commun=1)
+- guichetier payeur (score chemin commun=1)
+- Assistant comptable (score chemin commun=1)
+- Technicien administratif/financier (score chemin commun=1)
+- Chargé d’affaires (Environnement) (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda, BTS Comptabilite et Gestion, j'ai choisi le metier de Agent de dépôt. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Agent de dépôt, la progression a ete plus rapide quand j'ai renforce Agent de dépôt. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Agent de dépôt demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

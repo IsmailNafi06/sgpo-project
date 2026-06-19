@@ -1,0 +1,332 @@
+METIER: Conducteur de travaux BTP
+CODE: CONDUCTEUR_DE_TRAVAUX_BTP
+SECTEUR: BTP
+
+DESCRIPTION
+Gestion de chantier, planification et coordination technique.
+
+PHRASES CLES
+- Conducteur de travaux BTP
+- secteur BTP
+- filiere DUT Génie Civil
+- filiere Licence Génie Civil
+- filiere Ingénieur Génie Civil
+- filiere Ingénieur en architecture d’intérieur
+- gestion
+- chantier
+- planification
+- coordination
+- technique
+- gestion chantier
+- chantier planification
+- planification coordination
+- coordination technique
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: EST Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a EST Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Génie Civil
+- Prerequis: Non precise
+- Etablissements: FST Mohammedia
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a FST Mohammedia. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: ENSA Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a ENSA Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Nador
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Nador. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Ingénieur en architecture d’intérieur
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en architecture d’intérieur. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 8
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Salé
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Salé. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Berrechid
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Berrechid. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Guelmim
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Guelmim. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 17
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Al Hoceima
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Al Hoceima. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 18
+- Filiere: Licence Génie Civil
+- Prerequis: Non precise
+- Etablissements: FST Errachidia
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a FST Errachidia. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 19
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Khouribga
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Khouribga. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 20
+- Filiere: Licence Génie Civil
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences et Techniques Sais Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Faculté des Sciences et Techniques Sais Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 21
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: EST Essaouira
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a EST Essaouira. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 22
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences  Appliquées  Ait Melloul
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Faculté des Sciences  Appliquées  Ait Melloul. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 23
+- Filiere: Licence Génie Civil
+- Prerequis: Non precise
+- Etablissements: FST Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a FST Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 24
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 25
+- Filiere: Licence Génie Civil
+- Prerequis: Non precise
+- Etablissements: FST Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a FST Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 26
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 27
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 28
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 29
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 30
+- Filiere: Licence Génie Civil
+- Prerequis: Non precise
+- Etablissements: FST Settat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a FST Settat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 31
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: ENSA Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a ENSA Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 32
+- Filiere: Cycle Ingenieur Genie Civil - EHTP Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Hassania des Travaux Publics
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Cycle Ingenieur Genie Civil - EHTP Casablanca. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Hassania des Travaux Publics. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 33
+- Filiere: Licence Génie Civil
+- Prerequis: Non precise
+- Etablissements: FST Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a FST Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 34
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 35
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 36
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Khénifra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Khénifra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 37
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 38
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 39
+- Filiere: DUT Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Laâyoune
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a Ecole Supérieure de Technologie Laâyoune. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 40
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: ENSA Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Conducteur de travaux BTP. Le chemin est relie a ENSA Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Ingénieur Génie Civil (score chemin commun=17)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=2)
+- Ingenieur BTP (score chemin commun=2)
+- Architecte (score chemin commun=1)
+- Technicien en gestion des déchets (score chemin commun=1)
+- Consultant en optimisation énergétique des bâtiments (score chemin commun=1)
+- Technicien en maintenance d’éolienne (score chemin commun=1)
+- Ingénieur en intelligence énergétique (score chemin commun=1)
+- Chercheur en hydrogène vert (score chemin commun=1)
+- Opérateur de centrale électrolyse à hydrogène (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Opérateur d’usine (score chemin commun=1)
+- Gestionnaire de projets urbains intelligents (score chemin commun=1)
+- Designer d’Éclairage Intelligent (score chemin commun=1)
+- Designer de mobilier durable (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+- Chef de projet en construction durable (score chemin commun=1)
+- Agronome urbain (score chemin commun=1)
+- Designer d’intérieur écologique (score chemin commun=1)
+- Planificateur de transport en commun (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Génie Civil, Licence Génie Civil, j'ai choisi le metier de Conducteur de travaux BTP. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Conducteur de travaux BTP, la progression a ete plus rapide quand j'ai renforce Conducteur de travaux BTP. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Conducteur de travaux BTP demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,129 @@
+METIER: Manager commercial
+CODE: MANAGER_COMMERCIAL
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplôme ENCG Management
+2. Diplôme ENCG Management
+3. Diplôme ENCG Management
+4. Diplôme ENCG Management
+5. Diplôme ENCG Management
+6. Diplôme ENCG Management
+7. Diplôme ENCG Management
+8. Diplôme ENCG Management
+9. Diplôme ENCG Management
+10. Diplôme ENCG Management
+11. Diplôme ENCG Management
+12. Diplôme ENCG Management
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Manager commercial. Le chemin est relie a ENCG Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire RH (score_chemin_commun=10)
+- Conseiller clientèle (score_chemin_commun=1)
+- Agent service client (score_chemin_commun=1)
+
+PHRASES CLES
+- Manager commercial
+- secteur Métier du commerce et vente
+- filiere Diplôme ENCG Management
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme ENCG Management, Diplôme ENCG Management, j'ai choisi le metier de Manager commercial. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Manager commercial, la progression a ete plus rapide quand j'ai renforce Manager commercial. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Manager commercial demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

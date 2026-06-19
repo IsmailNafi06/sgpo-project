@@ -1,0 +1,10 @@
+﻿METIER: Chauffeur poids lourd
+CODE: CHAUFFEUR_POIDS_LOURD
+SECTEUR: Logistique et transport
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Transport Douane et Transit - ISTA Casablanca
+
+TEMOIGNAGE
+Rachid, promotion 2021 :
+"Mon master en logistique m'a permis d'intégrer rapidement le secteur en tant que Chauffeur poids lourd. La maîtrise des outils ERP et des flux internationaux est indispensable et c'est exactement ce que ma formation m'a apporté."

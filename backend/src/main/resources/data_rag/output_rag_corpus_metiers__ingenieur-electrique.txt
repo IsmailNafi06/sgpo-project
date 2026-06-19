@@ -1,0 +1,21 @@
+﻿METIER: Ingenieur electrique
+CODE: INGENIEUR_ELECTRIQUE
+SECTEUR: Ingenierie
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en electrotechnique et electronique de puissance - EMI Rabat
+- Ingenieur en Genie des Systemes Electroniques et Automatique - ENSA Tanger
+- Ingenieur en Genie Electrique - EST Oujda
+- Ingenieur en Genie Electrique - FST Tanger
+- Ingenieur en genie electrique - Institut Polytechnique Prive de Casablanca
+- Ingenieur en Genie Electrique et Telecommunications - ENSEM Casablanca
+- Ingenieur en NTIC - Genie Electrique, Automatique Et Automatismes, Systemes Embarques
+- Ingenieur en Systemes Electroniques et Telecommunications - EMI Rabat
+- Ingenieur en Systemes Electroniques et Telecommunications - FST Fes Sais
+- Ingenieur en Systemes Electroniques et Telecommunications - FST Gueliz Marrakech
+- Ingenieur Genie Electrique - ENSA Marrakech
+- Ingenieur Genie Electrique - ENSA Oujda
+
+TEMOIGNAGE
+Imane, promotion 2024 :
+"Exercer comme Ingenieur electrique dans le secteur de l'ingénierie au Maroc, c'est évoluer dans un environnement exigeant où la rigueur technique, la gestion de projet et la communication sont également importantes."

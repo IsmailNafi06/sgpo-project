@@ -1,0 +1,16 @@
+﻿METIER: Manager hotelier
+CODE: MANAGER_HOTELIER
+SECTEUR: Hotellerie
+
+FORMATIONS QUI Y MENENT
+- Licence Tourisme et Hotellerie - ISIT Tanger
+- Technicien Specialise Reception et Hotellerie - ISTA Agadir
+- Technicien Specialise Reception et Hotellerie - ISTA Casablanca
+- Technicien Specialise Reception et Hotellerie - ISTA Fes
+- Technicien Specialise Reception et Hotellerie - ISTA Marrakech
+- Technicien Specialise Reception et Hotellerie - ISTA Rabat
+- Technicien Specialise Reception et Hotellerie - ISTA Tanger
+
+TEMOIGNAGE
+Yassine, promotion 2023 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Manager hotelier. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

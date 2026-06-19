@@ -1,0 +1,51 @@
+METIER: Courtier en banque
+CODE: COURTIER_EN_BANQUE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Courtier en banque Le courtier en banque est un expert du conseil pour les prêts immobiliers. Il analyse et évalue les différentes offres de prêts immobiliers présentes dans l’environnement économique au regard de la situation de ses clients. Il sert d’intermédiaire et intervient pour conseiller et orienter au maximum les particuliers dans leur recherche de prêt, tant sur les montants, les taux d’intérêt et les échéances de remboursement possibles. Bac + 2 Niveau d'études 5.500 MAD Rémunération 3 ans Expérience Missions principales Définition du projet avec la clientèle Rencontrer le client en vue d’une première approche du projet souhaité. Analyser la situation financière de son client: vérification de ses revenus, de ses dettes, des dispositifs légaux (aides au premier achat…) et de sa capacité de remboursement. Réévaluer le projet du client compte tenu de l’analyse financière effectuée. Aider à la mise à niveau du dossier à transmettre aux ban
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence d'État français | Assurance Banque Finance
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence d'État français | Assurance Banque Finance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=71.5%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d'État français | Assurance Banque Finance. Cette filiere ouvre un debouche direct vers le metier Courtier en banque. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 71.5%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Expert MOA banque F/H (score_chemin_commun=1)
+- Agent administratif en banque (score_chemin_commun=1)
+- Responsable d’équipe commerciale ( Assurance) (score_chemin_commun=1)
+- Ingénieur préventionniste assurance (score_chemin_commun=1)
+- Souscripteur assurance (score_chemin_commun=1)
+
+PHRASES CLES
+- Courtier en banque
+- secteur Métiers banque et assurance
+- filiere Licence d'État français | Assurance Banque Finance
+- projet
+- client
+- courtier
+- banque
+- prets
+- immobiliers
+- situation
+- remboursement
+- financiere
+- expert
+- conseil
+- analyse
+- evalue
+- differentes
+- offres
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d'État français | Assurance Banque Finance, j'ai choisi le metier de Courtier en banque. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Courtier en banque, la progression a ete plus rapide quand j'ai renforce Courtier en banque. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Courtier en banque demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

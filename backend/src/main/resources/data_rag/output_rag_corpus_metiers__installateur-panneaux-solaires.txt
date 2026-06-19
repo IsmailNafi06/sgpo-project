@@ -1,0 +1,10 @@
+﻿METIER: Installateur panneaux solaires
+CODE: INSTALLATEUR_PANNEAUX_SOLAIRES
+SECTEUR: Environnement et energies
+
+FORMATIONS QUI Y MENENT
+- Licence Environnement Energies et Mines - FST Marrakech
+
+TEMOIGNAGE
+Hamza, promotion 2021 :
+"Mon parcours en ingénierie environnementale m'a orienté vers le métier de Installateur panneaux solaires. Les enjeux liés à la gestion de l'eau et aux impacts industriels sont au cœur de mes missions quotidiennes."

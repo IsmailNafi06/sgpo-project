@@ -1,0 +1,22 @@
+﻿METIER: Conseiller commercial
+CODE: CONSEILLER_COMMERCIAL
+SECTEUR: Commerce
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Management
+- Diplome ENCG Management - ENCG Beni Mellal
+- Diplome ENCG Management - ENCG Casablanca
+- Diplome ENCG Marketing Digital
+- Diplome ENCG Marketing Digital - ENCG Beni Mellal
+- Diplome ENCG Marketing Digital - ENCG Casablanca
+- Licence Gestion Immobiliere - FSJES Casablanca
+- Technicien Specialise Commerce International - ISTA Agadir
+- Technicien Specialise Commerce International - ISTA Casablanca
+- Technicien Specialise Commerce International - ISTA Fes
+- Technicien Specialise Commerce International - ISTA Marrakech
+- Technicien Specialise Commerce International - ISTA Rabat
+- Technicien Specialise Commerce International - ISTA Tanger
+
+TEMOIGNAGE
+Hajar, promotion 2022 :
+"Exercer comme Conseiller commercial au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

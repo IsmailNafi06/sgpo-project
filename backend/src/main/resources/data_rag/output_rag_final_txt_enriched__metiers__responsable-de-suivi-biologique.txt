@@ -1,0 +1,73 @@
+METIER: Responsable de suivi biologique
+CODE: RESPONSABLE_DE_SUIVI_BIOLOGIQUE
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Responsable de suivi biologique Le responsable de suivi biologique collecte, analyse et interprète des données sur la biodiversité dans le cadre de projets de conservation ou de gestion des ressources naturelles. En tant que responsable de suivi biologique, vous serez chargé de concevoir et de mettre en œuvre des protocoles de collecte de données, d'identifier et de recenser les espèces végétales et animales, de suivre leur évolution et de documenter les changements environnementaux. Ce métier exige des compétences en biologie, en écologie et en statistiques. Vous devrez être capable d'utiliser des équipements de terrain tels que des appareils d'observation, des pièges, des filets et des appareils de mesure. Vous devrez également être en mesure d'analyser les données collectées à l'aide de logiciels spécialisés et de produire des rapports scientifiques. Le responsable de suivi biologique peut travailler pour des organismes de conserva
+
+FORMATIONS QUI MENENT AU METIER
+1. Parcours professionnalisant Responsable de suivi biologique
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Parcours professionnalisant Responsable de suivi biologique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Responsable de suivi biologique. Cette filiere ouvre un debouche direct vers le metier Responsable de suivi biologique. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Responsable de suivi biologique
+- secteur Métiers biologie et agroalimentaire
+- filiere Parcours professionnalisant Responsable de suivi biologique
+- responsable
+- suivi
+- biologique
+- donnees
+- collecte
+- devrez
+- appareils
+- mesure
+- analyse
+- interprete
+- biodiversite
+- cadre
+- projets
+- conservation
+- gestion
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Responsable de suivi biologique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Responsable de suivi biologique, j'ai choisi le metier de Responsable de suivi biologique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Responsable de suivi biologique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable de suivi biologique, la progression a ete plus rapide quand j'ai renforce Responsable de suivi biologique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Responsable de suivi biologique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable de suivi biologique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Gestionnaire transport
+CODE: GESTIONNAIRE_TRANSPORT
+SECTEUR: Logistique et transport
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Transport Douane et Transit - ISTA Casablanca
+
+TEMOIGNAGE
+Soufiane, promotion 2024 :
+"Travailler comme Gestionnaire transport dans le transport au Maroc, c'est évoluer dans un secteur en pleine mutation avec le développement des zones industrielles et des plateformes logistiques modernes."

@@ -1,0 +1,59 @@
+METIER: Consultant scénario
+CODE: CONSULTANT_SCENARIO
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Consultant scénario Le métier de consultant en scénario est une fonction cruciale au sein de l'industrie cinématographique et télévisuelle, impliquant une expertise approfondie dans l'analyse et l'amélioration des scénarios. Les consultants en scénario, également connus sous le nom de script doctors, jouent un rôle essentiel dans l'élaboration de scénarios captivants et mémorables. Ces professionnels sont chargés d'évaluer minutieusement les scénarios existants, scrutant la cohérence narrative, la structure, les personnages et les dialogues. Leur rôle ne se limite pas à l'analyse critique; ils fournissent également des retours détaillés aux scénaristes, soulignant les forces et les faiblesses tout en offrant des conseils constructifs pour améliorer la qualité globale du script. Ils sont des partenaires créatifs, participant activement au processus de développement en proposant des idées innovantes pour renforcer l'intrigue, les personnages et l'
+
+PHRASES CLES
+- Consultant scénario
+- secteur Métiers art et design
+- filiere Licence Arts et Culture
+- scenario
+- scenarios
+- consultant
+- analyse
+- egalement
+- script
+- role
+- personnages
+- fonction
+- cruciale
+- sein
+- industrie
+- cinematographique
+- televisuelle
+- impliquant
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Consultant scénario. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Concepteur de produits durables (score chemin commun=1)
+- Technicien en impression 3D (score chemin commun=1)
+- Logisticien (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+- Marinier/Batelier (score chemin commun=1)
+- Responsable qualité en logistique (score chemin commun=1)
+- Préparateur de commande (score chemin commun=1)
+- Scripte (score chemin commun=1)
+- Le directeur de postproduction (score chemin commun=1)
+- Assistant caméra (score chemin commun=1)
+- Machino (score chemin commun=1)
+- Mixeur (score chemin commun=1)
+- Technicien du son (score chemin commun=1)
+- Potier(ère) (score chemin commun=1)
+- Scénariste (score chemin commun=1)
+- Cadreur (score chemin commun=1)
+- Directeur artistique multimédia (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts et Culture, j'ai choisi le metier de Consultant scénario. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Consultant scénario, la progression a ete plus rapide quand j'ai renforce Consultant scénario. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Consultant scénario demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

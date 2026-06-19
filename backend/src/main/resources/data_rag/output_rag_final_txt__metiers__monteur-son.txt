@@ -1,0 +1,56 @@
+METIER: Monteur son
+CODE: MONTEUR_SON
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Monteur son Le monteur son, dans l'univers du cinéma et de la télévision, joue un rôle essentiel dans la création de l'expérience auditive du spectateur. Ce professionnel qualifié est responsable de la post-production audio, façonnant et assemblant les éléments sonores pour créer une bande sonore cohérente et immersive. L'une des tâches principales du monteur son est de sélectionner et d'assembler les différentes pistes audio enregistrées pendant le tournage. Cela comprend le dialogue des acteurs, les effets sonores spéciaux, la musique, et tout autre élément sonore nécessaire à la narration. Le monteur son travaille en étroite collaboration avec les réalisateurs, les producteurs et les ingénieurs du son pour comprendre la vision artistique du projet et créer une bande sonore qui la soutient. Le processus de montage sonore commence souvent par la synchronisation précise du dialogue avec les mouvements des lèvres des acteurs à l'écran. Le monteur son éli
+
+FORMATIONS QUI MENENT AU METIER
+1. Master Tourisme Culturel et Valorisation du Patrimoine
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master Tourisme Culturel et Valorisation du Patrimoine
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Tourisme Culturel et Valorisation du Patrimoine. Cette filiere ouvre un debouche direct vers le metier Monteur son. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Monteur (score_chemin_commun=1)
+- Chef monteur (score_chemin_commun=1)
+- Assistant monteur (score_chemin_commun=1)
+- Directeur de la photographie (score_chemin_commun=1)
+- Étalonneur (score_chemin_commun=1)
+- Électro (score_chemin_commun=1)
+- Scénariste pour cinéma et séries (score_chemin_commun=1)
+- Assistant à la réalisation (score_chemin_commun=1)
+- Designer de jardins verticaux (score_chemin_commun=1)
+- Stratège Tendances Mode (score_chemin_commun=1)
+
+PHRASES CLES
+- Monteur son
+- secteur Métiers art et design
+- filiere Master Tourisme Culturel et Valorisation du Patrimoine
+- monteur
+- sonore
+- audio
+- sonores
+- creer
+- bande
+- dialogue
+- acteurs
+- univers
+- cinema
+- television
+- joue
+- role
+- essentiel
+- creation
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Tourisme Culturel et Valorisation du Patrimoine, j'ai choisi le metier de Monteur son. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Monteur son, la progression a ete plus rapide quand j'ai renforce Monteur son. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Monteur son demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

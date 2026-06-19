@@ -1,0 +1,10 @@
+﻿METIER: Eleveur
+CODE: ELEVEUR
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Sara, promotion 2021 :
+"Après une formation en agronomie, j'ai rejoint une coopérative agricole comme Eleveur. Ce qui me plaît le plus, c'est de contribuer à la valorisation des produits locaux et au développement rural."

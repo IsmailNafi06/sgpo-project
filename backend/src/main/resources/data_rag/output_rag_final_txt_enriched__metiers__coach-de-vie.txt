@@ -1,0 +1,92 @@
+METIER: Coach de vie
+CODE: COACH_DE_VIE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Coach de vie Un coach de vie, life coach ou coach personnel. un coach de vie accompagnent les gens et les individus afin de les aider à surmonter leurs problèmes. Un coach personnel est composé de personnes qui vous accompagnent pour trouver une solution à votre problème, identifier un ou plusieurs objectifs personnels ou professionnels, et vous aider à les atteindre. Des coachs de vie accompagnent tous les enfants, adultes et personnes âgées. Les coachs accompagnent ceux qui sont chargés de chercher des solutions et les aident à reconnaître leur potentiel, à s'évaluer et à avoir une image positive d'eux-mêmes. Pour devenir coach de vie, il faut des qualités et des compétences. Relations, patience, écoute des autres, savoir motiver les coachs, reprendre confiance en soi, et plus encore. Il est important d'identifier rapidement les problèmes qui empêchent les personnes d'atteindre leurs objectifs, de comprendre leurs blocages, de savoir les reformuler
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Coach de vie. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+- Ingénieur biomécanique (score_chemin_commun=1)
+
+PHRASES CLES
+- Coach de vie
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- coach
+- accompagnent
+- personnes
+- coachs
+- personnel
+- aider
+- problemes
+- identifier
+- objectifs
+- atteindre
+- savoir
+- life
+- gens
+- individus
+- surmonter
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Coach de vie
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Coach de vie. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Coach de vie
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Coach de vie, la progression a ete plus rapide quand j'ai renforce Coach de vie. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Coach de vie
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Coach de vie demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,100 @@
+METIER: Expert d’assurances
+CODE: EXPERT_DASSURANCES
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Expert d’assurances Bâtiment, réparation automobile, construction, objets d'art, agriculture, transport aérien, médecine? Les domaines de spécialisation d'un expert d'assurances sont nombreux. Mais dans tous les cas, ce professionnel de l'assurance intervient pour le compte d'un client afin d'évaluer les dégâts causés par un sinistre et d'en estimer les dommages. L’expert peut être contacté avant la souscription d’un contrat d'assurance auprès d’une compagnie. Cela dans le but de réaliser des expertises préalables pour évaluer le montant des biens à couvrir. En cas d’accident et à la demande de l’assuré ou de l’assureur, il effectue une enquête. Bac + 2 Niveau d'études 5.000 MAD Rémunération 3 ans Expérience Missions principales Définir les causes du sinistre Examiner la présence de possibles malfaçons ou anomalies Placer les responsabilités Évaluer le montant des dommages matériels ou du préjudice moral subi Rédiger un rapport d’expertise détail
+
+FORMATIONS QUI MENENT AU METIER
+1. DUT en Gestion Banques et Assurances - EST Oujda
+2. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: DUT en Gestion Banques et Assurances - EST Oujda
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Institut Universitaire des Etudes Africaines, Euro-méditerranéennes et Ibéro-américaines, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT en Gestion Banques et Assurances - EST Oujda. Cette filiere ouvre un debouche direct vers le metier Expert d’assurances. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Institut Universitaire des Etudes Africaines, Euro-méditerranéennes et Ibéro-américaines, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Expert d’assurances. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+
+PHRASES CLES
+- Expert d’assurances
+- secteur Métiers banque et assurance
+- filiere DUT en Gestion Banques et Assurances - EST Oujda
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- evaluer
+- expert
+- assurance
+- causes
+- sinistre
+- dommages
+- montant
+- dassurances
+- batiment
+- reparation
+- automobile
+- construction
+- objets
+- agriculture
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Expert d’assurances
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT en Gestion Banques et Assurances - EST Oujda, Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Expert d’assurances. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Expert d’assurances
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Expert d’assurances, la progression a ete plus rapide quand j'ai renforce Expert d’assurances. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Expert d’assurances
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Expert d’assurances demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

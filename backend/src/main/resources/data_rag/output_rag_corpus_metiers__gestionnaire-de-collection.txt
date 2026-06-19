@@ -1,0 +1,59 @@
+METIER: Gestionnaire de collection
+CODE: GESTIONNAIRE_DE_COLLECTION
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Gestionnaire de collection Le gestionnaire de collection a la responsabilité de la disponibilité des produits pour les distributeurs, voire les consommateurs dans le cas des ventes en ligne. Fin analyste des ventes et du marché, il détermine le nombre de références nécessaires à développer par les équipes R&D, puis les volumes à produire pour chacune d’elles et enfin pilote les stocks et leur acheminement de l’entrepôt aux magasins ou aux plateformes de distribution. Bac + 2 Niveau d'études 4.500 MAD Rémunération 3 ans Expérience Missions principales Cadrage des collections Analyser en continu les chiffres des ventes pour chaque référence. Formuler les grandes lignes de la collection: catégories de produit à favoriser, type de produit à développer, nombre de références par produit, renouvellement d’un best-seller… en vue d’atteindre les objectifs de performance commerciale fixés par la direction tout en respectant les grandes orientations
+
+PHRASES CLES
+- Gestionnaire de collection
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- collection
+- ventes
+- produit
+- gestionnaire
+- nombre
+- references
+- developper
+- grandes
+- responsabilite
+- disponibilite
+- produits
+- distributeurs
+- voire
+- consommateurs
+- ligne
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Gestionnaire de collection. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Responsable avant-vente (score chemin commun=1)
+- Épicier (score chemin commun=1)
+- Analyste en expérience client (score chemin commun=1)
+- Vendeur de vélo (score chemin commun=1)
+- Administrateur de vente (score chemin commun=1)
+- Responsable commercial(E) de l’environnement (score chemin commun=1)
+- Social seller (score chemin commun=1)
+- Promoteur des ventes (score chemin commun=1)
+- Ingénieur support des ventes (score chemin commun=1)
+- Chargé d’affaires dans l’industrie (score chemin commun=1)
+- Coordinateur retail (score chemin commun=1)
+- Développeur d’enseigne (score chemin commun=1)
+- Designer d’interaction (score chemin commun=1)
+- Consultant Salesforce senior (score chemin commun=1)
+- Cadre commercial et technico-commercial (score chemin commun=1)
+- Vendeur moto (score chemin commun=1)
+- Concessionnaire (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Gestionnaire de collection. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Gestionnaire de collection, la progression a ete plus rapide quand j'ai renforce Gestionnaire de collection. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Gestionnaire de collection demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

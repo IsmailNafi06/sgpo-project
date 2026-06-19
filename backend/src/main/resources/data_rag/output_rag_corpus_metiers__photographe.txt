@@ -1,0 +1,17 @@
+﻿METIER: Photographe
+CODE: PHOTOGRAPHE
+SECTEUR: Arts et medias
+
+FORMATIONS QUI Y MENENT
+- Licence Audiovisuel et Cinema - ISMAC Rabat
+- Licence Design d Interieur - INBA Tetouan
+- Technicien Specialise Infographie et Audiovisuel - ISTA Agadir
+- Technicien Specialise Infographie et Audiovisuel - ISTA Casablanca
+- Technicien Specialise Infographie et Audiovisuel - ISTA Fes
+- Technicien Specialise Infographie et Audiovisuel - ISTA Marrakech
+- Technicien Specialise Infographie et Audiovisuel - ISTA Rabat
+- Technicien Specialise Infographie et Audiovisuel - ISTA Tanger
+
+TEMOIGNAGE
+Leila, promotion 2022 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Photographe. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

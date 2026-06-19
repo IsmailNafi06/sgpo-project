@@ -1,0 +1,10 @@
+﻿METIER: Gestionnaire de copropriete
+CODE: GESTIONNAIRE_DE_COPROPRIETE
+SECTEUR: Immobilier
+
+FORMATIONS QUI Y MENENT
+- Licence Gestion Immobiliere et Patrimoine - FSJES Casablanca
+
+TEMOIGNAGE
+Samira, promotion 2023 :
+"Après une formation en gestion immobilière, j'exerce comme Gestionnaire de copropriete dans une agence de Casablanca. Le marché immobilier marocain reste dynamique malgré les fluctuations, et la demande de professionnels qualifiés est constante."

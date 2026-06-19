@@ -1,0 +1,10 @@
+﻿METIER: Concepteur Redacteur
+CODE: SCRAPE_9RAYTI_METIER_CONCEPTEUR_REDACTEUR
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Omar, promotion 2023 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Concepteur Redacteur dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

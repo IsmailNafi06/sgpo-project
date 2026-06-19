@@ -1,0 +1,16 @@
+﻿METIER: Videaste monteur
+CODE: VIDEASTE_MONTEUR
+SECTEUR: Audiovisuel
+
+FORMATIONS QUI Y MENENT
+- Licence Audiovisuel et Cinema - ISMAC Rabat
+- Technicien Specialise Infographie et Audiovisuel - ISTA Agadir
+- Technicien Specialise Infographie et Audiovisuel - ISTA Casablanca
+- Technicien Specialise Infographie et Audiovisuel - ISTA Fes
+- Technicien Specialise Infographie et Audiovisuel - ISTA Marrakech
+- Technicien Specialise Infographie et Audiovisuel - ISTA Rabat
+- Technicien Specialise Infographie et Audiovisuel - ISTA Tanger
+
+TEMOIGNAGE
+Leila, promotion 2023 :
+"Exercer comme Videaste monteur au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

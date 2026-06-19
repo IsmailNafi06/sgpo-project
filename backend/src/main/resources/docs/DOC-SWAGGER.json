@@ -1,0 +1,882 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "OpenAPI definition",
+    "version": "v0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:8081",
+      "description": "Generated server url"
+    }
+  ],
+  "paths": {
+    "/api/admin/nodes/{id}": {
+      "get": {
+        "tags": [
+          "node-admin-controller"
+        ],
+        "operationId": "getNodeById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Node"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "node-admin-controller"
+        ],
+        "operationId": "updateNode",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Node"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Node"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "node-admin-controller"
+        ],
+        "operationId": "deleteNode",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/admin/edges/{id}": {
+      "get": {
+        "tags": [
+          "edge-admin-controller"
+        ],
+        "operationId": "getEdgeById",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Edge"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "edge-admin-controller"
+        ],
+        "operationId": "updateEdge",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Edge"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Edge"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "edge-admin-controller"
+        ],
+        "operationId": "deleteEdge",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/parcours/share": {
+      "post": {
+        "tags": [
+          "parcours-controller"
+        ],
+        "operationId": "shareParcours",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CheminDTO"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/parcours/generate": {
+      "post": {
+        "tags": [
+          "parcours-controller"
+        ],
+        "operationId": "generate",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SearchRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/parcours/export": {
+      "post": {
+        "tags": [
+          "parcours-controller"
+        ],
+        "operationId": "exportParcours",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CheminDTO"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "string",
+                  "format": "byte"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/auth/login": {
+      "post": {
+        "tags": [
+          "auth-controller"
+        ],
+        "operationId": "login",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "additionalProperties": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/nodes": {
+      "get": {
+        "tags": [
+          "node-admin-controller"
+        ],
+        "operationId": "getAllNodes",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Node"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "node-admin-controller"
+        ],
+        "operationId": "createNode",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Node"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Node"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/edges": {
+      "get": {
+        "tags": [
+          "edge-admin-controller"
+        ],
+        "operationId": "getAllEdges",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Edge"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "edge-admin-controller"
+        ],
+        "operationId": "createEdge",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Edge"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/Edge"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/csv/import/nodes": {
+      "post": {
+        "tags": [
+          "csv-controller"
+        ],
+        "operationId": "importNodes",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/import_nodes_body"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/csv/import/edges": {
+      "post": {
+        "tags": [
+          "csv-controller"
+        ],
+        "operationId": "importEdges",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/import_edges_body"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/parcours/shared/{token}": {
+      "get": {
+        "tags": [
+          "parcours-controller"
+        ],
+        "operationId": "getSharedParcours",
+        "parameters": [
+          {
+            "name": "token",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "$ref": "#/components/schemas/CheminDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/logs": {
+      "get": {
+        "tags": [
+          "audit-log-controller"
+        ],
+        "operationId": "getAllLogs",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/AuditLog"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/dashboard/quality": {
+      "get": {
+        "tags": [
+          "dashboard-controller"
+        ],
+        "operationId": "getQualityStats",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "object"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/csv/export/nodes": {
+      "get": {
+        "tags": [
+          "csv-controller"
+        ],
+        "operationId": "exportNodes",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/admin/csv/export/edges": {
+      "get": {
+        "tags": [
+          "csv-controller"
+        ],
+        "operationId": "exportEdges",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "*/*": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Node": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "NIVEAU",
+              "FILIERE",
+              "ETABLISSEMENT",
+              "METIER"
+            ]
+          },
+          "code": {
+            "type": "string"
+          },
+          "nomFr": {
+            "type": "string"
+          },
+          "nomAr": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "dureeMois": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "coutEstime": {
+            "type": "number",
+            "format": "double"
+          },
+          "secteur": {
+            "type": "string"
+          },
+          "ville": {
+            "type": "string"
+          },
+          "scoreIa": {
+            "type": "number",
+            "format": "double"
+          },
+          "actif": {
+            "type": "boolean"
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "updatedAt": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      },
+      "Edge": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "source": {
+            "$ref": "#/components/schemas/Node"
+          },
+          "target": {
+            "$ref": "#/components/schemas/Node"
+          },
+          "typeLien": {
+            "type": "string",
+            "enum": [
+              "ADMISSION",
+              "DONNE_ACCES",
+              "OFFERTE_PAR",
+              "RECRUTEMENT"
+            ]
+          },
+          "tauxReussite": {
+            "type": "number",
+            "format": "double"
+          },
+          "coutSupplementaire": {
+            "type": "number",
+            "format": "double"
+          },
+          "dureeSupplementaireMois": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "prerequisNotes": {
+            "type": "string"
+          },
+          "moyenneMinimale": {
+            "type": "number",
+            "format": "double"
+          },
+          "typeAcces": {
+            "type": "string",
+            "enum": [
+              "OUVERT",
+              "CONCOURS",
+              "DOSSIER"
+            ]
+          },
+          "createdAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "updatedAt": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      },
+      "CheminDTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "etapes": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/EtapeDTO"
+            }
+          },
+          "dureeTotale": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "coutTotal": {
+            "type": "number",
+            "format": "double"
+          },
+          "scoreComposite": {
+            "type": "number",
+            "format": "double"
+          },
+          "interpretation": {
+            "type": "string"
+          }
+        }
+      },
+      "EtapeDTO": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string"
+          },
+          "nom": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "NIVEAU",
+              "FILIERE",
+              "ETABLISSEMENT",
+              "METIER"
+            ]
+          },
+          "duree": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ville": {
+            "type": "string"
+          },
+          "secteur": {
+            "type": "string"
+          },
+          "typeAcces": {
+            "type": "string"
+          },
+          "moyenneMinimale": {
+            "type": "number",
+            "format": "double"
+          },
+          "typeLien": {
+            "type": "string",
+            "enum": [
+              "ADMISSION",
+              "DONNE_ACCES",
+              "OFFERTE_PAR",
+              "RECRUTEMENT"
+            ]
+          },
+          "tauxReussite": {
+            "type": "number",
+            "format": "double"
+          }
+        }
+      },
+      "SearchRequest": {
+        "type": "object",
+        "properties": {
+          "dureeMax": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "coutMax": {
+            "type": "number",
+            "format": "double"
+          },
+          "typeAccesFiltre": {
+            "type": "string",
+            "enum": [
+              "OUVERT",
+              "CONCOURS",
+              "DOSSIER"
+            ]
+          },
+          "codeDepart": {
+            "type": "string"
+          },
+          "codeArrivee": {
+            "type": "string"
+          },
+          "moyenne": {
+            "type": "number",
+            "format": "double"
+          },
+          "mobilite": {
+            "type": "string"
+          },
+          "villeDepart": {
+            "type": "string"
+          }
+        }
+      },
+      "AuditLog": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "entityType": {
+            "type": "string"
+          },
+          "entityId": {
+            "type": "string"
+          },
+          "action": {
+            "type": "string"
+          },
+          "modifiedBy": {
+            "type": "string"
+          },
+          "timestamp": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      },
+      "import_nodes_body": {
+        "required": [
+          "file"
+        ],
+        "type": "object",
+        "properties": {
+          "file": {
+            "type": "string",
+            "format": "binary"
+          }
+        }
+      },
+      "import_edges_body": {
+        "required": [
+          "file"
+        ],
+        "type": "object",
+        "properties": {
+          "file": {
+            "type": "string",
+            "format": "binary"
+          }
+        }
+      }
+    }
+  }
+}

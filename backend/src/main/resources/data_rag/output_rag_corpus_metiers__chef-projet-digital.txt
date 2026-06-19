@@ -1,0 +1,60 @@
+﻿METIER: Chef de projet digital
+CODE: CHEF_PROJET_DIGITAL
+SECTEUR: Digital
+
+FORMATIONS QUI Y MENENT
+- Cycle Ingenieur Genie Logiciel
+- Diplome ENCG Marketing Digital
+- Diplome ENCG Marketing Digital - ENCG Beni Mellal
+- Diplome ENCG Marketing Digital - ENCG Casablanca
+- Ingenierie Business Intelligence - ENSIAS Rabat
+- Ingenierie Data & IA
+- Ingenieur Genie Informatique - ENSA Agadir
+- Ingenieur Genie Informatique - ENSA Al Hoceima
+- Ingenieur Genie Informatique - ENSA Beni Mellal
+- Ingenieur Genie Informatique - ENSA Berrechid
+- Ingenieur Genie Informatique - ENSA El Jadida
+- Ingenieur Genie Informatique - ENSA Fes
+- Ingenieur Genie Informatique - ENSA Kenitra
+- Ingenieur Genie Informatique - ENSA Khouribga
+- Ingenieur Genie Informatique - ENSA Marrakech
+- Ingenieur Genie Informatique - ENSA Oujda
+- Ingenieur Genie Informatique - ENSA Safi
+- Ingenieur Genie Informatique - ENSA Tanger
+- Ingenieur Genie Informatique - ENSA Tetouan
+- Licence Informatique - Faculte des Sciences Agadir
+- Licence Informatique - Faculte des Sciences Casablanca
+- Licence Informatique - Faculte des Sciences Fes
+- Licence Informatique - Faculte des Sciences Meknes
+- Licence Informatique - Faculte des Sciences Oujda
+- Licence Informatique - Faculte des Sciences Rabat
+- Licence Informatique - Faculte des Sciences Semlalia Marrakech
+- Licence Informatique - Faculte des Sciences Tetouan
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Al Hoceima
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Beni Mellal
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Errachidia
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Fes
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Marrakech
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Settat
+- Licence Sciences et Techniques Genie Informatique - Faculte des Sciences et Techniques Tanger
+- Licence Sciences et Techniques Genie Informatique - FST Mohammedia
+- Master Data Science - Faculte des Sciences Agadir
+- Master Data Science - Faculte des Sciences Casablanca
+- Master Data Science - Faculte des Sciences Fes
+- Master Data Science - Faculte des Sciences Meknes
+- Master Data Science - Faculte des Sciences Oujda
+- Master Data Science - Faculte des Sciences Rabat
+- Master Data Science - Faculte des Sciences Semlalia Marrakech
+- Master Data Science - Faculte des Sciences Tetouan
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Al Hoceima
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Beni Mellal
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Errachidia
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Fes
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Marrakech
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Mohammedia
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Settat
+- Master Sciences et Techniques Data Science - Faculte des Sciences et Techniques Tanger
+
+TEMOIGNAGE
+Chaimae, promotion 2022 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Chef de projet digital. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

@@ -1,0 +1,10 @@
+﻿METIER: Gestionnaire
+CODE: SCRAPE_9RAYTI_METIER_GESTIONNAIRE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Tariq, promotion 2024 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Gestionnaire dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

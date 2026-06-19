@@ -1,0 +1,10 @@
+﻿METIER: Gestionnaire patrimoine
+CODE: GESTIONNAIRE_PATRIMOINE
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Licence Finance Banque Assurance - FSJES Casablanca
+
+TEMOIGNAGE
+Lamia, promotion 2021 :
+"Mon master en finance à l'ISCAE m'a ouvert les portes du métier de Gestionnaire patrimoine. La rigueur analytique apprise en formation est indispensable pour gérer les dossiers complexes que je traite au quotidien."

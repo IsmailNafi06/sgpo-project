@@ -1,0 +1,9 @@
+METIER: Juge aux affaires familiales
+CODE: JUGE_AUX_AFFAIRES_FAMILIALES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, Licence Droit des Affaires, j'ai choisi le metier de Juge aux affaires familiales. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Juge aux affaires familiales, la progression a ete plus rapide quand j'ai renforce Juge aux affaires familiales. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Juge aux affaires familiales demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

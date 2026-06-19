@@ -1,0 +1,9 @@
+METIER: Expert en évaluation de l’empreinte carbone de l’hydrogène vert
+CODE: EXPERT_EN_EVALUATION_DE_LEMPREINTE_CARBONE_DE_LHYD
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Expert en évaluation de l’empreinte carbone de l’hydrogène vert, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Expert en évaluation de l’empreinte carbone de l’hydrogène vert. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Expert en évaluation de l’empreinte carbone de l’hydrogène vert, la progression a ete plus rapide quand j'ai renforce Expert en évaluation de l’empreinte carbone de l’hydrogène vert. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Expert en évaluation de l’empreinte carbone de l’hydrogène vert demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,11 @@
+﻿METIER: Chef comptable
+CODE: CHEF_COMPTABLE
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Licence Finance Banque Assurance - FSJES Casablanca
+- Technicien Specialise Gestion Comptable et Paie - ISTA Rabat
+
+TEMOIGNAGE
+Fatima, promotion 2021 :
+"Travailler comme Chef comptable au Maroc demande une bonne maîtrise des réglementations locales et internationales. Mon parcours à HEM m'a préparé à cette réalité, et j'ai trouvé un emploi en moins de deux mois après ma soutenance."

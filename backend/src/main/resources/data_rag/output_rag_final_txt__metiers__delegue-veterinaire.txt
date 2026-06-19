@@ -1,0 +1,66 @@
+METIER: Délégué vétérinaire
+CODE: DELEGUE_VETERINAIRE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Délégué vétérinaire Le délégué vétérinaire a pour mission le développement du portefeuille de clients professionnels (vétérinaires) et du chiffre d’affaires d’une ou plusieurs gammes de produits (médicaments vétérinaires ou alimentation) au sein d’une zone géographique définie. Auprès des vétérinaires, il en assure la promotion, la vente, l’information et le bon usage dans le respect du cadre réglementaire. Bac + 2 Niveau d'études 4.000 MAD Rémunération 3 ans Expérience Missions principales Préparation et organisation de l’activité commerciale Prendre de rendez-vous auprès des clients. Mettre en place le plan de prospection auprès des professionnels du périmètre sur la base du fichier fourni par l’entreprise. Analyser les données clients et les écarts par rapport aux objectifs dans l’outil de CRM (customer relationship management) interne. Organiser la préparation logistique des tournées de visite: trajets, réservation d’hébergement dans une log
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Délégué vétérinaire. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+- Ingénieur biomécanique (score_chemin_commun=1)
+
+PHRASES CLES
+- Délégué vétérinaire
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- clients
+- veterinaires
+- aupres
+- delegue
+- veterinaire
+- professionnels
+- dune
+- preparation
+- mission
+- developpement
+- portefeuille
+- chiffre
+- daffaires
+- plusieurs
+- gammes
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Délégué vétérinaire. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Délégué vétérinaire, la progression a ete plus rapide quand j'ai renforce Délégué vétérinaire. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Délégué vétérinaire demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,9 @@
+METIER: Planificateur de quartiers résilients
+CODE: PLANIFICATEUR_DE_QUARTIERS_RESILIENTS
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Planificateur de quartiers résilients. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Planificateur de quartiers résilients, la progression a ete plus rapide quand j'ai renforce Planificateur de quartiers résilients. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Planificateur de quartiers résilients demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,11 @@
+﻿METIER: Consultant en optimisation energetique des batiments
+CODE: CONSULTANT_EN_OPTIMISATION_ENERGETIQUE_DES_BATIMEN
+SECTEUR: Metiers des energies renouvelables
+
+FORMATIONS QUI Y MENENT
+- Genie Civil, Batiments et Travaux Publics (BTP) EMSI Marrakech
+- Ingenieur en architecture d'interieur
+
+TEMOIGNAGE
+Soufiane, promotion 2024 :
+"Diplômé en génie électrique spécialisé en énergies renouvelables, j'ai rejoint un grand projet solaire comme Consultant en optimisation energetique des batiments. Le Maroc est un leader africain en énergie verte et les opportunités pour les ingénieurs du secteur sont excellentes."

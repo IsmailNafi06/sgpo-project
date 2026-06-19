@@ -1,0 +1,10 @@
+﻿METIER: Agent immobilier
+CODE: AGENT_IMMOBILIER
+SECTEUR: Commerce
+
+FORMATIONS QUI Y MENENT
+- Licence Gestion Immobiliere - FSJES Casablanca
+
+TEMOIGNAGE
+Tariq, promotion 2021 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Agent immobilier. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

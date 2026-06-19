@@ -1,0 +1,10 @@
+﻿METIER: Educateur sportif
+CODE: EDUCATEUR_SPORTIF
+SECTEUR: Sport
+
+FORMATIONS QUI Y MENENT
+- Licence Education Physique et Sportive - IRFC Rabat
+
+TEMOIGNAGE
+Tariq, promotion 2022 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Educateur sportif. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

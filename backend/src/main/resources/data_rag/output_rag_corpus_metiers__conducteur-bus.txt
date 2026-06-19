@@ -1,0 +1,10 @@
+﻿METIER: Conducteur bus
+CODE: CONDUCTEUR_BUS
+SECTEUR: Logistique et transport
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Transport Douane et Transit - ISTA Casablanca
+
+TEMOIGNAGE
+Rim, promotion 2021 :
+"Mon master en logistique m'a permis d'intégrer rapidement le secteur en tant que Conducteur bus. La maîtrise des outils ERP et des flux internationaux est indispensable et c'est exactement ce que ma formation m'a apporté."

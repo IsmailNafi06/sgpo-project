@@ -1,0 +1,10 @@
+﻿METIER: Maquettiste
+CODE: SCRAPE_9RAYTI_METIER_MAQUETTISTE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Saad, promotion 2021 :
+"Après deux ans d'expérience en tant que Maquettiste, j'ai pu évoluer vers des responsabilités techniques plus larges. Ce qui m'a le plus aidé, c'est de compléter ma formation par des certifications professionnelles reconnues."

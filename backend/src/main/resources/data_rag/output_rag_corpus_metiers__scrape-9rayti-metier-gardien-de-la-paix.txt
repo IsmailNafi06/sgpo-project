@@ -1,0 +1,10 @@
+﻿METIER: Gardien De La Paix
+CODE: SCRAPE_9RAYTI_METIER_GARDIEN_DE_LA_PAIX
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Saad, promotion 2022 :
+"Après deux ans d'expérience en tant que Gardien De La Paix, j'ai pu évoluer vers des responsabilités techniques plus larges. Ce qui m'a le plus aidé, c'est de compléter ma formation par des certifications professionnelles reconnues."

@@ -1,0 +1,87 @@
+METIER: Kinésithérapeute
+CODE: KINESITHERAPEUTE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Kinésithérapie
+2. Licence en Kinésithérapie
+3. Licence en Kinésithérapie
+4. Licence en Kinésithérapie
+5. Licence en Kinésithérapie
+6. Licence en Kinésithérapie
+7. Licence en Kinésithérapie
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Kinésithérapie
+- Prerequis: Non precise
+- Etablissements: ISPITS Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Kinésithérapie. Cette filiere ouvre un debouche direct vers le metier Kinésithérapeute. Le chemin est relie a ISPITS Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence en Kinésithérapie
+- Prerequis: Non precise
+- Etablissements: ISPITS Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Kinésithérapie. Cette filiere ouvre un debouche direct vers le metier Kinésithérapeute. Le chemin est relie a ISPITS Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence en Kinésithérapie
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Kinésithérapie. Cette filiere ouvre un debouche direct vers le metier Kinésithérapeute. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence en Kinésithérapie
+- Prerequis: Non precise
+- Etablissements: ISPITS Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Kinésithérapie. Cette filiere ouvre un debouche direct vers le metier Kinésithérapeute. Le chemin est relie a ISPITS Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Licence en Kinésithérapie
+- Prerequis: Non precise
+- Etablissements: ISPITS Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Kinésithérapie. Cette filiere ouvre un debouche direct vers le metier Kinésithérapeute. Le chemin est relie a ISPITS Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Licence en Kinésithérapie
+- Prerequis: Non precise
+- Etablissements: ISPITS Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Kinésithérapie. Cette filiere ouvre un debouche direct vers le metier Kinésithérapeute. Le chemin est relie a ISPITS Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Licence en Kinésithérapie
+- Prerequis: Non precise
+- Etablissements: ISPITS Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Kinésithérapie. Cette filiere ouvre un debouche direct vers le metier Kinésithérapeute. Le chemin est relie a ISPITS Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Kinésithérapeute
+- secteur Métiers de la santé
+- filiere Licence en Kinésithérapie
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Kinésithérapie, Licence en Kinésithérapie, j'ai choisi le metier de Kinésithérapeute. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Kinésithérapeute, la progression a ete plus rapide quand j'ai renforce Kinésithérapeute. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Kinésithérapeute demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

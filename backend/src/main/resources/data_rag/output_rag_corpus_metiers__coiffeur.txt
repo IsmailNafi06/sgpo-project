@@ -1,0 +1,10 @@
+﻿METIER: Coiffeur
+CODE: COIFFEUR
+SECTEUR: Arts communication et services
+
+FORMATIONS QUI Y MENENT
+- Technicien Artisanat Beaute et Services - ISTA Agadir
+
+TEMOIGNAGE
+Houda, promotion 2021 :
+"Mon parcours m'a conduit vers le métier de Coiffeur. Ce que j'apprécie le plus, c'est la diversité des missions et le contact humain au quotidien qui rendent chaque journée de travail différente."

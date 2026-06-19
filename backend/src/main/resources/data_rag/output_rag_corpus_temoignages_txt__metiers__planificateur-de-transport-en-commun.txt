@@ -1,0 +1,9 @@
+METIER: Planificateur de transport en commun
+CODE: PLANIFICATEUR_DE_TRANSPORT_EN_COMMUN
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Planificateur de transport en commun. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Planificateur de transport en commun, la progression a ete plus rapide quand j'ai renforce Planificateur de transport en commun. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Planificateur de transport en commun demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

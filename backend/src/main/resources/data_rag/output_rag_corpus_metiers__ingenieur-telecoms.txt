@@ -1,0 +1,22 @@
+﻿METIER: Ingenieur telecoms
+CODE: INGENIEUR_TELECOMS
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Reseaux et Telecommunications - ENSA Agadir
+- Ingenierie Reseaux et Telecommunications - ENSA Al Hoceima
+- Ingenierie Reseaux et Telecommunications - ENSA Beni Mellal
+- Ingenierie Reseaux et Telecommunications - ENSA Berrechid
+- Ingenierie Reseaux et Telecommunications - ENSA El Jadida
+- Ingenierie Reseaux et Telecommunications - ENSA Fes
+- Ingenierie Reseaux et Telecommunications - ENSA Kenitra
+- Ingenierie Reseaux et Telecommunications - ENSA Khouribga
+- Ingenierie Reseaux et Telecommunications - ENSA Marrakech
+- Ingenierie Reseaux et Telecommunications - ENSA Oujda
+- Ingenierie Reseaux et Telecommunications - ENSA Safi
+- Ingenierie Reseaux et Telecommunications - ENSA Tanger
+- Ingenierie Reseaux et Telecommunications - ENSA Tetouan
+
+TEMOIGNAGE
+Mehdi, promotion 2024 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Ingenieur telecoms dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

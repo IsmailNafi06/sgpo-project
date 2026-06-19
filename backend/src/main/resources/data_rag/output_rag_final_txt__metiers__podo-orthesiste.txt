@@ -1,0 +1,66 @@
+METIER: Podo-orthésiste
+CODE: PODO_ORTHESISTE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Podo-orthésiste Le podo-orthésiste est un spécialiste de l'appareillage du pied. Sa mission est essentiellement concevoir et réaliser des chaussures et des semelles orthopédiques qui permettront aux patients de marcher le plus normalement possible. Rôle: Dans ce sens, le podo-orthésiste intervient dans la vie des handicapés du pied afin de faciliter leur quotidien. Lors de l'entretien, il prend les mesures et les empreintes. Par la suite, il réalise des moulages en plâtre ou en résine et supervise le processus de fabrication. Aujourd'hui, il est grandement assisté par des outils des dernières technologies numériques. On en cite notamment le scanner, la conception assistée par ordinateur (CAO) et la découpe au laser... Il se charge de façonner à la main les pièces de l'appareillage et procède à en faire l'assemblage. Enfin, il réalise une dernière séance d'essayage afin d'effectuer, si nécessaire, des rectifications pour que le patient n'éprouve aucun
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Podo-orthésiste. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+- Ingénieur biomécanique (score_chemin_commun=1)
+
+PHRASES CLES
+- Podo-orthésiste
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- podo
+- orthesiste
+- appareillage
+- pied
+- realise
+- specialiste
+- mission
+- essentiellement
+- concevoir
+- realiser
+- chaussures
+- semelles
+- orthopediques
+- permettront
+- patients
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Podo-orthésiste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Podo-orthésiste, la progression a ete plus rapide quand j'ai renforce Podo-orthésiste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Podo-orthésiste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

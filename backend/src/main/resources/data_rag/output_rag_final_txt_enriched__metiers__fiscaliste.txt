@@ -1,0 +1,92 @@
+METIER: Fiscaliste
+CODE: FISCALISTE
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Fiscaliste Le fiscaliste conseille les entreprises afin de payer le moins d'impôt possible. En fonction des législations et des taxes en vigueur, des projets de l'entreprise, son objectif est de trouver la meilleure option fiscale c'est à dire la moins coûteuse pour l'entreprise tout en évitant le redressement fiscal. Pour cela, il connait sur le bout des doigts les législations et normes fiscales en vigueur et les évolutions de ces dernières. Bac + 5 Niveau d'études 15.000 MAD Rémunération 3 ans Expérience Missions principales Trouver la meilleure option fiscale Conseiller ses clients en matière fiscale Suivre l’activité juridique Eviter le redressement judiciaire Compétences techniques Compétences en fiscalité Compétences en compatibilité Compétences en droit Qualités personnelles Rigueur Minutie Organisation Type de formation Formation Bac+5 en droit fiscal Les écoles qui forment au métier de Fiscaliste Ecole de Droit de Rabat (UIR) Ecole de Droit de R
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Droit Prive
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Fiscaliste. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Agent d’Immigration (score_chemin_commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score_chemin_commun=1)
+- Inspecteur des douanes (score_chemin_commun=1)
+- Substitut du procureur (score_chemin_commun=1)
+- Juge aux affaires familiales (score_chemin_commun=1)
+- Administrateur judiciaire (score_chemin_commun=1)
+- Juge pour enfants (score_chemin_commun=1)
+- Flasheur (score_chemin_commun=1)
+- Juriste en droit de l’environnement (score_chemin_commun=1)
+- Juriste dans l’immobilier (score_chemin_commun=1)
+- Responsable legs (score_chemin_commun=1)
+- Directeur des services de greffe judiciaires (score_chemin_commun=1)
+- Avocat d’affaires (score_chemin_commun=1)
+- Procureur de la république (score_chemin_commun=1)
+- Juriste agricole (score_chemin_commun=1)
+- Juriste du sport (score_chemin_commun=1)
+- Chargé d’indemnisation (score_chemin_commun=1)
+- Responsable des achats durables (score_chemin_commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score_chemin_commun=1)
+- Avocat (score_chemin_commun=1)
+
+PHRASES CLES
+- Fiscaliste
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- competences
+- droit
+- fiscale
+- moins
+- legislations
+- vigueur
+- entreprise
+- trouver
+- meilleure
+- option
+- redressement
+- fiscal
+- ecole
+- conseille
+- entreprises
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Fiscaliste
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, j'ai choisi le metier de Fiscaliste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Fiscaliste
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Fiscaliste, la progression a ete plus rapide quand j'ai renforce Fiscaliste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Fiscaliste
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Fiscaliste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur process
+CODE: INGENIEUR_PROCESS
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Genie Industriel et Process - EMI Rabat
+
+TEMOIGNAGE
+Imane, promotion 2024 :
+"Mon cursus en génie mécanique m'a préparé au métier de Ingenieur process. L'industrie marocaine se modernise rapidement avec l'arrivée de grands donneurs d'ordre internationaux, et les ingénieurs locaux sont très demandés."

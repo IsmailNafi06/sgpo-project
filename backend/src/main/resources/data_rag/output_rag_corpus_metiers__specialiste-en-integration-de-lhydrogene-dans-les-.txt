@@ -1,0 +1,11 @@
+﻿METIER: Specialiste en integration de l'hydrogene dans les reseaux electriques
+CODE: SPECIALISTE_EN_INTEGRATION_DE_LHYDROGENE_DANS_LES_
+SECTEUR: Metiers de l'electrique
+
+FORMATIONS QUI Y MENENT
+- Ingenierie informatique et reseaux EMSI Casablanca Centre 2
+- Master IA
+
+TEMOIGNAGE
+Amine, promotion 2022 :
+"Mon BTS en électrotechnique m'a donné les bases pour exercer comme Specialiste en integration de l'hydrogene dans les reseaux electriques. Ce qui me plaît dans ce métier, c'est la diversité des interventions et la satisfaction de voir les installations fonctionner correctement."

@@ -1,0 +1,10 @@
+﻿METIER: Chief Technology Officer (CTO)
+CODE: CTO
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Master Management des Systemes d'Information
+
+TEMOIGNAGE
+Zineb, promotion 2024 :
+"Après deux ans d'expérience en tant que Chief Technology Officer (CTO), j'ai pu évoluer vers des responsabilités techniques plus larges. Ce qui m'a le plus aidé, c'est de compléter ma formation par des certifications professionnelles reconnues."

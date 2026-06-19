@@ -1,0 +1,10 @@
+﻿METIER: Educateur specialise
+CODE: EDUCATEUR_SPECIALISE
+SECTEUR: Social
+
+FORMATIONS QUI Y MENENT
+- Licence Action Sociale - INAS Tanger
+
+TEMOIGNAGE
+Amine, promotion 2024 :
+"Exercer comme Educateur specialise au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

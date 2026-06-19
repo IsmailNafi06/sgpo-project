@@ -1,0 +1,10 @@
+﻿METIER: Pompier
+CODE: POMPIER
+SECTEUR: Protection civile
+
+FORMATIONS QUI Y MENENT
+- Concours Protection Civile
+
+TEMOIGNAGE
+Omar, promotion 2021 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Pompier. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

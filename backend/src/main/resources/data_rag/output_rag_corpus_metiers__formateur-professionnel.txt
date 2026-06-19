@@ -1,0 +1,10 @@
+﻿METIER: Formateur professionnel
+CODE: FORMATEUR_PROFESSIONNEL
+SECTEUR: Education et culture
+
+FORMATIONS QUI Y MENENT
+- Licence Education Culture et Documentation - FLSH Rabat
+
+TEMOIGNAGE
+Nadia, promotion 2022 :
+"Mon master en sciences de l'éducation m'a orienté vers le métier de Formateur professionnel. La dimension humaine de ce travail est ce qui me motive chaque jour, même si les conditions d'exercice restent à améliorer."

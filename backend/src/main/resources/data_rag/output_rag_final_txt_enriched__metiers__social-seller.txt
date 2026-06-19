@@ -1,0 +1,89 @@
+METIER: Social seller
+CODE: SOCIAL_SELLER
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Social seller Le social seller est un commercial qui prospecte sur les réseaux sociaux. Avec le développement du numérique, de nombreuses entreprises cherchent à générer des ventes via ces réseaux et sur internet, qui est devenu un outil formidable pour connaître au plus près ses prospects. Le social seller réalise une veille médiatique, c'est-à-dire qu'il suit l'activité de ses clients. Il va lire les articles que ses clients partagent sur Twitter, ou encore regarder les mêmes vidéos qu'eux sur LinkedIn. Il cible, de la sorte, au mieux ses prospects et s'ouvre des possibilités d'accroches personnalisées. Il cherche à fédérer une communauté en publiant des contenus engageants. Il reste attentif à l'intérêt porté par ceux qui suivent son activité, qui « likent », voire partagent ses posts. Il a pour mission de se rendre visible et d'identifier les contenus qui marchent. Bac + 2 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome ENCG en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Social seller. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Responsable avant-vente (score_chemin_commun=1)
+- Épicier (score_chemin_commun=1)
+- Analyste en expérience client (score_chemin_commun=1)
+- Vendeur de vélo (score_chemin_commun=1)
+- Administrateur de vente (score_chemin_commun=1)
+- Responsable commercial(E) de l’environnement (score_chemin_commun=1)
+- Gestionnaire de collection (score_chemin_commun=1)
+- Promoteur des ventes (score_chemin_commun=1)
+- Ingénieur support des ventes (score_chemin_commun=1)
+- Chargé d’affaires dans l’industrie (score_chemin_commun=1)
+- Coordinateur retail (score_chemin_commun=1)
+- Développeur d’enseigne (score_chemin_commun=1)
+- Designer d’interaction (score_chemin_commun=1)
+- Consultant Salesforce senior (score_chemin_commun=1)
+- Cadre commercial et technico-commercial (score_chemin_commun=1)
+- Vendeur moto (score_chemin_commun=1)
+- Concessionnaire (score_chemin_commun=1)
+
+PHRASES CLES
+- Social seller
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- social
+- seller
+- reseaux
+- prospects
+- activite
+- clients
+- partagent
+- contenus
+- commercial
+- prospecte
+- sociaux
+- developpement
+- numerique
+- nombreuses
+- entreprises
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Social seller
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Social seller. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Social seller
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Social seller, la progression a ete plus rapide quand j'ai renforce Social seller. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Social seller
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Social seller demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

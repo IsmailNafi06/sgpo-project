@@ -1,0 +1,138 @@
+METIER: Juriste Droit des Espaces et Activités maritimes
+CODE: JURISTE_DROIT_DES_ESPACES_ET_ACTIVITES_MARITIMES
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Juriste Droit des Espaces et Activités maritimes Le juriste/la juriste spécialisé/e espaces et activités maritimes possède de très solides connaissances juridiques en droit maritime et droit de la mer. Il est possible de préciser que cette spécialisation s'obtient à l'issue d'un parcours d'études qui s'appuie sur le droit pour la licence complété par un master spécialisé abordant précisément ces activités et leurs conséquences sur les personnes, les biens et l'environnement. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales Analyser et élaborer des contrats et conventions, traiter le contentieux découlant de l’exercice des activités maritimes et analyser les problèmes juridiques liés aux activités maritimes. Gérer les dossiers sinistres, contentieux lié au secteur maritime et du transport, négocier, proposer et conseiller préalablement à la signature de tout contrat de transport, d’a
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Droit Prive
+2. Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement
+3. ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit
+4. DESA en Campagnes marocaines : hommes, espaces et développement durable - FLSH Kénitra
+5. Master Droit des Contentieux publics et administratifs
+6. Licence Droit Public SUP’H Droit
+7. Licence Droit des Affaires
+8. Master en Droit des Affaires et Management des Entreprises
+9. Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement
+10. Licence Droit des affaires et fiscalité SUP’H Droit
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=73.1%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 73.1%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=80.5%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 80.5%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: DESA en Campagnes marocaines : hommes, espaces et développement durable - FLSH Kénitra
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale Supérieur de Chimie Kénitra
+- Indicateurs: taux_reussite=77.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DESA en Campagnes marocaines : hommes, espaces et développement durable - FLSH Kénitra. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale Supérieur de Chimie Kénitra. Indicateurs du parcours: taux de reussite estime: 77.4%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Master Droit des Contentieux publics et administratifs
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Fès
+- Indicateurs: taux_reussite=78.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Droit des Contentieux publics et administratifs. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Fès. Indicateurs du parcours: taux de reussite estime: 78.8%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Licence Droit Public SUP’H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=66.7%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit Public SUP’H Droit. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 66.7%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Licence Droit des Affaires
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=68.1%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit des Affaires. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 68.1%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Master en Droit des Affaires et Management des Entreprises
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=85.5%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Droit des Affaires et Management des Entreprises. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 85.5%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=79.1%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 79.1%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Licence Droit des affaires et fiscalité SUP’H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=65.4%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit des affaires et fiscalité SUP’H Droit. Cette filiere ouvre un debouche direct vers le metier Juriste Droit des Espaces et Activités maritimes. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 65.4%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Juriste en droit de l’environnement (score_chemin_commun=9)
+- Juriste corporate (score_chemin_commun=6)
+- Juge aux affaires familiales (score_chemin_commun=4)
+- Agent d’Immigration (score_chemin_commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score_chemin_commun=1)
+- Inspecteur des douanes (score_chemin_commun=1)
+- Substitut du procureur (score_chemin_commun=1)
+- Administrateur judiciaire (score_chemin_commun=1)
+- Juge pour enfants (score_chemin_commun=1)
+- Flasheur (score_chemin_commun=1)
+- Juriste dans l’immobilier (score_chemin_commun=1)
+- Fiscaliste (score_chemin_commun=1)
+- Responsable legs (score_chemin_commun=1)
+- Directeur des services de greffe judiciaires (score_chemin_commun=1)
+- Avocat d’affaires (score_chemin_commun=1)
+- Procureur de la république (score_chemin_commun=1)
+- Juriste agricole (score_chemin_commun=1)
+- Juriste du sport (score_chemin_commun=1)
+- Chargé d’indemnisation (score_chemin_commun=1)
+- Responsable des achats durables (score_chemin_commun=1)
+
+PHRASES CLES
+- Juriste Droit des Espaces et Activités maritimes
+- secteur Métiers biologie et agroalimentaire
+- filiere Licence en Droit Prive
+- filiere Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement
+- filiere ماستر قانون الاعمال المنازعات والمهن القضائية SUP'H Droit
+- filiere DESA en Campagnes marocaines : hommes, espaces et développement durable - FLSH Kénitra
+- filiere Master Droit des Contentieux publics et administratifs
+- filiere Licence Droit Public SUP’H Droit
+- filiere Licence Droit des Affaires
+- filiere Master en Droit des Affaires et Management des Entreprises
+- activites
+- droit
+- maritimes
+- juriste
+- espaces
+- specialise
+- juridiques
+- maritime
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, Bac+5 / Master en Management, Ingénierie et Droit de l'Environnement, j'ai choisi le metier de Juriste Droit des Espaces et Activités maritimes. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Juriste Droit des Espaces et Activités maritimes, la progression a ete plus rapide quand j'ai renforce Juriste Droit des Espaces et Activités maritimes. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Juriste Droit des Espaces et Activités maritimes demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

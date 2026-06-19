@@ -1,0 +1,92 @@
+METIER: Journaliste
+CODE: JOURNALISTE
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Journaliste
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- filiere Licence Médias, Communication et Journalisme
+- filiere Bac+3 Communication Visuelle Art’Com Sup Rabat
+- filiere Bac+3 Communication des Organisations Art’Com Sup Rabat
+- filiere Licence & Master en Journalisme et Média
+- filiere Master en Journalisme et Communication - FLSH Tétouan
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Journaliste. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Médias, Communication et Journalisme
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Médias, Communication et Journalisme. Cette filiere ouvre un debouche direct vers le metier Journaliste. Le chemin est relie a Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Bac+3 Communication Visuelle Art’Com Sup Rabat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieur d'Art et Design Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+3 Communication Visuelle Art’Com Sup Rabat. Cette filiere ouvre un debouche direct vers le metier Journaliste. Le chemin est relie a Ecole Nationale Supérieur d'Art et Design Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Bac+3 Communication des Organisations Art’Com Sup Rabat
+- Prerequis: Non precise
+- Etablissements: Institut Superieur de l'Information et de la Communication Rabat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+3 Communication des Organisations Art’Com Sup Rabat. Cette filiere ouvre un debouche direct vers le metier Journaliste. Le chemin est relie a Institut Superieur de l'Information et de la Communication Rabat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Licence & Master en Journalisme et Média
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence & Master en Journalisme et Média. Cette filiere ouvre un debouche direct vers le metier Journaliste. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Master en Journalisme et Communication - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Journalisme et Communication - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Journaliste. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Designer (score chemin commun=2)
+- Journaliste international(e) (score chemin commun=1)
+- Scénariste (score chemin commun=1)
+- Animateur E-sport (score chemin commun=1)
+- Cyber journaliste (score chemin commun=1)
+- Opératrice en PAO (score chemin commun=1)
+- Technicien PAO (score chemin commun=1)
+- Chef d’atelier des industries graphiques (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Documentariste (score chemin commun=1)
+- Cadreur (score chemin commun=1)
+- Iconographe (score chemin commun=1)
+- Technicien d’antenne (score chemin commun=1)
+- Directeur artistique multimédia (score chemin commun=1)
+- Documentaliste multimédia (score chemin commun=1)
+- Producteur multimédia (score chemin commun=1)
+- Spécialiste en image de synthèse (score chemin commun=1)
+- Media buyer (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, Licence Médias, Communication et Journalisme, j'ai choisi le metier de Journaliste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Journaliste, la progression a ete plus rapide quand j'ai renforce Journaliste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Journaliste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

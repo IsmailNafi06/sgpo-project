@@ -1,0 +1,69 @@
+METIER: Responsable qualité en logistique
+CODE: RESPONSABLE_QUALITE_EN_LOGISTIQUE
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Responsable qualité en logistique Les principaux apports d'une démarche qualité sont la satisfaction du niveau d’exigence du client, la garantie de la qualité des produits réceptionnés et livrés, l’amélioration des processus de travail, la réduction des coûts par unité, le soutien de la croissance en maintenant la qualité des produits et des services, mais aussi la conduite de l’entreprise vers des certifications et des normes qui lui garantiront une reconnaissance sur le marché (ISO 9000, ISO 9001, ISO 45001, HACCP, OHSAS, VCA, etc.). En logistique, le responsable qualité identifie les points névralgiques de la chaîne logistique de l’entreprise qui peuvent porter atteinte à la qualité du service. Il attire l’attention des collègues sur les problèmes, les freins à l’amélioration de cette qualité. Son analyse sera focalisée sur les différentes étapes du processus logistique et les conditions de mise en œuvre en partant de la réceptio
+
+PHRASES CLES
+- Responsable qualité en logistique
+- secteur Métiers achats et approvisionnement
+- filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- filiere Licence Arts et Culture
+- qualite
+- logistique
+- responsable
+- produits
+- lamelioration
+- processus
+- lentreprise
+- principaux
+- apports
+- demarche
+- satisfaction
+- dexigence
+- client
+- garantie
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM. Cette filiere ouvre un debouche direct vers le metier Responsable qualité en logistique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Responsable qualité en logistique. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Gestionnaire de la logistique e-commerce (score chemin commun=1)
+- Chargé d’affaires bancaires en commerce international (score chemin commun=1)
+- Consultant en optimisation de la chaîne logistique (score chemin commun=1)
+- Coordinateur Logistique (score chemin commun=1)
+- Animateur logistique (score chemin commun=1)
+- Conseiller clientèle (score chemin commun=1)
+- Agent service client (score chemin commun=1)
+- Concepteur de produits durables (score chemin commun=1)
+- Technicien en impression 3D (score chemin commun=1)
+- Logisticien (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+- Marinier/Batelier (score chemin commun=1)
+- Préparateur de commande (score chemin commun=1)
+- Scripte (score chemin commun=1)
+- Le directeur de postproduction (score chemin commun=1)
+- Assistant caméra (score chemin commun=1)
+- Machino (score chemin commun=1)
+- Mixeur (score chemin commun=1)
+- Technicien du son (score chemin commun=1)
+- Consultant scénario (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM, Licence Arts et Culture, j'ai choisi le metier de Responsable qualité en logistique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable qualité en logistique, la progression a ete plus rapide quand j'ai renforce Responsable qualité en logistique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable qualité en logistique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

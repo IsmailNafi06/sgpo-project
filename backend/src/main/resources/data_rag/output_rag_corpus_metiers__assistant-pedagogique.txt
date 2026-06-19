@@ -1,0 +1,10 @@
+﻿METIER: Assistant pedagogique
+CODE: ASSISTANT_PEDAGOGIQUE
+SECTEUR: Education et culture
+
+FORMATIONS QUI Y MENENT
+- Licence Education Culture et Documentation - FLSH Rabat
+
+TEMOIGNAGE
+Chaimae, promotion 2024 :
+"Exercer comme Assistant pedagogique dans le domaine culturel au Maroc, c'est s'inscrire dans une dynamique de valorisation du patrimoine et de promotion de la création contemporaine. Ma formation en lettres et arts m'a donné les clés pour y contribuer."

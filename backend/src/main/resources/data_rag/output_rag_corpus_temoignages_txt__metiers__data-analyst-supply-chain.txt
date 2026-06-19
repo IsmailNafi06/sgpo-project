@@ -1,0 +1,9 @@
+METIER: Data Analyst Supply Chain
+CODE: DATA_ANALYST_SUPPLY_CHAIN
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master en Data Science et Intelligence Artificielle, Bachelor ESLSCA – Spécialité Data & Intelligence Artificielle (Bac+3), j'ai choisi le metier de Data Analyst Supply Chain. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Data Analyst Supply Chain, la progression a ete plus rapide quand j'ai renforce Data Analyst Supply Chain. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Data Analyst Supply Chain demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

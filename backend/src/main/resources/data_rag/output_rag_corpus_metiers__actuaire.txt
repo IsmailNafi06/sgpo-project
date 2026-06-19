@@ -1,0 +1,35 @@
+METIER: Actuaire
+CODE: ACTUAIRE
+SECTEUR: Finance
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Actuaire
+- secteur Finance
+- filiere Master Actuariat et Ingénierie Financière
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Actuariat et Ingénierie Financière
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Actuariat et Ingénierie Financière. Cette filiere ouvre un debouche direct vers le metier Actuaire. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Actuariat et Ingénierie Financière, j'ai choisi le metier de Actuaire. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Actuaire, la progression a ete plus rapide quand j'ai renforce Actuaire. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Actuaire demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

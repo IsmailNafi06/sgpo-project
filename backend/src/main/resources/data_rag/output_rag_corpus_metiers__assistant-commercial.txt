@@ -1,0 +1,35 @@
+﻿METIER: Assistant commercial
+CODE: ASSISTANT_COMMERCIAL
+SECTEUR: Commerce
+
+FORMATIONS QUI Y MENENT
+- BTS Commerce International - Centre BTS Casablanca
+- BTS Commerce International - Centre BTS Fes
+- BTS Commerce International - Centre BTS Marrakech
+- BTS Commerce International - Centre BTS Rabat
+- BTS Commerce International - ENSET Mohammedia
+- BTS Gestion de la PME - Centre BTS Casablanca
+- BTS Gestion de la PME - Centre BTS Fes
+- BTS Gestion de la PME - Centre BTS Marrakech
+- BTS Gestion de la PME - Centre BTS Rabat
+- BTS Gestion de la PME - ENSET Mohammedia
+- DUT Management des Entreprises - Ecole Superieure de Technologie Agadir
+- DUT Management des Entreprises - Ecole Superieure de Technologie Beni Mellal
+- DUT Management des Entreprises - Ecole Superieure de Technologie Casablanca
+- DUT Management des Entreprises - Ecole Superieure de Technologie Essaouira
+- DUT Management des Entreprises - Ecole Superieure de Technologie Fes
+- DUT Management des Entreprises - Ecole Superieure de Technologie Guelmim
+- DUT Management des Entreprises - Ecole Superieure de Technologie Kenitra
+- DUT Management des Entreprises - Ecole Superieure de Technologie Khenifra
+- DUT Management des Entreprises - Ecole Superieure de Technologie Khouribga
+- DUT Management des Entreprises - Ecole Superieure de Technologie Laayoune
+- DUT Management des Entreprises - Ecole Superieure de Technologie Marrakech
+- DUT Management des Entreprises - Ecole Superieure de Technologie Meknes
+- DUT Management des Entreprises - Ecole Superieure de Technologie Oujda
+- DUT Management des Entreprises - Ecole Superieure de Technologie Safi
+- DUT Management des Entreprises - Ecole Superieure de Technologie Sale
+- DUT Management des Entreprises - Ecole Superieure de Technologie Sidi Bennour
+
+TEMOIGNAGE
+Yassine, promotion 2021 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Assistant commercial. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

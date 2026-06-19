@@ -1,0 +1,14 @@
+﻿METIER: Chercheur scientifique
+CODE: CHERCHEUR_SCIENTIFIQUE
+SECTEUR: Recherche
+
+FORMATIONS QUI Y MENENT
+- Doctorat Recherche et Enseignement Superieur - Faculte des Sciences Rabat
+- Doctorat Sciences - Faculte des Sciences Rabat
+- Master Biologie Sante - Faculte des Sciences Casablanca
+- Master Chimie Appliquee - Faculte des Sciences Rabat
+- Master Geosciences - Faculte des Sciences Semlalia Marrakech
+
+TEMOIGNAGE
+Othmane, promotion 2021 :
+"Exercer comme Chercheur scientifique au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

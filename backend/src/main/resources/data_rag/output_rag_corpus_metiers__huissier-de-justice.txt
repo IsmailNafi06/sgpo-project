@@ -1,0 +1,10 @@
+﻿METIER: Huissier de justice
+CODE: HUISSIER_DE_JUSTICE
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Nadia, promotion 2021 :
+"Exercer comme Huissier de justice au Maroc demande une veille juridique constante. Ma formation universitaire en droit m'a inculqué cette habitude de recherche et d'analyse qui est devenue ma force professionnelle."

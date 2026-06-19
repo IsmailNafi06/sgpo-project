@@ -1,0 +1,35 @@
+METIER: Contrôleur aérien
+CODE: CONTROLEUR_AERIEN
+SECTEUR: Aéronautique et espace
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Contrôleur aérien
+- secteur Aéronautique et espace
+- filiere Contrôle Aérien et Navigation
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Contrôle Aérien et Navigation
+- Prerequis: Non precise
+- Etablissements: AIAC Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Contrôle Aérien et Navigation. Cette filiere ouvre un debouche direct vers le metier Contrôleur aérien. Le chemin est relie a AIAC Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Contrôle Aérien et Navigation, j'ai choisi le metier de Contrôleur aérien. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Contrôleur aérien, la progression a ete plus rapide quand j'ai renforce Contrôleur aérien. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Contrôleur aérien demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,83 @@
+METIER: Convoyeur de fonds
+CODE: CONVOYEUR_DE_FONDS
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Convoyeur de fonds Le convoyeur de fonds assure le transport et la sécurité de valeurs (billets de banque ou pièces, bijoux, titres de paiement, métaux précieux...) qui lui sont confiées par des banques, des commerces ou des administrations. Le convoyeur de fonds, comme son nom l'indique, consiste à transporter de l'argent et divers objets de valeur. Cela comprend les bijoux, les œuvres d'art, les pièces d'identité et autres objets de valeur. Contrairement à ce que vous pourriez penser, les expéditeurs ne portent pas toujours les factures aux banques. Il peut également travailler pour d'autres entreprises et particuliers. Bien entendu, les passeurs de fonds sont responsables de ce qu'ils transportent et doivent savoir quoi faire en cas de tentative de vol. Bac Niveau d'études 2.500 MAD Rémunération 3 ans Expérience Missions principales Lorsqu’il est conducteur, le convoyeur de fonds doit disposer d’une excellente vision et ne peut quitter le vola
+
+FORMATIONS QUI MENENT AU METIER
+1. BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION. Cette filiere ouvre un debouche direct vers le metier Convoyeur de fonds. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien en contrôle qualité des électrolyseurs (score_chemin_commun=1)
+- Responsable de l’approvisionnement en électrolyseurs (score_chemin_commun=1)
+- Banquier itinérant (score_chemin_commun=1)
+- Risk manager bancaire (score_chemin_commun=1)
+- Analyste KYC (Know Your Customer) (score_chemin_commun=1)
+- Analyste gouvernance (score_chemin_commun=1)
+- Opérateur en private equity (score_chemin_commun=1)
+- Conseiller en fusion acquisition (score_chemin_commun=1)
+- Inspecteur commercial (score_chemin_commun=1)
+- Chargé de clientèle particuliers (score_chemin_commun=1)
+- Spécialiste des opérations bancaires (score_chemin_commun=1)
+
+PHRASES CLES
+- Convoyeur de fonds
+- secteur Métiers banque et assurance
+- filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- fonds
+- convoyeur
+- pieces
+- bijoux
+- banques
+- objets
+- valeur
+- autres
+- peut
+- assure
+- transport
+- securite
+- valeurs
+- billets
+- banque
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Convoyeur de fonds
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Convoyeur de fonds. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Convoyeur de fonds
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Convoyeur de fonds, la progression a ete plus rapide quand j'ai renforce Convoyeur de fonds. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Convoyeur de fonds
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Convoyeur de fonds demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Technicien forestier
+CODE: TECHNICIEN_FORESTIER
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Yassine, promotion 2022 :
+"Après une formation en agronomie, j'ai rejoint une coopérative agricole comme Technicien forestier. Ce qui me plaît le plus, c'est de contribuer à la valorisation des produits locaux et au développement rural."

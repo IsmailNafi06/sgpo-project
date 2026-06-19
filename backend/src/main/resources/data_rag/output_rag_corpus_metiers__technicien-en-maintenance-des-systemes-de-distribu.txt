@@ -1,0 +1,11 @@
+﻿METIER: Technicien en maintenance des systemes de distribution d'hydrogene
+CODE: TECHNICIEN_EN_MAINTENANCE_DES_SYSTEMES_DE_DISTRIBU
+SECTEUR: Metiers des energies renouvelables
+
+FORMATIONS QUI Y MENENT
+- BTS Maintenance des Systemes de Production
+- Ingenieur en NTIC - Energies renouvelables
+
+TEMOIGNAGE
+Lamia, promotion 2024 :
+"Diplômé en génie électrique spécialisé en énergies renouvelables, j'ai rejoint un grand projet solaire comme Technicien en maintenance des systemes de distribution d'hydrogene. Le Maroc est un leader africain en énergie verte et les opportunités pour les ingénieurs du secteur sont excellentes."

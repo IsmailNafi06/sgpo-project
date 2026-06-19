@@ -1,0 +1,62 @@
+METIER: Substitut du procureur
+CODE: SUBSTITUT_DU_PROCUREUR
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Substitut du procureur Le substitut assiste le procureur du Roi, qui a pour mission de défendre l’intérêt public au sein des tribunaux. Avant de démarrer des investigations de police, l'officier de police judiciaire (OPJ) informe le substitut du procureur des faits et lui demande son autorisation pour l'ouverture d'une enquête. S'il y a lieu, le magistrat ordonne donc la création du dossier et suit de prés toutes les actions menées par les inspecteurs. Aux termes de l'enquête, le substitut du procureur plaide devant le tribunal. Ce magistrat du parquet émet des réquisitions de peine contre le ou les accusés. Son travail est distinct de celui des juges car il ne prend pas part aux délibérations et décisions de justice. Lors de procès médiatiques, le substitut du procureur est amené à communiquer avec la presse afin de ne pas laisser la place aux fausses informations et aux rumeurs. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience
+
+PHRASES CLES
+- Substitut du procureur
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- substitut
+- procureur
+- police
+- enquete
+- magistrat
+- assiste
+- mission
+- defendre
+- linteret
+- public
+- sein
+- tribunaux
+- avant
+- demarrer
+- investigations
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Substitut du procureur. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Agent d’Immigration (score chemin commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score chemin commun=1)
+- Inspecteur des douanes (score chemin commun=1)
+- Juge aux affaires familiales (score chemin commun=1)
+- Administrateur judiciaire (score chemin commun=1)
+- Juge pour enfants (score chemin commun=1)
+- Flasheur (score chemin commun=1)
+- Juriste en droit de l’environnement (score chemin commun=1)
+- Juriste dans l’immobilier (score chemin commun=1)
+- Fiscaliste (score chemin commun=1)
+- Responsable legs (score chemin commun=1)
+- Directeur des services de greffe judiciaires (score chemin commun=1)
+- Avocat d’affaires (score chemin commun=1)
+- Procureur de la république (score chemin commun=1)
+- Juriste agricole (score chemin commun=1)
+- Juriste du sport (score chemin commun=1)
+- Chargé d’indemnisation (score chemin commun=1)
+- Responsable des achats durables (score chemin commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score chemin commun=1)
+- Avocat (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, j'ai choisi le metier de Substitut du procureur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Substitut du procureur, la progression a ete plus rapide quand j'ai renforce Substitut du procureur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Substitut du procureur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

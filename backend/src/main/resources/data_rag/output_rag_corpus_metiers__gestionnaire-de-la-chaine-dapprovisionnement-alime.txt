@@ -1,0 +1,11 @@
+﻿METIER: Gestionnaire de la chaine d'approvisionnement alimentaire
+CODE: GESTIONNAIRE_DE_LA_CHAINE_DAPPROVISIONNEMENT_ALIME
+SECTEUR: Metiers achats et approvisionnement
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Alimentaire Ecole Polytechnique Agadir
+- Licence en Sciences Infirmieres - ISPITS Rabat
+
+TEMOIGNAGE
+Yassine, promotion 2023 :
+"Exercer comme Gestionnaire de la chaine d'approvisionnement alimentaire au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

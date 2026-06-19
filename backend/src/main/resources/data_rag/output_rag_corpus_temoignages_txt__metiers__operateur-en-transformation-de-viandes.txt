@@ -1,0 +1,9 @@
+METIER: Opérateur en transformation de viandes
+CODE: OPERATEUR_EN_TRANSFORMATION_DE_VIANDES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Opérateur en transformation de viandes. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Opérateur en transformation de viandes, la progression a ete plus rapide quand j'ai renforce Opérateur en transformation de viandes. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Opérateur en transformation de viandes demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

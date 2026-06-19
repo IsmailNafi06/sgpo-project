@@ -1,0 +1,10 @@
+﻿METIER: Dessinateur projeteur
+CODE: DESSINATEUR_PROJETEUR
+SECTEUR: BTP
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise BTP et Chantier - ISTA Marrakech
+
+TEMOIGNAGE
+Mehdi, promotion 2024 :
+"Après ma formation d'ingénieur en génie civil, j'ai intégré un bureau d'études comme Dessinateur projeteur. Le secteur BTP marocain est soutenu par de grands chantiers d'infrastructure, notamment les projets liés à la Coupe du Monde 2030."

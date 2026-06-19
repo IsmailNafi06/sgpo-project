@@ -1,0 +1,10 @@
+﻿METIER: Technicien traitement des eaux
+CODE: TECHNICIEN_TRAITEMENT_DES_EAUX
+SECTEUR: Environnement et energies
+
+FORMATIONS QUI Y MENENT
+- Licence Environnement Energies et Mines - FST Marrakech
+
+TEMOIGNAGE
+Yassine, promotion 2021 :
+"Exercer comme Technicien traitement des eaux dans le secteur environnemental est une véritable vocation. Au Maroc, les politiques publiques de développement durable ouvrent de nouvelles portes pour les professionnels de l'environnement."

@@ -1,0 +1,61 @@
+METIER: Analyste en données géospatiales
+CODE: ANALYSTE_EN_DONNEES_GEOSPATIALES
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Analyste en données géospatiales L'Analyste en Données Géospatiales est un professionnel spécialisé dans l'exploitation et l'analyse de données liées à la géolocalisation et à la cartographie. Son rôle consiste à collecter, traiter et interpréter des informations géographiques pour en extraire des insights pertinents. Travaillant avec des logiciels de cartographie et des outils de SIG (Systèmes d'Information Géographique), l'analyste crée des cartes interactives, des modèles de données spatiales et des visualisations pour aider à la prise de décisions dans divers domaines tels que l'urbanisme, la gestion de l'environnement, les transports, etc. Un niveau solide en géomatique, en analyse de données et en programmation est essentiel pour réussir dans ce métier. Une capacité à interpréter les données spatiales de manière stratégique est également cruciale pour fournir des informations exploitables. Bac + 3 Niveau d'études 10.000 MAD Rém
+
+PHRASES CLES
+- Analyste en données géospatiales
+- secteur Métiers de l’informatique et système d’information
+- filiere Master IA
+- donnees
+- analyste
+- geospatiales
+- analyse
+- cartographie
+- interpreter
+- informations
+- spatiales
+- professionnel
+- specialise
+- exploitation
+- liees
+- geolocalisation
+- role
+- consiste
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Analyste en données géospatiales. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Spécialiste en Surveillance Environnementale (score chemin commun=1)
+- Concepteur Web design (score chemin commun=1)
+- Expert en modélisation 3D (score chemin commun=1)
+- Expert en sécurité des données biométriques (score chemin commun=1)
+- Consultant en éthique des algorithmes (score chemin commun=1)
+- Consultant en transformation numérique des PME (score chemin commun=1)
+- Développeur de solutions e-learning (score chemin commun=1)
+- Analyste en sécurité des objets connectés (score chemin commun=1)
+- Ingénieur en réalité augmentée (score chemin commun=1)
+- médiateur numérique (score chemin commun=1)
+- Développeur de solutions blockchain (score chemin commun=1)
+- Régulateur de trafic ferroviaire (score chemin commun=1)
+- Media buyer (score chemin commun=1)
+- Cyber journaliste (score chemin commun=1)
+- Spécialiste en déploiement de bornes EV (score chemin commun=1)
+- Spécialiste en intégration de l’hydrogène dans les réseaux électriques (score chemin commun=1)
+- Data Scientist (score chemin commun=1)
+- Deep Learning Engineer (score chemin commun=1)
+- Ingenieur cybersecurite (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master IA, j'ai choisi le metier de Analyste en données géospatiales. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste en données géospatiales, la progression a ete plus rapide quand j'ai renforce Analyste en données géospatiales. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste en données géospatiales demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

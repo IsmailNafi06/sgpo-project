@@ -1,0 +1,10 @@
+﻿METIER: Specialiste des communications pour l'industrie de l'hydrogene vert
+CODE: SPECIALISTE_DES_COMMUNICATIONS_POUR_LINDUSTRIE_DE_
+SECTEUR: Metiers des energies renouvelables
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en Agro-Industrie - Marches, Filieres et Management d'Entreprises
+
+TEMOIGNAGE
+Mehdi, promotion 2023 :
+"Diplômé en génie électrique spécialisé en énergies renouvelables, j'ai rejoint un grand projet solaire comme Specialiste des communications pour l'industrie de l'hydrogene vert. Le Maroc est un leader africain en énergie verte et les opportunités pour les ingénieurs du secteur sont excellentes."

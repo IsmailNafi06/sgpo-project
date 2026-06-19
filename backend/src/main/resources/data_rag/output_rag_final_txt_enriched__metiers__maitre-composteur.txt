@@ -1,0 +1,78 @@
+METIER: Maître-composteur
+CODE: MAITRE_COMPOSTEUR
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Maître-composteur Le maître-composteur est un professionnel spécialisé dans la gestion et la promotion du compostage, un processus naturel de décomposition des matières organiques pour obtenir un amendement riche en nutriments pour les sols. Son rôle principal est de sensibiliser et d'accompagner les individus, les collectivités et les entreprises dans la pratique du compostage. Le maître-composteur anime des ateliers et des formations pour expliquer les principes du compostage, prodigue des conseils sur les bonnes pratiques, et aide à résoudre les problèmes éventuels. Il joue un rôle de conseil en adaptant les techniques de compostage aux besoins spécifiques de chaque contexte (urbain, rural, collectif, individuel, etc.). En outre, le maître-composteur est un acteur clé dans la promotion de l'économie circulaire et de la gestion durable des déchets organiques. Il contribue à réduire les déchets mis en décharge, à améliorer la qualité des sols, et
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Sciences Infirmieres - ISPITS Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Sciences Infirmieres - ISPITS Rabat
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Sciences Infirmieres - ISPITS Rabat. Cette filiere ouvre un debouche direct vers le metier Maître-composteur. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Infirmier polyvalent (score_chemin_commun=1)
+- Gestionnaire de la chaîne d’approvisionnement alimentaire (score_chemin_commun=1)
+- Technologue alimentaire (score_chemin_commun=1)
+- Chargé de développement agricole en circuit court (score_chemin_commun=1)
+- Ingénieur(e) en analyse de l’air (score_chemin_commun=1)
+- Conseiller en agro-développement international (score_chemin_commun=1)
+
+PHRASES CLES
+- Maître-composteur
+- secteur Métiers biologie et agroalimentaire
+- filiere Licence en Sciences Infirmieres - ISPITS Rabat
+- maitre
+- composteur
+- compostage
+- gestion
+- promotion
+- organiques
+- sols
+- role
+- dechets
+- professionnel
+- specialise
+- processus
+- naturel
+- decomposition
+- matieres
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Maître-composteur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Sciences Infirmieres - ISPITS Rabat, j'ai choisi le metier de Maître-composteur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Maître-composteur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Maître-composteur, la progression a ete plus rapide quand j'ai renforce Maître-composteur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Maître-composteur
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Maître-composteur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Regisseur lumiere
+CODE: REGISSEUR_LUMIERE
+SECTEUR: Arts communication et services
+
+FORMATIONS QUI Y MENENT
+- Technicien Audiovisuel Communication et Evenementiel - ISMAC Rabat
+
+TEMOIGNAGE
+Zineb, promotion 2021 :
+"Travailler comme Regisseur lumiere dans les services au Maroc, c'est évoluer dans un secteur en constante évolution. Ma formation m'a appris l'importance de la relation client et de la capacité d'adaptation aux besoins changeants."

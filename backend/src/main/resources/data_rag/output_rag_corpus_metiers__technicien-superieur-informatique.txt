@@ -1,0 +1,30 @@
+﻿METIER: Technicien superieur en informatique
+CODE: TECHNICIEN_SUPERIEUR_INFORMATIQUE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Casablanca
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Fes
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Marrakech
+- BTS Systemes Numeriques option Informatique et Reseaux - Centre BTS Rabat
+- BTS Systemes Numeriques option Informatique et Reseaux - ENSET Mohammedia
+- DUT Genie Informatique
+- DUT Genie Informatique - Ecole Superieure de Technologie Agadir
+- DUT Genie Informatique - Ecole Superieure de Technologie Beni Mellal
+- DUT Genie Informatique - Ecole Superieure de Technologie Fes
+- DUT Genie Informatique - Ecole Superieure de Technologie Guelmim
+- DUT Genie Informatique - Ecole Superieure de Technologie Khenifra
+- DUT Genie Informatique - Ecole Superieure de Technologie Khouribga
+- DUT Genie Informatique - Ecole Superieure de Technologie Laayoune
+- DUT Genie Informatique - Ecole Superieure de Technologie Marrakech
+- DUT Genie Informatique - Ecole Superieure de Technologie Meknes
+- DUT Genie Informatique - Ecole Superieure de Technologie Oujda
+- DUT Genie Informatique - Ecole Superieure de Technologie Safi
+- DUT Genie Informatique - Ecole Superieure de Technologie Sale
+- DUT Genie Informatique - Ecole Superieure de Technologie Sidi Bennour
+- DUT Genie Informatique - EST Casablanca
+- Licence Informatique - Faculte des Sciences Rabat
+
+TEMOIGNAGE
+Houda, promotion 2024 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Technicien superieur en informatique dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

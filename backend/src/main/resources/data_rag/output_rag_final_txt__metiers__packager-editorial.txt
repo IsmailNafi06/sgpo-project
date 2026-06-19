@@ -1,0 +1,48 @@
+METIER: Packager éditorial
+CODE: PACKAGER_EDITORIAL
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Packager éditorial Le packager éditorial conçoit, coordonne et/ou réalise des livres sur mesure, sur support papier ou en ligne, à la demande d'une maison d'édition ou d'une agence de communication. Il exerce généralement dans une agence éditoriale, une société de services dans l'édition. Il peut travailler sur commande, en appliquant un cahier des charges établi en amont par l'éditeur. Dans ce cas, il ne fait appel qu'aux collaborateurs dont il a besoin pour les étapes qu'il prend en charge: maquettiste, illustrateur, correcteur… Mais le packager édititorial peut aussi soumettre lui-même une idée originale à un éditeur. Dans ce cas, il propose une réalisation clés en main et investit un budget dans la conception, la réalisation et la fabrication de l'ouvrage. Ensuite, le livre est vendu à l'éditeur, qui le distribuera en son nom. Bac + 2 Niveau d'études 6.000 MAD Rémunération 3 ans Expérience Missions principales Sélectionne les nouveaux projets
+
+FORMATIONS QUI MENENT AU METIER
+1. Master M1 & M2 de l'ESJC
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master M1 & M2 de l'ESJC
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master M1 & M2 de l'ESJC. Cette filiere ouvre un debouche direct vers le metier Packager éditorial. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Agent d’exploitation des équipements audiovisuels (score_chemin_commun=1)
+- Ingénieur du son (score_chemin_commun=1)
+
+PHRASES CLES
+- Packager éditorial
+- secteur Métiers de l’édition et du journalisme
+- filiere Master M1 & M2 de l'ESJC
+- packager
+- editeur
+- editorial
+- edition
+- agence
+- peut
+- realisation
+- concoit
+- coordonne
+- realise
+- livres
+- mesure
+- support
+- papier
+- ligne
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master M1 & M2 de l'ESJC, j'ai choisi le metier de Packager éditorial. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Packager éditorial, la progression a ete plus rapide quand j'ai renforce Packager éditorial. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Packager éditorial demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

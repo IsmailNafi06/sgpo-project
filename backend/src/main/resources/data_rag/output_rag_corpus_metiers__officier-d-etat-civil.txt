@@ -1,0 +1,10 @@
+﻿METIER: Officier d etat civil
+CODE: OFFICIER_D_ETAT_CIVIL
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Omar, promotion 2021 :
+"Après ma licence en droit à l'Université Mohammed V, j'ai suivi une spécialisation qui m'a conduit vers le métier de Officier d etat civil. La rigueur juridique acquise durant mes études est au cœur de mon travail quotidien."

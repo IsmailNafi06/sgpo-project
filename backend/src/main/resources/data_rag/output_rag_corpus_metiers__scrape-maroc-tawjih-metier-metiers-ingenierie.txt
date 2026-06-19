@@ -1,0 +1,10 @@
+﻿METIER: Metiers Ingenierie
+CODE: SCRAPE_MAROC_TAWJIH_METIER_METIERS_INGENIERIE
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Lamia, promotion 2024 :
+"Après ma licence en informatique à l'ENSIAS, j'ai décroché mon premier poste de Metiers Ingenierie dans une ESN casablancaise avec un salaire de 9 000 MAD. La demande du marché marocain est forte, surtout pour les profils avec une expérience en projets concrets."

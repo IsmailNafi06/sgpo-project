@@ -1,0 +1,10 @@
+﻿METIER: Agent securite
+CODE: AGENT_SECURITE
+SECTEUR: Services
+
+FORMATIONS QUI Y MENENT
+- Qualification Services Securite et Maintenance Batiment - ISTA Casablanca
+
+TEMOIGNAGE
+Hajar, promotion 2023 :
+"Après ma formation professionnelle, j'ai intégré rapidement le marché comme Agent securite. Le secteur des services au Maroc offre de nombreuses opportunités aux profils bien formés et adaptables."

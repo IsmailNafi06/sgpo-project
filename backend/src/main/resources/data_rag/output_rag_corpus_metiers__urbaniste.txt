@@ -1,0 +1,16 @@
+﻿METIER: Urbaniste
+CODE: URBANISTE
+SECTEUR: Architecture
+
+FORMATIONS QUI Y MENENT
+- Diplome Architecte - Ecole Nationale d Architecture Agadir
+- Diplome Architecte - Ecole Nationale d Architecture Casablanca
+- Diplome Architecte - Ecole Nationale d Architecture Fes
+- Diplome Architecte - Ecole Nationale d Architecture Marrakech
+- Diplome Architecte - Ecole Nationale d Architecture Oujda
+- Diplome Architecte - Ecole Nationale d Architecture Rabat
+- Diplome Architecte - Ecole Nationale d Architecture Tetouan
+
+TEMOIGNAGE
+Rim, promotion 2022 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Urbaniste. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

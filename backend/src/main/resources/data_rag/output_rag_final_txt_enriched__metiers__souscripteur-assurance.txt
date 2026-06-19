@@ -1,0 +1,100 @@
+METIER: Souscripteur assurance
+CODE: SOUSCRIPTEUR_ASSURANCE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Souscripteur assurance Le souscripteur en assurances collectives élabore, négocie et assure le suivi de contrats collectifs d’assurance (prévoyance, santé, vie, épargne retraite) souscrits par des entreprises à l’intention de leur personnel (décès, invalidité-incapacité, perte d’emploi). Il analyse leurs besoins et évalue les risques à assurer, propose une offre de souscription avec tarification et conditions contractuelles, puis participe à la finalisation du contrat. Bac + 4 Niveau d'études 4.000 MAD Rémunération 3 ans Expérience Missions principales Étudier les appels d’offres ou les cahiers des charges des clients transmis par les inspecteurs commerciaux Analyser, sous un angle statistique et juridique, chaque risque à assurer et vérifier dans quelle mesure il peut être garanti Définir les conditions de souscription dans lesquelles les risques peuvent être assurés et réassurés Prendre part à la rédaction de documents contractuels Suivre la
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence d'État français | Assurance Banque Finance
+2. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence d'État français | Assurance Banque Finance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d'État français | Assurance Banque Finance. Cette filiere ouvre un debouche direct vers le metier Souscripteur assurance. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Souscripteur assurance. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Expert MOA banque F/H (score_chemin_commun=1)
+- Courtier en banque (score_chemin_commun=1)
+- Agent administratif en banque (score_chemin_commun=1)
+- Responsable d’équipe commerciale ( Assurance) (score_chemin_commun=1)
+- Ingénieur préventionniste assurance (score_chemin_commun=1)
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+
+PHRASES CLES
+- Souscripteur assurance
+- secteur Métiers banque et assurance
+- filiere Licence d'État français | Assurance Banque Finance
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- souscripteur
+- risques
+- assurer
+- souscription
+- conditions
+- assurance
+- assurances
+- collectives
+- elabore
+- negocie
+- assure
+- suivi
+- contrats
+- collectifs
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Souscripteur assurance
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d'État français | Assurance Banque Finance, Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Souscripteur assurance. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Souscripteur assurance
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Souscripteur assurance, la progression a ete plus rapide quand j'ai renforce Souscripteur assurance. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Souscripteur assurance
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Souscripteur assurance demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

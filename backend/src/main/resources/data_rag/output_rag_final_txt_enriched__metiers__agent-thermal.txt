@@ -1,0 +1,89 @@
+METIER: Agent thermal
+CODE: AGENT_THERMAL
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Agent thermal L’agent thermal n’est ni un médecin ni un kinésithérapeute mais ses prestations peuvent concerner plusieurs pathologies: rhumatologie, voies respiratoires, dermatologie, phlébologie, neurologie… Exerçant au sein des centres de balnéothérapie ou de thalassothérapie, son rôle consiste à appliquer les soins prescrits par le médecin, à rééduquer, à embellir et à détendre les curistes ou les clients particuliers en appliquant l’ensemble des techniques thermales: jets, bains, douches, compresses, gargarismes, inhalations, et même boue font partie des nombreuses techniques utilisées par ce praticien. L'agent thermal peut également participer à des soins réalisés par des professionnels de santé: massages à sec ou sous l’eau, lavages et drainages des sinus, sophrologie, relaxation… Bac + 2 Niveau d'études 3.125 MAD Rémunération 2 ans Expérience Missions principales Préparation des bains, des huiles, des algues ou des boues; Préparation des appa
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Arts culinaires
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Agent thermal. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Organisateur de conférence (score_chemin_commun=1)
+- Consultant en voyages éthiques (score_chemin_commun=1)
+- Accompagnateur de montagne (score_chemin_commun=1)
+- Pizzaïolo (score_chemin_commun=1)
+- Cuisiniste (score_chemin_commun=1)
+- Administrateur des monuments historiques (score_chemin_commun=1)
+- Majordome (score_chemin_commun=1)
+- Équipier en restaurant rapide (score_chemin_commun=1)
+- Directeur Restauration rapide (score_chemin_commun=1)
+- Veilleur de nuit (score_chemin_commun=1)
+- Concierge d’hôtel (score_chemin_commun=1)
+- Sommelier (score_chemin_commun=1)
+- Plongeur (score_chemin_commun=1)
+- Lingère (score_chemin_commun=1)
+- Gouvernante (score_chemin_commun=1)
+- Commis de cuisine (score_chemin_commun=1)
+- Responsable conférences et banquets (score_chemin_commun=1)
+
+PHRASES CLES
+- Agent thermal
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- thermal
+- agent
+- medecin
+- soins
+- techniques
+- bains
+- preparation
+- lagent
+- nest
+- kinesitherapeute
+- prestations
+- peuvent
+- concerner
+- plusieurs
+- pathologies
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Agent thermal
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, j'ai choisi le metier de Agent thermal. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Agent thermal
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Agent thermal, la progression a ete plus rapide quand j'ai renforce Agent thermal. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Agent thermal
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Agent thermal demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,30 @@
+﻿METIER: Technicien genie electrique
+CODE: TECHNICIEN_GENIE_ELECTRIQUE
+SECTEUR: Ingenierie
+
+FORMATIONS QUI Y MENENT
+- BTS Electrotechnique - Centre BTS Casablanca
+- BTS Electrotechnique - Centre BTS Fes
+- BTS Electrotechnique - Centre BTS Marrakech
+- BTS Electrotechnique - Centre BTS Rabat
+- BTS Electrotechnique - ENSET Mohammedia
+- DUT Genie Electrique - Ecole Superieure de Technologie Agadir
+- DUT Genie Electrique - Ecole Superieure de Technologie Beni Mellal
+- DUT Genie Electrique - Ecole Superieure de Technologie Casablanca
+- DUT Genie Electrique - Ecole Superieure de Technologie Essaouira
+- DUT Genie Electrique - Ecole Superieure de Technologie Fes
+- DUT Genie Electrique - Ecole Superieure de Technologie Guelmim
+- DUT Genie Electrique - Ecole Superieure de Technologie Kenitra
+- DUT Genie Electrique - Ecole Superieure de Technologie Khenifra
+- DUT Genie Electrique - Ecole Superieure de Technologie Khouribga
+- DUT Genie Electrique - Ecole Superieure de Technologie Laayoune
+- DUT Genie Electrique - Ecole Superieure de Technologie Marrakech
+- DUT Genie Electrique - Ecole Superieure de Technologie Meknes
+- DUT Genie Electrique - Ecole Superieure de Technologie Oujda
+- DUT Genie Electrique - Ecole Superieure de Technologie Safi
+- DUT Genie Electrique - Ecole Superieure de Technologie Sale
+- DUT Genie Electrique - Ecole Superieure de Technologie Sidi Bennour
+
+TEMOIGNAGE
+Soufiane, promotion 2021 :
+"Diplômé d'une grande école d'ingénieurs marocaine, j'exerce comme Technicien genie electrique dans un bureau d'études international. La formation d'ingénieur au Maroc est reconnue et ouvre des portes aussi bien localement qu'à l'étranger."

@@ -1,0 +1,10 @@
+﻿METIER: Operateur machine
+CODE: OPERATEUR_MACHINE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Hamza, promotion 2021 :
+"Mon cursus en génie mécanique m'a préparé au métier de Operateur machine. L'industrie marocaine se modernise rapidement avec l'arrivée de grands donneurs d'ordre internationaux, et les ingénieurs locaux sont très demandés."

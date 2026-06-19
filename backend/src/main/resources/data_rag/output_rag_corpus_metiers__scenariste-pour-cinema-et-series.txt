@@ -1,0 +1,52 @@
+METIER: Scénariste pour cinéma et séries
+CODE: SCENARISTE_POUR_CINEMA_ET_SERIES
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Scénariste pour cinéma et séries Le métier de scénariste pour le cinéma et séries consiste à créer les histoires, les dialogues et la structure narrative des productions cinématographiques et télévisuelles. C'est une personne capable de concevoir et d'écrire des scénarios pour séries télévisées soit comme auteur free lance, soit comme membre d'une équipe de production, d'une société de télévision. Il sera également capable d'écrire des scénarios pour le cinéma. Un script correspond au texte écrit d'une pièce ou d'un film; texte à la disposition des acteurs, du metteur en scène et du réalisateur. Les personnes possédant le sens de l'écriture filmique possède de profondes connaissances dans une langue et maîtrise le sens de la communication orale. Ses qualités sont très recherchées car elles sont une des composantes essentielles de la réussite des œuvres produites. Aujourd'hui l'écriture de scénario exige une préparation spécif
+
+PHRASES CLES
+- Scénariste pour cinéma et séries
+- secteur Métiers art et design
+- filiere Master Tourisme Culturel et Valorisation du Patrimoine
+- cinema
+- series
+- scenariste
+- capable
+- ecrire
+- scenarios
+- soit
+- texte
+- sens
+- ecriture
+- consiste
+- creer
+- histoires
+- dialogues
+- structure
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Tourisme Culturel et Valorisation du Patrimoine
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Tourisme Culturel et Valorisation du Patrimoine. Cette filiere ouvre un debouche direct vers le metier Scénariste pour cinéma et séries. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Monteur (score chemin commun=1)
+- Chef monteur (score chemin commun=1)
+- Assistant monteur (score chemin commun=1)
+- Directeur de la photographie (score chemin commun=1)
+- Étalonneur (score chemin commun=1)
+- Électro (score chemin commun=1)
+- Monteur son (score chemin commun=1)
+- Assistant à la réalisation (score chemin commun=1)
+- Designer de jardins verticaux (score chemin commun=1)
+- Stratège Tendances Mode (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Tourisme Culturel et Valorisation du Patrimoine, j'ai choisi le metier de Scénariste pour cinéma et séries. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Scénariste pour cinéma et séries, la progression a ete plus rapide quand j'ai renforce Scénariste pour cinéma et séries. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Scénariste pour cinéma et séries demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

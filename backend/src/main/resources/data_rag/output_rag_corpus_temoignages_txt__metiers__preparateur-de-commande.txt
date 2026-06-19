@@ -1,0 +1,9 @@
+METIER: Préparateur de commande
+CODE: PREPARATEUR_DE_COMMANDE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts et Culture, Passerelle sectorielle vers Préparateur de commande, j'ai choisi le metier de Préparateur de commande. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Préparateur de commande, la progression a ete plus rapide quand j'ai renforce Préparateur de commande. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Préparateur de commande demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

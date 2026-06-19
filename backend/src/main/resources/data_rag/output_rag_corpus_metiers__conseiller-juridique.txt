@@ -1,0 +1,10 @@
+﻿METIER: Conseiller juridique
+CODE: CONSEILLER_JURIDIQUE
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Hicham, promotion 2022 :
+"Mon parcours en droit des affaires m'a préparé à exercer comme Conseiller juridique. Au Maroc, ce secteur est en pleine structuration et les opportunités se multiplient, notamment dans les grandes entreprises et les cabinets."

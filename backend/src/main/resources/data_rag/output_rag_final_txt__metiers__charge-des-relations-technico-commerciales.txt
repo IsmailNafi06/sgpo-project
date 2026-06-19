@@ -1,0 +1,47 @@
+METIER: Chargé des relations technico-commerciales
+CODE: CHARGE_DES_RELATIONS_TECHNICO_COMMERCIALES
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Chargé des relations technico-commerciales Le Chargé des relations technico-commerciales connaît toutes les techniques de prospection et de négociation nécessaires à la vente. Il a une connaissance pointue du produit ou service qu’il propose à ses clients et en connaît toutes les caractéristiques et les éléments techniques. Cela lui permet d’apporter des solutions pertinentes et adaptées aux besoins de ses clients. Le Chargé des relations technico-commerciales intervient tout au long du cycle de vente. Selon son employeur, il assure des relations B to B et/ou B to C. Une grande partie de son travail se fait sur le terrain, auprès de la clientèle. Bac + 3 Niveau d'études 4.500 MAD Rémunération 3 ans Expérience Missions principales Participer à l’élaboration des objectifs du plan de marchéage de l’entreprise; Participer à la mise en œuvre ce plan de marchéage; Réaliser des activités de prospection des marchés et des clients
+
+FORMATIONS QUI MENENT AU METIER
+1. Prépas Économiques et Commerciales
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Prépas Économiques et Commerciales
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agadir
+- Indicateurs: taux_reussite=69.1%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Prépas Économiques et Commerciales. Cette filiere ouvre un debouche direct vers le metier Chargé des relations technico-commerciales. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agadir. Indicateurs du parcours: taux de reussite estime: 69.1%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Chargé des relations technico-commerciales
+- secteur Métier du commerce et vente
+- filiere Prépas Économiques et Commerciales
+- relations
+- charge
+- technico
+- commerciales
+- clients
+- connait
+- toutes
+- techniques
+- prospection
+- vente
+- participer
+- plan
+- marcheage
+- negociation
+- necessaires
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Prépas Économiques et Commerciales, j'ai choisi le metier de Chargé des relations technico-commerciales. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé des relations technico-commerciales, la progression a ete plus rapide quand j'ai renforce Chargé des relations technico-commerciales. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé des relations technico-commerciales demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

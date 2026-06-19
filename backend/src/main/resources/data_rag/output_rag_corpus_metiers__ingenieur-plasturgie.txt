@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur plasturgie
+CODE: INGENIEUR_PLASTURGIE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Genie Plasturgie - ENSAM Casablanca
+
+TEMOIGNAGE
+Amine, promotion 2022 :
+"Mon cursus en génie mécanique m'a préparé au métier de Ingenieur plasturgie. L'industrie marocaine se modernise rapidement avec l'arrivée de grands donneurs d'ordre internationaux, et les ingénieurs locaux sont très demandés."

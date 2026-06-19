@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur en gestion de l'energie pour les systemes a hydrogene
+CODE: INGENIEUR_EN_GESTION_DE_LENERGIE_POUR_LES_SYSTEMES
+SECTEUR: Metiers de l'electrique
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en NTIC - Energies renouvelables
+
+TEMOIGNAGE
+Houda, promotion 2022 :
+"Exercer comme Ingenieur en gestion de l'energie pour les systemes a hydrogene dans le secteur électrique au Maroc est un métier d'avenir. Avec le développement des smart grids et des énergies renouvelables, les compétences en électricité sont de plus en plus recherchées."

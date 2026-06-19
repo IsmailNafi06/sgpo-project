@@ -1,0 +1,57 @@
+METIER: Opérateur en private equity
+CODE: OPERATEUR_EN_PRIVATE_EQUITY
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Opérateur en private equity L’ Opérateur en private equity manipule actions et obligations pour élaborer des instruments financiers complexes qui permettront aux entreprises de lever des fonds sur les marchés ou d’effectuer des opérations de croissance externe. L’ Opérateur en private equity dépend généralement d’un directeur d’investissement. Chargé de scruter les comptes des sociétés ciblées par ce dernier et si les résultats de son analyse s’avèrent encourageants et que le deal se concrétise Il peut alors intervenir lors de la phase d’exécution. Bac + 5 Niveau d'études 20.000 MAD Rémunération 5 ans Expérience Missions principales Assister les analystes seniors dans l’identification, l’analyse et la recommandation de fonds de private equity Contribuer au suivi général des sociétés en portefeuille (revue et analyse des reportings et comptes) et participer à la valorisation trimestrielle des sociétés en portefeuille; Modéliser les busine
+
+FORMATIONS QUI MENENT AU METIER
+1. BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION. Cette filiere ouvre un debouche direct vers le metier Opérateur en private equity. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien en contrôle qualité des électrolyseurs (score_chemin_commun=1)
+- Responsable de l’approvisionnement en électrolyseurs (score_chemin_commun=1)
+- Banquier itinérant (score_chemin_commun=1)
+- Risk manager bancaire (score_chemin_commun=1)
+- Analyste KYC (Know Your Customer) (score_chemin_commun=1)
+- Analyste gouvernance (score_chemin_commun=1)
+- Conseiller en fusion acquisition (score_chemin_commun=1)
+- Convoyeur de fonds (score_chemin_commun=1)
+- Inspecteur commercial (score_chemin_commun=1)
+- Chargé de clientèle particuliers (score_chemin_commun=1)
+- Spécialiste des opérations bancaires (score_chemin_commun=1)
+
+PHRASES CLES
+- Opérateur en private equity
+- secteur Métiers banque et assurance
+- filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- private
+- equity
+- operateur
+- societes
+- fonds
+- comptes
+- analyse
+- portefeuille
+- manipule
+- actions
+- obligations
+- elaborer
+- instruments
+- financiers
+- complexes
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Opérateur en private equity. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Opérateur en private equity, la progression a ete plus rapide quand j'ai renforce Opérateur en private equity. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Opérateur en private equity demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

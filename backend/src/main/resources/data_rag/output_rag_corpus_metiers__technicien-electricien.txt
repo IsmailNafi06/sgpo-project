@@ -1,0 +1,15 @@
+﻿METIER: Technicien electricien
+CODE: TECHNICIEN_ELECTRICIEN
+SECTEUR: Electricite
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Electricite et Maintenance - ISTA Agadir
+- Technicien Specialise Electricite et Maintenance - ISTA Casablanca
+- Technicien Specialise Electricite et Maintenance - ISTA Fes
+- Technicien Specialise Electricite et Maintenance - ISTA Marrakech
+- Technicien Specialise Electricite et Maintenance - ISTA Rabat
+- Technicien Specialise Electricite et Maintenance - ISTA Tanger
+
+TEMOIGNAGE
+Samira, promotion 2021 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Technicien electricien. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

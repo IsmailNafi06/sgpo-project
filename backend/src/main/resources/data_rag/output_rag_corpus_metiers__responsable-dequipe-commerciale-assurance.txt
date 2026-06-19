@@ -1,0 +1,54 @@
+METIER: Responsable d’équipe commerciale ( Assurance)
+CODE: RESPONSABLE_DEQUIPE_COMMERCIALE_ASSURANCE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Responsable d’équipe commerciale ( Assurance) Le responsable d’équipe commerciale gère et anime une équipe de conseillers commerciaux, dans le but de réaliser les objectifs fixés par l’entreprise. Par ailleurs, Il développe l’activité et assure la fidélisation des clients. Ses missions: Management et développement de l’équipe et le développement commercial: Encadrer, superviser et accompagner les collaborateurs dans leurs activités quotidiennes. Piloter l’activité commerciale de ses équipes. Accompagner chaque collaborateur dans sa montée en compétences. Mettre en place et animer les formations professionnelles de ses collaborateurs. Assurer l’interface entre le terrain commercial et la direction de l’entreprise. Procéder au recrutement des nouveaux collaborateurs. Participer à l’élaboration de la stratégie commerciale de l’entreprise relative au secteur dont il a la charge. Élaborer et mettre en œuvre des plans d’action
+
+PHRASES CLES
+- Responsable d’équipe commerciale ( Assurance)
+- secteur Métiers banque et assurance
+- filiere Licence d'État français | Assurance Banque Finance
+- filiere Licence Administration des Entreprises option Gestion Commerciale ISIAM
+- commerciale
+- lentreprise
+- collaborateurs
+- responsable
+- dequipe
+- lactivite
+- developpement
+- commercial
+- accompagner
+- mettre
+- assurance
+- gere
+- anime
+- equipe
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence d'État français | Assurance Banque Finance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.3%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d'État français | Assurance Banque Finance. Cette filiere ouvre un debouche direct vers le metier Responsable d’équipe commerciale ( Assurance). Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.3%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Administration des Entreprises option Gestion Commerciale ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=80.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Administration des Entreprises option Gestion Commerciale ISIAM. Cette filiere ouvre un debouche direct vers le metier Responsable d’équipe commerciale ( Assurance). Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 80.8%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Expert MOA banque F/H (score chemin commun=1)
+- Courtier en banque (score chemin commun=1)
+- Agent administratif en banque (score chemin commun=1)
+- Ingénieur préventionniste assurance (score chemin commun=1)
+- Souscripteur assurance (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d'État français | Assurance Banque Finance, Licence Administration des Entreprises option Gestion Commerciale ISIAM, j'ai choisi le metier de Responsable d’équipe commerciale ( Assurance). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable d’équipe commerciale ( Assurance), la progression a ete plus rapide quand j'ai renforce Responsable d’équipe commerciale ( Assurance). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable d’équipe commerciale ( Assurance) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

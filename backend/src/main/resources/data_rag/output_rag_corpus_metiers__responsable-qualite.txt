@@ -1,0 +1,31 @@
+﻿METIER: Responsable qualite
+CODE: RESPONSABLE_QUALITE
+SECTEUR: Qualite
+
+FORMATIONS QUI Y MENENT
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Agadir
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Beni Mellal
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Casablanca
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Essaouira
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Fes
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Guelmim
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Kenitra
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Khenifra
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Khouribga
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Laayoune
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Marrakech
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Meknes
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Oujda
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Safi
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Sale
+- DUT Qualite Hygiene Securite Environnement - Ecole Superieure de Technologie Sidi Bennour
+- Technicien Specialise Electricite et Maintenance - ISTA Agadir
+- Technicien Specialise Electricite et Maintenance - ISTA Casablanca
+- Technicien Specialise Electricite et Maintenance - ISTA Fes
+- Technicien Specialise Electricite et Maintenance - ISTA Marrakech
+- Technicien Specialise Electricite et Maintenance - ISTA Rabat
+- Technicien Specialise Electricite et Maintenance - ISTA Tanger
+
+TEMOIGNAGE
+Zineb, promotion 2022 :
+"Exercer comme Responsable qualite au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

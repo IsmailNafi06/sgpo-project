@@ -1,0 +1,35 @@
+METIER: Compliance Officer
+CODE: COMPLIANCE_OFFICER
+SECTEUR: Finance
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Compliance Officer
+- secteur Finance
+- filiere Master Conformité, Risk & Compliance
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Conformité, Risk & Compliance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Conformité, Risk & Compliance. Cette filiere ouvre un debouche direct vers le metier Compliance Officer. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Conformité, Risk & Compliance, j'ai choisi le metier de Compliance Officer. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Compliance Officer, la progression a ete plus rapide quand j'ai renforce Compliance Officer. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Compliance Officer demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

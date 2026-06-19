@@ -1,0 +1,69 @@
+METIER: Architecte en conception bioclimatique
+CODE: ARCHITECTE_EN_CONCEPTION_BIOCLIMATIQUE
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Architecte en conception bioclimatique L'architecte en conception bioclimatique est un professionnel du domaine de l'architecture qui se spécialise dans la création de bâtiments et d'espaces en harmonie avec leur environnement naturel. Son rôle consiste à concevoir des structures qui maximisent l'utilisation des ressources naturelles telles que la lumière solaire, la ventilation naturelle et les éléments environnementaux pour réduire l'empreinte écologique des constructions. En étudiant attentivement les conditions climatiques, topographiques et géographiques, l'architecte en conception bioclimatique conçoit des édifices éco-responsables, économes en énergie et confortables pour leurs occupants. Ses compétences incluent la compréhension des cycles climatiques, l'utilisation de matériaux durables et la mise en œuvre de solutions énergétiquement efficientes. Ce métier contribue significativement à la durabilité et à la réduction
+
+PHRASES CLES
+- Architecte en conception bioclimatique
+- secteur Métiers des BTP et Construction
+- filiere DUT Genie Civil - EST Casablanca
+- filiere Ingénieur en NTIC – Énergies renouvelables
+- architecte
+- conception
+- bioclimatique
+- utilisation
+- climatiques
+- professionnel
+- domaine
+- architecture
+- specialise
+- creation
+- batiments
+- espaces
+- harmonie
+- environnement
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Architecte en conception bioclimatique. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénieur en NTIC – Énergies renouvelables
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en NTIC – Énergies renouvelables. Cette filiere ouvre un debouche direct vers le metier Architecte en conception bioclimatique. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Designer d’intérieur écologique (score chemin commun=2)
+- Expert en architecture bioclimatique urbaine (score chemin commun=2)
+- Conducteur de travaux BTP (score chemin commun=1)
+- Gestionnaire de projets urbains intelligents (score chemin commun=1)
+- Designer d’Éclairage Intelligent (score chemin commun=1)
+- Designer de mobilier durable (score chemin commun=1)
+- Chef de projet en construction durable (score chemin commun=1)
+- Agronome urbain (score chemin commun=1)
+- Planificateur de transport en commun (score chemin commun=1)
+- Designer d’espaces verts urbains (score chemin commun=1)
+- Planificateur de quartiers résilients (score chemin commun=1)
+- Concepteur de parcours piétonniers (score chemin commun=1)
+- Analyste en transport et mobilité urbaine (score chemin commun=1)
+- Expert en maintenance prédictive des infrastructures de transport (score chemin commun=1)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=1)
+- Manager d’exploitation ferroviaire (score chemin commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score chemin commun=1)
+- Ingénieur structure bois (score chemin commun=1)
+- Ingenieur BTP (score chemin commun=1)
+- Technicien de maintenance d’éoliennes (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Architecte en conception bioclimatique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Architecte en conception bioclimatique, la progression a ete plus rapide quand j'ai renforce Architecte en conception bioclimatique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Architecte en conception bioclimatique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

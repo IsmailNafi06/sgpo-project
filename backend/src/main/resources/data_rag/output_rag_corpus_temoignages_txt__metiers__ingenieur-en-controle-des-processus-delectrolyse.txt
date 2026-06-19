@@ -1,0 +1,9 @@
+METIER: Ingénieur en contrôle des processus d’électrolyse
+CODE: INGENIEUR_EN_CONTROLE_DES_PROCESSUS_DELECTROLYSE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master en Ingénierie Financière, Contrôle et Audit option Comptabilité, Contrôle et Audit ISIAM, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Ingénieur en contrôle des processus d’électrolyse. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur en contrôle des processus d’électrolyse, la progression a ete plus rapide quand j'ai renforce Ingénieur en contrôle des processus d’électrolyse. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur en contrôle des processus d’électrolyse demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

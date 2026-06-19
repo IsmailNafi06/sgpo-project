@@ -1,0 +1,10 @@
+﻿METIER: Assistant dentaire
+CODE: ASSISTANT_DENTAIRE
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Assistance Sante - IFPS Casablanca
+
+TEMOIGNAGE
+Rim, promotion 2021 :
+"Mon parcours en sciences de la santé m'a conduit vers le métier de Assistant dentaire. Les stages hospitaliers ont été déterminants dans ma formation et m'ont permis de confronter la théorie à la réalité du terrain."

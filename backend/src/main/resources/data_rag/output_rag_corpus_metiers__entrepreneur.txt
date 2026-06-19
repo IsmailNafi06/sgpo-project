@@ -1,0 +1,12 @@
+﻿METIER: Entrepreneur
+CODE: ENTREPRENEUR
+SECTEUR: Entrepreneuriat
+
+FORMATIONS QUI Y MENENT
+- Diplome ENCG Management
+- Diplome ENCG Management - ENCG Beni Mellal
+- Diplome ENCG Management - ENCG Casablanca
+
+TEMOIGNAGE
+Zakaria, promotion 2022 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Entrepreneur. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

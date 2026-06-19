@@ -1,0 +1,10 @@
+﻿METIER: Directeur administratif et financier
+CODE: DIRECTEUR_ADMINISTRATIF_ET_FINANCIER
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Licence Finance Banque Assurance - FSJES Casablanca
+
+TEMOIGNAGE
+Zakaria, promotion 2023 :
+"Mon master en finance à l'ISCAE m'a ouvert les portes du métier de Directeur administratif et financier. La rigueur analytique apprise en formation est indispensable pour gérer les dossiers complexes que je traite au quotidien."

@@ -1,0 +1,43 @@
+METIER: Biologiste marin
+CODE: BIOLOGISTE_MARIN
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Biologiste marin Le biologiste marin étudie les organismes marins animaux et végétaux dans leur habitat, à la surface de l’eau ou dans les profondeurs plus ou moins importantes. Il peut s’intéresser aux algues, au plancton, aux poissons, aux mollusques, à la baleine bleue, au corail ou à l’impact de l’activité humaine sur la faune et la flore marine. Il observe notamment le comportement des espèces, leur adaptation à leur environnement, leur alimentation, leur croissance, leur reproduction et leur mode de communication. Il peut aussi estimer la répartition ou la densité de population d’une espèce. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales étudier la répartition des espèces marines en fonction de critères océanographiques (lumière, salinité, oxygénation); déterminer l’impact des activités humaines sur les écosystèmes; recenser les populations et établir des recommandations pour protéger les ressources; ét
+
+PHRASES CLES
+- Biologiste marin
+- secteur Métiers biologie et agroalimentaire
+- filiere Parcours professionnalisant Biologiste marin
+- biologiste
+- marin
+- peut
+- limpact
+- especes
+- repartition
+- etudie
+- organismes
+- marins
+- animaux
+- vegetaux
+- habitat
+- surface
+- leau
+- profondeurs
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Parcours professionnalisant Biologiste marin
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Béni Mellal
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Biologiste marin. Cette filiere ouvre un debouche direct vers le metier Biologiste marin. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Béni Mellal. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Biologiste marin, j'ai choisi le metier de Biologiste marin. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Biologiste marin, la progression a ete plus rapide quand j'ai renforce Biologiste marin. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Biologiste marin demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

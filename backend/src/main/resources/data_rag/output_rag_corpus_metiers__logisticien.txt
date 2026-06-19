@@ -1,0 +1,66 @@
+METIER: Logisticien
+CODE: LOGISTICIEN
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Logisticien Un logisticien est responsable du transport des marchandises. Il peut intervenir dans de multiples secteurs, notamment les transports ou la grande distribution. Tout d'abord, les responsables en logistique travaillent dans de grandes et moyennes entreprises. De même, ils peuvent travailler seuls dans une petite entreprise, mais dans la plupart du temps il dirige une équipe. Leurs travails varie selon la structure dans laquelle il est employé. Cependant, comme son nom l'indique, il est à la tête de la gestion interne des flux de marchandises. Rôle d'un logisticien: Ce responsable gère le processus depuis la réception des matières premières ou des matériaux jusqu'à la livraison des produits finis. Non seulement il se charge de l'approvisionnement mais il se charge aussi du suivi après la fabrication. Ensuite, il assure l'envoi du transport des produits finis. En outre, les logisticiens contrôlent et optimisent l'achat, le stockage et le transpo
+
+PHRASES CLES
+- Logisticien
+- secteur Métiers de la production et l’industrialisation
+- filiere Passerelle sectorielle vers Logisticien
+- filiere Licence Arts et Culture
+- responsable
+- transport
+- marchandises
+- produits
+- finis
+- charge
+- peut
+- intervenir
+- multiples
+- secteurs
+- transports
+- grande
+- distribution
+- abord
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Passerelle sectorielle vers Logisticien
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Logisticien. Cette filiere ouvre un debouche direct vers le metier Logisticien. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Logisticien. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Concepteur de produits durables (score chemin commun=1)
+- Technicien en impression 3D (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+- Marinier/Batelier (score chemin commun=1)
+- Responsable qualité en logistique (score chemin commun=1)
+- Préparateur de commande (score chemin commun=1)
+- Scripte (score chemin commun=1)
+- Le directeur de postproduction (score chemin commun=1)
+- Assistant caméra (score chemin commun=1)
+- Machino (score chemin commun=1)
+- Mixeur (score chemin commun=1)
+- Technicien du son (score chemin commun=1)
+- Consultant scénario (score chemin commun=1)
+- Potier(ère) (score chemin commun=1)
+- Scénariste (score chemin commun=1)
+- Cadreur (score chemin commun=1)
+- Directeur artistique multimédia (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Logisticien, Licence Arts et Culture, j'ai choisi le metier de Logisticien. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Logisticien, la progression a ete plus rapide quand j'ai renforce Logisticien. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Logisticien demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

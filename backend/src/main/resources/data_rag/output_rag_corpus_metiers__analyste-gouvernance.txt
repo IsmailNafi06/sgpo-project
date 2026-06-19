@@ -1,0 +1,53 @@
+METIER: Analyste gouvernance
+CODE: ANALYSTE_GOUVERNANCE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Analyste gouvernance L’analyste de gouvernance, ou analyste ESG, analyse la composition des conseils d’administration mais aussi les politiques de rémunération des dirigeants. Il conseille également les directions des sociétés cotées sur leur gouvernance et sur les résolutions présentées à leur assemblée générale. L’analyste gouvernance est majoritairement employé par des cabinets d’analyse et conseil extra-financiers ou bien par des cabinets de conseil spécialisés en développement durable, Responsabilité sociétale des entreprises, environnement Au quotidien, l’analyste gouvernance lit et analyse les rapports Responsabilité sociètale des entreprises (RSE), interroge les différentes parties prenantes de l’entreprise, fait des visites sur sites, crée et suit des indicateurs, participe aux groupes de travail nationaux et internationaux sur les indicateurs. Il représente également sa structure sur les sujets de gouvernance. L’analyste de gouvernance
+
+PHRASES CLES
+- Analyste gouvernance
+- secteur Métiers banque et assurance
+- filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- gouvernance
+- lanalyste
+- analyste
+- analyse
+- egalement
+- cabinets
+- conseil
+- responsabilite
+- societale
+- entreprises
+- indicateurs
+- composition
+- conseils
+- dadministration
+- politiques
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION. Cette filiere ouvre un debouche direct vers le metier Analyste gouvernance. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Technicien en contrôle qualité des électrolyseurs (score chemin commun=1)
+- Responsable de l’approvisionnement en électrolyseurs (score chemin commun=1)
+- Banquier itinérant (score chemin commun=1)
+- Risk manager bancaire (score chemin commun=1)
+- Analyste KYC (Know Your Customer) (score chemin commun=1)
+- Opérateur en private equity (score chemin commun=1)
+- Conseiller en fusion acquisition (score chemin commun=1)
+- Convoyeur de fonds (score chemin commun=1)
+- Inspecteur commercial (score chemin commun=1)
+- Chargé de clientèle particuliers (score chemin commun=1)
+- Spécialiste des opérations bancaires (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Analyste gouvernance. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste gouvernance, la progression a ete plus rapide quand j'ai renforce Analyste gouvernance. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste gouvernance demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,9 @@
+METIER: Développeur Web Full Stack
+CODE: DEVELOPPEUR_WEB_FULL_STACK
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Informatique, Licence Génie Informatique, j'ai choisi le metier de Développeur Web Full Stack. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Développeur Web Full Stack, la progression a ete plus rapide quand j'ai renforce Développeur Web Full Stack. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Développeur Web Full Stack demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

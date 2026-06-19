@@ -1,0 +1,63 @@
+METIER: Developpeur Full Stack
+CODE: DEVELOPPEUR_FULL_STACK
+SECTEUR: Developpement logiciel
+
+DESCRIPTION
+Developpement complet front-end et back-end.
+
+FORMATIONS QUI MENENT AU METIER
+1. Passerelle sectorielle vers Developpeur Full Stack
+2. BTS Systemes Numeriques - option Informatique et Reseaux
+3. Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Passerelle sectorielle vers Developpeur Full Stack
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Developpeur Full Stack. Cette filiere ouvre un debouche direct vers le metier Developpeur Full Stack. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: BTS Systemes Numeriques - option Informatique et Reseaux
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=74.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Systemes Numeriques - option Informatique et Reseaux. Cette filiere ouvre un debouche direct vers le metier Developpeur Full Stack. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 74.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=74.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca. Cette filiere ouvre un debouche direct vers le metier Developpeur Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 74.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Ingenieur genie informatique (score_chemin_commun=1)
+- Ingenieur DevOps (score_chemin_commun=1)
+- Data Scientist (score_chemin_commun=1)
+- Ingenieur (score_chemin_commun=1)
+- Ingenieur cybersecurite (score_chemin_commun=1)
+- Développeur Web Full Stack (score_chemin_commun=1)
+- Administrateur base de données (score_chemin_commun=1)
+
+PHRASES CLES
+- Developpeur Full Stack
+- secteur Developpement logiciel
+- filiere Passerelle sectorielle vers Developpeur Full Stack
+- filiere BTS Systemes Numeriques - option Informatique et Reseaux
+- filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- developpement
+- complet
+- front
+- back
+- developpement complet
+- complet front
+- front back
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Developpeur Full Stack, BTS Systemes Numeriques - option Informatique et Reseaux, j'ai choisi le metier de Developpeur Full Stack. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Developpeur Full Stack, la progression a ete plus rapide quand j'ai renforce Developpeur Full Stack. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Developpeur Full Stack demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Inspecteur des impots
+CODE: INSPECTEUR_DES_IMPOTS
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Fatima, promotion 2022 :
+"Mon parcours en droit des affaires m'a préparé à exercer comme Inspecteur des impots. Au Maroc, ce secteur est en pleine structuration et les opportunités se multiplient, notamment dans les grandes entreprises et les cabinets."

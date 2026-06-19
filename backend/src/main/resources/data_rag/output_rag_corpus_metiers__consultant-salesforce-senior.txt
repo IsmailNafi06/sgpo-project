@@ -1,0 +1,59 @@
+METIER: Consultant Salesforce senior
+CODE: CONSULTANT_SALESFORCE_SENIOR
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Consultant Salesforce senior Le Consultant Salesforce senior travaille avec toutes les parties prenantes d’un projet Salesforce. Il doit participer aux projets de A à Z. Ce dernier intervient dès la phase de définition des besoins avec ses clients, jusqu’à la phase de validation auprès des utilisateurs. Le Consultant Salesforce senior est capable de comprendre rapidement les problématiques métier et de proposer des solution techniques adaptées, en standard ou non. Il connaît globalement toutes les possibilités de la plateforme et les produits: Sales Cloud, Community Cloud, Marketing Cloud... Bac + 5 Niveau d'études 8.500 MAD Rémunération 5 ans Expérience Missions principales Développer l’activité conseil pour nos clients avec un focus sur les enjeux liés aux comportements omni-canaux et aux référentiels et technologies associés (e-Commerce, CRM, DMP, PIM, DAM, Marketing Automation…) Accompagner nos clients dans la mise en œuvre des outi
+
+PHRASES CLES
+- Consultant Salesforce senior
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- salesforce
+- consultant
+- senior
+- clients
+- cloud
+- toutes
+- phase
+- marketing
+- travaille
+- parties
+- prenantes
+- projet
+- doit
+- participer
+- projets
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Consultant Salesforce senior. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Responsable avant-vente (score chemin commun=1)
+- Épicier (score chemin commun=1)
+- Analyste en expérience client (score chemin commun=1)
+- Vendeur de vélo (score chemin commun=1)
+- Administrateur de vente (score chemin commun=1)
+- Responsable commercial(E) de l’environnement (score chemin commun=1)
+- Social seller (score chemin commun=1)
+- Gestionnaire de collection (score chemin commun=1)
+- Promoteur des ventes (score chemin commun=1)
+- Ingénieur support des ventes (score chemin commun=1)
+- Chargé d’affaires dans l’industrie (score chemin commun=1)
+- Coordinateur retail (score chemin commun=1)
+- Développeur d’enseigne (score chemin commun=1)
+- Designer d’interaction (score chemin commun=1)
+- Cadre commercial et technico-commercial (score chemin commun=1)
+- Vendeur moto (score chemin commun=1)
+- Concessionnaire (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Consultant Salesforce senior. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Consultant Salesforce senior, la progression a ete plus rapide quand j'ai renforce Consultant Salesforce senior. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Consultant Salesforce senior demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

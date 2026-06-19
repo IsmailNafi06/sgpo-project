@@ -1,0 +1,51 @@
+METIER: Ingenieur
+CODE: INGENIEUR
+SECTEUR: Ingenierie
+
+DESCRIPTION
+Conception et pilotage de solutions techniques et industrielles.
+
+PHRASES CLES
+- Ingenieur
+- secteur Ingenierie
+- filiere Ingénieur en Aéronautique
+- filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- conception
+- pilotage
+- solutions
+- techniques
+- industrielles
+- conception pilotage
+- pilotage solutions
+- solutions techniques
+- techniques industrielles
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en Aéronautique
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquées Marrakech, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en Aéronautique. Cette filiere ouvre un debouche direct vers le metier Ingenieur. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquées Marrakech, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca. Cette filiere ouvre un debouche direct vers le metier Ingenieur. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Developpeur Full Stack (score chemin commun=1)
+- Ingenieur genie informatique (score chemin commun=1)
+- Ingenieur DevOps (score chemin commun=1)
+- Data Scientist (score chemin commun=1)
+- Ingenieur cybersecurite (score chemin commun=1)
+- Développeur Web Full Stack (score chemin commun=1)
+- Administrateur base de données (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en Aéronautique, Ingenieur d'Etat en Genie Informatique - ENSA Casablanca, j'ai choisi le metier de Ingenieur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingenieur, la progression a ete plus rapide quand j'ai renforce Ingenieur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingenieur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

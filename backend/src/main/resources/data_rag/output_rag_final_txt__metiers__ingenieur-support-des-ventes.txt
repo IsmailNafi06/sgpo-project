@@ -1,0 +1,63 @@
+METIER: Ingénieur support des ventes
+CODE: INGENIEUR_SUPPORT_DES_VENTES
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Ingénieur support des ventes L’ingénieur support des ventes a pour missions de former et d’apporter un support technique aux utilisateurs. Il intervient aussi pour détecter et faire remonter à sa direction d’éventuels besoins clients et pour assurer une information technique sur des équipements développés par son entreprise. Bac + 5 Niveau d'études 7.500 MAD Rémunération 3 ans Expérience Missions principales Présentation des équipements développés par l’entreprise et intervenir en soutien technique à la force de vente Assurer la présentation des produits, instruments et matériaux développés par l’entreprise en diffusant l’information auprès des professionnels. Représenter l’entreprise à l’occasion de manifestations et événements spécifiques (congrès, salons…). Identifier et analyser les besoins techniques émis par les clients au regard de leur démarche. Participer à la rédaction de réponses aux appels d’offres sur la partie technique. Fo
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome ENCG en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Ingénieur support des ventes. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Responsable avant-vente (score_chemin_commun=1)
+- Épicier (score_chemin_commun=1)
+- Analyste en expérience client (score_chemin_commun=1)
+- Vendeur de vélo (score_chemin_commun=1)
+- Administrateur de vente (score_chemin_commun=1)
+- Responsable commercial(E) de l’environnement (score_chemin_commun=1)
+- Social seller (score_chemin_commun=1)
+- Gestionnaire de collection (score_chemin_commun=1)
+- Promoteur des ventes (score_chemin_commun=1)
+- Chargé d’affaires dans l’industrie (score_chemin_commun=1)
+- Coordinateur retail (score_chemin_commun=1)
+- Développeur d’enseigne (score_chemin_commun=1)
+- Designer d’interaction (score_chemin_commun=1)
+- Consultant Salesforce senior (score_chemin_commun=1)
+- Cadre commercial et technico-commercial (score_chemin_commun=1)
+- Vendeur moto (score_chemin_commun=1)
+- Concessionnaire (score_chemin_commun=1)
+
+PHRASES CLES
+- Ingénieur support des ventes
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- technique
+- support
+- developpes
+- lentreprise
+- ventes
+- missions
+- besoins
+- clients
+- assurer
+- equipements
+- presentation
+- ingenieur
+- lingenieur
+- former
+- dapporter
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Ingénieur support des ventes. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur support des ventes, la progression a ete plus rapide quand j'ai renforce Ingénieur support des ventes. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur support des ventes demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

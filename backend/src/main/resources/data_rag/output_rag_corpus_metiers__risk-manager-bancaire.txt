@@ -1,0 +1,53 @@
+METIER: Risk manager bancaire
+CODE: RISK_MANAGER_BANCAIRE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Risk manager bancaire Le risk manager permet à l’organisation de prendre des risques maîtrisés, définit, déploie et anime un dispositif de gestion des risques (toutes les menaces et absences d’opportunités de l’entreprise) et propose des solutions de traitement optimisé (assurance, captives…) afin d’éclairer les dirigeants dans leurs décisions stratégiques. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales Identifier et évaluer les risques Élaborer la cartographie des risques Animer les ateliers d’identification et de hiérarchisation des risques Définir la politique de gestion des risques, mesurer l’appétence des dirigeants à la prise de risque Déployer une ingénierie de prévention sur les zones à risques Déterminer les plans d’actions, suivre leurs réalisations Développer, animer, former un réseau de correspondants chargés de la remontée des informations du terrain Identifier les zones critiques Assurer les r
+
+PHRASES CLES
+- Risk manager bancaire
+- secteur Métiers banque et assurance
+- filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- risques
+- risk
+- manager
+- gestion
+- dirigeants
+- identifier
+- animer
+- zones
+- bancaire
+- permet
+- lorganisation
+- prendre
+- maitrises
+- definit
+- deploie
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION. Cette filiere ouvre un debouche direct vers le metier Risk manager bancaire. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Technicien en contrôle qualité des électrolyseurs (score chemin commun=1)
+- Responsable de l’approvisionnement en électrolyseurs (score chemin commun=1)
+- Banquier itinérant (score chemin commun=1)
+- Analyste KYC (Know Your Customer) (score chemin commun=1)
+- Analyste gouvernance (score chemin commun=1)
+- Opérateur en private equity (score chemin commun=1)
+- Conseiller en fusion acquisition (score chemin commun=1)
+- Convoyeur de fonds (score chemin commun=1)
+- Inspecteur commercial (score chemin commun=1)
+- Chargé de clientèle particuliers (score chemin commun=1)
+- Spécialiste des opérations bancaires (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Risk manager bancaire. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Risk manager bancaire, la progression a ete plus rapide quand j'ai renforce Risk manager bancaire. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Risk manager bancaire demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

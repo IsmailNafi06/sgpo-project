@@ -1,0 +1,9 @@
+METIER: Architecte de systèmes de production d’hydrogène vert
+CODE: ARCHITECTE_DE_SYSTEMES_DE_PRODUCTION_DHYDROGENE_VE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Maintenance des Systemes de Production, Ingénieur en NTIC – Énergies renouvelables, j'ai choisi le metier de Architecte de systèmes de production d’hydrogène vert. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Architecte de systèmes de production d’hydrogène vert, la progression a ete plus rapide quand j'ai renforce Architecte de systèmes de production d’hydrogène vert. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Architecte de systèmes de production d’hydrogène vert demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

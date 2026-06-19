@@ -1,0 +1,43 @@
+METIER: Traducteur technique
+CODE: TRADUCTEUR_TECHNIQUE
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Traducteur technique Le traducteur technique apporte toute sa connaissance du sujet et doit être distingué du traducteur de manuels de littérature, philosophie, sciences humaines, etc. Il peut avoir choisi le secteur médical (et traduire des rapports, des dossiers de patients, des ouvrages médicaux, des documents de pharmacovigilance, des notices…), être expérimenté en informatique (manuels d’utilisation de logiciels), dans l’aéronautique (modes d’emploi de drones ou de moteurs d’avions), ou encore dans le nucléaire, l’agroalimentaire... Bac + 5 Niveau d'études 1.531 MAD Rémunération 3 ans Expérience Missions principales • Traduire et retranscrire des documents spécifiques à un secteur d’une langue source à une langue cible, • Expliquer un sujet particulier en utilisant le lexique technique adapté, • Rédiger des articles, des notices, des contrats ou des rapports techniques suivant une ligne éditoriale et des délais précis, • Actualiser en perma
+
+PHRASES CLES
+- Traducteur technique
+- secteur Métiers de droit et de la justice
+- filiere Master Gouvernance et Institutions Internationales
+- traducteur
+- technique
+- sujet
+- manuels
+- secteur
+- traduire
+- rapports
+- documents
+- notices
+- langue
+- apporte
+- toute
+- connaissance
+- doit
+- distingue
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Gouvernance et Institutions Internationales
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Gouvernance et Institutions Internationales. Cette filiere ouvre un debouche direct vers le metier Traducteur technique. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Gouvernance et Institutions Internationales, j'ai choisi le metier de Traducteur technique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Traducteur technique, la progression a ete plus rapide quand j'ai renforce Traducteur technique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Traducteur technique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

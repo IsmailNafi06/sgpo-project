@@ -1,0 +1,10 @@
+﻿METIER: Conseiller fiscal
+CODE: CONSEILLER_FISCAL
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Licence Finance Banque Assurance - FSJES Casablanca
+
+TEMOIGNAGE
+Amine, promotion 2022 :
+"Travailler comme Conseiller fiscal au Maroc demande une bonne maîtrise des réglementations locales et internationales. Mon parcours à HEM m'a préparé à cette réalité, et j'ai trouvé un emploi en moins de deux mois après ma soutenance."

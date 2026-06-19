@@ -1,0 +1,98 @@
+METIER: Équipier en restaurant rapide
+CODE: EQUIPIER_EN_RESTAURANT_RAPIDE
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Équipier en restaurant rapide L'équipier en restaurant rapide s'active en cuisine, en salle et en caisse pour servir au mieux la clientèle de passage, tout en suivant les normes mises en place par la société de restauration. Ainsi, il assure de manière polyvalente des tâches de cuisine, de comptoir ou des travaux à effectuer dans la salle. Il travaille souvent en équipe et doit rester le plus souvent debout. Ses horaires sont variables: il peut travailler aux heures de repas, le samedi et le dimanche, ainsi que tard le soir. En général, il commence par peu d'heures et les complètent en fonction de ses disponibilités. Quelles que soient ses responsabilités, l’équipier en restaurant rapide doit maîtriser chaque poste, passer de la salle à la cuisine, de la cuisine au comptoir sans hésitation et avec le sourire. Il doit respecter les normes d’hygiène, préparer les produits selon des règles bien définies. Accueillir et servir les clients,
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Arts culinaires
+2. Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Équipier en restaurant rapide. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Équipier en restaurant rapide. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Consultant en voyages éthiques (score_chemin_commun=2)
+- Accompagnateur de montagne (score_chemin_commun=2)
+- Cuisiniste (score_chemin_commun=2)
+- Administrateur des monuments historiques (score_chemin_commun=2)
+- Majordome (score_chemin_commun=2)
+- Veilleur de nuit (score_chemin_commun=2)
+- Concierge d’hôtel (score_chemin_commun=2)
+- Sommelier (score_chemin_commun=2)
+- Plongeur (score_chemin_commun=2)
+- Lingère (score_chemin_commun=2)
+- Gouvernante (score_chemin_commun=2)
+- Organisateur de conférence (score_chemin_commun=1)
+- Pizzaïolo (score_chemin_commun=1)
+- Directeur Restauration rapide (score_chemin_commun=1)
+- Commis de cuisine (score_chemin_commun=1)
+- Responsable conférences et banquets (score_chemin_commun=1)
+- Agent thermal (score_chemin_commun=1)
+- Acheteur dans la mode (score_chemin_commun=1)
+
+PHRASES CLES
+- Équipier en restaurant rapide
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- cuisine
+- restaurant
+- rapide
+- salle
+- doit
+- equipier
+- servir
+- normes
+- comptoir
+- souvent
+- heures
+- active
+- caisse
+- mieux
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Équipier en restaurant rapide
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Équipier en restaurant rapide. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Équipier en restaurant rapide
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Équipier en restaurant rapide, la progression a ete plus rapide quand j'ai renforce Équipier en restaurant rapide. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Équipier en restaurant rapide
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Équipier en restaurant rapide demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

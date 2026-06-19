@@ -1,0 +1,26 @@
+﻿METIER: Technicien agro-industrie
+CODE: TECHNICIEN_AGROINDUSTRIE
+SECTEUR: Agroalimentaire
+
+FORMATIONS QUI Y MENENT
+- DUT Agro-industrie - Ecole Superieure de Technologie Agadir
+- DUT Agro-industrie - Ecole Superieure de Technologie Beni Mellal
+- DUT Agro-industrie - Ecole Superieure de Technologie Casablanca
+- DUT Agro-industrie - Ecole Superieure de Technologie Essaouira
+- DUT Agro-industrie - Ecole Superieure de Technologie Fes
+- DUT Agro-industrie - Ecole Superieure de Technologie Guelmim
+- DUT Agro-industrie - Ecole Superieure de Technologie Kenitra
+- DUT Agro-industrie - Ecole Superieure de Technologie Khenifra
+- DUT Agro-industrie - Ecole Superieure de Technologie Khouribga
+- DUT Agro-industrie - Ecole Superieure de Technologie Laayoune
+- DUT Agro-industrie - Ecole Superieure de Technologie Marrakech
+- DUT Agro-industrie - Ecole Superieure de Technologie Meknes
+- DUT Agro-industrie - Ecole Superieure de Technologie Oujda
+- DUT Agro-industrie - Ecole Superieure de Technologie Safi
+- DUT Agro-industrie - Ecole Superieure de Technologie Sale
+- DUT Agro-industrie - Ecole Superieure de Technologie Sidi Bennour
+- Ingenieur Agronome - IAV Hassan II Rabat
+
+TEMOIGNAGE
+Saad, promotion 2021 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Technicien agro-industrie. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

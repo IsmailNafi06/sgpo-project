@@ -1,0 +1,59 @@
+METIER: Commis de cuisine
+CODE: COMMIS_DE_CUISINE
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Commis de cuisine La position du commis de cuisine correspond au niveau de base de la hiérarchie de la cuisine. Pendant son apprentissage, il fait ses débuts devant le poêle. Sous les ordres du chef, du second chef ou de l'assistant du chef, le commis de cuisine effectue des tâches simples: trier les aliments, éplucher les légumes, laver les salades, préparer les décorations... ou plus compliquées, comme préparer une entrée «froide». Dans une grande équipe, lui et chaque chef ont été constitués l'un après l'autre. S'il ne compte que sur le chef, ses responsabilités augmenteront rapidement. Il peut ensuite réduire la sauce, décorer le fond de tarte, couper les viandes froides, et même préparer les assiettes avant de les passer à la femme de ménage. Pendant le tournage, le commis assistera le chef selon ses capacités. Après chaque service, il doit organiser et nettoyer soigneusement la cuisine, les ustensiles et les comptoirs. Sans piston ni machin
+
+PHRASES CLES
+- Commis de cuisine
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- chef
+- cuisine
+- commis
+- preparer
+- pendant
+- position
+- correspond
+- base
+- hierarchie
+- apprentissage
+- debuts
+- devant
+- poele
+- sous
+- ordres
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Commis de cuisine. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Organisateur de conférence (score chemin commun=1)
+- Consultant en voyages éthiques (score chemin commun=1)
+- Accompagnateur de montagne (score chemin commun=1)
+- Pizzaïolo (score chemin commun=1)
+- Cuisiniste (score chemin commun=1)
+- Administrateur des monuments historiques (score chemin commun=1)
+- Majordome (score chemin commun=1)
+- Équipier en restaurant rapide (score chemin commun=1)
+- Directeur Restauration rapide (score chemin commun=1)
+- Veilleur de nuit (score chemin commun=1)
+- Concierge d’hôtel (score chemin commun=1)
+- Sommelier (score chemin commun=1)
+- Plongeur (score chemin commun=1)
+- Lingère (score chemin commun=1)
+- Gouvernante (score chemin commun=1)
+- Responsable conférences et banquets (score chemin commun=1)
+- Agent thermal (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, j'ai choisi le metier de Commis de cuisine. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Commis de cuisine, la progression a ete plus rapide quand j'ai renforce Commis de cuisine. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Commis de cuisine demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

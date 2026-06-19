@@ -1,0 +1,10 @@
+﻿METIER: Promoteur immobilier
+CODE: PROMOTEUR_IMMOBILIER
+SECTEUR: Immobilier
+
+FORMATIONS QUI Y MENENT
+- Licence Gestion Immobiliere et Patrimoine - FSJES Casablanca
+
+TEMOIGNAGE
+Zineb, promotion 2024 :
+"Mon master en droit immobilier m'a orienté vers le métier de Promoteur immobilier. Comprendre les aspects juridiques et fiscaux des transactions est indispensable pour accompagner efficacement les clients."

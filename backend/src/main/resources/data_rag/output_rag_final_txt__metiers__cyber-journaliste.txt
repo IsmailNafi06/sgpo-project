@@ -1,0 +1,74 @@
+METIER: Cyber journaliste
+CODE: CYBER_JOURNALISTE
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Cyber journaliste Le cyberjournaliste est un homme de terrain dont « la mission est de sélectionner et de vérifier l’information, la recouper et la raconter à sa cible dans divers formats et dans divers registres narratifs ». Il devra maîtriser le motion design et la datavisualisation, sonder les évènements du quotidien et donner une information qui pourra intéresser une cible précise grâce à ses espaces conversationnels qui sont les comptes twitter, instagram, facebook des médias et journalistes. Bac + 3 Niveau d'études 4.000 MAD Rémunération 3 ans Expérience Missions principales Vérifier et produire des articles Mener des enquêtes Réaliser des reportages Enrichissement des pages de productions multimédia Rapporter l’information Animation des différents shows sur internet ( podcasts… ) Compétences techniques Le cyberjournaliste est doté d’excellentes qualités rédactionnelles, avec une orthographe irréprochable. Il doit faire montre d’une solide cu
+
+FORMATIONS QUI MENENT AU METIER
+1. Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+2. Master IA
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Cyber journaliste. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master IA
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master IA. Cette filiere ouvre un debouche direct vers le metier Cyber journaliste. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Journaliste international(e) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Animateur E-sport (score_chemin_commun=1)
+- Opératrice en PAO (score_chemin_commun=1)
+- Technicien PAO (score_chemin_commun=1)
+- Chef d’atelier des industries graphiques (score_chemin_commun=1)
+- Chargé de réalisation radio (score_chemin_commun=1)
+- Documentariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Iconographe (score_chemin_commun=1)
+- Technicien d’antenne (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+- Documentaliste multimédia (score_chemin_commun=1)
+- Producteur multimédia (score_chemin_commun=1)
+- Spécialiste en image de synthèse (score_chemin_commun=1)
+- Journaliste (score_chemin_commun=1)
+- Spécialiste en Surveillance Environnementale (score_chemin_commun=1)
+- Concepteur Web design (score_chemin_commun=1)
+- Expert en modélisation 3D (score_chemin_commun=1)
+- Expert en sécurité des données biométriques (score_chemin_commun=1)
+
+PHRASES CLES
+- Cyber journaliste
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- filiere Master IA
+- cyberjournaliste
+- verifier
+- linformation
+- cible
+- divers
+- cyber
+- journaliste
+- homme
+- terrain
+- dont
+- mission
+- selectionner
+- recouper
+- raconter
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, Master IA, j'ai choisi le metier de Cyber journaliste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Cyber journaliste, la progression a ete plus rapide quand j'ai renforce Cyber journaliste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Cyber journaliste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

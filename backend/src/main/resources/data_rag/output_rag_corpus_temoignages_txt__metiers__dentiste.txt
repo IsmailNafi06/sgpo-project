@@ -1,0 +1,9 @@
+METIER: Dentiste
+CODE: DENTISTE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Doctorat en Médecine Dentaire - FM6MD Rabat, Doctorat en Medecine Dentaire - Faculté de Médecine, de Pharmacie et de Médecine Dentaire de Fès, j'ai choisi le metier de Dentiste. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Dentiste, la progression a ete plus rapide quand j'ai renforce Dentiste. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Dentiste demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

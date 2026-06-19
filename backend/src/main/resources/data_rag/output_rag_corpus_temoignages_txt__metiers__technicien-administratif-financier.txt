@@ -1,0 +1,9 @@
+METIER: Technicien administratif/financier
+CODE: TECHNICIEN_ADMINISTRATIF_FINANCIER
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Comptabilite et Gestion, j'ai choisi le metier de Technicien administratif/financier. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien administratif/financier, la progression a ete plus rapide quand j'ai renforce Technicien administratif/financier. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien administratif/financier demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

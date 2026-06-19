@@ -1,0 +1,11 @@
+﻿METIER: Technicien en maintenance des systemes de stockage d'hydrogene sous pression
+CODE: TECHNICIEN_EN_MAINTENANCE_DES_SYSTEMES_DE_STOCKAGE
+SECTEUR: Metiers de l'electrique
+
+FORMATIONS QUI Y MENENT
+- BTS Maintenance des Systemes de Production
+- Ingenieur en NTIC - Energies renouvelables
+
+TEMOIGNAGE
+Rim, promotion 2024 :
+"Après ma formation en électrotechnique, j'ai débuté comme Technicien en maintenance des systemes de stockage d'hydrogene sous pression dans une entreprise de distribution d'énergie. Les grands projets d'infrastructure électrique au Maroc créent une forte demande de techniciens qualifiés."

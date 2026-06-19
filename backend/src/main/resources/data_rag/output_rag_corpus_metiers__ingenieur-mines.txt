@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur mines
+CODE: INGENIEUR_MINES
+SECTEUR: Mines et geologie
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Sara, promotion 2024 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Ingenieur mines. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

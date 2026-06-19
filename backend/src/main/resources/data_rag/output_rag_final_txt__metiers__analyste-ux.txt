@@ -1,0 +1,63 @@
+METIER: Analyste UX
+CODE: ANALYSTE_UX
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Analyste UX L'analyste UX est un professionnel spécialisé dans l'optimisation des interactions entre les utilisateurs et les produits numériques tels que les applications, les sites web et les logiciels. Leur rôle central est de garantir que les utilisateurs interagissent de manière fluide, efficace et agréable avec ces produits. Les analystes UX mènent des recherches approfondies pour comprendre les besoins, les préférences et les comportements des utilisateurs. Ils analysent ensuite ces données pour concevoir des interfaces intuitives, faciles à utiliser et répondant aux attentes des utilisateurs. Ils travaillent en étroite collaboration avec les concepteurs graphiques, les développeurs et les spécialistes du marketing pour créer des expériences numériques harmonieuses. Pour réussir dans ce métier, des compétences en recherche utilisateur, en psychologie cognitive, en conception d'interfaces et en analyse de données sont essentielles. Une bonne communi
+
+FORMATIONS QUI MENENT AU METIER
+1. DUT en Informatique - EST Guelmim
+2. Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: DUT en Informatique - EST Guelmim
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Fès, Faculté des Sciences et Techniques Sais Fès, Ecole Nationale de Commerce et de Gestion Fès
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT en Informatique - EST Guelmim. Cette filiere ouvre un debouche direct vers le metier Analyste UX. Le chemin est relie a Ecole Nationale des Sciences Appliquées Fès, Faculté des Sciences et Techniques Sais Fès, Ecole Nationale de Commerce et de Gestion Fès. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2. Cette filiere ouvre un debouche direct vers le metier Analyste UX. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Ingénieur en paiement sécurisé en ligne (score_chemin_commun=2)
+- Affréteur (score_chemin_commun=1)
+- Directeur régional retail (score_chemin_commun=1)
+- Business Developer (score_chemin_commun=1)
+- Spécialiste en bioinformatique (score_chemin_commun=1)
+- Développeur de contenus VR (score_chemin_commun=1)
+- Analyste en données médicales (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Technicien en cybersécurité médicale (score_chemin_commun=1)
+
+PHRASES CLES
+- Analyste UX
+- secteur Métiers de l’informatique et système d’information
+- filiere DUT en Informatique - EST Guelmim
+- filiere Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2
+- utilisateurs
+- analyste
+- produits
+- numeriques
+- donnees
+- interfaces
+- professionnel
+- specialise
+- optimisation
+- interactions
+- tels
+- applications
+- sites
+- logiciels
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT en Informatique - EST Guelmim, Ingénierie Automatismes et Informatique Industrielle EMSI Casablanca Centre 2, j'ai choisi le metier de Analyste UX. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste UX, la progression a ete plus rapide quand j'ai renforce Analyste UX. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste UX demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

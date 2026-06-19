@@ -1,0 +1,62 @@
+METIER: Ingenieur BTP
+CODE: INGENIEUR_BTP
+SECTEUR: BTP
+
+DESCRIPTION
+Conception, etudes et suivi d'infrastructures BTP.
+
+PHRASES CLES
+- Ingenieur BTP
+- secteur BTP
+- filiere Ingénieur en architecture d’intérieur
+- filiere DUT Genie Civil - EST Casablanca
+- conception
+- etudes
+- suivi
+- infrastructures
+- conception etudes
+- etudes suivi
+- suivi infrastructures
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur en architecture d’intérieur
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur en architecture d’intérieur. Cette filiere ouvre un debouche direct vers le metier Ingenieur BTP. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Ingenieur BTP. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=2)
+- Conducteur de travaux BTP (score chemin commun=2)
+- Architecte (score chemin commun=1)
+- Technicien en gestion des déchets (score chemin commun=1)
+- Consultant en optimisation énergétique des bâtiments (score chemin commun=1)
+- Technicien en maintenance d’éolienne (score chemin commun=1)
+- Ingénieur en intelligence énergétique (score chemin commun=1)
+- Chercheur en hydrogène vert (score chemin commun=1)
+- Opérateur de centrale électrolyse à hydrogène (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Opérateur d’usine (score chemin commun=1)
+- Gestionnaire de projets urbains intelligents (score chemin commun=1)
+- Designer d’Éclairage Intelligent (score chemin commun=1)
+- Designer de mobilier durable (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+- Chef de projet en construction durable (score chemin commun=1)
+- Agronome urbain (score chemin commun=1)
+- Designer d’intérieur écologique (score chemin commun=1)
+- Planificateur de transport en commun (score chemin commun=1)
+- Designer d’espaces verts urbains (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en architecture d’intérieur, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Ingenieur BTP. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingenieur BTP, la progression a ete plus rapide quand j'ai renforce Ingenieur BTP. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingenieur BTP demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

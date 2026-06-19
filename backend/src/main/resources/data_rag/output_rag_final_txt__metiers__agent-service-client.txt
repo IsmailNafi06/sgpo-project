@@ -1,0 +1,95 @@
+METIER: Agent service client
+CODE: AGENT_SERVICE_CLIENT
+SECTEUR: Métiers des services
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+2. Bac Professionnel Commerce
+3. Diplôme ENCG Finance et Comptabilité
+4. Système d'information marketing et commerce - ISGA El Jadida
+5. Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+6. Diplôme ENCG Management
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Marrakech
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech. Cette filiere ouvre un debouche direct vers le metier Agent service client. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Marrakech. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Bac Professionnel Commerce
+- Prerequis: Non precise
+- Etablissements: Faculté Polydisciplinaire Nador, Faculté Polydisciplinaire Ouarzazate, Faculté Polydisciplinaire Sidi Bennour
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac Professionnel Commerce. Cette filiere ouvre un debouche direct vers le metier Agent service client. Le chemin est relie a Faculté Polydisciplinaire Nador, Faculté Polydisciplinaire Ouarzazate, Faculté Polydisciplinaire Sidi Bennour. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Diplôme ENCG Finance et Comptabilité
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Finance et Comptabilité. Cette filiere ouvre un debouche direct vers le metier Agent service client. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Système d'information marketing et commerce - ISGA El Jadida
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion El Jadida
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Système d'information marketing et commerce - ISGA El Jadida. Cette filiere ouvre un debouche direct vers le metier Agent service client. Le chemin est relie a Ecole Nationale de Commerce et de Gestion El Jadida. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM. Cette filiere ouvre un debouche direct vers le metier Agent service client. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Agent service client. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Conseiller clientèle (score_chemin_commun=6)
+- Gestionnaire de la logistique e-commerce (score_chemin_commun=3)
+- Chargé d’affaires bancaires en commerce international (score_chemin_commun=3)
+- Expert comptable (score_chemin_commun=1)
+- Comptable fournisseur (score_chemin_commun=1)
+- Contrôleur de gestion (score_chemin_commun=1)
+- Spécialiste marketing digital (score_chemin_commun=1)
+- Consultant en optimisation de la chaîne logistique (score_chemin_commun=1)
+- Coordinateur Logistique (score_chemin_commun=1)
+- Animateur logistique (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Manager commercial (score_chemin_commun=1)
+
+PHRASES CLES
+- Agent service client
+- secteur Métiers des services
+- filiere Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+- filiere Bac Professionnel Commerce
+- filiere Diplôme ENCG Finance et Comptabilité
+- filiere Système d'information marketing et commerce - ISGA El Jadida
+- filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- filiere Diplôme ENCG Management
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme de l’Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech, Bac Professionnel Commerce, j'ai choisi le metier de Agent service client. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Agent service client, la progression a ete plus rapide quand j'ai renforce Agent service client. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Agent service client demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

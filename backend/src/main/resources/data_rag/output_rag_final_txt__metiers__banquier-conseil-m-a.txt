@@ -1,0 +1,49 @@
+METIER: Banquier conseil M&A
+CODE: BANQUIER_CONSEIL_M_A
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Banquier conseil M&A Le banquier conseil M&A (merger and acquisition) a pour mission de détecter les opportunités d’affaires grâce à un réseau de contacts avec les décideurs des grandes entreprises. Il intervient spécifiquement sur les problématiques de financement, de fusion/acquisition, de restructuration financière... en imaginant et proposant les meilleures solutions de financement. C’est un professionnel des opérations complexes à haute valeur ajoutée. Bac + 5 Niveau d'études 8.000 MAD Rémunération 3 ans Expérience Missions principales Suivre de près l’actualité financière afin de détecter des affaires potentielles. Développer une connaissance précise de ses clients, de leurs activités, de leurs secteurs, de leurs besoins. Étudier les opportunités d’investissement. Entretenir une relation de haut niveau avec les interlocuteurs décideurs au sein des clients grands comptes. Connaître et analyser la situation de ses clients: analyse financièr
+
+FORMATIONS QUI MENENT AU METIER
+1. Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Tanger, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=85.6%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger. Cette filiere ouvre un debouche direct vers le metier Banquier conseil M&A. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Tanger, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 85.6%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Conseiller en cabinet d’audit et conseil (score_chemin_commun=1)
+- Entrepreneur spécialisé dans le développement de projets d’hydrogène (score_chemin_commun=1)
+- Technicien supérieur de l’aviation (score_chemin_commun=1)
+
+PHRASES CLES
+- Banquier conseil M&A
+- secteur Métiers de la comptabilité, audit et finance
+- filiere Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger
+- clients
+- banquier
+- conseil
+- acquisition
+- detecter
+- opportunites
+- decideurs
+- financement
+- financiere
+- merger
+- mission
+- daffaires
+- reseau
+- contacts
+- grandes
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Spécialisé en Métiers du Conseil & Encadrement supérieur - ENCG Tanger, j'ai choisi le metier de Banquier conseil M&A. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Banquier conseil M&A, la progression a ete plus rapide quand j'ai renforce Banquier conseil M&A. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Banquier conseil M&A demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

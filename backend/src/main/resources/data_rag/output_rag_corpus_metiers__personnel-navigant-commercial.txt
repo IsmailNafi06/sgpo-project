@@ -1,0 +1,10 @@
+﻿METIER: Hotesse de l air steward
+CODE: PERSONNEL_NAVIGANT_COMMERCIAL
+SECTEUR: Aeronautique
+
+FORMATIONS QUI Y MENENT
+- Formation Personnel Navigant Commercial - AIAC Casablanca
+
+TEMOIGNAGE
+Imane, promotion 2022 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Hotesse de l air steward. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

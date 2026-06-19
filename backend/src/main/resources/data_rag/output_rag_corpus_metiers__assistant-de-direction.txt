@@ -1,0 +1,10 @@
+﻿METIER: Assistant de direction
+CODE: ASSISTANT_DE_DIRECTION
+SECTEUR: Commerce et administration
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Commerce et Administration - ISTA Fes
+
+TEMOIGNAGE
+Leila, promotion 2023 :
+"Après une école de commerce à Rabat, j'ai rejoint une entreprise de distribution en tant que Assistant de direction. Le taux d'employabilité des diplômés de commerce est supérieur à 85 % dans les six mois, et j'en suis la preuve."

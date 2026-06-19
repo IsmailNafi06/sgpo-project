@@ -1,0 +1,10 @@
+﻿METIER: Conducteur d engins BTP
+CODE: CONDUCTEUR_D_ENGINS_BTP
+SECTEUR: BTP
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise BTP et Chantier - ISTA Marrakech
+
+TEMOIGNAGE
+Hajar, promotion 2023 :
+"Mon diplôme d'ingénieur des travaux publics m'a ouvert les portes du métier de Conducteur d engins BTP. Les chantiers marocains sont de plus en plus exigeants en termes de normes techniques et environnementales."

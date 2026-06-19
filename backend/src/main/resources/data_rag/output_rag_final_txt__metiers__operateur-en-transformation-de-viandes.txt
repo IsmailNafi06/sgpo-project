@@ -1,0 +1,66 @@
+METIER: Opérateur en transformation de viandes
+CODE: OPERATEUR_EN_TRANSFORMATION_DE_VIANDES
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Opérateur en transformation de viandes.Un opérateur en transformation de viandes effectue diverses opérations, de l'abattage de la viande au désossage. En passant par la découpe de la viande (bovins, ovins, porcins) en petits morceaux ou en quartiers, y compris la volaille et le gibier. À différentes étapes du processus, un opérateur en transformation de viandes utilise des outils spécifiques (pistolets pneumatiques, couteaux, ciseaux, scies, etc.) et des équipements (machines à hacher et à embosser, etc.) pour mettre en œuvre la transformation. De même, il surveille en permanence les résultats de ses travaux conformément aux directives et normes de qualité, de santé, de sécurité et d'environnement (QHSE). Sous la responsabilité du chef d'équipe, ce professionnel peut occuper différents postes. C'est un travail ardu qui demande beaucoup de résistance physique (charge lourde, odeur désagréable, espace de travail froid) et psych
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Opérateur en transformation de viandes. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+
+PHRASES CLES
+- Opérateur en transformation de viandes
+- secteur Métiers biologie et agroalimentaire
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- transformation
+- operateur
+- viandes
+- viande
+- travail
+- effectue
+- diverses
+- operations
+- abattage
+- desossage
+- passant
+- decoupe
+- bovins
+- ovins
+- porcins
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Opérateur en transformation de viandes. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Opérateur en transformation de viandes, la progression a ete plus rapide quand j'ai renforce Opérateur en transformation de viandes. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Opérateur en transformation de viandes demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

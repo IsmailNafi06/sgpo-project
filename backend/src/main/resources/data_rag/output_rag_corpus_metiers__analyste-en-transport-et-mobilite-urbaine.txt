@@ -1,0 +1,68 @@
+METIER: Analyste en transport et mobilité urbaine
+CODE: ANALYSTE_EN_TRANSPORT_ET_MOBILITE_URBAINE
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Analyste en transport et mobilité urbaine Le métier d'Analyste en transport et mobilité urbaine implique l'étude, l'analyse et la gestion des systèmes de transport dans les environnements urbains. Ce professionnel examine les schémas de déplacement, les infrastructures de transport existantes et propose des solutions pour optimiser l'efficacité et la durabilité des déplacements en ville. Les missions principales comprennent la collecte et l'analyse de données de transport, l'évaluation des besoins en matière de mobilité, la proposition de solutions pour réduire la congestion, promouvoir les transports en commun et encourager les modes de déplacement durables. Des compétences techniques en analyse de données, en modélisation et en planification des transports sont nécessaires, ainsi que des qualités telles que l'esprit d'initiative, la pensée analytique et la communication efficace. Une formation en urbanisme, en ingénierie d
+
+PHRASES CLES
+- Analyste en transport et mobilité urbaine
+- secteur Métiers des BTP et Construction
+- filiere Ingénieur Génie Civil
+- filiere DUT Genie Civil - EST Casablanca
+- transport
+- mobilite
+- analyse
+- analyste
+- urbaine
+- deplacement
+- solutions
+- donnees
+- transports
+- implique
+- etude
+- gestion
+- systemes
+- environnements
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénieur Génie Civil
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Civil. Cette filiere ouvre un debouche direct vers le metier Analyste en transport et mobilité urbaine. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Analyste en transport et mobilité urbaine. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Gestionnaire de projets urbains intelligents (score chemin commun=2)
+- Designer d’Éclairage Intelligent (score chemin commun=2)
+- Chef de projet en construction durable (score chemin commun=2)
+- Planificateur de quartiers résilients (score chemin commun=2)
+- Concepteur de parcours piétonniers (score chemin commun=2)
+- Expert en maintenance prédictive des infrastructures de transport (score chemin commun=2)
+- Conducteur de travaux BTP (score chemin commun=1)
+- Designer de mobilier durable (score chemin commun=1)
+- Architecte en conception bioclimatique (score chemin commun=1)
+- Agronome urbain (score chemin commun=1)
+- Designer d’intérieur écologique (score chemin commun=1)
+- Planificateur de transport en commun (score chemin commun=1)
+- Designer d’espaces verts urbains (score chemin commun=1)
+- Expert en architecture bioclimatique urbaine (score chemin commun=1)
+- Consultant en gestion de la mobilité urbaine (score chemin commun=1)
+- Manager d’exploitation ferroviaire (score chemin commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score chemin commun=1)
+- Ingénieur structure bois (score chemin commun=1)
+- Ingenieur BTP (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Civil, DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Analyste en transport et mobilité urbaine. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste en transport et mobilité urbaine, la progression a ete plus rapide quand j'ai renforce Analyste en transport et mobilité urbaine. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste en transport et mobilité urbaine demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

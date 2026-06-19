@@ -1,0 +1,10 @@
+﻿METIER: Commercial agricole
+CODE: COMMERCIAL_AGRICOLE
+SECTEUR: Agriculture agroalimentaire et peche
+
+FORMATIONS QUI Y MENENT
+- Techniques Agricoles Agroalimentaires et Peche - IAV Rabat
+
+TEMOIGNAGE
+Tariq, promotion 2022 :
+"Après une formation en agronomie, j'ai rejoint une coopérative agricole comme Commercial agricole. Ce qui me plaît le plus, c'est de contribuer à la valorisation des produits locaux et au développement rural."

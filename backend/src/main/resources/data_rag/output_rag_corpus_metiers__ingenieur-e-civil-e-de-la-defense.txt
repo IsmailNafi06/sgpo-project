@@ -1,0 +1,43 @@
+METIER: Ingénieur(E) civil(E) de la défense
+CODE: INGENIEUR_E_CIVIL_E_DE_LA_DEFENSE
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Ingénieur(E) civil(E) de la défense L’ingénieur civil de la défense prépare, dirige et contrôle des projets scientifiques, techniques ou industriels pour le compte du ministère de la Défense. Il organise le travail du service dont il a charge et en assure l’encadrement. Il peut aussi assurer des missions de surveillance industrielle. Il est affecté auprès de la DGA (Délégation Générale pour l’Armement) ou des états-majors des armées. Bac + 5 Niveau d'études 9.500 MAD Rémunération 2 ans Expérience Missions principales Diriger et contrôler les travaux scientifiques, techniques ou industriels effectués dans les établissements et services du ministère de la défense. Organisent le travail du service. Surveillance industrielle. Compétences techniques Connaissance et expérience dans le domaine recherché. Animation d’équipes. Travail en réseau. Qualités personnelles Autonome. Force de proposition. Rigoureux et organisé. Il apprécie de tra
+
+PHRASES CLES
+- Ingénieur(E) civil(E) de la défense
+- secteur Métiers de la production et l’industrialisation
+- filiere Parcours professionnalisant Ingénieur(E) civil(E) de la défense
+- defense
+- techniques
+- travail
+- civil
+- scientifiques
+- industriels
+- ministere
+- organise
+- service
+- missions
+- surveillance
+- industrielle
+- experience
+- ingenieur
+- lingenieur
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Parcours professionnalisant Ingénieur(E) civil(E) de la défense
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=70.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Parcours professionnalisant Ingénieur(E) civil(E) de la défense. Cette filiere ouvre un debouche direct vers le metier Ingénieur(E) civil(E) de la défense. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 70.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Parcours professionnalisant Ingénieur(E) civil(E) de la défense, j'ai choisi le metier de Ingénieur(E) civil(E) de la défense. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur(E) civil(E) de la défense, la progression a ete plus rapide quand j'ai renforce Ingénieur(E) civil(E) de la défense. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur(E) civil(E) de la défense demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

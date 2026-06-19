@@ -1,0 +1,10 @@
+﻿METIER: Conservateur foncier
+CODE: CONSERVATEUR_FONCIER
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Soufiane, promotion 2024 :
+"Mon parcours en droit des affaires m'a préparé à exercer comme Conservateur foncier. Au Maroc, ce secteur est en pleine structuration et les opportunités se multiplient, notamment dans les grandes entreprises et les cabinets."

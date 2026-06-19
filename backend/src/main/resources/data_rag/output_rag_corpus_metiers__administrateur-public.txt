@@ -1,0 +1,10 @@
+﻿METIER: Administrateur public
+CODE: ADMINISTRATEUR_PUBLIC
+SECTEUR: Droit et administration
+
+FORMATIONS QUI Y MENENT
+- Licence Droit et Administration Publique - FSJES Rabat
+
+TEMOIGNAGE
+Amine, promotion 2022 :
+"Après ma licence en droit à l'Université Mohammed V, j'ai suivi une spécialisation qui m'a conduit vers le métier de Administrateur public. La rigueur juridique acquise durant mes études est au cœur de mon travail quotidien."

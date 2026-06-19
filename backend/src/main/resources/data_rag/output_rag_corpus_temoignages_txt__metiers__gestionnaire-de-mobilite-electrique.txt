@@ -1,0 +1,9 @@
+METIER: Gestionnaire de mobilité électrique
+CODE: GESTIONNAIRE_DE_MOBILITE_ELECTRIQUE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en NTIC – Génie Électrique, Automatique Et Automatismes, Systèmes Embarqués, j'ai choisi le metier de Gestionnaire de mobilité électrique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Gestionnaire de mobilité électrique, la progression a ete plus rapide quand j'ai renforce Gestionnaire de mobilité électrique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Gestionnaire de mobilité électrique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

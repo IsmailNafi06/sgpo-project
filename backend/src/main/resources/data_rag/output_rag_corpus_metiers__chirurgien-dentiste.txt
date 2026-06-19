@@ -1,0 +1,14 @@
+﻿METIER: Chirurgien dentiste
+CODE: CHIRURGIEN_DENTISTE
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Diplome de Docteur en Medecine Dentaire - Faculte de Medecine Dentaire Casablanca
+- Diplome de Docteur en Medecine Dentaire - Faculte de Medecine Dentaire Rabat
+- Diplome de Docteur en Medecine Dentaire - Faculte de Medecine, de Pharmacie et de Medecine Dentaire Fes
+- Diplome de Docteur en Medecine Dentaire - Faculte Mohammed VI de Medecine Dentaire Casablanca
+- Diplome de Docteur en Medecine Dentaire - Faculte Mohammed VI de Medecine Dentaire Rabat
+
+TEMOIGNAGE
+Tariq, promotion 2024 :
+"Mon parcours en sciences de la santé m'a conduit vers le métier de Chirurgien dentiste. Les stages hospitaliers ont été déterminants dans ma formation et m'ont permis de confronter la théorie à la réalité du terrain."

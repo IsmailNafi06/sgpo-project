@@ -1,0 +1,9 @@
+METIER: Praticien en médecine alternative
+CODE: PRATICIEN_EN_MEDECINE_ALTERNATIVE
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Doctorat en Médecine Dentaire - FM6MD Rabat, Doctorat en Médecine Dentaire - FM6MD Casablanca, j'ai choisi le metier de Praticien en médecine alternative. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Praticien en médecine alternative, la progression a ete plus rapide quand j'ai renforce Praticien en médecine alternative. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Praticien en médecine alternative demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

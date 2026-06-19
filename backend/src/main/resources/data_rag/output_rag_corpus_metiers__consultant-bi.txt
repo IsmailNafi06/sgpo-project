@@ -1,0 +1,10 @@
+﻿METIER: Consultant Business Intelligence
+CODE: CONSULTANT_BI
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Business Intelligence - ENSIAS Rabat
+
+TEMOIGNAGE
+Samira, promotion 2022 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Consultant Business Intelligence. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."

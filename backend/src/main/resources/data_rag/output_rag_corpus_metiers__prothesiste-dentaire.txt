@@ -1,0 +1,10 @@
+﻿METIER: Prothesiste dentaire
+CODE: PROTHESISTE_DENTAIRE
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Licence Professions Paramedicales Specialisees - ISPITS Rabat
+
+TEMOIGNAGE
+Imane, promotion 2021 :
+"Travailler comme Prothesiste dentaire est un défi quotidien mais aussi une grande satisfaction personnelle. Ma formation clinique au Maroc m'a donné une autonomie que j'apprécie énormément dans ma pratique professionnelle."

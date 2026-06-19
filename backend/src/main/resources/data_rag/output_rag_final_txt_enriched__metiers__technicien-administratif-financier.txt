@@ -1,0 +1,85 @@
+METIER: Technicien administratif/financier
+CODE: TECHNICIEN_ADMINISTRATIF_FINANCIER
+SECTEUR: Métiers de la comptabilité, audit et finance
+
+DESCRIPTION
+Technicien administratif/financier Le Technicien administratif/financier soutient le directeur administratif et financier. Son activité consiste à gérer les finances et le personnel de l’entreprise. Il contrôle les budgets, gère la trésorerie de l’entreprise. Il établit aussi les fiches de paie mensuelles du personnel en se basant sur les fiches d’absences dont il doit assurer le suivi. Il analyse également les coûts de revient et le chiffre d'affaires par produit en cohérence avec la stratégie générale de l'établissement. Le Technicien administratif/financier assure cependant le secrétariat et l’assistance technique et logistique des responsables de service. D'autre part, il réalise des actes administratifs dans le respect des techniques, des règles des domaines fonctionnels de l’établissement. Bac + 2 Niveau d'études 3.600 MAD Rémunération 3 ans Expérience Missions principales Etablir les fiches de paie de l’ensemble des collabor
+
+FORMATIONS QUI MENENT AU METIER
+1. BTS Comptabilite et Gestion
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BTS Comptabilite et Gestion
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Comptabilite et Gestion. Cette filiere ouvre un debouche direct vers le metier Technicien administratif/financier. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Analyste en Investissements (score_chemin_commun=1)
+- Analyste de données agroalimentaires (score_chemin_commun=1)
+- Analyste en données urbaines et démographiques (score_chemin_commun=1)
+- Analyste en évaluation économique des projets d’hydrogène vert (score_chemin_commun=1)
+- Analyste financier pour les projets d’infrastructures d’hydrogène (score_chemin_commun=1)
+- Analyste ESG (score_chemin_commun=1)
+- Conseiller en investissement écoresponsable (score_chemin_commun=1)
+- percepteur (score_chemin_commun=1)
+- Agent des finances (score_chemin_commun=1)
+- guichetier payeur (score_chemin_commun=1)
+- Assistant comptable (score_chemin_commun=1)
+- Chargé d’affaires (Environnement) (score_chemin_commun=1)
+- Agent de dépôt (score_chemin_commun=1)
+
+PHRASES CLES
+- Technicien administratif/financier
+- secteur Métiers de la comptabilité, audit et finance
+- filiere BTS Comptabilite et Gestion
+- administratif
+- financier
+- technicien
+- fiches
+- personnel
+- lentreprise
+- paie
+- soutient
+- directeur
+- activite
+- consiste
+- gerer
+- finances
+- controle
+- budgets
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Technicien administratif/financier
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Comptabilite et Gestion, j'ai choisi le metier de Technicien administratif/financier. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Technicien administratif/financier
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien administratif/financier, la progression a ete plus rapide quand j'ai renforce Technicien administratif/financier. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Technicien administratif/financier
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien administratif/financier demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

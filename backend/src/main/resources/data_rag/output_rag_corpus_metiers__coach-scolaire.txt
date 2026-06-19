@@ -1,0 +1,10 @@
+﻿METIER: Coach scolaire
+CODE: COACH_SCOLAIRE
+SECTEUR: Education et culture
+
+FORMATIONS QUI Y MENENT
+- Licence Education Culture et Documentation - FLSH Rabat
+
+TEMOIGNAGE
+Yassine, promotion 2023 :
+"Mon master en sciences de l'éducation m'a orienté vers le métier de Coach scolaire. La dimension humaine de ce travail est ce qui me motive chaque jour, même si les conditions d'exercice restent à améliorer."

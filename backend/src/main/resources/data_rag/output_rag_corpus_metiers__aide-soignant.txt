@@ -1,0 +1,10 @@
+﻿METIER: Aide soignant
+CODE: AIDE_SOIGNANT
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Assistance Sante - IFPS Casablanca
+
+TEMOIGNAGE
+Houda, promotion 2022 :
+"Après mes études en soins infirmiers à l'IFCS de Casablanca, j'ai intégré un hôpital public en tant que Aide soignant. La vocation prime dans ce secteur, mais les conditions d'exercice s'améliorent progressivement au Maroc."

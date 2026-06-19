@@ -1,0 +1,39 @@
+METIER: Data Engineer
+CODE: DATA_ENGINEER
+SECTEUR: Informatique
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Master Data Engineering
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master Data Engineering
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Data Engineering. Cette filiere ouvre un debouche direct vers le metier Data Engineer. Le chemin est relie a Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Data Engineer
+- secteur Informatique
+- filiere Master Data Engineering
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Data Engineering, j'ai choisi le metier de Data Engineer. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Data Engineer, la progression a ete plus rapide quand j'ai renforce Data Engineer. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Data Engineer demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

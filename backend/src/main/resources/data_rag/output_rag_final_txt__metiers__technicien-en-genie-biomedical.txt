@@ -1,0 +1,66 @@
+METIER: Technicien en génie biomédical
+CODE: TECHNICIEN_EN_GENIE_BIOMEDICAL
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Technicien en génie biomédical Le technicien en génie biomédical est essentiel dans le domaine de la santé. Ce professionnel est responsable de l'installation, de la maintenance et de la réparation des équipements médicaux utilisés dans les hôpitaux, les cliniques et autres établissements de santé. Son rôle est de garantir que les équipements médicaux fonctionnent correctement et en toute sécurité, afin d'assurer des soins de qualité aux patients. Le technicien en génie biomédical effectue des inspections régulières, diagnostiquent les problèmes techniques, effectuent des réparations et calibrent les équipements. Il travaille en étroite collaboration avec les médecins et le personnel médical pour s'assurer que les équipements répondent aux besoins cliniques. Une formation spécialisée en génie biomédical ou en électronique est généralement requise pour ce poste. Bac + 2 Niveau d'études 3.000 MAD Rémunération 3 ans Expérience Missions pr
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Technicien en génie biomédical. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+- Ingénieur biomécanique (score_chemin_commun=1)
+
+PHRASES CLES
+- Technicien en génie biomédical
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- genie
+- biomedical
+- equipements
+- technicien
+- sante
+- medicaux
+- cliniques
+- assurer
+- essentiel
+- domaine
+- professionnel
+- responsable
+- installation
+- maintenance
+- reparation
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Technicien en génie biomédical. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien en génie biomédical, la progression a ete plus rapide quand j'ai renforce Technicien en génie biomédical. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien en génie biomédical demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

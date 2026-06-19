@@ -1,0 +1,10 @@
+﻿METIER: Gestionnaire locatif
+CODE: GESTIONNAIRE_LOCATIF
+SECTEUR: Immobilier
+
+FORMATIONS QUI Y MENENT
+- Licence Gestion Immobiliere et Patrimoine - FSJES Casablanca
+
+TEMOIGNAGE
+Soufiane, promotion 2021 :
+"Mon master en droit immobilier m'a orienté vers le métier de Gestionnaire locatif. Comprendre les aspects juridiques et fiscaux des transactions est indispensable pour accompagner efficacement les clients."

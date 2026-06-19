@@ -1,0 +1,225 @@
+METIER: Responsable logistique
+CODE: RESPONSABLE_LOGISTIQUE
+SECTEUR: Métiers de la gestion et l’organisation
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Responsable logistique
+- secteur Métiers de la gestion et l’organisation
+- filiere DUT Logistique et Transport
+- filiere Diplôme ENCG Logistique & Supply Chain
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Salé
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Salé. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Nador
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Nador. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Laâyoune
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Laâyoune. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: EST Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a EST Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Khénifra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Khénifra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 17
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Guelmim
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Guelmim. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 18
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: EST Essaouira
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a EST Essaouira. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 19
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 20
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 21
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 22
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 23
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 24
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Superieure de Technologie de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 25
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 26
+- Filiere: Diplôme ENCG Logistique & Supply Chain
+- Prerequis: Non precise
+- Etablissements: ENCG Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Logistique & Supply Chain. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a ENCG Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 27
+- Filiere: Ingénierie Transport et Logistique
+- Prerequis: Non precise
+- Etablissements: Ecole Hassania des Travaux Publics
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Transport et Logistique. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Hassania des Travaux Publics. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 28
+- Filiere: DUT Logistique et Transport
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Logistique et Transport. Cette filiere ouvre un debouche direct vers le metier Responsable logistique. Le chemin est relie a Ecole Supérieure de Technologie Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Logistique et Transport, DUT Logistique et Transport, j'ai choisi le metier de Responsable logistique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Responsable logistique, la progression a ete plus rapide quand j'ai renforce Responsable logistique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Responsable logistique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

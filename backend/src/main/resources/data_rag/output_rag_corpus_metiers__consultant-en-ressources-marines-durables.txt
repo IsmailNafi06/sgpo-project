@@ -1,0 +1,62 @@
+METIER: Consultant en ressources marines durables
+CODE: CONSULTANT_EN_RESSOURCES_MARINES_DURABLES
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Consultant en ressources marines durables Le consultant en ressources marines durables joue un rôle essentiel dans la préservation et l'utilisation responsable des écosystèmes marins. Cet expert interdisciplinaire travaille pour garantir que l'exploitation des ressources marines se fait de manière durable et en équilibre avec la préservation de l'environnement. Sa mission englobe la recherche, l'évaluation des stocks de poissons, la conception de plans de gestion des pêches et la mise en œuvre de stratégies pour minimiser l'impact environnemental. En utilisant des données scientifiques et des modèles de gestion, il contribue à la protection des écosystèmes marins tout en soutenant les industries liées à la pêche et à l'aquaculture. Le consultant en ressources marines durables est un défenseur de l'équilibre entre l'exploitation économique et la préservation des océans, assurant ainsi la durabilité des ressources marines pour
+
+PHRASES CLES
+- Consultant en ressources marines durables
+- secteur Métiers biologie et agroalimentaire
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- ressources
+- marines
+- consultant
+- durables
+- preservation
+- ecosystemes
+- marins
+- exploitation
+- equilibre
+- gestion
+- joue
+- role
+- essentiel
+- utilisation
+- responsable
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Consultant en ressources marines durables. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Medecin generaliste (score chemin commun=1)
+- Médecin pharmacien biologiste (score chemin commun=1)
+- Chargé d’affaires dans la santé (score chemin commun=1)
+- Analyste en Cybersanté (score chemin commun=1)
+- Ludothérapeute (score chemin commun=1)
+- Inspecteur de santé publique (score chemin commun=1)
+- Aide soignante (score chemin commun=1)
+- Epidémiologiste (score chemin commun=1)
+- Conseiller en planning familial (score chemin commun=1)
+- Physiothérapeute (score chemin commun=1)
+- Technicien en génie biomédical (score chemin commun=1)
+- Technicien en génétique médicale (score chemin commun=1)
+- Coach de vie (score chemin commun=1)
+- Délégué de l’assurance maladie (score chemin commun=1)
+- Chef de service socio-éducatif (score chemin commun=1)
+- Chargé de mission médico-social (score chemin commun=1)
+- Cadre de santé (score chemin commun=1)
+- Délégué vétérinaire (score chemin commun=1)
+- Podo-orthésiste (score chemin commun=1)
+- Naturopathe (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Consultant en ressources marines durables. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Consultant en ressources marines durables, la progression a ete plus rapide quand j'ai renforce Consultant en ressources marines durables. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Consultant en ressources marines durables demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

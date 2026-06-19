@@ -1,0 +1,82 @@
+METIER: Assistant à la réalisation
+CODE: ASSISTANT_A_LA_REALISATION
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Assistant à la réalisation L'assistant réalisateur ou Assistant à la réalisation est la personne qui, en étroite collaboration avec le réalisateur et le régisseur, exécute diverses tâches techniques relatives à la préparation et à la production d'un film ou d'une émission télévisée. Dans le cadre de ses fonctions, elle assiste aux réunions de production, réserve les salles de répétition et les studios et prépare la liste détaillée du matériel requis (décors, costumes, accessoires, etc.). Elle prend des notes détaillées sur tout ce qui concerne le tournage de la production afin d'avoir en main tous les éléments d'information qui permettront d'éviter des erreurs de contenu visuel (décors, accessoires, costumes, maquillages, coiffures des acteurs, positions ou expressions, etc.). Elle dresse l'état des frais de production, prépare les textes annotés pour l'aiguilleur, les bruiteurs et les techniciens du son, distribue la séquence des plans au
+
+FORMATIONS QUI MENENT AU METIER
+1. Master Tourisme Culturel et Valorisation du Patrimoine
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Master Tourisme Culturel et Valorisation du Patrimoine
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Tourisme Culturel et Valorisation du Patrimoine. Cette filiere ouvre un debouche direct vers le metier Assistant à la réalisation. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Monteur (score_chemin_commun=1)
+- Chef monteur (score_chemin_commun=1)
+- Assistant monteur (score_chemin_commun=1)
+- Directeur de la photographie (score_chemin_commun=1)
+- Étalonneur (score_chemin_commun=1)
+- Électro (score_chemin_commun=1)
+- Monteur son (score_chemin_commun=1)
+- Scénariste pour cinéma et séries (score_chemin_commun=1)
+- Designer de jardins verticaux (score_chemin_commun=1)
+- Stratège Tendances Mode (score_chemin_commun=1)
+
+PHRASES CLES
+- Assistant à la réalisation
+- secteur Métiers art et design
+- filiere Master Tourisme Culturel et Valorisation du Patrimoine
+- production
+- assistant
+- realisation
+- realisateur
+- prepare
+- decors
+- costumes
+- accessoires
+- personne
+- etroite
+- collaboration
+- regisseur
+- execute
+- diverses
+- taches
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Assistant à la réalisation
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Tourisme Culturel et Valorisation du Patrimoine, j'ai choisi le metier de Assistant à la réalisation. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Assistant à la réalisation
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Assistant à la réalisation, la progression a ete plus rapide quand j'ai renforce Assistant à la réalisation. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Assistant à la réalisation
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Assistant à la réalisation demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

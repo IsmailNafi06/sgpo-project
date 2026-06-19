@@ -1,0 +1,140 @@
+METIER: Ingénieur support télécom
+CODE: INGENIEUR_SUPPORT_TELECOM
+SECTEUR: Métiers des réseaux et télécoms
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Ingénieur support télécom
+- secteur Métiers des réseaux et télécoms
+- filiere Ingénierie Réseaux et Télécoms
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Khouribga
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Khouribga. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: ENSA Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a ENSA Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Al Hoceima
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Al Hoceima. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences  Appliquées  Ait Melloul
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Faculté des Sciences  Appliquées  Ait Melloul. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: ENSA Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a ENSA Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Berrechid
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Ecole Nationale des Sciences Appliquées Berrechid. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: ENSA Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a ENSA Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: Ingénierie Réseaux et Télécoms
+- Prerequis: Non precise
+- Etablissements: Institut National des Postes et Telecommunications
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Réseaux et Télécoms. Cette filiere ouvre un debouche direct vers le metier Ingénieur support télécom. Le chemin est relie a Institut National des Postes et Telecommunications. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Ingénieur réseau et télécoms (score chemin commun=16)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénierie Réseaux et Télécoms, Ingénierie Réseaux et Télécoms, j'ai choisi le metier de Ingénieur support télécom. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur support télécom, la progression a ete plus rapide quand j'ai renforce Ingénieur support télécom. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur support télécom demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,59 @@
+METIER: Potier(ère)
+CODE: POTIER_ERE
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Potier(ère) Le métier de Potier(ère) est un artisanat ancien et artistique qui consiste à créer des objets en argile ou en céramique à travers un processus de modelage, de façonnage et de cuisson. Ces professionnels maîtrisent l'art de travailler la terre pour concevoir une variété d'objets tels que des pots, des bols, des vases et des sculptures. Les Potiers doivent posséder une solide connaissance des différentes techniques de modelage, du choix des glaçures et des émaux, ainsi que de la manipulation des fours de cuisson. Ils sont également souvent amenés à créer leurs propres designs originaux. La créativité, la patience et le souci du détail sont des qualités essentielles pour exceller dans ce métier. Les Potiers peuvent travailler de manière indépendante dans leurs propres ateliers ou être employés dans des ateliers de poterie, des studios d'art ou des entreprises de production de céramique. Ce métier offre la possibilité de créer des œuvres d'art u
+
+PHRASES CLES
+- Potier(ère)
+- secteur Métiers art et design
+- filiere Licence Arts et Culture
+- creer
+- potier
+- objets
+- ceramique
+- modelage
+- cuisson
+- travailler
+- potiers
+- propres
+- ateliers
+- artisanat
+- ancien
+- artistique
+- consiste
+- argile
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Potier(ère). Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Concepteur de produits durables (score chemin commun=1)
+- Technicien en impression 3D (score chemin commun=1)
+- Logisticien (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+- Marinier/Batelier (score chemin commun=1)
+- Responsable qualité en logistique (score chemin commun=1)
+- Préparateur de commande (score chemin commun=1)
+- Scripte (score chemin commun=1)
+- Le directeur de postproduction (score chemin commun=1)
+- Assistant caméra (score chemin commun=1)
+- Machino (score chemin commun=1)
+- Mixeur (score chemin commun=1)
+- Technicien du son (score chemin commun=1)
+- Consultant scénario (score chemin commun=1)
+- Scénariste (score chemin commun=1)
+- Cadreur (score chemin commun=1)
+- Directeur artistique multimédia (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts et Culture, j'ai choisi le metier de Potier(ère). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Potier(ère), la progression a ete plus rapide quand j'ai renforce Potier(ère). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Potier(ère) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

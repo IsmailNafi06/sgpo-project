@@ -1,0 +1,9 @@
+METIER: Ingénieur(e) en analyse de l’air
+CODE: INGENIEUR_E_EN_ANALYSE_DE_LAIR
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Sciences Infirmieres - ISPITS Rabat, j'ai choisi le metier de Ingénieur(e) en analyse de l’air. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur(e) en analyse de l’air, la progression a ete plus rapide quand j'ai renforce Ingénieur(e) en analyse de l’air. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur(e) en analyse de l’air demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

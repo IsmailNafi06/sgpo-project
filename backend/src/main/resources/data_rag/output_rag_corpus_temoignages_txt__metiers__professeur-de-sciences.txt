@@ -1,0 +1,9 @@
+METIER: Professeur de Sciences
+CODE: PROFESSEUR_DE_SCIENCES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Métiers de l'Enseignement des Sciences, j'ai choisi le metier de Professeur de Sciences. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Professeur de Sciences, la progression a ete plus rapide quand j'ai renforce Professeur de Sciences. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Professeur de Sciences demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

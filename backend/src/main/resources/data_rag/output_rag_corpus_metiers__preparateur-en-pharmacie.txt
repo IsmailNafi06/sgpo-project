@@ -1,0 +1,10 @@
+﻿METIER: Preparateur en pharmacie
+CODE: PREPARATEUR_EN_PHARMACIE
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Assistance Sante - IFPS Casablanca
+
+TEMOIGNAGE
+Soufiane, promotion 2024 :
+"Mon parcours en sciences de la santé m'a conduit vers le métier de Preparateur en pharmacie. Les stages hospitaliers ont été déterminants dans ma formation et m'ont permis de confronter la théorie à la réalité du terrain."

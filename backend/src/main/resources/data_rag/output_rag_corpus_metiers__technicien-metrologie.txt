@@ -1,0 +1,10 @@
+﻿METIER: Technicien metrologie
+CODE: TECHNICIEN_METROLOGIE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Rachid, promotion 2021 :
+"Mon cursus en génie mécanique m'a préparé au métier de Technicien metrologie. L'industrie marocaine se modernise rapidement avec l'arrivée de grands donneurs d'ordre internationaux, et les ingénieurs locaux sont très demandés."

@@ -1,0 +1,33 @@
+﻿METIER: Responsable ressources humaines
+CODE: RESPONSABLE_RH
+SECTEUR: Gestion
+
+FORMATIONS QUI Y MENENT
+- BTS Gestion de la PME - Centre BTS Casablanca
+- BTS Gestion de la PME - Centre BTS Fes
+- BTS Gestion de la PME - Centre BTS Marrakech
+- BTS Gestion de la PME - Centre BTS Rabat
+- BTS Gestion de la PME - ENSET Mohammedia
+- Diplome ENCG Management
+- Diplome ENCG Management - ENCG Beni Mellal
+- Diplome ENCG Management - ENCG Casablanca
+- DUT Management des Entreprises - Ecole Superieure de Technologie Agadir
+- DUT Management des Entreprises - Ecole Superieure de Technologie Beni Mellal
+- DUT Management des Entreprises - Ecole Superieure de Technologie Casablanca
+- DUT Management des Entreprises - Ecole Superieure de Technologie Essaouira
+- DUT Management des Entreprises - Ecole Superieure de Technologie Fes
+- DUT Management des Entreprises - Ecole Superieure de Technologie Guelmim
+- DUT Management des Entreprises - Ecole Superieure de Technologie Kenitra
+- DUT Management des Entreprises - Ecole Superieure de Technologie Khenifra
+- DUT Management des Entreprises - Ecole Superieure de Technologie Khouribga
+- DUT Management des Entreprises - Ecole Superieure de Technologie Laayoune
+- DUT Management des Entreprises - Ecole Superieure de Technologie Marrakech
+- DUT Management des Entreprises - Ecole Superieure de Technologie Meknes
+- DUT Management des Entreprises - Ecole Superieure de Technologie Oujda
+- DUT Management des Entreprises - Ecole Superieure de Technologie Safi
+- DUT Management des Entreprises - Ecole Superieure de Technologie Sale
+- DUT Management des Entreprises - Ecole Superieure de Technologie Sidi Bennour
+
+TEMOIGNAGE
+Karim, promotion 2021 :
+"Exercer comme Responsable ressources humaines au Maroc est une expérience enrichissante. Ma formation m'a donné les outils de base, mais c'est la pratique professionnelle quotidienne qui forge réellement les compétences durables."

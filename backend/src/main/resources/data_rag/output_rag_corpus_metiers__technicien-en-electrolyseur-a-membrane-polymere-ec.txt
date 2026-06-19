@@ -1,0 +1,11 @@
+﻿METIER: Technicien en electrolyseur a membrane polymere echangeuse de protons
+CODE: TECHNICIEN_EN_ELECTROLYSEUR_A_MEMBRANE_POLYMERE_EC
+SECTEUR: Metiers de l'electrique
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en NTIC - Energies renouvelables
+- Passerelle sectorielle vers Technicien en electrolyseur a membrane polymere echangeuse de protons
+
+TEMOIGNAGE
+Houda, promotion 2022 :
+"Exercer comme Technicien en electrolyseur a membrane polymere echangeuse de protons dans le secteur électrique au Maroc est un métier d'avenir. Avec le développement des smart grids et des énergies renouvelables, les compétences en électricité sont de plus en plus recherchées."

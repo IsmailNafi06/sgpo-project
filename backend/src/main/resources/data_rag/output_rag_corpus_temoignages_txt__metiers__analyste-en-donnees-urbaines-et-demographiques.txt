@@ -1,0 +1,9 @@
+METIER: Analyste en données urbaines et démographiques
+CODE: ANALYSTE_EN_DONNEES_URBAINES_ET_DEMOGRAPHIQUES
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BTS Comptabilite et Gestion, j'ai choisi le metier de Analyste en données urbaines et démographiques. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste en données urbaines et démographiques, la progression a ete plus rapide quand j'ai renforce Analyste en données urbaines et démographiques. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste en données urbaines et démographiques demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

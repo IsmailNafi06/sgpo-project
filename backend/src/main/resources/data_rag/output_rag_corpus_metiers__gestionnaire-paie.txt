@@ -1,0 +1,11 @@
+﻿METIER: Gestionnaire paie
+CODE: GESTIONNAIRE_PAIE
+SECTEUR: Finance
+
+FORMATIONS QUI Y MENENT
+- Licence Finance Banque Assurance - FSJES Casablanca
+- Technicien Specialise Gestion Comptable et Paie - ISTA Rabat
+
+TEMOIGNAGE
+Othmane, promotion 2023 :
+"Mon master en finance à l'ISCAE m'a ouvert les portes du métier de Gestionnaire paie. La rigueur analytique apprise en formation est indispensable pour gérer les dossiers complexes que je traite au quotidien."

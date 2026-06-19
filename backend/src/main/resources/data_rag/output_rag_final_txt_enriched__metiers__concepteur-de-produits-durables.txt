@@ -1,0 +1,89 @@
+METIER: Concepteur de produits durables
+CODE: CONCEPTEUR_DE_PRODUITS_DURABLES
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Concepteur de produits durables Le concepteur de produits durables est un professionnel qui se consacre à la création et au développement de produits tout en intégrant des considérations environnementales et durables. Son rôle essentiel est de concevoir des produits innovants qui réduisent leur impact sur l'environnement tout au long de leur cycle de vie, de la production à la fin de vie. Ce professionnel collabore étroitement avec des équipes multidisciplinaires pour intégrer des matériaux durables, des processus de fabrication respectueux de l'environnement et des concepts de recyclage. Il peut également être impliqué dans la recherche de nouvelles technologies et solutions écoresponsables. La sensibilisation aux normes environnementales, la connaissance des matériaux durables et des compétences en conception sont cruciales dans ce métier. Un diplôme en design industriel, ingénierie, conception de produits ou un domaine connexe est
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence Arts et Culture
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Concepteur de produits durables. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien en impression 3D (score_chemin_commun=1)
+- Logisticien (score_chemin_commun=1)
+- Agent de routage (score_chemin_commun=1)
+- Marinier/Batelier (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Préparateur de commande (score_chemin_commun=1)
+- Scripte (score_chemin_commun=1)
+- Le directeur de postproduction (score_chemin_commun=1)
+- Assistant caméra (score_chemin_commun=1)
+- Machino (score_chemin_commun=1)
+- Mixeur (score_chemin_commun=1)
+- Technicien du son (score_chemin_commun=1)
+- Consultant scénario (score_chemin_commun=1)
+- Potier(ère) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+
+PHRASES CLES
+- Concepteur de produits durables
+- secteur Métiers de la production et l’industrialisation
+- filiere Licence Arts et Culture
+- produits
+- durables
+- concepteur
+- professionnel
+- environnementales
+- environnement
+- materiaux
+- conception
+- consacre
+- creation
+- developpement
+- integrant
+- considerations
+- role
+- essentiel
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Concepteur de produits durables
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts et Culture, j'ai choisi le metier de Concepteur de produits durables. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Concepteur de produits durables
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Concepteur de produits durables, la progression a ete plus rapide quand j'ai renforce Concepteur de produits durables. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Concepteur de produits durables
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Concepteur de produits durables demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

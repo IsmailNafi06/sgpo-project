@@ -1,0 +1,62 @@
+METIER: Délégué de l’assurance maladie
+CODE: DELEGUE_DE_LASSURANCE_MALADIE
+SECTEUR: Métiers de la santé
+
+DESCRIPTION
+Délégué de l’assurance maladie Le délégué de l’assurance maladie assure la promotion de la stratégie de maîtrise des dépenses de santé de l’assurance maladie. Relais de l’assurance maladie auprès des professionnels de santé, il développe la coopération avec les professionnels de santé, les guide et les accompagne, et contribue à l’évolution des comportements en faveur d’une prescription plus efficiente et d’un meilleur usage du système de soins. Bac + 3 Niveau d'études 4.500 MAD Rémunération 3 ans Expérience Missions principales Construire les plans de visite et d’intervention en fonction des profils constitués Actualiser son portefeuille de professionnels de santé Réaliser les recherches documentaires nécessaires Assurer la promotion des outils de régulation et des objectifs conventionnels Faciliter les relations administratives entre les professionnels de santé et la CPAM Assurer une veille technique et réglementaire pour actualiser
+
+PHRASES CLES
+- Délégué de l’assurance maladie
+- secteur Métiers de la santé
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- sante
+- lassurance
+- maladie
+- professionnels
+- delegue
+- promotion
+- actualiser
+- assurer
+- assure
+- strategie
+- maitrise
+- depenses
+- relais
+- aupres
+- developpe
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Délégué de l’assurance maladie. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Medecin generaliste (score chemin commun=1)
+- Médecin pharmacien biologiste (score chemin commun=1)
+- Chargé d’affaires dans la santé (score chemin commun=1)
+- Analyste en Cybersanté (score chemin commun=1)
+- Ludothérapeute (score chemin commun=1)
+- Inspecteur de santé publique (score chemin commun=1)
+- Aide soignante (score chemin commun=1)
+- Epidémiologiste (score chemin commun=1)
+- Conseiller en planning familial (score chemin commun=1)
+- Physiothérapeute (score chemin commun=1)
+- Technicien en génie biomédical (score chemin commun=1)
+- Technicien en génétique médicale (score chemin commun=1)
+- Coach de vie (score chemin commun=1)
+- Chef de service socio-éducatif (score chemin commun=1)
+- Chargé de mission médico-social (score chemin commun=1)
+- Cadre de santé (score chemin commun=1)
+- Délégué vétérinaire (score chemin commun=1)
+- Podo-orthésiste (score chemin commun=1)
+- Naturopathe (score chemin commun=1)
+- Ingénieur biomécanique (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Délégué de l’assurance maladie. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Délégué de l’assurance maladie, la progression a ete plus rapide quand j'ai renforce Délégué de l’assurance maladie. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Délégué de l’assurance maladie demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

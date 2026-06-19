@@ -1,0 +1,116 @@
+METIER: Juge aux affaires familiales
+CODE: JUGE_AUX_AFFAIRES_FAMILIALES
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Juge aux affaires familiales Le juge aux affaires familiales est un magistrat du siège du tribunal judiciaire. Il est chargé des litiges relatifs au divorce, à l’autorité parentale et aux obligations alimentaires au sein de la famille. Ce professionnel propose des mesures de conciliation et prend des décisions provisoires pendant la procédure de divorce. Il définit également les droits de garde et de visite des enfants. Et il règle les demandes de révision des pensions alimentaires. La fixation et la révision des pensions alimentaires ainsi que l'exercice et l'attribution de l'autorité parentale relèvent aussi de ses compétences. Il peut également s'occuper d'affaires d'état civil pour les procédures de changement de prénom ou de nom pour les enfants naturels. Si un parent manque gravement à ses devoirs ou s'il met en péril l'intérêt de la famille, le juge aux affaires familiales peut alors prescrire des décisions urgentes d'une durée li
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Droit Prive
+2. Licence Droit des Affaires
+3. Master en Droit des Affaires et Management des Entreprises
+4. Licence Droit des affaires et fiscalité SUP’H Droit
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Juge aux affaires familiales. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+Parcours 2
+- Filiere: Licence Droit des Affaires
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=73.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit des Affaires. Cette filiere ouvre un debouche direct vers le metier Juge aux affaires familiales. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 73.9%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Master en Droit des Affaires et Management des Entreprises
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=84.8%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master en Droit des Affaires et Management des Entreprises. Cette filiere ouvre un debouche direct vers le metier Juge aux affaires familiales. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 84.8%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Licence Droit des affaires et fiscalité SUP’H Droit
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra
+- Indicateurs: taux_reussite=76.3%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Droit des affaires et fiscalité SUP’H Droit. Cette filiere ouvre un debouche direct vers le metier Juge aux affaires familiales. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques et Politiques Kénitra. Indicateurs du parcours: taux de reussite estime: 76.3%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Juriste en droit de l’environnement (score_chemin_commun=4)
+- Juriste Droit des Espaces et Activités maritimes (score_chemin_commun=4)
+- Juriste corporate (score_chemin_commun=3)
+- Agent d’Immigration (score_chemin_commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score_chemin_commun=1)
+- Inspecteur des douanes (score_chemin_commun=1)
+- Substitut du procureur (score_chemin_commun=1)
+- Administrateur judiciaire (score_chemin_commun=1)
+- Juge pour enfants (score_chemin_commun=1)
+- Flasheur (score_chemin_commun=1)
+- Juriste dans l’immobilier (score_chemin_commun=1)
+- Fiscaliste (score_chemin_commun=1)
+- Responsable legs (score_chemin_commun=1)
+- Directeur des services de greffe judiciaires (score_chemin_commun=1)
+- Avocat d’affaires (score_chemin_commun=1)
+- Procureur de la république (score_chemin_commun=1)
+- Juriste agricole (score_chemin_commun=1)
+- Juriste du sport (score_chemin_commun=1)
+- Chargé d’indemnisation (score_chemin_commun=1)
+- Responsable des achats durables (score_chemin_commun=1)
+
+PHRASES CLES
+- Juge aux affaires familiales
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- filiere Licence Droit des Affaires
+- filiere Master en Droit des Affaires et Management des Entreprises
+- filiere Licence Droit des affaires et fiscalité SUP’H Droit
+- affaires
+- juge
+- familiales
+- alimentaires
+- divorce
+- parentale
+- famille
+- decisions
+- egalement
+- enfants
+- revision
+- pensions
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Juge aux affaires familiales
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, Licence Droit des Affaires, j'ai choisi le metier de Juge aux affaires familiales. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Juge aux affaires familiales
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Juge aux affaires familiales, la progression a ete plus rapide quand j'ai renforce Juge aux affaires familiales. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Juge aux affaires familiales
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Juge aux affaires familiales demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

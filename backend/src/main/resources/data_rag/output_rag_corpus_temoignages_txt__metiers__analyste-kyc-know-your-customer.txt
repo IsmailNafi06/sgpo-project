@@ -1,0 +1,9 @@
+METIER: Analyste KYC (Know Your Customer)
+CODE: ANALYSTE_KYC_KNOW_YOUR_CUSTOMER
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Analyste KYC (Know Your Customer). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Analyste KYC (Know Your Customer), la progression a ete plus rapide quand j'ai renforce Analyste KYC (Know Your Customer). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Analyste KYC (Know Your Customer) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

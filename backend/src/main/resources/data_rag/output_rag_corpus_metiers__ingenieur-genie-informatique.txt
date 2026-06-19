@@ -1,0 +1,41 @@
+METIER: Ingenieur genie informatique
+CODE: INGENIEUR_GENIE_INFORMATIQUE
+SECTEUR: Ingenierie informatique
+
+DESCRIPTION
+Conception de solutions logicielles et architectures SI.
+
+PHRASES CLES
+- Ingenieur genie informatique
+- secteur Ingenierie informatique
+- filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- conception
+- solutions
+- logicielles
+- architectures
+- conception solutions
+- solutions logicielles
+- logicielles architectures
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=67.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca. Cette filiere ouvre un debouche direct vers le metier Ingenieur genie informatique. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 67.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Developpeur Full Stack (score chemin commun=1)
+- Ingenieur DevOps (score chemin commun=1)
+- Data Scientist (score chemin commun=1)
+- Ingenieur (score chemin commun=1)
+- Ingenieur cybersecurite (score chemin commun=1)
+- Développeur Web Full Stack (score chemin commun=1)
+- Administrateur base de données (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingenieur d'Etat en Genie Informatique - ENSA Casablanca, j'ai choisi le metier de Ingenieur genie informatique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingenieur genie informatique, la progression a ete plus rapide quand j'ai renforce Ingenieur genie informatique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingenieur genie informatique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

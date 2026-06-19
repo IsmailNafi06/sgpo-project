@@ -1,0 +1,66 @@
+METIER: Agriculteur urbain
+CODE: AGRICULTEUR_URBAIN
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Agriculteur urbain L'agriculteur urbain est un professionnel engagé dans la production alimentaire au sein des environnements urbains. Son rôle principal est de cultiver des plantes comestibles, telles que des légumes, des fruits et des herbes, dans des espaces urbains limités, tels que les jardins sur les toits, les balcons, les jardins communautaires et les serres urbaines. Ce métier implique de planifier et de gérer les cultures, de sélectionner les variétés adaptées à l'environnement urbain, d'utiliser des techniques d'irrigation et de fertilisation appropriées, et de mettre en œuvre des pratiques durables pour minimiser l'utilisation des ressources et réduire l'empreinte environnementale. Niveau bac Niveau d'études 4.000 MAD Rémunération 2 ans Expérience Missions principales Cultiver des plantes comestibles dans des espaces urbains restreints; Gérer les cultures, y compris la plantation, l’arrosage, la fertilisation et la récolte; Promouvoir
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- Prerequis: Non precise
+- Etablissements: Faculte de Medecine et de Pharmacie de Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat. Cette filiere ouvre un debouche direct vers le metier Agriculteur urbain. Le chemin est relie a Faculte de Medecine et de Pharmacie de Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Medecin generaliste (score_chemin_commun=1)
+- Médecin pharmacien biologiste (score_chemin_commun=1)
+- Chargé d’affaires dans la santé (score_chemin_commun=1)
+- Analyste en Cybersanté (score_chemin_commun=1)
+- Ludothérapeute (score_chemin_commun=1)
+- Inspecteur de santé publique (score_chemin_commun=1)
+- Aide soignante (score_chemin_commun=1)
+- Epidémiologiste (score_chemin_commun=1)
+- Conseiller en planning familial (score_chemin_commun=1)
+- Physiothérapeute (score_chemin_commun=1)
+- Technicien en génie biomédical (score_chemin_commun=1)
+- Technicien en génétique médicale (score_chemin_commun=1)
+- Coach de vie (score_chemin_commun=1)
+- Délégué de l’assurance maladie (score_chemin_commun=1)
+- Chef de service socio-éducatif (score_chemin_commun=1)
+- Chargé de mission médico-social (score_chemin_commun=1)
+- Cadre de santé (score_chemin_commun=1)
+- Délégué vétérinaire (score_chemin_commun=1)
+- Podo-orthésiste (score_chemin_commun=1)
+- Naturopathe (score_chemin_commun=1)
+
+PHRASES CLES
+- Agriculteur urbain
+- secteur Métiers biologie et agroalimentaire
+- filiere Diplome d'Etat de Docteur en Medecine - FMPR Rabat
+- urbain
+- urbains
+- agriculteur
+- cultiver
+- plantes
+- comestibles
+- espaces
+- jardins
+- gerer
+- cultures
+- fertilisation
+- professionnel
+- engage
+- production
+- alimentaire
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome d'Etat de Docteur en Medecine - FMPR Rabat, j'ai choisi le metier de Agriculteur urbain. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Agriculteur urbain, la progression a ete plus rapide quand j'ai renforce Agriculteur urbain. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Agriculteur urbain demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

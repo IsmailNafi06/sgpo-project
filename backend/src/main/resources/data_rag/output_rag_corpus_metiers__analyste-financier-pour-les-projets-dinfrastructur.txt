@@ -1,0 +1,10 @@
+﻿METIER: Analyste financier pour les projets d'infrastructures d'hydrogene
+CODE: ANALYSTE_FINANCIER_POUR_LES_PROJETS_DINFRASTRUCTUR
+SECTEUR: Metiers de la comptabilite, audit et finance
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Soufiane, promotion 2022 :
+"Travailler comme Analyste financier pour les projets d'infrastructures d'hydrogene au Maroc demande une bonne maîtrise des réglementations locales et internationales. Mon parcours à HEM m'a préparé à cette réalité, et j'ai trouvé un emploi en moins de deux mois après ma soutenance."

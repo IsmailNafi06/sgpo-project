@@ -1,0 +1,59 @@
+METIER: Pizzaïolo
+CODE: PIZZAIOLO
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Pizzaïolo Le pizzaiolo se charge de préparer la pâte à pizza, de découper et hacher les garnitures (légumes et viande) et de réaliser les commandes spéciales des clients. Pour réussir à ce poste, le pizzaiolo doit avoir de l’expérience avec différents types de pizza.F Bac + 2 Niveau d'études 5.500 MAD Rémunération 3 ans Expérience Missions principales Assurer la chaîne des opérations de fabrication de pizzas depuis l’approvisionnement jusqu’à la distribution. Réaliser la fabrication et cuisson de pizzas au four à bois ou à gaz ou électrique. Concevoir de nouveaux produits. Évaluation des quantités de produits et d’ingrédients à commander. Réception des matières premières et des ingrédients. Vérification de la qualité des produits. Compétences techniques Appliquer un process de fabrication Maîtriser les techniques d’accueil et de vente au comptoir Mettre en oeuvre des règles d’ergonomie du travail Optimiser les temps de moindre activité Organiser son travai
+
+PHRASES CLES
+- Pizzaïolo
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- fabrication
+- produits
+- pizza
+- realiser
+- pizzas
+- techniques
+- charge
+- preparer
+- pate
+- decouper
+- hacher
+- garnitures
+- legumes
+- viande
+- commandes
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Pizzaïolo. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Organisateur de conférence (score chemin commun=1)
+- Consultant en voyages éthiques (score chemin commun=1)
+- Accompagnateur de montagne (score chemin commun=1)
+- Cuisiniste (score chemin commun=1)
+- Administrateur des monuments historiques (score chemin commun=1)
+- Majordome (score chemin commun=1)
+- Équipier en restaurant rapide (score chemin commun=1)
+- Directeur Restauration rapide (score chemin commun=1)
+- Veilleur de nuit (score chemin commun=1)
+- Concierge d’hôtel (score chemin commun=1)
+- Sommelier (score chemin commun=1)
+- Plongeur (score chemin commun=1)
+- Lingère (score chemin commun=1)
+- Gouvernante (score chemin commun=1)
+- Commis de cuisine (score chemin commun=1)
+- Responsable conférences et banquets (score chemin commun=1)
+- Agent thermal (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, j'ai choisi le metier de Pizzaïolo. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Pizzaïolo, la progression a ete plus rapide quand j'ai renforce Pizzaïolo. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Pizzaïolo demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

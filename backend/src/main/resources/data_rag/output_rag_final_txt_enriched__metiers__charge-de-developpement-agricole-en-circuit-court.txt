@@ -1,0 +1,78 @@
+METIER: Chargé de développement agricole en circuit court
+CODE: CHARGE_DE_DEVELOPPEMENT_AGRICOLE_EN_CIRCUIT_COURT
+SECTEUR: Métiers biologie et agroalimentaire
+
+DESCRIPTION
+Chargé de développement agricole en circuit court Le métier de chargé de développement agricole en circuit court consiste à promouvoir et soutenir l'agriculture locale et durable en favorisant les échanges directs entre les producteurs et les consommateurs. Ce professionnel joue un rôle clé dans le développement des circuits courts, qui visent à rapprocher les agriculteurs des consommateurs en éliminant les intermédiaires. Le chargé de développement agricole en circuit court travaille en étroite collaboration avec les agriculteurs, les associations, les marchés locaux et les consommateurs pour encourager la production et la consommation de produits locaux et de saison. Bac + 3 Niveau d'études 4.000 MAD Rémunération 3 ans Expérience Missions principales Sensibiliser les acteurs du circuit court. Accompagner les producteurs dans leurs pratiques durables. Développer des partenariats avec les acteurs locaux. Promouvoir l
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Sciences Infirmieres - ISPITS Rabat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Sciences Infirmieres - ISPITS Rabat
+- Prerequis: Non precise
+- Etablissements: Institut Superieur des Professions Infirmieres et Techniques de Sante
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Sciences Infirmieres - ISPITS Rabat. Cette filiere ouvre un debouche direct vers le metier Chargé de développement agricole en circuit court. Le chemin est relie a Institut Superieur des Professions Infirmieres et Techniques de Sante. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Infirmier polyvalent (score_chemin_commun=1)
+- Gestionnaire de la chaîne d’approvisionnement alimentaire (score_chemin_commun=1)
+- Technologue alimentaire (score_chemin_commun=1)
+- Maître-composteur (score_chemin_commun=1)
+- Ingénieur(e) en analyse de l’air (score_chemin_commun=1)
+- Conseiller en agro-développement international (score_chemin_commun=1)
+
+PHRASES CLES
+- Chargé de développement agricole en circuit court
+- secteur Métiers biologie et agroalimentaire
+- filiere Licence en Sciences Infirmieres - ISPITS Rabat
+- developpement
+- circuit
+- court
+- charge
+- agricole
+- consommateurs
+- locaux
+- promouvoir
+- producteurs
+- agriculteurs
+- acteurs
+- consiste
+- soutenir
+- agriculture
+- locale
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Chargé de développement agricole en circuit court
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Sciences Infirmieres - ISPITS Rabat, j'ai choisi le metier de Chargé de développement agricole en circuit court. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Chargé de développement agricole en circuit court
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé de développement agricole en circuit court, la progression a ete plus rapide quand j'ai renforce Chargé de développement agricole en circuit court. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Chargé de développement agricole en circuit court
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé de développement agricole en circuit court demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,71 @@
+METIER: Marinier/Batelier
+CODE: MARINIER_BATELIER
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Marinier/Batelier Le Marinier/Batelier, transporte des marchandises lourdes ou des passagers sur des péniches naviguant sur des fleuves et des canaux. L’activité de ce denier ne se borne pas à naviguer, il dirige les opérations de chargement en guidant le grutier. En outre, il surveille le déchargement.Par ailleurs, il s’assure du bon équilibrage de la péniche lors de ces opérations. En dehors des heures de navigation, Marinier/Batelier participe à tous les travaux de réparation et d’entretien du bateau. Bien souvent il se transforme en mécanicien. Avant un départ il surveille l’avitaillement en carburant, vivres, matériel. Si le transport s’effectue en convoi constitué de barges et d’un pousseur, l’équipage est plus important et organisé en équipes qui surveillent la navigation à tour de rôle. Bac + 5 Niveau d'études 2.200 MAD Rémunération 2 ans Expérience Missions principales Transportation des marchandises par voie fluviale. Supervision du char
+
+FORMATIONS QUI MENENT AU METIER
+1. Passerelle sectorielle vers Marinier/Batelier
+2. Licence Arts et Culture
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Passerelle sectorielle vers Marinier/Batelier
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Marinier/Batelier. Cette filiere ouvre un debouche direct vers le metier Marinier/Batelier. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Marinier/Batelier. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Concepteur de produits durables (score_chemin_commun=1)
+- Technicien en impression 3D (score_chemin_commun=1)
+- Logisticien (score_chemin_commun=1)
+- Agent de routage (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Préparateur de commande (score_chemin_commun=1)
+- Scripte (score_chemin_commun=1)
+- Le directeur de postproduction (score_chemin_commun=1)
+- Assistant caméra (score_chemin_commun=1)
+- Machino (score_chemin_commun=1)
+- Mixeur (score_chemin_commun=1)
+- Technicien du son (score_chemin_commun=1)
+- Consultant scénario (score_chemin_commun=1)
+- Potier(ère) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+
+PHRASES CLES
+- Marinier/Batelier
+- secteur Métiers achats et approvisionnement
+- filiere Passerelle sectorielle vers Marinier/Batelier
+- filiere Licence Arts et Culture
+- marinier
+- batelier
+- marchandises
+- operations
+- surveille
+- navigation
+- transporte
+- lourdes
+- passagers
+- peniches
+- naviguant
+- fleuves
+- canaux
+- lactivite
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Marinier/Batelier, Licence Arts et Culture, j'ai choisi le metier de Marinier/Batelier. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Marinier/Batelier, la progression a ete plus rapide quand j'ai renforce Marinier/Batelier. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Marinier/Batelier demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

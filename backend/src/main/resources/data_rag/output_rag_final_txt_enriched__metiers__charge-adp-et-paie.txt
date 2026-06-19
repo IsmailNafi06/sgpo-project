@@ -1,0 +1,153 @@
+METIER: Chargé ADP et paie
+CODE: CHARGE_ADP_ET_PAIE
+SECTEUR: Métiers des ressources humaines
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplôme ENCG Gestion des Ressources Humaines
+2. Diplôme ENCG Gestion des Ressources Humaines
+3. Diplôme ENCG Gestion des Ressources Humaines
+4. Diplôme ENCG Gestion des Ressources Humaines
+5. Diplôme ENCG Gestion des Ressources Humaines
+6. Diplôme ENCG Gestion des Ressources Humaines
+7. Diplôme ENCG Gestion des Ressources Humaines
+8. Diplôme ENCG Gestion des Ressources Humaines
+9. Diplôme ENCG Gestion des Ressources Humaines
+10. Diplôme ENCG Gestion des Ressources Humaines
+11. Diplôme ENCG Gestion des Ressources Humaines
+12. Diplôme ENCG Gestion des Ressources Humaines
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a ENCG Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Chargé ADP et paie. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire RH (score_chemin_commun=12)
+
+PHRASES CLES
+- Chargé ADP et paie
+- secteur Métiers des ressources humaines
+- filiere Diplôme ENCG Gestion des Ressources Humaines
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Chargé ADP et paie
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme ENCG Gestion des Ressources Humaines, Diplôme ENCG Gestion des Ressources Humaines, j'ai choisi le metier de Chargé ADP et paie. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Chargé ADP et paie
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chargé ADP et paie, la progression a ete plus rapide quand j'ai renforce Chargé ADP et paie. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Chargé ADP et paie
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chargé ADP et paie demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

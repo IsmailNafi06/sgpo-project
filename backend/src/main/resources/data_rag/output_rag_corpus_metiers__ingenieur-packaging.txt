@@ -1,0 +1,43 @@
+METIER: Ingénieur packaging
+CODE: INGENIEUR_PACKAGING
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Ingénieur packaging L’ingénieur packaging conçoit et industrialise des solutions d’emballages répondant aux besoins et attentes des consommateurs, tout en respectant les contraintes techniques, financières et réglementaires. Le métier d’ingénieur packaging est à la fois technique et opérationnel, à l’interface entre la production, le marketing, le service R&D, la logistique et les achats. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales Conception de nouveaux produits et amélioration des emballages existants Recueillir et analyser le besoin client à partir d’études de marché en tenant compte des différentes fonctions à remplir: ergonomie, protection, résistance, commodité de stockage, de transport et d’usage. Évaluer et garantir la faisabilité du projet packaging: identification des solutions techniques, définition des techniques de fabrication, évaluation des coûts, maîtrise de la qualité, gestion du plannin
+
+PHRASES CLES
+- Ingénieur packaging
+- secteur Métiers de la production et l’industrialisation
+- filiere Passerelle sectorielle vers Ingénieur packaging
+- packaging
+- techniques
+- solutions
+- ingenieur
+- lingenieur
+- concoit
+- industrialise
+- demballages
+- repondant
+- besoins
+- attentes
+- consommateurs
+- respectant
+- contraintes
+- financieres
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Passerelle sectorielle vers Ingénieur packaging
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Ingénieur packaging. Cette filiere ouvre un debouche direct vers le metier Ingénieur packaging. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Ingénieur packaging, j'ai choisi le metier de Ingénieur packaging. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Ingénieur packaging, la progression a ete plus rapide quand j'ai renforce Ingénieur packaging. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Ingénieur packaging demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

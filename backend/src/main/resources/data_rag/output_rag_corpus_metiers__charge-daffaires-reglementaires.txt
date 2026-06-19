@@ -1,0 +1,10 @@
+﻿METIER: Charge d'Affaires Reglementaires
+CODE: CHARGE_DAFFAIRES_REGLEMENTAIRES
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Master Affaires Reglementaires Pharmaceutiques
+
+TEMOIGNAGE
+Saad, promotion 2024 :
+"Travailler comme Charge d'Affaires Reglementaires est un défi quotidien mais aussi une grande satisfaction personnelle. Ma formation clinique au Maroc m'a donné une autonomie que j'apprécie énormément dans ma pratique professionnelle."

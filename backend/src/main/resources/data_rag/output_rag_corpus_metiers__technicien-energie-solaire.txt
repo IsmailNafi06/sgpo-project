@@ -1,0 +1,10 @@
+﻿METIER: Technicien energie solaire
+CODE: TECHNICIEN_ENERGIE_SOLAIRE
+SECTEUR: Environnement et energies
+
+FORMATIONS QUI Y MENENT
+- Licence Environnement Energies et Mines - FST Marrakech
+
+TEMOIGNAGE
+Karim, promotion 2024 :
+"Exercer comme Technicien energie solaire dans le secteur environnemental est une véritable vocation. Au Maroc, les politiques publiques de développement durable ouvrent de nouvelles portes pour les professionnels de l'environnement."

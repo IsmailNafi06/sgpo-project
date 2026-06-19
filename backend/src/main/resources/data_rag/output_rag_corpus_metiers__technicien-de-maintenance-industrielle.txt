@@ -1,0 +1,74 @@
+METIER: Technicien de maintenance industrielle
+CODE: TECHNICIEN_DE_MAINTENANCE_INDUSTRIELLE
+SECTEUR: Industrie
+
+DESCRIPTION
+Maintenance preventive et corrective des equipements industriels.
+
+PHRASES CLES
+- Technicien de maintenance industrielle
+- secteur Industrie
+- filiere Ingénierie Mécatronique
+- filiere BTS Maintenance des Systemes de Production
+- maintenance
+- preventive
+- corrective
+- equipements
+- industriels
+- maintenance preventive
+- preventive corrective
+- corrective equipements
+- equipements industriels
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Ingénierie Mécatronique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Mécatronique. Cette filiere ouvre un debouche direct vers le metier Technicien de maintenance industrielle. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Ingénierie Mécatronique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Mécatronique. Cette filiere ouvre un debouche direct vers le metier Technicien de maintenance industrielle. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Ingénierie Mécatronique
+- Prerequis: Non precise
+- Etablissements: Institut des Métiers du Sport Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Mécatronique. Cette filiere ouvre un debouche direct vers le metier Technicien de maintenance industrielle. Le chemin est relie a Institut des Métiers du Sport Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: BTS Maintenance des Systemes de Production
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=74.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BTS Maintenance des Systemes de Production. Cette filiere ouvre un debouche direct vers le metier Technicien de maintenance industrielle. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 74.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Ingénierie Mécatronique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Mécatronique. Cette filiere ouvre un debouche direct vers le metier Technicien de maintenance industrielle. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Technicien de maintenance d’éoliennes (score chemin commun=1)
+- Technicien en maintenance d’éolienne (score chemin commun=1)
+- Technicien en maintenance des systèmes de distribution d’hydrogène (score chemin commun=1)
+- Responsable des opérations de production d’hydrogène vert (score chemin commun=1)
+- Technicien en maintenance des piles à combustible (score chemin commun=1)
+- Architecte de systèmes de production d’hydrogène vert (score chemin commun=1)
+- Technicien en maintenance des stations de ravitaillement en hydrogène (score chemin commun=1)
+- Technicien en maintenance des systèmes de stockage d’hydrogène sous pression (score chemin commun=1)
+- Technicien en maintenance des générateurs d’hydrogène vert (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénierie Mécatronique, Ingénierie Mécatronique, j'ai choisi le metier de Technicien de maintenance industrielle. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien de maintenance industrielle, la progression a ete plus rapide quand j'ai renforce Technicien de maintenance industrielle. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien de maintenance industrielle demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

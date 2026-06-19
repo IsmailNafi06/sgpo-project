@@ -1,0 +1,83 @@
+METIER: Risk manager bancaire
+CODE: RISK_MANAGER_BANCAIRE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Risk manager bancaire Le risk manager permet à l’organisation de prendre des risques maîtrisés, définit, déploie et anime un dispositif de gestion des risques (toutes les menaces et absences d’opportunités de l’entreprise) et propose des solutions de traitement optimisé (assurance, captives…) afin d’éclairer les dirigeants dans leurs décisions stratégiques. Bac + 5 Niveau d'études 7.000 MAD Rémunération 3 ans Expérience Missions principales Identifier et évaluer les risques Élaborer la cartographie des risques Animer les ateliers d’identification et de hiérarchisation des risques Définir la politique de gestion des risques, mesurer l’appétence des dirigeants à la prise de risque Déployer une ingénierie de prévention sur les zones à risques Déterminer les plans d’actions, suivre leurs réalisations Développer, animer, former un réseau de correspondants chargés de la remontée des informations du terrain Identifier les zones critiques Assurer les r
+
+FORMATIONS QUI MENENT AU METIER
+1. BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION. Cette filiere ouvre un debouche direct vers le metier Risk manager bancaire. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Technicien en contrôle qualité des électrolyseurs (score_chemin_commun=1)
+- Responsable de l’approvisionnement en électrolyseurs (score_chemin_commun=1)
+- Banquier itinérant (score_chemin_commun=1)
+- Analyste KYC (Know Your Customer) (score_chemin_commun=1)
+- Analyste gouvernance (score_chemin_commun=1)
+- Opérateur en private equity (score_chemin_commun=1)
+- Conseiller en fusion acquisition (score_chemin_commun=1)
+- Convoyeur de fonds (score_chemin_commun=1)
+- Inspecteur commercial (score_chemin_commun=1)
+- Chargé de clientèle particuliers (score_chemin_commun=1)
+- Spécialiste des opérations bancaires (score_chemin_commun=1)
+
+PHRASES CLES
+- Risk manager bancaire
+- secteur Métiers banque et assurance
+- filiere BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION
+- risques
+- risk
+- manager
+- gestion
+- dirigeants
+- identifier
+- animer
+- zones
+- bancaire
+- permet
+- lorganisation
+- prendre
+- maitrises
+- definit
+- deploie
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Risk manager bancaire
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en BAC+5 / MASTER EN FINANCE, AUDIT ET CONTRÔLE DE GESTION, j'ai choisi le metier de Risk manager bancaire. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Risk manager bancaire
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Risk manager bancaire, la progression a ete plus rapide quand j'ai renforce Risk manager bancaire. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Risk manager bancaire
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Risk manager bancaire demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

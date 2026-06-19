@@ -1,0 +1,69 @@
+METIER: Directeur artistique multimédia
+CODE: DIRECTEUR_ARTISTIQUE_MULTIMEDIA
+SECTEUR: Métiers de l’édition et du journalisme
+
+DESCRIPTION
+Directeur artistique multimédia Dans un projet multimédia, le directeur artistique veille à assurer une certaine cohérence au niveau visuel, graphique, plastique et sonore. Pour cela, il doit faire en sorte de bien comprendre le projet dans sa dimension artistique et transmettre cette vision à toute une équipe. A travers les directives qu’il donne, le directeur artistique doit également respecter le compromis entre réactivité du produit et esthétisme, tout en garantissant l'interactivité. Un véritable interlocuteur entre les différents acteurs (auteurs, concepteurs, graphistes, directeurs techniques, producteur, etc.), il doit donc veiller à ce que l'identité visuelle du site web, du jeu vidéo, du CD-Rom ou du DVD définie au départ soit respectée par tous. Enfin, l'avis du directeur peut également intervenir dans l'élaboration du packaging du produit Dans le cas d’une performance, d’une installation impliquant les arts numériques, le
+
+PHRASES CLES
+- Directeur artistique multimédia
+- secteur Métiers de l’édition et du journalisme
+- filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- filiere Licence Arts et Culture
+- directeur
+- artistique
+- doit
+- multimedia
+- projet
+- egalement
+- produit
+- dune
+- veille
+- assurer
+- certaine
+- coherence
+- visuel
+- graphique
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure des Arts et Métiers Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca. Cette filiere ouvre un debouche direct vers le metier Directeur artistique multimédia. Le chemin est relie a Ecole Nationale Supérieure des Arts et Métiers Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Directeur artistique multimédia. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Scénariste (score chemin commun=2)
+- Cadreur (score chemin commun=2)
+- Journaliste international(e) (score chemin commun=1)
+- Animateur E-sport (score chemin commun=1)
+- Cyber journaliste (score chemin commun=1)
+- Opératrice en PAO (score chemin commun=1)
+- Technicien PAO (score chemin commun=1)
+- Chef d’atelier des industries graphiques (score chemin commun=1)
+- Chargé de réalisation radio (score chemin commun=1)
+- Documentariste (score chemin commun=1)
+- Iconographe (score chemin commun=1)
+- Technicien d’antenne (score chemin commun=1)
+- Documentaliste multimédia (score chemin commun=1)
+- Producteur multimédia (score chemin commun=1)
+- Spécialiste en image de synthèse (score chemin commun=1)
+- Journaliste (score chemin commun=1)
+- Concepteur de produits durables (score chemin commun=1)
+- Technicien en impression 3D (score chemin commun=1)
+- Logisticien (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Bac+5 Communication, Médias et Journalisme Com’Sup Casablanca, Licence Arts et Culture, j'ai choisi le metier de Directeur artistique multimédia. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Directeur artistique multimédia, la progression a ete plus rapide quand j'ai renforce Directeur artistique multimédia. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Directeur artistique multimédia demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

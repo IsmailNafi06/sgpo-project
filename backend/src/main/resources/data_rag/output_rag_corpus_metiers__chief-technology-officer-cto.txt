@@ -1,0 +1,35 @@
+METIER: Chief Technology Officer (CTO)
+CODE: CTO
+SECTEUR: Informatique
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Chief Technology Officer (CTO)
+- secteur Informatique
+- filiere Master Management des Systèmes d'Information
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Master Management des Systèmes d'Information
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Management des Systèmes d'Information. Cette filiere ouvre un debouche direct vers le metier Chief Technology Officer (CTO). Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Aucun metier connexe detecte
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Master Management des Systèmes d'Information, j'ai choisi le metier de Chief Technology Officer (CTO). Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Chief Technology Officer (CTO), la progression a ete plus rapide quand j'ai renforce Chief Technology Officer (CTO). Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Chief Technology Officer (CTO) demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

@@ -1,0 +1,10 @@
+﻿METIER: Chef De Chantier Gros Uvres
+CODE: SCRAPE_9RAYTI_METIER_CHEF_DE_CHANTIER_GROS_UVRES
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Aucune formation directe répertoriée dans la base de données actuelle.
+
+TEMOIGNAGE
+Amina, promotion 2021 :
+"Après deux ans d'expérience en tant que Chef De Chantier Gros Uvres, j'ai pu évoluer vers des responsabilités techniques plus larges. Ce qui m'a le plus aidé, c'est de compléter ma formation par des certifications professionnelles reconnues."

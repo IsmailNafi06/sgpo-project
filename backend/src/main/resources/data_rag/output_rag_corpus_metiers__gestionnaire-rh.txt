@@ -1,0 +1,184 @@
+METIER: Gestionnaire RH
+CODE: GESTIONNAIRE_RH
+SECTEUR: Métiers de la gestion et l’organisation
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+PHRASES CLES
+- Gestionnaire RH
+- secteur Métiers de la gestion et l’organisation
+- filiere Diplôme ENCG Gestion des Ressources Humaines
+- filiere Diplôme ENCG Management
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Agadir
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Agadir. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Béni Mellal
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Béni Mellal. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Dakhla
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Dakhla. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG El Jadida
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG El Jadida. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: ENCG Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 17
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 18
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 19
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 20
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 21
+- Filiere: Diplôme ENCG Management
+- Prerequis: Non precise
+- Etablissements: ENCG Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Management. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a ENCG Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 22
+- Filiere: Diplôme ENCG Gestion des Ressources Humaines
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat
+- Indicateurs: taux_reussite=72.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplôme ENCG Gestion des Ressources Humaines. Cette filiere ouvre un debouche direct vers le metier Gestionnaire RH. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat. Indicateurs du parcours: taux de reussite estime: 72.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Chargé ADP et paie (score chemin commun=12)
+- Manager commercial (score chemin commun=10)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme ENCG Gestion des Ressources Humaines, Diplôme ENCG Management, j'ai choisi le metier de Gestionnaire RH. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Gestionnaire RH, la progression a ete plus rapide quand j'ai renforce Gestionnaire RH. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Gestionnaire RH demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

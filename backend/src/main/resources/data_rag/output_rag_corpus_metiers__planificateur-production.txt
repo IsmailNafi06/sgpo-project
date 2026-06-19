@@ -1,0 +1,11 @@
+﻿METIER: Planificateur production
+CODE: PLANIFICATEUR_PRODUCTION
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Industrie Qualite et Process - ENSAM Casablanca
+- Technicien Specialise Industrie et Production - ISTA Tanger
+
+TEMOIGNAGE
+Omar, promotion 2024 :
+"Diplômé en génie industriel d'une école d'ingénieurs à Fès, j'ai intégré une usine de l'industrie aéronautique comme Planificateur production. La zone franche de Casablanca et les écosystèmes industriels marocains recrutent massivement des profils techniques."

@@ -1,0 +1,15 @@
+﻿METIER: Designer graphique
+CODE: DESIGNER_GRAPHIQUE
+SECTEUR: Design
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Infographie et Audiovisuel - ISTA Agadir
+- Technicien Specialise Infographie et Audiovisuel - ISTA Casablanca
+- Technicien Specialise Infographie et Audiovisuel - ISTA Fes
+- Technicien Specialise Infographie et Audiovisuel - ISTA Marrakech
+- Technicien Specialise Infographie et Audiovisuel - ISTA Rabat
+- Technicien Specialise Infographie et Audiovisuel - ISTA Tanger
+
+TEMOIGNAGE
+Othmane, promotion 2021 :
+"Mon parcours académique m'a orienté naturellement vers le métier de Designer graphique. Ce qui m'a le plus aidé à progresser, c'est de ne jamais hésiter à poser des questions et à apprendre de mes collègues plus expérimentés."

@@ -1,0 +1,99 @@
+METIER: Agent de routage
+CODE: AGENT_DE_ROUTAGE
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Agent de routage L'agent de routage exécute des opérations manuelles de finition de produits imprimés (pliage, encartage, collage, comptage, conditionnement,...). En outre, il effectue l'approvisionnement/déchargement de machines de finition (façonnage, routage....) en matériaux, consommables et produits transformés selon les règles de sécurité et les impératifs de production. L'agent de routage réalise des opérations de conditionnement et de préparation de l'expédition des produits finis (mise en carton, filmage..). Comme il peut effectuer des réglages simples de machines de façonnage/routage. Niveau bac Niveau d'études 2.000 MAD Rémunération 1 ans Expérience Missions principales Réaliser des opérations manuelles de façonnage/routage par collage Réaliser des opérations manuelles de façonnage/routage par encartage Réaliser le routage sur machine de mise sous pli Réaliser des opérations manuelles de façonnage/routage par pliage Réaliser manuellement
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda
+2. Licence Arts et Culture
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale de Commerce et de Gestion Oujda, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda. Cette filiere ouvre un debouche direct vers le metier Agent de routage. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale de Commerce et de Gestion Oujda, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Agent de routage. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Agent d’Immigration (score_chemin_commun=1)
+- Agent de dépôt (score_chemin_commun=1)
+- Concepteur de produits durables (score_chemin_commun=1)
+- Technicien en impression 3D (score_chemin_commun=1)
+- Logisticien (score_chemin_commun=1)
+- Marinier/Batelier (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Préparateur de commande (score_chemin_commun=1)
+- Scripte (score_chemin_commun=1)
+- Le directeur de postproduction (score_chemin_commun=1)
+- Assistant caméra (score_chemin_commun=1)
+- Machino (score_chemin_commun=1)
+- Mixeur (score_chemin_commun=1)
+- Technicien du son (score_chemin_commun=1)
+- Consultant scénario (score_chemin_commun=1)
+- Potier(ère) (score_chemin_commun=1)
+- Scénariste (score_chemin_commun=1)
+- Cadreur (score_chemin_commun=1)
+- Directeur artistique multimédia (score_chemin_commun=1)
+
+PHRASES CLES
+- Agent de routage
+- secteur Métiers achats et approvisionnement
+- filiere Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda
+- filiere Licence Arts et Culture
+- routage
+- operations
+- faconnage
+- realiser
+- manuelles
+- agent
+- produits
+- finition
+- pliage
+- encartage
+- collage
+- conditionnement
+- machines
+- mise
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Agent de routage
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d’Études Professionnelle en Agent de développement (Métiers du Travail Social) - FSJES Oujda, Licence Arts et Culture, j'ai choisi le metier de Agent de routage. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Agent de routage
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Agent de routage, la progression a ete plus rapide quand j'ai renforce Agent de routage. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Agent de routage
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Agent de routage demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

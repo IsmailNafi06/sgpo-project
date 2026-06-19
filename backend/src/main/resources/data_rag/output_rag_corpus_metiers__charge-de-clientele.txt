@@ -1,0 +1,10 @@
+﻿METIER: Charge de clientele
+CODE: CHARGE_DE_CLIENTELE
+SECTEUR: Commerce et administration
+
+FORMATIONS QUI Y MENENT
+- Technicien Specialise Commerce et Administration - ISTA Fes
+
+TEMOIGNAGE
+Chaimae, promotion 2024 :
+"Le métier de Charge de clientele m'a appris l'importance de la relation client et de la négociation. Ma formation commerciale à Casablanca m'a donné les outils pour m'adapter à des contextes professionnels très variés."

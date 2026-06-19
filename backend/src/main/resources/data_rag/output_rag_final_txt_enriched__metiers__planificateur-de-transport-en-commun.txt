@@ -1,0 +1,91 @@
+METIER: Planificateur de transport en commun
+CODE: PLANIFICATEUR_DE_TRANSPORT_EN_COMMUN
+SECTEUR: Métiers des BTP et Construction
+
+DESCRIPTION
+Planificateur de transport en commun Le planificateur de transport en commun est un professionnel clé dans la conception, le développement et la gestion efficace des systèmes de transport public dans les zones urbaines. Ce métier implique la planification, la coordination et la mise en œuvre de systèmes de transport en commun pour répondre aux besoins de mobilité des citoyens tout en favorisant une utilisation durable des ressources. Les principales tâches consistent à analyser les données de transport, identifier les besoins de la population, concevoir des itinéraires, planifier les horaires et les fréquences, et collaborer avec les parties prenantes pour améliorer continuellement le réseau. Les compétences en analyse de données, en modélisation de transport et en coordination sont essentielles. Un diplôme en urbanisme, génie civil ou domaines connexes est généralement requis pour entrer dans ce domaine. Bac + 5 Niveau d'études
+
+FORMATIONS QUI MENENT AU METIER
+1. DUT Genie Civil - EST Casablanca
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: DUT Genie Civil - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Civil - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Planificateur de transport en commun. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Conducteur de travaux BTP (score_chemin_commun=1)
+- Gestionnaire de projets urbains intelligents (score_chemin_commun=1)
+- Designer d’Éclairage Intelligent (score_chemin_commun=1)
+- Designer de mobilier durable (score_chemin_commun=1)
+- Architecte en conception bioclimatique (score_chemin_commun=1)
+- Chef de projet en construction durable (score_chemin_commun=1)
+- Agronome urbain (score_chemin_commun=1)
+- Designer d’intérieur écologique (score_chemin_commun=1)
+- Designer d’espaces verts urbains (score_chemin_commun=1)
+- Planificateur de quartiers résilients (score_chemin_commun=1)
+- Expert en architecture bioclimatique urbaine (score_chemin_commun=1)
+- Concepteur de parcours piétonniers (score_chemin_commun=1)
+- Analyste en transport et mobilité urbaine (score_chemin_commun=1)
+- Expert en maintenance prédictive des infrastructures de transport (score_chemin_commun=1)
+- Consultant en gestion de la mobilité urbaine (score_chemin_commun=1)
+- Manager d’exploitation ferroviaire (score_chemin_commun=1)
+- Expert en digitalisation et exploitation des bâtiments (score_chemin_commun=1)
+- Ingénieur structure bois (score_chemin_commun=1)
+- Ingenieur BTP (score_chemin_commun=1)
+
+PHRASES CLES
+- Planificateur de transport en commun
+- secteur Métiers des BTP et Construction
+- filiere DUT Genie Civil - EST Casablanca
+- transport
+- commun
+- planificateur
+- systemes
+- coordination
+- besoins
+- donnees
+- professionnel
+- conception
+- developpement
+- gestion
+- efficace
+- public
+- zones
+- urbaines
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Planificateur de transport en commun
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en DUT Genie Civil - EST Casablanca, j'ai choisi le metier de Planificateur de transport en commun. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Planificateur de transport en commun
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Planificateur de transport en commun, la progression a ete plus rapide quand j'ai renforce Planificateur de transport en commun. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Planificateur de transport en commun
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Planificateur de transport en commun demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

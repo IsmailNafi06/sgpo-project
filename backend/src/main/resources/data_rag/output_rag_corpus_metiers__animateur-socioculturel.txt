@@ -1,0 +1,10 @@
+﻿METIER: Animateur socioculturel
+CODE: ANIMATEUR_SOCIOCULTUREL
+SECTEUR: Education et culture
+
+FORMATIONS QUI Y MENENT
+- Licence Education Culture et Documentation - FLSH Rabat
+
+TEMOIGNAGE
+Rachid, promotion 2023 :
+"Après ma formation à l'École Normale Supérieure, j'exerce comme Animateur socioculturel dans un établissement public. L'éducation au Maroc est en pleine réforme et les enseignants jouent un rôle clé dans cette transformation."

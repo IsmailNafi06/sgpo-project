@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur biomedical
+CODE: INGENIEUR_BIOMEDICAL
+SECTEUR: Sante et technologies medicales
+
+FORMATIONS QUI Y MENENT
+- Genie Biomedical - UM6SS Casablanca
+
+TEMOIGNAGE
+Zakaria, promotion 2022 :
+"Mon parcours en sciences de la santé m'a conduit vers le métier de Ingenieur biomedical. Les stages hospitaliers ont été déterminants dans ma formation et m'ont permis de confronter la théorie à la réalité du terrain."

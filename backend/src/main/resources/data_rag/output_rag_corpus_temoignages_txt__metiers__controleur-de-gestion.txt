@@ -1,0 +1,9 @@
+METIER: Contrôleur de gestion
+CODE: CONTROLEUR_DE_GESTION
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplôme ENCG Finance et Comptabilité, Diplôme ENCG Finance et Comptabilité, j'ai choisi le metier de Contrôleur de gestion. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Contrôleur de gestion, la progression a ete plus rapide quand j'ai renforce Contrôleur de gestion. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Contrôleur de gestion demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

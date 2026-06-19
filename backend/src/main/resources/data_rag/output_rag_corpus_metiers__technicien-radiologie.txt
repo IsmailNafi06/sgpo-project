@@ -1,0 +1,18 @@
+﻿METIER: Technicien en radiologie
+CODE: TECHNICIEN_RADIOLOGIE
+SECTEUR: Sante
+
+FORMATIONS QUI Y MENENT
+- Licence Techniques de Radiologie - ISPITS Agadir
+- Licence Techniques de Radiologie - ISPITS Beni Mellal
+- Licence Techniques de Radiologie - ISPITS Casablanca
+- Licence Techniques de Radiologie - ISPITS Fes
+- Licence Techniques de Radiologie - ISPITS Laayoune
+- Licence Techniques de Radiologie - ISPITS Marrakech
+- Licence Techniques de Radiologie - ISPITS Oujda
+- Licence Techniques de Radiologie - ISPITS Rabat
+- Licence Techniques de Radiologie - ISPITS Tanger
+
+TEMOIGNAGE
+Rachid, promotion 2021 :
+"Travailler comme Technicien en radiologie est un défi quotidien mais aussi une grande satisfaction personnelle. Ma formation clinique au Maroc m'a donné une autonomie que j'apprécie énormément dans ma pratique professionnelle."

@@ -1,0 +1,59 @@
+METIER: Technicien du son
+CODE: TECHNICIEN_DU_SON
+SECTEUR: Métiers art et design
+
+DESCRIPTION
+Technicien du son Le métier de technicien du son est essentiel dans le domaine de la production audiovisuelle, contribuant de manière significative à la création d'un son de haute qualité dans les films, les émissions de télévision, les documentaires, les jeux vidéo, et d'autres projets multimédias. Ce professionnel joue un rôle crucial tout au long du processus de production, de la pré-production à la post-production. En pré-production, le technicien du son travaille en étroite collaboration avec l'équipe de production pour comprendre les besoins spécifiques en matière de son. Il participe aux réunions de planification, analyse le scénario pour identifier les défis sonores potentiels, et collabore avec les autres membres de l'équipe technique pour assurer une intégration fluide du son dans le projet. Pendant le tournage, le technicien du son est responsable de la capture audio sur le plateau. Il opère l'équipement d'enregistrement audio, notamment
+
+PHRASES CLES
+- Technicien du son
+- secteur Métiers art et design
+- filiere Licence Arts et Culture
+- production
+- technicien
+- autres
+- equipe
+- audio
+- essentiel
+- domaine
+- audiovisuelle
+- contribuant
+- maniere
+- significative
+- creation
+- haute
+- qualite
+- films
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts et Culture
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts et Culture. Cette filiere ouvre un debouche direct vers le metier Technicien du son. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Concepteur de produits durables (score chemin commun=1)
+- Technicien en impression 3D (score chemin commun=1)
+- Logisticien (score chemin commun=1)
+- Agent de routage (score chemin commun=1)
+- Marinier/Batelier (score chemin commun=1)
+- Responsable qualité en logistique (score chemin commun=1)
+- Préparateur de commande (score chemin commun=1)
+- Scripte (score chemin commun=1)
+- Le directeur de postproduction (score chemin commun=1)
+- Assistant caméra (score chemin commun=1)
+- Machino (score chemin commun=1)
+- Mixeur (score chemin commun=1)
+- Consultant scénario (score chemin commun=1)
+- Potier(ère) (score chemin commun=1)
+- Scénariste (score chemin commun=1)
+- Cadreur (score chemin commun=1)
+- Directeur artistique multimédia (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts et Culture, j'ai choisi le metier de Technicien du son. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Technicien du son, la progression a ete plus rapide quand j'ai renforce Technicien du son. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Technicien du son demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

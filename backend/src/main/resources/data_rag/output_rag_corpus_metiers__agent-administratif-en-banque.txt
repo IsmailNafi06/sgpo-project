@@ -1,0 +1,47 @@
+METIER: Agent administratif en banque
+CODE: AGENT_ADMINISTRATIF_EN_BANQUE
+SECTEUR: Métiers banque et assurance
+
+DESCRIPTION
+Agent administratif en banque Le métier d’agent administratif en banque consiste à s’occuper du suivi de toutes les tâches administratives liées aux opérations financières réalisées par l'établissement financier pour la clientèle. Dans son activité, cet employé administratif se charge de la saisie, du codage et du suivi informatique. Il peut aussi réaliser des opérations commerciales. C’est d’ailleurs à lui d’effectuer l’accueil téléphonique et la réception des clients. Il doit également les renseigner et les orienter. Dans ses tâches quotidiennes, il procède à l’enregistrement et au tri du courrier. Mais également, l'enregistrement et le contrôle les pièces constitutives de dossiers administratifs, tels que des relevés de situation, des pièces d’identité... Ce métier implique aussi d’effectuer la vérification et le suivi des dossiers des clients, des prospects et des assurés. L'agent administratif codifie et saisit les données des clie
+
+PHRASES CLES
+- Agent administratif en banque
+- secteur Métiers banque et assurance
+- filiere Licence d'État français | Assurance Banque Finance
+- administratif
+- suivi
+- agent
+- banque
+- taches
+- operations
+- deffectuer
+- clients
+- egalement
+- pieces
+- dossiers
+- dagent
+- consiste
+- soccuper
+- toutes
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence d'État français | Assurance Banque Finance
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=81.9%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence d'État français | Assurance Banque Finance. Cette filiere ouvre un debouche direct vers le metier Agent administratif en banque. Le chemin est relie a Ecole Nationale Supérieure d'Electricité et de Mécanique Casablanca, Ecole Superieure de Technologie de Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 81.9%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Expert MOA banque F/H (score chemin commun=1)
+- Courtier en banque (score chemin commun=1)
+- Responsable d’équipe commerciale ( Assurance) (score chemin commun=1)
+- Ingénieur préventionniste assurance (score chemin commun=1)
+- Souscripteur assurance (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence d'État français | Assurance Banque Finance, j'ai choisi le metier de Agent administratif en banque. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Agent administratif en banque, la progression a ete plus rapide quand j'ai renforce Agent administratif en banque. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Agent administratif en banque demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

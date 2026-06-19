@@ -1,0 +1,67 @@
+METIER: Plongeur
+CODE: PLONGEUR
+SECTEUR: Métiers de l’hotellerie et du tourisme
+
+DESCRIPTION
+Plongeur Le plongeur est responsable du nettoyage des ustensiles et couverts utilisés lors du service de restauration, ainsi que de tout le matériel de cuisine (casseroles,, fours, marmites, mixeurs, etc.) nécessitant un entretien particulier. A cet effet, il assure l'approvisionnement en produits de cuisine. L'opération de lavage peut se faire manuellement ou avec un lave-vaisselle de grande capacité, et il devra apprendre à remplir le plus judicieusement possible. Il trie la vaisselle avant de la laver, puis la range après l'avoir séchée. Le plongeur nettoie également les cuisines et les appendices: carrelage et sols, établis, meubles en inox, égouts... et c'est aussi lui qui enlève les ordures. Dans toutes les activités, les plongeurs doivent respecter strictement les règles d'hygiène en vigueur En outre, quand il n'y a pas de vaisselle à nettoyer, le plongeur aidera le chef avec de petites préparations, des apéritifs froids et des ustensiles, ou s'o
+
+PHRASES CLES
+- Plongeur
+- secteur Métiers de l’hotellerie et du tourisme
+- filiere Licence Arts culinaires
+- filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- vaisselle
+- ustensiles
+- cuisine
+- responsable
+- nettoyage
+- couverts
+- utilises
+- lors
+- service
+- restauration
+- materiel
+- casseroles
+- fours
+- marmites
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence Arts culinaires
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Arts culinaires. Cette filiere ouvre un debouche direct vers le metier Plongeur. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Les espaces médians المجالات الانتقالية - FLSH Tétouan
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tétouan
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Les espaces médians المجالات الانتقالية - FLSH Tétouan. Cette filiere ouvre un debouche direct vers le metier Plongeur. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tétouan. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Consultant en voyages éthiques (score chemin commun=2)
+- Accompagnateur de montagne (score chemin commun=2)
+- Cuisiniste (score chemin commun=2)
+- Administrateur des monuments historiques (score chemin commun=2)
+- Majordome (score chemin commun=2)
+- Équipier en restaurant rapide (score chemin commun=2)
+- Veilleur de nuit (score chemin commun=2)
+- Concierge d’hôtel (score chemin commun=2)
+- Sommelier (score chemin commun=2)
+- Lingère (score chemin commun=2)
+- Gouvernante (score chemin commun=2)
+- Organisateur de conférence (score chemin commun=1)
+- Pizzaïolo (score chemin commun=1)
+- Directeur Restauration rapide (score chemin commun=1)
+- Commis de cuisine (score chemin commun=1)
+- Responsable conférences et banquets (score chemin commun=1)
+- Agent thermal (score chemin commun=1)
+- Acheteur dans la mode (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence Arts culinaires, Master Les espaces médians المجالات الانتقالية - FLSH Tétouan, j'ai choisi le metier de Plongeur. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Plongeur, la progression a ete plus rapide quand j'ai renforce Plongeur. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Plongeur demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

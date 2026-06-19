@@ -1,0 +1,63 @@
+METIER: Concessionnaire
+CODE: CONCESSIONNAIRE
+SECTEUR: Métier du commerce et vente
+
+DESCRIPTION
+Concessionnaire Le concessionnaire est un commercial qui, au sein d’un showroom ou d’une agence, vend des voitures. En fonction de leurs besoins, il conseille ses clients pour les guider vers le véhicule le plus adapté. Bac + 2 Niveau d'études 5.000 MAD Rémunération 3 ans Expérience Missions principales Recevoir les clients, particuliers comme entreprises, dans son magasin; Interroger ses clients sur leurs besoins et leur budget; Conseiller ses clients et de leur proposer des modèles qui pourraient leur convenir; Faire une proposition commerciale; Conseiller ses clients quant aux modalités de paiement Suivre les dossiers de vente et de livraison des véhicules; Vendre des véhicules d’occasion, ou dans le cadre d’opérations de reprise, d’expertiser un véhicule. Compétences techniques Solides capacités de négociation Connaissances en mécanique automobile Qualités personnelles Sens du contact Ecoute active Type de formation Formation bac+2 en commer
+
+FORMATIONS QUI MENENT AU METIER
+1. Diplome ENCG en Gestion - ENCG Settat
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Diplome ENCG en Gestion - ENCG Settat
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=78.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Diplome ENCG en Gestion - ENCG Settat. Cette filiere ouvre un debouche direct vers le metier Concessionnaire. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Settat, Ecole Nationale des Sciences Appliquees de Casablanca, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 78.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Responsable avant-vente (score_chemin_commun=1)
+- Épicier (score_chemin_commun=1)
+- Analyste en expérience client (score_chemin_commun=1)
+- Vendeur de vélo (score_chemin_commun=1)
+- Administrateur de vente (score_chemin_commun=1)
+- Responsable commercial(E) de l’environnement (score_chemin_commun=1)
+- Social seller (score_chemin_commun=1)
+- Gestionnaire de collection (score_chemin_commun=1)
+- Promoteur des ventes (score_chemin_commun=1)
+- Ingénieur support des ventes (score_chemin_commun=1)
+- Chargé d’affaires dans l’industrie (score_chemin_commun=1)
+- Coordinateur retail (score_chemin_commun=1)
+- Développeur d’enseigne (score_chemin_commun=1)
+- Designer d’interaction (score_chemin_commun=1)
+- Consultant Salesforce senior (score_chemin_commun=1)
+- Cadre commercial et technico-commercial (score_chemin_commun=1)
+- Vendeur moto (score_chemin_commun=1)
+
+PHRASES CLES
+- Concessionnaire
+- secteur Métier du commerce et vente
+- filiere Diplome ENCG en Gestion - ENCG Settat
+- clients
+- besoins
+- vehicule
+- conseiller
+- vehicules
+- commercial
+- sein
+- showroom
+- dune
+- agence
+- vend
+- voitures
+- fonction
+- conseille
+- guider
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Diplome ENCG en Gestion - ENCG Settat, j'ai choisi le metier de Concessionnaire. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Concessionnaire, la progression a ete plus rapide quand j'ai renforce Concessionnaire. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Concessionnaire demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

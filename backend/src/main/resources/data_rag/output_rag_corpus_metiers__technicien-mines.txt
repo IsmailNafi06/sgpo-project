@@ -1,0 +1,10 @@
+﻿METIER: Technicien mines
+CODE: TECHNICIEN_MINES
+SECTEUR: Environnement et energies
+
+FORMATIONS QUI Y MENENT
+- Licence Environnement Energies et Mines - FST Marrakech
+
+TEMOIGNAGE
+Rim, promotion 2023 :
+"Après un master en sciences de l'environnement, j'exerce comme Technicien mines dans un bureau d'études spécialisé. La réglementation environnementale se renforce au Maroc, créant une forte demande pour ces profils."

@@ -1,0 +1,10 @@
+﻿METIER: Ingenieur en conception de systemes de stockage d'hydrogene solide
+CODE: INGENIEUR_EN_CONCEPTION_DE_SYSTEMES_DE_STOCKAGE_DH
+SECTEUR: Metiers des energies renouvelables
+
+FORMATIONS QUI Y MENENT
+- Ingenieur en NTIC - Energies renouvelables
+
+TEMOIGNAGE
+Imane, promotion 2021 :
+"Mon parcours à l'ENSA en énergies renouvelables m'a préparé au métier de Ingenieur en conception de systemes de stockage d'hydrogene solide. Les projets Noor et Tarfaya m'ont donné envie de contribuer à la transition énergétique du pays dès mes études."

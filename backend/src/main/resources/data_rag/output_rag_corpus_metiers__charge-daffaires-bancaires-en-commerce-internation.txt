@@ -1,0 +1,22 @@
+﻿METIER: Charge d'affaires bancaires en commerce international
+CODE: CHARGE_DAFFAIRES_BANCAIRES_EN_COMMERCE_INTERNATION
+SECTEUR: Metiers de la comptabilite, audit et finance
+
+FORMATIONS QUI Y MENENT
+- Diplome accredite en Management Strategique des Entreprises option Commerce International (Type MASTER Bac+5)-SUP'RH
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Commerce - ENCG Agadir
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Commerce - ENCG Kenitra
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Commerce - ENCG Marrakech
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Commerce - ENCG Settat
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Commerce - ENCG Tanger
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Gestion - ENCG Agadir
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Gestion - ENCG Kenitra
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Gestion - ENCG Marrakech
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Gestion - ENCG Settat
+- Diplome de l'Ecole Nationale de Commerce et Gestion en Gestion - ENCG Tanger
+- Master Logistique et Commerce International option Management de la Chaine Logistique ISIAM
+- Systeme d'information marketing et commerce - ISGA El Jadida
+
+TEMOIGNAGE
+Mehdi, promotion 2022 :
+"Travailler comme Charge d'affaires bancaires en commerce international au Maroc demande une bonne maîtrise des réglementations locales et internationales. Mon parcours à HEM m'a préparé à cette réalité, et j'ai trouvé un emploi en moins de deux mois après ma soutenance."

@@ -1,0 +1,47 @@
+METIER: Bûcheron
+CODE: BUCHERON
+SECTEUR: Métiers de la production et l’industrialisation
+
+DESCRIPTION
+Bûcheron Le métier d'un bûcheron consiste principalement à abattre des arbres. Mais attention, non seulement, c'est un travail qui demande beaucoup de compétences, car le bûcheron doit éviter d'endommager les peuplements forestiers (jeunes arbres et arbres voisins). En fait, l'entretien des arbres est également une tâche essentielle, mais elle peut être expérimentée dans l'industrie du bûcheron. Les bûcherons doivent également connaître parfaitement les différents bois afin de pouvoir les classer en fonction de leur utilisation. D'ailleurs, les bûcherons maîtrisent parfaitement les techniques d'exploitation forestière et respectent des règles de sécurité très strictes. Pour toutes ces raisons, le métier demande beaucoup de pratique pour devenir un vrai métier. Ainsi, les bûcherons travaillent principalement à l'Administration nationale des forêts (ONF), au Conseil général ou aux autorités locales. Ils peuvent également travailler pour des entreprises privée
+
+FORMATIONS QUI MENENT AU METIER
+1. Passerelle sectorielle vers Bûcheron
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Passerelle sectorielle vers Bûcheron
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Passerelle sectorielle vers Bûcheron. Cette filiere ouvre un debouche direct vers le metier Bûcheron. Le chemin est relie a Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Aucun metier connexe detecte
+
+PHRASES CLES
+- Bûcheron
+- secteur Métiers de la production et l’industrialisation
+- filiere Passerelle sectorielle vers Bûcheron
+- arbres
+- egalement
+- bucherons
+- principalement
+- demande
+- beaucoup
+- parfaitement
+- consiste
+- abattre
+- attention
+- seulement
+- travail
+- competences
+- doit
+- eviter
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Passerelle sectorielle vers Bûcheron, j'ai choisi le metier de Bûcheron. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Bûcheron, la progression a ete plus rapide quand j'ai renforce Bûcheron. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Bûcheron demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

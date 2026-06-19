@@ -1,0 +1,10 @@
+﻿METIER: Agent de reservation
+CODE: AGENT_DE_RESERVATION
+SECTEUR: Hotellerie tourisme et restauration
+
+FORMATIONS QUI Y MENENT
+- Technicien Tourisme Hotellerie et Restauration - ISIT Tanger
+
+TEMOIGNAGE
+Samira, promotion 2024 :
+"Après ma formation en management hôtelier, j'ai débuté comme Agent de reservation dans une chaîne internationale présente au Maroc. Les perspectives d'évolution sont réelles et les voyages professionnels enrichissent le parcours."

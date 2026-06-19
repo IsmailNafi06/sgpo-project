@@ -1,0 +1,88 @@
+METIER: Coordinateur Logistique
+CODE: COORDINATEUR_LOGISTIQUE
+SECTEUR: Métiers achats et approvisionnement
+
+DESCRIPTION
+Coordinateur Logistique Le coordinateur logistique pilote et contrôle les performances des activités logistiques à court, moyen et long terme. Il établit des tableaux de bords et des indicateurs d’animation de la performance. Cela permet d’identifier les bonnes pratiques et les axes d’amélioration. Il doit être vigilant en matière d’application des règles QHSE. C’est lui qui met en place des politiques de sensibilisation et de prise de conscience, auprès des salariés, pour tous comportements de “non-sécurité” et les conséquences que cela peut engendrer. Il peut également participer, selon l’organisation de l’entreprise, aux réunions marketing et commerciales afin d’aborder et d’anticiper les éventuels besoins. De plus, il peut être amené à participer à des projets transverses d’amélioration de l’organisation et d’optimisation de l’activité. Le but étant d’ optimiser les ressources mises à disposition pour atteindre les objectifs fixés en term
+
+FORMATIONS QUI MENENT AU METIER
+1. Licence en Génie de la Logistique Aéronautique
+2. Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Licence en Génie de la Logistique Aéronautique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Casablanca
+- Indicateurs: taux_reussite=88.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Génie de la Logistique Aéronautique. Cette filiere ouvre un debouche direct vers le metier Coordinateur Logistique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Casablanca. Indicateurs du parcours: taux de reussite estime: 88.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale de Commerce et de Gestion Agadir
+- Indicateurs: taux_reussite=74.6%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM. Cette filiere ouvre un debouche direct vers le metier Coordinateur Logistique. Le chemin est relie a Ecole Nationale de Commerce et de Gestion Agadir. Indicateurs du parcours: taux de reussite estime: 74.6%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Gestionnaire de la logistique e-commerce (score_chemin_commun=2)
+- Consultant en optimisation de la chaîne logistique (score_chemin_commun=2)
+- Ingénieur(e) Aéronautique (score_chemin_commun=1)
+- Chargé d’affaires bancaires en commerce international (score_chemin_commun=1)
+- Animateur logistique (score_chemin_commun=1)
+- Responsable qualité en logistique (score_chemin_commun=1)
+- Conseiller clientèle (score_chemin_commun=1)
+- Agent service client (score_chemin_commun=1)
+
+PHRASES CLES
+- Coordinateur Logistique
+- secteur Métiers achats et approvisionnement
+- filiere Licence en Génie de la Logistique Aéronautique
+- filiere Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM
+- peut
+- coordinateur
+- logistique
+- damelioration
+- participer
+- lorganisation
+- pilote
+- controle
+- performances
+- activites
+- logistiques
+- court
+- moyen
+- long
+
+TEMOIGNAGES ENRICHIS
+Type global: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+Temoin 1
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_01
+- profession_temoin: Coordinateur Logistique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Génie de la Logistique Aéronautique, Master Logistique et Commerce International option Management de la Chaîne Logistique ISIAM, j'ai choisi le metier de Coordinateur Logistique. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+
+Temoin 2
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_02
+- profession_temoin: Coordinateur Logistique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Coordinateur Logistique, la progression a ete plus rapide quand j'ai renforce Coordinateur Logistique. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+
+Temoin 3
+- statut_temoin: SYNTHETIQUE
+- identite_temoin: Temoin_synthetique_03
+- profession_temoin: Coordinateur Logistique
+- lien_avec_parcours: Projection d'ancien eleve (synthetique)
+- source_url: generation_interne
+- date_collecte: 2026-05-20
+- consentement: N/A (contenu synthetique)
+- texte: [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Coordinateur Logistique demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

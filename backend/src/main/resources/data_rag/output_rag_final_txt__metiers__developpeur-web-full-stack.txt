@@ -1,0 +1,352 @@
+METIER: Développeur Web Full Stack
+CODE: DEVELOPPEUR_WEB_FULL_STACK
+SECTEUR: Métiers de l’informatique et système d’information
+
+DESCRIPTION
+Description indisponible dans les donnees source.
+
+FORMATIONS QUI MENENT AU METIER
+1. Ingénieur Génie Informatique
+2. Licence Génie Informatique
+3. Licence Génie Informatique
+4. Ingénieur Génie Informatique
+5. DUT Génie Informatique
+6. Ingénierie Logicielle
+7. Licence Génie Informatique
+8. Ingénieur Génie Informatique
+9. Ingénieur Génie Informatique
+10. Ingénieur Génie Informatique
+11. Licence Génie Informatique
+12. DUT Génie Informatique
+13. Ingénieur Génie Informatique
+14. Ingénieur Génie Informatique
+15. DUT Génie Informatique
+16. Ingénieur Génie Informatique
+17. DUT Génie Informatique
+18. DUT Génie Informatique
+19. DUT Genie Informatique - EST Casablanca
+20. DUT Génie Informatique
+21. Ingénieur Génie Informatique
+22. Ingénieur Génie Informatique
+23. DUT Génie Informatique
+24. Ingénieur Génie Informatique
+25. Licence Génie Informatique
+26. DUT Génie Informatique
+27. DUT Génie Informatique
+28. Ingénieur Génie Informatique
+29. DUT Génie Informatique
+30. DUT Génie Informatique
+31. Licence Génie Informatique
+32. Ingénieur Génie Informatique
+33. Ingénieur Génie Informatique
+34. DUT Génie Informatique
+35. DUT Génie Informatique
+36. DUT Génie Informatique
+37. Licence Génie Informatique
+38. Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+39. Ingénierie Logicielle
+
+INTERPRETATION NARRATIVE EN FRANCAIS PAR PARCOURS
+Parcours 1
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: ENSA Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a ENSA Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 2
+- Filiere: Licence Génie Informatique
+- Prerequis: Non precise
+- Etablissements: FST Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a FST Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 3
+- Filiere: Licence Génie Informatique
+- Prerequis: Non precise
+- Etablissements: FST Mohammedia
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a FST Mohammedia. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 4
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 5
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Meknès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Meknès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 6
+- Filiere: Ingénierie Logicielle
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Logicielle. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale Superieure d'Informatique et d'Analyse des Systemes. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 7
+- Filiere: Licence Génie Informatique
+- Prerequis: Non precise
+- Etablissements: FST Settat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a FST Settat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 8
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: ENSA Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a ENSA Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 9
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: ENSA Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a ENSA Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 10
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 11
+- Filiere: Licence Génie Informatique
+- Prerequis: Non precise
+- Etablissements: FST Marrakech
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a FST Marrakech. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 12
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 13
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Al Hoceima
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Al Hoceima. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 14
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Berrechid
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Berrechid. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 15
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Khénifra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Khénifra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 16
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 17
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Guelmim
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Guelmim. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 18
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 19
+- Filiere: DUT Genie Informatique - EST Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Genie Informatique - EST Casablanca. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Superieure de Technologie de Casablanca, Ecole Nationale de Commerce et de Gestion Casablanca, Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 20
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: EST Kénitra
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a EST Kénitra. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 21
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Safi
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Safi. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 22
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Tanger
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Tanger. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 23
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 24
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Khouribga
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Khouribga. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 25
+- Filiere: Licence Génie Informatique
+- Prerequis: Non precise
+- Etablissements: FST Béni Mellal
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a FST Béni Mellal. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 26
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Oujda
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Oujda. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 27
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Tétouan
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Tétouan. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 28
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences  Appliquées  Ait Melloul
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Faculté des Sciences  Appliquées  Ait Melloul. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 29
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Nador
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Nador. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 30
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: EST Essaouira
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a EST Essaouira. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 31
+- Filiere: Licence Génie Informatique
+- Prerequis: Non precise
+- Etablissements: FST Errachidia
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a FST Errachidia. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 32
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées Agadir
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées Agadir. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 33
+- Filiere: Ingénieur Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquées El Jadida
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénieur Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquées El Jadida. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 34
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Salé
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Salé. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 35
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Dakhla
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Dakhla. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 36
+- Filiere: DUT Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Ecole Supérieure de Technologie Laâyoune
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere DUT Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Supérieure de Technologie Laâyoune. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 37
+- Filiere: Licence Génie Informatique
+- Prerequis: Non precise
+- Etablissements: Faculté des Sciences et Techniques Sais Fès
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence Génie Informatique. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Faculté des Sciences et Techniques Sais Fès. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 38
+- Filiere: Ingenieur d'Etat en Genie Informatique - ENSA Casablanca
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale des Sciences Appliquees de Casablanca
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingenieur d'Etat en Genie Informatique - ENSA Casablanca. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale des Sciences Appliquees de Casablanca. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+Parcours 39
+- Filiere: Ingénierie Logicielle
+- Prerequis: Non precise
+- Etablissements: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat
+- Indicateurs: taux_reussite=76.0%; type_acces=OUVERT
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Ingénierie Logicielle. Cette filiere ouvre un debouche direct vers le metier Développeur Web Full Stack. Le chemin est relie a Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat. Indicateurs du parcours: taux de reussite estime: 76.0%; modalite d'acces: OUVERT.
+
+METIERS CONNEXES ACCESSIBLES VIA LE MEME CHEMIN
+- Administrateur base de données (score_chemin_commun=37)
+- Ingenieur cybersecurite (score_chemin_commun=15)
+- Developpeur Full Stack (score_chemin_commun=1)
+- Ingenieur genie informatique (score_chemin_commun=1)
+- Ingenieur DevOps (score_chemin_commun=1)
+- Data Scientist (score_chemin_commun=1)
+- Ingenieur (score_chemin_commun=1)
+
+PHRASES CLES
+- Développeur Web Full Stack
+- secteur Métiers de l’informatique et système d’information
+- filiere Ingénieur Génie Informatique
+- filiere Licence Génie Informatique
+- filiere DUT Génie Informatique
+- filiere Ingénierie Logicielle
+- description
+- indisponible
+- donnees
+- source
+- description indisponible
+- indisponible donnees
+- donnees source
+
+TEMOIGNAGES
+Type: synthetiques
+Note: aucun temoignage reel detecte dans les sources scrapees de ce dataset. Les temoignages ci-dessous sont synthetiques et doivent etre valides avant diffusion.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur Génie Informatique, Licence Génie Informatique, j'ai choisi le metier de Développeur Web Full Stack. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Développeur Web Full Stack, la progression a ete plus rapide quand j'ai renforce Développeur Web Full Stack. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Développeur Web Full Stack demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

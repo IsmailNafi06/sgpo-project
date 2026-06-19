@@ -1,0 +1,92 @@
+﻿METIER: Technicien maintenance industrielle
+CODE: TECHNICIEN_MAINTENANCE_INDUSTRIELLE
+SECTEUR: Industrie
+
+FORMATIONS QUI Y MENENT
+- BTS Electrotechnique - Centre BTS Casablanca
+- BTS Electrotechnique - Centre BTS Fes
+- BTS Electrotechnique - Centre BTS Marrakech
+- BTS Electrotechnique - Centre BTS Rabat
+- BTS Electrotechnique - ENSET Mohammedia
+- BTS Maintenance des Systemes de Production - Centre BTS Casablanca
+- BTS Maintenance des Systemes de Production - Centre BTS Fes
+- BTS Maintenance des Systemes de Production - Centre BTS Marrakech
+- BTS Maintenance des Systemes de Production - Centre BTS Rabat
+- BTS Maintenance des Systemes de Production - ENSET Mohammedia
+- DUT en Genie Mecanique - EST Casablanca
+- DUT en Maintenance Industrielle - EST Oujda
+- DUT en Maintenance Industrielle - EST Safi
+- DUT en Maintenance Industrielle - EST Sale
+- DUT Genie Electrique - Ecole Superieure de Technologie Agadir
+- DUT Genie Electrique - Ecole Superieure de Technologie Beni Mellal
+- DUT Genie Electrique - Ecole Superieure de Technologie Casablanca
+- DUT Genie Electrique - Ecole Superieure de Technologie Essaouira
+- DUT Genie Electrique - Ecole Superieure de Technologie Fes
+- DUT Genie Electrique - Ecole Superieure de Technologie Guelmim
+- DUT Genie Electrique - Ecole Superieure de Technologie Kenitra
+- DUT Genie Electrique - Ecole Superieure de Technologie Khenifra
+- DUT Genie Electrique - Ecole Superieure de Technologie Khouribga
+- DUT Genie Electrique - Ecole Superieure de Technologie Laayoune
+- DUT Genie Electrique - Ecole Superieure de Technologie Marrakech
+- DUT Genie Electrique - Ecole Superieure de Technologie Meknes
+- DUT Genie Electrique - Ecole Superieure de Technologie Oujda
+- DUT Genie Electrique - Ecole Superieure de Technologie Safi
+- DUT Genie Electrique - Ecole Superieure de Technologie Sale
+- DUT Genie Electrique - Ecole Superieure de Technologie Sidi Bennour
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Agadir
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Beni Mellal
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Casablanca
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Essaouira
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Fes
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Guelmim
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Kenitra
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Khenifra
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Khouribga
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Laayoune
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Marrakech
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Meknes
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Oujda
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Safi
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Sale
+- DUT Genie Mecanique et Productique - Ecole Superieure de Technologie Sidi Bennour
+- DUT Genie mecanique et productique - EST Beni Mellal
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Agadir
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Beni Mellal
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Casablanca
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Essaouira
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Fes
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Guelmim
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Kenitra
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Khenifra
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Khouribga
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Laayoune
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Marrakech
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Meknes
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Oujda
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Safi
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Sale
+- DUT Maintenance Industrielle - Ecole Superieure de Technologie Sidi Bennour
+- Genie Mecanique Ecole Polytechnique Agadir
+- Genie mecanique et energetique INSA Euro-Mediterranee
+- Ingenieur en Genie Mecanique - ENSAM Meknes
+- Ingenieur en Genie Mecanique - FST Tanger
+- Licence d'Etudes Professionnelle en Maintenance industrielle (MI) - FP Khouribga
+- Licences en Genie Mecanique (GM) - FST Beni Mellal
+- Licences en Genie Mecanique (GM) - FST Settat
+- Licences en Maintenance Industrielle - FST Tanger
+- Technicien Specialise Diagnostic Automobile - ISTA Agadir
+- Technicien Specialise Diagnostic Automobile - ISTA Casablanca
+- Technicien Specialise Diagnostic Automobile - ISTA Fes
+- Technicien Specialise Diagnostic Automobile - ISTA Marrakech
+- Technicien Specialise Diagnostic Automobile - ISTA Rabat
+- Technicien Specialise Diagnostic Automobile - ISTA Tanger
+- Technicien Specialise Electricite et Maintenance - ISTA Agadir
+- Technicien Specialise Electricite et Maintenance - ISTA Casablanca
+- Technicien Specialise Electricite et Maintenance - ISTA Fes
+- Technicien Specialise Electricite et Maintenance - ISTA Marrakech
+- Technicien Specialise Electricite et Maintenance - ISTA Rabat
+- Technicien Specialise Electricite et Maintenance - ISTA Tanger
+
+TEMOIGNAGE
+Rim, promotion 2022 :
+"Diplômé en génie industriel d'une école d'ingénieurs à Fès, j'ai intégré une usine de l'industrie aéronautique comme Technicien maintenance industrielle. La zone franche de Casablanca et les écosystèmes industriels marocains recrutent massivement des profils techniques."

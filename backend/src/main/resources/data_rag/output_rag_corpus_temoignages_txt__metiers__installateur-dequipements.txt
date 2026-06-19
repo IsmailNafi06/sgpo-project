@@ -1,0 +1,9 @@
+METIER: Installateur d’équipements
+CODE: INSTALLATEUR_DEQUIPEMENTS
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en NTIC – Énergies renouvelables, Passerelle sectorielle vers Installateur d’équipements, j'ai choisi le metier de Installateur d’équipements. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Installateur d’équipements, la progression a ete plus rapide quand j'ai renforce Installateur d’équipements. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Installateur d’équipements demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

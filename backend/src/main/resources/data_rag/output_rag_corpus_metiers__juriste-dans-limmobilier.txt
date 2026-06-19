@@ -1,0 +1,62 @@
+METIER: Juriste dans l’immobilier
+CODE: JURISTE_DANS_LIMMOBILIER
+SECTEUR: Métiers de droit et de la justice
+
+DESCRIPTION
+Juriste dans l’immobilier Le juriste dans l'immobilier veille à l'application du droit immobilier en aidant à la réalisation de dossiers administratifs, juridiques et fiscaux. Il peut intervenir en cas de litige tout en respectant l'intérêt de ses clients et également prendre en charge les dossiers contentieux. Comme il peut être amené à rédiger les baux commerciaux. Le juriste dans l'immobilier met à disposition ses compétences en droit de la construction et de l'urbanisme. Il assure une veille juridique afin de rester informé en permanence des nouvelles législations de cette branche du droit. Le juriste immobilier peut prendre un rôle d'expert judiciaire immobilier et estimer les valeurs vénales ou locatives des biens immobiliers. Selon qu'il travaille dans le logement social, la gestion locative ou encore la transaction, il n'abordera pas les mêmes problématiques. Bac + 3 Niveau d'études 15.000 MAD Rémunération 3 ans Expérience Missions
+
+PHRASES CLES
+- Juriste dans l’immobilier
+- secteur Métiers de droit et de la justice
+- filiere Licence en Droit Prive
+- immobilier
+- juriste
+- droit
+- peut
+- veille
+- dossiers
+- prendre
+- limmobilier
+- application
+- aidant
+- realisation
+- administratifs
+- juridiques
+- fiscaux
+- intervenir
+
+PARCOURS ET INTERPRETATIONS NARRATIVES
+Parcours 1
+- Filiere: Licence en Droit Prive
+- Prerequis: Non precise
+- Etablissements: Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat
+- Indicateurs: type_acces=NON_PRECISE
+- Narratif: Parcours narratif: en partant de un prerequis specifique non explicite, l'apprenant peut evoluer vers la filiere Licence en Droit Prive. Cette filiere ouvre un debouche direct vers le metier Juriste dans l’immobilier. Le chemin est relie a Ecole Mohammadia d'Ingénieurs Rabat, Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes Rabat, Faculté des Sciences Juridiques, Economiques et Sociales Agdal Rabat. Indicateurs du parcours: modalite d'acces: NON_PRECISE.
+
+METIERS CONNEXES (ACCESSIBLES VIA DES FILIERES COMMUNES)
+- Agent d’Immigration (score chemin commun=1)
+- Expert en politique énergétique et réglementaire pour l’hydrogène (score chemin commun=1)
+- Inspecteur des douanes (score chemin commun=1)
+- Substitut du procureur (score chemin commun=1)
+- Juge aux affaires familiales (score chemin commun=1)
+- Administrateur judiciaire (score chemin commun=1)
+- Juge pour enfants (score chemin commun=1)
+- Flasheur (score chemin commun=1)
+- Juriste en droit de l’environnement (score chemin commun=1)
+- Fiscaliste (score chemin commun=1)
+- Responsable legs (score chemin commun=1)
+- Directeur des services de greffe judiciaires (score chemin commun=1)
+- Avocat d’affaires (score chemin commun=1)
+- Procureur de la république (score chemin commun=1)
+- Juriste agricole (score chemin commun=1)
+- Juriste du sport (score chemin commun=1)
+- Chargé d’indemnisation (score chemin commun=1)
+- Responsable des achats durables (score chemin commun=1)
+- Juriste Droit des Espaces et Activités maritimes (score chemin commun=1)
+- Avocat (score chemin commun=1)
+
+TEMOIGNAGES
+Temoignages reels non disponibles dans les sources actuelles. Les extraits ci-dessous sont synthetiques et doivent etre valides avant usage public.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Licence en Droit Prive, j'ai choisi le metier de Juriste dans l’immobilier. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Juriste dans l’immobilier, la progression a ete plus rapide quand j'ai renforce Juriste dans l’immobilier. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Juriste dans l’immobilier demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

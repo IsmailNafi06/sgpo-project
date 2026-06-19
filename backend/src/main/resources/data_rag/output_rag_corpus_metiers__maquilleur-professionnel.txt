@@ -1,0 +1,10 @@
+﻿METIER: Maquilleur professionnel
+CODE: MAQUILLEUR_PROFESSIONNEL
+SECTEUR: Arts communication et services
+
+FORMATIONS QUI Y MENENT
+- Technicien Artisanat Beaute et Services - ISTA Agadir
+
+TEMOIGNAGE
+Houda, promotion 2022 :
+"Travailler comme Maquilleur professionnel dans les services au Maroc, c'est évoluer dans un secteur en constante évolution. Ma formation m'a appris l'importance de la relation client et de la capacité d'adaptation aux besoins changeants."

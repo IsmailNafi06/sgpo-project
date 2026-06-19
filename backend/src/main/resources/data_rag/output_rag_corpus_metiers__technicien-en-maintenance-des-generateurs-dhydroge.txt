@@ -1,0 +1,11 @@
+﻿METIER: Technicien en maintenance des generateurs d'hydrogene vert
+CODE: TECHNICIEN_EN_MAINTENANCE_DES_GENERATEURS_DHYDROGE
+SECTEUR: Metiers de l'electrique
+
+FORMATIONS QUI Y MENENT
+- BTS Maintenance des Systemes de Production
+- Ingenieur en NTIC - Energies renouvelables
+
+TEMOIGNAGE
+Soufiane, promotion 2022 :
+"Exercer comme Technicien en maintenance des generateurs d'hydrogene vert dans le secteur électrique au Maroc est un métier d'avenir. Avec le développement des smart grids et des énergies renouvelables, les compétences en électricité sont de plus en plus recherchées."

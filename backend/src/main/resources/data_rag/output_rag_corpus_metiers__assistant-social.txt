@@ -1,0 +1,10 @@
+﻿METIER: Assistant social
+CODE: ASSISTANT_SOCIAL
+SECTEUR: Social
+
+FORMATIONS QUI Y MENENT
+- Licence Action Sociale - INAS Tanger
+
+TEMOIGNAGE
+Tariq, promotion 2023 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Assistant social. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

@@ -1,0 +1,11 @@
+﻿METIER: Styliste modeliste
+CODE: STYLISTE_MODELISTE
+SECTEUR: Arts communication et services
+
+FORMATIONS QUI Y MENENT
+- Technicien Artisanat Beaute et Services - ISTA Agadir
+- Technicien Audiovisuel Communication et Evenementiel - ISMAC Rabat
+
+TEMOIGNAGE
+Rim, promotion 2021 :
+"Après ma formation professionnelle, j'ai intégré rapidement le marché comme Styliste modeliste. Le secteur des services au Maroc offre de nombreuses opportunités aux profils bien formés et adaptables."

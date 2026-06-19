@@ -1,0 +1,9 @@
+METIER: Spécialiste des communications pour l’industrie de l’hydrogène vert
+CODE: SPECIALISTE_DES_COMMUNICATIONS_POUR_LINDUSTRIE_DE_
+
+TEMOIGNAGES
+Type: synthetiques
+Note: temoignages reels non detectes dans les sources. Ces temoignages sont synthetiques et doivent etre valides avant publication.
+- [TEMOIGNAGE_SYNTHETIQUE] Apres un parcours en Ingénieur en Agro-Industrie – Marchés, Filières et Management d’Entreprises, j'ai choisi le metier de Spécialiste des communications pour l’industrie de l’hydrogène vert. Ce qui m'a le plus aide, c'est de pratiquer sur des cas reels et d'apprendre a collaborer en equipe.
+- [TEMOIGNAGE_SYNTHETIQUE] En debut de carriere en Spécialiste des communications pour l’industrie de l’hydrogène vert, la progression a ete plus rapide quand j'ai renforce Spécialiste des communications pour l’industrie de l’hydrogène vert. Je conseille de construire un portfolio de projets et de demander du feedback regulier.
+- [TEMOIGNAGE_SYNTHETIQUE] Le passage de la formation vers Spécialiste des communications pour l’industrie de l’hydrogène vert demande de la regularite, mais les stages et les projets terrain rendent la transition plus concrete.

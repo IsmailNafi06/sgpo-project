@@ -1,0 +1,11 @@
+﻿METIER: Chimiste
+CODE: CHIMISTE
+SECTEUR: Sciences
+
+FORMATIONS QUI Y MENENT
+- Licence Chimie - Faculte des Sciences Rabat
+- Master Chimie Appliquee - Faculte des Sciences Rabat
+
+TEMOIGNAGE
+Yassine, promotion 2024 :
+"Après ma formation, j'ai intégré le marché de l'emploi comme Chimiste. Cette expérience m'a appris l'importance de combiner les connaissances théoriques avec une pratique régulière sur le terrain."

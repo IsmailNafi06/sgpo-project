@@ -1,0 +1,10 @@
+﻿METIER: Product owner
+CODE: PRODUCT_OWNER
+SECTEUR: Informatique
+
+FORMATIONS QUI Y MENENT
+- Ingenierie Systemes Digitaux et Cybersecurite - ENSIAS Rabat
+
+TEMOIGNAGE
+Othmane, promotion 2021 :
+"Mon parcours à l'ENSA m'a donné des bases solides en développement, mais c'est mon stage de fin d'études qui m'a vraiment lancé dans le métier de Product owner. Aujourd'hui je travaille chez une startup à Rabat et mon salaire a doublé en trois ans."
