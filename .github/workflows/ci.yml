@@ -1,0 +1,66 @@
+name: CI — Tests & Build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  # ─────────────────────────────────────────
+  # JOB 1 : Tests backend (Spring Boot)
+  # ─────────────────────────────────────────
+  backend-tests:
+    name: Tests Backend (Java 17 + Maven)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Java 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+          cache: maven
+
+      - name: Lancer les tests
+        working-directory: backend
+        env:
+          OPENAI_API_KEY: fake-key-for-ci
+          ADMIN_PASSWORD: Admin1234!
+        run: ./mvnw test -B
+
+      - name: Publier le rapport de tests
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: rapport-tests-backend
+          path: backend/target/surefire-reports/
+
+  # ─────────────────────────────────────────
+  # JOB 2 : Build frontend (React + Vite)
+  # ─────────────────────────────────────────
+  frontend-build:
+    name: Build Frontend (Node 20 + Vite)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Installer les dépendances
+        working-directory: frontend
+        run: npm ci
+
+      - name: Compiler le frontend
+        working-directory: frontend
+        run: npm run build
