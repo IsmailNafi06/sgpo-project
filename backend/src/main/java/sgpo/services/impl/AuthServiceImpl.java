@@ -81,6 +81,9 @@ public class AuthServiceImpl implements AuthService {
         if (username == null || username.isBlank() || password == null || password.isBlank()) {
             throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Identifiant et mot de passe requis.");
         }
+        if (password.length() < 8) {
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Le mot de passe doit contenir au moins 8 caracteres.");
+        }
         if (appUserRepository.findByUsername(username).isPresent()) {
             throw new ResponseStatusException(HttpStatus.CONFLICT, "Un administrateur avec cet identifiant existe deja.");
         }

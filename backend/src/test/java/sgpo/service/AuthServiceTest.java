@@ -143,4 +143,62 @@ class AuthServiceTest {
         // THEN : rien n'a été sauvegardé
         verify(appUserRepository, never()).save(any());
     }
+
+    // ──────────────────────────────────────────────────────────────────────────
+    // TEST 5 : création d'admin correct → sauvegardé en base
+    // ──────────────────────────────────────────────────────────────────────────
+
+    @Test
+    @DisplayName("Création admin correct → admin sauvegardé avec passwordMustChange=true")
+    void create_admin_succes() {
+        // GIVEN : le username n'existe pas encore
+        when(appUserRepository.findByUsername("admin2")).thenReturn(Optional.empty());
+        when(passwordEncoder.encode("motdepasse123")).thenReturn("$2a$10$hashed");
+
+        // WHEN
+        authService.createAdmin("admin2", "motdepasse123");
+
+        // THEN : le nouvel admin est bien sauvegardé
+        verify(appUserRepository, times(1)).save(argThat(user ->
+                user.getUsername().equals("admin2") &&
+                user.getRole().equals("ADMIN") &&
+                user.isPasswordMustChange() &&
+                user.isEnabled()
+        ));
+    }
+
+    // ──────────────────────────────────────────────────────────────────────────
+    // TEST 6 : username déjà pris → 409 Conflict
+    // ──────────────────────────────────────────────────────────────────────────
+
+    @Test
+    @DisplayName("Création admin avec username existant → ResponseStatusException 409")
+    void create_admin_username_existant_leve_exception() {
+        // GIVEN : le username existe déjà
+        when(appUserRepository.findByUsername("admin")).thenReturn(Optional.of(adminUser));
+
+        // WHEN + THEN : conflit détecté
+        assertThatThrownBy(() -> authService.createAdmin("admin", "motdepasse123"))
+                .isInstanceOf(ResponseStatusException.class)
+                .hasMessageContaining("409");
+
+        // THEN : aucune sauvegarde
+        verify(appUserRepository, never()).save(any());
+    }
+
+    // ──────────────────────────────────────────────────────────────────────────
+    // TEST 7 : mot de passe trop court → 400 Bad Request
+    // ──────────────────────────────────────────────────────────────────────────
+
+    @Test
+    @DisplayName("Création admin avec mot de passe trop court → ResponseStatusException 400")
+    void create_admin_password_trop_court_leve_exception() {
+        // WHEN + THEN : mot de passe de 4 chars → rejeté avant même de consulter la base
+        assertThatThrownBy(() -> authService.createAdmin("admin2", "1234"))
+                .isInstanceOf(ResponseStatusException.class)
+                .hasMessageContaining("400");
+
+        // THEN : aucune sauvegarde
+        verify(appUserRepository, never()).save(any());
+    }
 }
