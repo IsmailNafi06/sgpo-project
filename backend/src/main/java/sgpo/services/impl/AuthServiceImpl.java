@@ -76,11 +76,28 @@ public class AuthServiceImpl implements AuthService {
         );
     }
 
+    @Override
+    public void createAdmin(String username, String password) {
+        if (username == null || username.isBlank() || password == null || password.isBlank()) {
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Identifiant et mot de passe requis.");
+        }
+        if (appUserRepository.findByUsername(username).isPresent()) {
+            throw new ResponseStatusException(HttpStatus.CONFLICT, "Un administrateur avec cet identifiant existe deja.");
+        }
+        AppUser admin = new AppUser();
+        admin.setUsername(username);
+        admin.setPasswordHash(passwordEncoder.encode(password));
+        admin.setRole("ADMIN");
+        admin.setEnabled(true);
+        admin.setPasswordMustChange(true);
+        appUserRepository.save(admin);
+    }
+
     private String generateToken(String username, String roles, Boolean mustChangePassword) {
         Instant now = Instant.now();
         JwtClaimsSet.Builder claimsBuilder = JwtClaimsSet.builder()
                 .issuedAt(now)
-                .expiresAt(now.plus(10, ChronoUnit.MINUTES))
+                .expiresAt(now.plus(8, ChronoUnit.HOURS))
                 .subject(username)
                 .claim("roles", roles);
 

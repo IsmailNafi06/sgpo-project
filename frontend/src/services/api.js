@@ -59,6 +59,7 @@ export const adminApi = {
       headers: { 'Content-Type': 'multipart/form-data' },
     }).then(unwrap)
   },
+  createAdmin: (payload) => api.post('/api/admin/users', payload).then(unwrap),
   uploadRagDocument: (file) => {
     const formData = new FormData()
     formData.append('file', file)

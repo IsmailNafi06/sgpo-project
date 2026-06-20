@@ -4,7 +4,7 @@ import HeaderBar from '../components/HeaderBar'
 import AdminTable from '../components/AdminTable'
 import { adminApi } from '../services/api'
 
-const tabs = ['Dashboard', 'Noeuds', 'Aretes', 'Documents RAG', 'CSV']
+const tabs = ['Dashboard', 'Noeuds', 'Aretes', 'Documents RAG', 'CSV', 'Admins']
 
 const NODE_TYPE_OPTIONS = [
   { value: 'NIVEAU', label: 'Niveau scolaire' },
@@ -167,6 +167,7 @@ export default function AdminPage() {
   const [lastUpdated, setLastUpdated] = useState(null)
   const [ragFile, setRagFile] = useState(null)
   const [ragLoading, setRagLoading] = useState(false)
+  const [newAdmin, setNewAdmin] = useState({ username: '', password: '', confirmPassword: '' })
 
   const requiresPasswordChange = Boolean(token) && mustChangePassword
   const isConnected = Boolean(token) && !requiresPasswordChange
@@ -188,26 +189,7 @@ export default function AdminPage() {
 
   useEffect(() => {
     if (!isConnected) return
-    let active = true
-    const load = async () => {
-      const safe = (promise, fallback) => promise.catch(() => fallback)
-      const [statsData, nodeData, edgeData, logData] = await Promise.all([
-        safe(adminApi.stats(), null),
-        safe(adminApi.nodes(), []),
-        safe(adminApi.edges(), []),
-        safe(adminApi.logs(), []),
-      ])
-      if (!active) return
-      setStats(statsData)
-      setNodes((Array.isArray(nodeData) ? nodeData : nodeData.content || nodeData.nodes || []).map(normalizeNode))
-      setEdges(Array.isArray(edgeData) ? edgeData : edgeData.content || edgeData.edges || [])
-      setLogs(Array.isArray(logData) ? logData : logData.content || logData.logs || [])
-      setLastUpdated(new Date())
-    }
-    load()
-    return () => {
-      active = false
-    }
+    loadAdminData()
   }, [isConnected])
 
   const computedStats = useMemo(() => {
@@ -376,6 +358,21 @@ export default function AdminPage() {
       toast(error.response?.data?.message || "L'import du document RAG a echoue.", 'error')
     } finally {
       setRagLoading(false)
+    }
+  }
+
+  const submitCreateAdmin = async (event) => {
+    event.preventDefault()
+    if (newAdmin.password !== newAdmin.confirmPassword) {
+      toast('Les mots de passe ne correspondent pas.', 'error')
+      return
+    }
+    try {
+      const data = await adminApi.createAdmin({ username: newAdmin.username, password: newAdmin.password })
+      toast(data.message || 'Administrateur cree avec succes.', 'success')
+      setNewAdmin({ username: '', password: '', confirmPassword: '' })
+    } catch (error) {
+      toast(error.response?.data?.message || 'Creation impossible.', 'error')
     }
   }
 
@@ -743,6 +740,52 @@ export default function AdminPage() {
                 <input type="file" accept=".csv,text/csv" onChange={(event) => uploadCsv(event, 'edges')} className="hidden" />
               </label>
             </div>
+          </section>
+        )}
+        {activeTab === 'Admins' && (
+          <section className="overflow-hidden rounded-[2rem] border border-slate-200 bg-white shadow-card dark:border-slate-800 dark:bg-slate-900">
+            <div className="border-b border-slate-100 bg-slate-50/70 px-6 py-5 dark:border-slate-800 dark:bg-slate-900/70">
+              <p className="text-xs font-black uppercase tracking-wide text-brand-blue">Gestion des acces</p>
+              <h2 className="mt-1 text-2xl font-black text-brand-navy dark:text-white">Creer un administrateur</h2>
+              <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-500">
+                Le nouvel administrateur devra changer son mot de passe lors de sa premiere connexion.
+              </p>
+            </div>
+            <form onSubmit={submitCreateAdmin} className="grid gap-5 p-6 sm:max-w-md">
+              <div>
+                <label className="label">Identifiant</label>
+                <input
+                  value={newAdmin.username}
+                  onChange={(e) => setNewAdmin((c) => ({ ...c, username: e.target.value }))}
+                  className="field bg-slate-50"
+                  placeholder="ex: admin2"
+                  required
+                />
+              </div>
+              <div>
+                <label className="label">Mot de passe temporaire</label>
+                <input
+                  type="password"
+                  value={newAdmin.password}
+                  onChange={(e) => setNewAdmin((c) => ({ ...c, password: e.target.value }))}
+                  className="field bg-slate-50"
+                  minLength={8}
+                  required
+                />
+              </div>
+              <div>
+                <label className="label">Confirmation</label>
+                <input
+                  type="password"
+                  value={newAdmin.confirmPassword}
+                  onChange={(e) => setNewAdmin((c) => ({ ...c, confirmPassword: e.target.value }))}
+                  className="field bg-slate-50"
+                  minLength={8}
+                  required
+                />
+              </div>
+              <button type="submit" className="primary-btn w-full">Creer l'administrateur</button>
+            </form>
           </section>
         )}
       </main>
