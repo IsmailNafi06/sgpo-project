@@ -16,6 +16,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 import sgpo.entities.AppUser;
 import sgpo.repositories.AppUserRepository;
+import sgpo.services.AuditLogService;
 import sgpo.services.AuthService;
 
 import java.time.Instant;
@@ -31,6 +32,7 @@ public class AuthServiceImpl implements AuthService {
     private final JwtEncoder jwtEncoder;
     private final AppUserRepository appUserRepository;
     private final PasswordEncoder passwordEncoder;
+    private final AuditLogService auditLogService;
 
     @Override
     public String authenticate(String username, String password) {
@@ -94,6 +96,16 @@ public class AuthServiceImpl implements AuthService {
         admin.setEnabled(true);
         admin.setPasswordMustChange(true);
         appUserRepository.save(admin);
+        auditLogService.log("AppUser", username, "CREATE", "system", "Administrateur créé : " + username);
+    }
+
+    @Override
+    public void disableAdmin(String username) {
+        AppUser admin = appUserRepository.findByUsername(username)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Administrateur introuvable : " + username));
+        admin.setEnabled(false);
+        appUserRepository.save(admin);
+        auditLogService.log("AppUser", username, "DISABLE", "system", "Administrateur désactivé : " + username);
     }
 
     private String generateToken(String username, String roles, Boolean mustChangePassword) {

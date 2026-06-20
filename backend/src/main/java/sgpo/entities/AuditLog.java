@@ -16,6 +16,7 @@ public class AuditLog {
     private String entityId;
     private String action;
     private String modifiedBy;
+    private String message;
     private LocalDateTime timestamp;
 
     @PrePersist

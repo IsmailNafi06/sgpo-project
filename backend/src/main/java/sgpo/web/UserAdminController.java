@@ -19,4 +19,10 @@ public class UserAdminController {
         authService.createAdmin(payload.get("username"), payload.get("password"));
         return ResponseEntity.ok(Map.of("message", "Administrateur cree avec succes."));
     }
+
+    @PatchMapping("/{username}/disable")
+    public ResponseEntity<Map<String, String>> disableAdmin(@PathVariable String username) {
+        authService.disableAdmin(username);
+        return ResponseEntity.ok(Map.of("message", "Administrateur desactive avec succes."));
+    }
 }

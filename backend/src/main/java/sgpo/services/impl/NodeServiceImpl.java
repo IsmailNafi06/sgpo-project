@@ -48,7 +48,7 @@ public class NodeServiceImpl implements NodeService {
     public Node create(Node node) {
         Node saved = nodeRepository.save(node);
         String username = getCurrentUsername();
-        auditLogService.log("Node", saved.getId(), "CREATE", username);
+        auditLogService.log("Node", saved.getId(), "CREATE", username, "Nœud créé : " + saved.getCode());
         return saved;
     }
 
@@ -69,7 +69,7 @@ public class NodeServiceImpl implements NodeService {
         existing.setActif(node.getActif());
         Node updated = nodeRepository.save(existing);
         String username = getCurrentUsername();
-        auditLogService.log("Node", updated.getId(), "UPDATE", username);
+        auditLogService.log("Node", updated.getId(), "UPDATE", username, "Nœud mis à jour : " + updated.getCode());
         return updated;
     }
 
@@ -79,6 +79,6 @@ public class NodeServiceImpl implements NodeService {
                 .orElseThrow(() -> new NodeNotFoundException("Nœud introuvable avec l'ID : " + id));
         nodeRepository.delete(existing);
         String username = getCurrentUsername();
-        auditLogService.log("Node", id, "DELETE", username);
+        auditLogService.log("Node", id, "DELETE", username, "Nœud supprimé : " + existing.getCode());
     }
 }

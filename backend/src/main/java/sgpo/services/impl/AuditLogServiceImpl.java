@@ -16,11 +16,17 @@ public class AuditLogServiceImpl implements AuditLogService {
 
     @Override
     public void log(String entityType, String entityId, String action, String modifiedBy) {
+        log(entityType, entityId, action, modifiedBy, null);
+    }
+
+    @Override
+    public void log(String entityType, String entityId, String action, String modifiedBy, String message) {
         AuditLog log = new AuditLog();
         log.setEntityType(entityType);
         log.setEntityId(entityId);
         log.setAction(action);
         log.setModifiedBy(modifiedBy);
+        log.setMessage(message);
         auditLogRepository.save(log);
     }
 

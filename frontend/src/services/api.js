@@ -60,6 +60,7 @@ export const adminApi = {
     }).then(unwrap)
   },
   createAdmin: (payload) => api.post('/api/admin/users', payload).then(unwrap),
+  disableAdmin: (username) => api.patch(`/api/admin/users/${username}/disable`).then(unwrap),
   uploadRagDocument: (file) => {
     const formData = new FormData()
     formData.append('file', file)

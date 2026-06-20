@@ -42,7 +42,7 @@ public class EdgeServiceImpl implements EdgeService {
     public Edge create(Edge edge) {
         Edge saved = edgeRepository.save(edge);
         String username = getCurrentUsername();
-        auditLogService.log("Edge", saved.getId(), "CREATE", username);
+        auditLogService.log("Edge", saved.getId(), "CREATE", username, "Transition créée : " + saved.getTypeLien());
         return saved;
     }
 
@@ -61,7 +61,7 @@ public class EdgeServiceImpl implements EdgeService {
         existing.setTypeAcces(edge.getTypeAcces());
         Edge updated = edgeRepository.save(existing);
         String username = getCurrentUsername();
-        auditLogService.log("Edge", updated.getId(), "UPDATE", username);
+        auditLogService.log("Edge", updated.getId(), "UPDATE", username, "Transition mise à jour : " + updated.getTypeLien());
         return updated;
     }
 
@@ -71,6 +71,6 @@ public class EdgeServiceImpl implements EdgeService {
                 .orElseThrow(() -> new EdgeNotFoundException("Arête introuvable avec l'ID : " + id));
         edgeRepository.delete(existing);
         String username = getCurrentUsername();
-        auditLogService.log("Edge", id, "DELETE", username);
+        auditLogService.log("Edge", id, "DELETE", username, "Transition supprimée : " + existing.getTypeLien());
     }
 }

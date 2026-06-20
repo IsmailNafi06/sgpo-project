@@ -168,6 +168,7 @@ export default function AdminPage() {
   const [ragFile, setRagFile] = useState(null)
   const [ragLoading, setRagLoading] = useState(false)
   const [newAdmin, setNewAdmin] = useState({ username: '', password: '', confirmPassword: '' })
+  const [disableUsername, setDisableUsername] = useState('')
 
   const requiresPasswordChange = Boolean(token) && mustChangePassword
   const isConnected = Boolean(token) && !requiresPasswordChange
@@ -358,6 +359,18 @@ export default function AdminPage() {
       toast(error.response?.data?.message || "L'import du document RAG a echoue.", 'error')
     } finally {
       setRagLoading(false)
+    }
+  }
+
+  const submitDisableAdmin = async (event) => {
+    event.preventDefault()
+    if (!disableUsername.trim()) return
+    try {
+      const data = await adminApi.disableAdmin(disableUsername.trim())
+      toast(data.message || 'Administrateur désactivé.', 'success')
+      setDisableUsername('')
+    } catch (error) {
+      toast(error.response?.data?.message || 'Désactivation impossible.', 'error')
     }
   }
 
@@ -786,6 +799,24 @@ export default function AdminPage() {
               </div>
               <button type="submit" className="primary-btn w-full">Creer l'administrateur</button>
             </form>
+
+            <div className="border-t border-slate-100 px-6 py-5 dark:border-slate-800">
+              <p className="text-xs font-black uppercase tracking-wide text-rose-500">Zone dangereuse</p>
+              <h3 className="mt-1 text-lg font-black text-brand-navy dark:text-white">Désactiver un administrateur</h3>
+              <p className="mt-1 text-sm text-slate-500">L'administrateur ne pourra plus se connecter. Action irréversible depuis l'interface.</p>
+              <form onSubmit={submitDisableAdmin} className="mt-4 flex gap-3">
+                <input
+                  value={disableUsername}
+                  onChange={(e) => setDisableUsername(e.target.value)}
+                  className="field bg-slate-50 flex-1"
+                  placeholder="Identifiant à désactiver"
+                  required
+                />
+                <button type="submit" className="rounded-xl bg-rose-500 px-5 py-2 text-sm font-bold text-white transition hover:bg-rose-600">
+                  Désactiver
+                </button>
+              </form>
+            </div>
           </section>
         )}
       </main>

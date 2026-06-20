@@ -17,6 +17,7 @@ import org.springframework.security.oauth2.jwt.JwtEncoder;
 import org.springframework.web.server.ResponseStatusException;
 import sgpo.entities.AppUser;
 import sgpo.repositories.AppUserRepository;
+import sgpo.services.AuditLogService;
 import sgpo.services.impl.AuthServiceImpl;
 
 import java.util.List;
@@ -36,6 +37,7 @@ class AuthServiceTest {
     @Mock private JwtEncoder jwtEncoder;
     @Mock private AppUserRepository appUserRepository;
     @Mock private PasswordEncoder passwordEncoder;
+    @Mock private AuditLogService auditLogService;
 
     @InjectMocks
     private AuthServiceImpl authService;
